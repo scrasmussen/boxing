@@ -1,0 +1,17 @@
+# Boxing
+
+
+# Fights
+Boxing matches I've seen
+
+*Muhammed Ali*
+| *Fighter*      | *Date*     |
+|----------------+------------|
+| George Foreman | 10/30/1974 |
+| Jurgen Blin    | 12/26/1971 |
+| TODO: add more |            |
+
+
+*Floyd Mayweather*: his first 26 [[https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Professional_boxing_record][fights]], as well as Pacquiao and McGregor
+
+*Pacquiao*: to fill in, lots of his latest
