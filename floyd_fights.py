@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 
 
-current_fight = 27
+current_fight = 28
 
 soup = BeautifulSoup(open("floyd_wiki.html"), 'lxml')
 for fight, row in enumerate(soup.find_all('tr')):

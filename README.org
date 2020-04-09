@@ -4,7 +4,14 @@ A collection of ideas and history.
 * Fights
 Boxing matches I've seen
 
-*Muhammed Ali*
+** Andre Ward: to fill in, 3-4 of his latest
+
+
+** Floyd Mayweather
+His first 27 [[https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Professional_boxing_record][fights]], as well as Pacquiao and McGregor
+
+
+** Muhammed Ali
 | *Fighter*      | *Date*     |
 |----------------+------------|
 | George Foreman | 10/30/1974 |
@@ -12,6 +19,58 @@ Boxing matches I've seen
 | TODO: add more |            |
 
 
-*Floyd Mayweather*: his first 26 [[https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Professional_boxing_record][fights]], as well as Pacquiao and McGregor
+** Pacquiao: to fill in, lots of his latest
 
-*Pacquiao*: to fill in, lots of his latest
+
+** Tyson Fury
+| *Fighter*      | *Date*    |
+|----------------+-----------|
+| Deontay Wilder | 2/22/2020 |
+| Otto Wallin    | 9/14/2019 |
+
+
+
+* Articles
+** [[https://www.bloodyelbow.com/2013/1/24/3908574/muhammad-ali-boxing-technique-jack-slack][Pulling Back the Curtian on Muhammad Ali]]
+Ali's anchor punch, used by Jack Johnson, though not the same setup.
+Ali's handfighting: as seen versus Foreman, Zora Folley, Brian London
+Rope-a-dope versus George Foreman
+Clinch heavy versus Joe Frazier
+Retreating left hooks versus Oscar Bonavena
+** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
+Pat Berry influenced by Sagat
+Sagat Petchyindee influenced Sagat
+Andy Hug influenced karate
+Fedor Emelianenko influenced l o t s
+
+** [[http://fightland.vice.com/blog/around-the-world-with-street-fighter-the-elbows-and-bumps-of-bajiquan][Around the World in the Street Fighter: bumps and elbows]]
+bumping from Lyoto Machida or Fedor Emelianenko
+groin is always under attack in Chuan Fa
+* To Watch
+** Boxers
+Tyson Fury: earlier fights
+** Fighters
+*** Fedor Emelianenko
+greatest mixed matrial artist of all time
+*** Andy Hug
+**** Hug Tornado
+low spinning heel kick targeting thighs
+**** Axe Kick
+*** Six greatest heavyweight kickboxers
+**** Andy Hug
+**** Mirko Cro Cop
+**** Peter Aerts
+**** Remy Bonjasky
+**** Ernesto Hoost
+**** Semmy Schilt
+** UFC
+*** Pat Barry
+vs. Christian Morecraft
+vs. Shane del Rosario
+*** Randy Couture
+raised elbows to get inside: versus Tim Sylvia and Gabriel Gonzaga
+** Moves
+bumping from Lyoto Machida or Fedor Emelianenko
+
+* To Read
+** [[http://fightland.vice.com/blog/street-fighter-in-the-ufc-hadoukens-and-izuna-drops][Street Fighter in the UFC: Hadoukens and Izuna Drops]]
