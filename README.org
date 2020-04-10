@@ -1,6 +1,7 @@
 * Boxing
 A collection of ideas and history.
 
+
 * Fights
 Boxing matches I've seen
 
@@ -30,6 +31,78 @@ His first 27 [[https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Professional_b
 
 
 
+* To Watch
+** Boxers
+:Tyson-Fury:
+earlier fights
+&
+Fury excels at using head position to keep his opponents from getting underneath
+ him, or standing up tall to leverage uppercuts when they persist in trying, and
+ handfighting to off-balance and create openings in their defenses
+:end:
+
+Henry Armstrong: one of the greatest, inside smothering style
+ - vs Barney Ross
+George Foreman:
+ - occupying the center with straigh palms (vs Ted Gullick)
+ - using wide rights and left hooks to get to corner for ferocious uppercuts
+Joe Gans: straight punching with vertical fist
+Jack Dempsey: move forward punching with each step
+
+** Fighters
+*** Fedor Emelianenko
+greatest mixed matrial artist of all time
+*** Andy Hug
+**** Hug Tornado
+low spinning heel kick targeting thighs
+**** Axe Kick
+*** Six greatest heavyweight kickboxers
+**** Andy Hug
+**** Mirko Cro Cop
+**** Peter Aerts
+**** Remy Bonjasky
+**** Ernesto Hoost
+**** Semmy Schilt
+*** Fedor Emelianenko vs Mirko Cro Cop
+*** Katsunori Kikuno: one of Jack Slack's favourite oddities
+** UFC
+*** Pat Barry
+vs. Christian Morecraft
+vs. Shane del Rosario
+*** Randy Couture
+raised elbows to get inside: versus Tim Sylvia and Gabriel Gonzaga
+
+*** Best of 2019
+[[https://www.unibet.co.uk/blog/authors/jack-slack-1.1056644][Jack Slack]]
+UFC 236
+UFC Fight Night 152: dos Anjos vs Lee
+UFC 239
+UFC 244
+UFC 245
+[[https://www.ufc.com/news/ten-best-fights-2019][Top fights of 2019]]
+
+
+* Moves
+bumping from Lyoto Machida or Fedor Emelianenko
+check hook (see Archie Moore)
+clinch: (tall and good inside: Tyson Fury, Riddick Bowe, Alexis Arguello)
+draping: (Klitschko)
+straight punching with vertical fist: Jack Johnson and Joe Gans
+straigth palms: occupying the center, George Foreman
+punching through standing guard: Badr Hari
+double jab: good way to force movement without opening much to counters
+two main method for reducing hit ability while advancing:
+ - head movement (see Mike Tyson; Julio Cesar Chavez)
+ - hand checking, smotherers (see George Foremon; Sandy Saddler)
+
+
+* Quotes
+"In here, they are safe and out there they are at risk -- it doesn't matter how
+ tough they are in here, out there they are in danger because of where they come
+ from."
+   - Brian Hughes on how the streets are more dangerous than the gym, [[https://www.espn.com/boxing/story/_/id/28957747/gym-closed-coronavirus-leaves-local-boxers-no-place-go][Gym Closed]]
+
+
 * Articles
 ** [[https://www.bloodyelbow.com/2013/1/24/3908574/muhammad-ali-boxing-technique-jack-slack][Pulling Back the Curtian on Muhammad Ali]]
 Ali's anchor punch, used by Jack Johnson, though not the same setup.
@@ -46,31 +119,16 @@ Fedor Emelianenko influenced l o t s
 ** [[http://fightland.vice.com/blog/around-the-world-with-street-fighter-the-elbows-and-bumps-of-bajiquan][Around the World in the Street Fighter: bumps and elbows]]
 bumping from Lyoto Machida or Fedor Emelianenko
 groin is always under attack in Chuan Fa
-* To Watch
-** Boxers
-Tyson Fury: earlier fights
-** Fighters
-*** Fedor Emelianenko
-greatest mixed matrial artist of all time
-*** Andy Hug
-**** Hug Tornado
-low spinning heel kick targeting thighs
-**** Axe Kick
-*** Six greatest heavyweight kickboxers
-**** Andy Hug
-**** Mirko Cro Cop
-**** Peter Aerts
-**** Remy Bonjasky
-**** Ernesto Hoost
-**** Semmy Schilt
-** UFC
-*** Pat Barry
-vs. Christian Morecraft
-vs. Shane del Rosario
-*** Randy Couture
-raised elbows to get inside: versus Tim Sylvia and Gabriel Gonzaga
-** Moves
-bumping from Lyoto Machida or Fedor Emelianenko
+** [[http://fightland.vice.com/blog/wing-chun-and-mma-controlling-the-center][Wing Chun and MMA: controlling the center]]
+straight punching with vertical fist: Jack Johnson and Joe Gans
+George Foreman occupied the center with his palms
+** [[http://fightland.vice.com/blog/why-kung-fu-masters-refuse-to-teach][Why Kung Fu Masters Refuse to Teach]]
+
 
 * To Read
 ** [[http://fightland.vice.com/blog/street-fighter-in-the-ufc-hadoukens-and-izuna-drops][Street Fighter in the UFC: Hadoukens and Izuna Drops]]
+** [[https://www.bloodyelbow.com/2012/4/23/2968351/UFC-Elbows-Jon-Jones-Shinya-Aoki-How-to-Technique][UFC Elbows]]
+** [[https://www.bloodyelbow.com/2013/2/8/3967168/jack-slack-greatest-strikers-giorgio-petrosyan][Jack Slack's Greatest Strikers: Giorgio Petrosyan]]
+**
+** [[http://fightland.vice.com/blog/the-freaks-of-japanese-mma-ashikan-judan-and-wicky-akiyo][The Freaks of Japanese MMA]]
+** [[https://chinesemartialstudies.com/2016/01/12/letting-real-kung-fu-die-paradoxes-of-the-traditional-chinese-martial-arts-as-intangible-cultural-heritage/][Letting Real Kung Fu Die]]
