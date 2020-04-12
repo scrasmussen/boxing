@@ -10,9 +10,11 @@ Boxing matches I've seen
 |-----------------------------------+------------+--------------------------------|
 | Tyson Fury vs. Deontay Wilder     | 2/22/2020  |                                |
 | Tyson Fury vs. Otto Wallin        | 9/14/2019  |                                |
-| Andre Ward vs. Sergey Kovalev     | 6/17/2017  |                                |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 12/7/2019  | Second Match                   |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 6/1/2019   |                                |
+| Jarrett Hurd vs. Julian Williams  | 5/11/2019  |                                |
+| Andre Ward vs. Sergey Kovalev     | 6/17/2017  | Second Match                   |
 | Andre Ward vs. Sergey Kovalev     | 11/19/2016 |                                |
-|                                   |            |                                |
 | Floyd Mayweather vs. Jesus Chavez | 11/10/2001 | tried Armstrong-esque pressure |
 | Floyd Mayweather vs. C. Hernandez | 5/26/2001  | only time Mayweather went down |
 |                                   |            | ; Floyd punched and hurt hand  |
@@ -83,6 +85,7 @@ as well as Pacquiao and McGregor
 
 ** Pacquiao
 to fill in, lots of his latest
+[[https://www.unibet.co.uk/blog/more-sports/boxing/pacquiao-v-thurman-styles-make-fights-and-this-can-be-a-clash-for-the-ages-1.1217838][Pacquiao vs Thurman]]: need to watch Pacquiao's latest
 
 
 ** Tyson Fury
@@ -95,8 +98,11 @@ to fill in, lots of his latest
 
 
 
-* MMA Fights
-UFC 236
+* MMA Events
+| *Event*             | *Date*    | *Notes*              |
+|---------------------+-----------+----------------------|
+| UFC Fight Night 152 | 5/18/2019 | dos Anjos vs. Lee    |
+| UFC 236             | 4/14/2019 | Holloway vs. Poirier |
 
 
 * Trainers
@@ -167,7 +173,7 @@ George Foreman occupied the center with his palms
 Mayweather
 A Larry Holmes fight
 :end:
-** Boxers
+** Boxing
 :Mike-Tyson:
 vs. Spinks
 
@@ -184,6 +190,17 @@ Fury excels at using head position to keep his opponents from getting underneath
 :espn:
 Lomachenko
 :end:
+:docos:
+When We Were Kings
+:end:
+:best-of-2019:
+Julian Williams vs. Jarrett Hurd : May 11th PBC
+Errol Spence vs. Shawn Porter : September 28th PBC
+Josh Taylor vs. Regis Prograis   : October 26th DAZN
+Gennadiy Golovkin vs. Sergiy Derevyanchenko : October 5th DAZN
+Naoya Inoue vs. Nonito Donaire : November 11th   DAZN
+:end:
+
 
 Alex Arguello vs Aaron Pryor: controversial challenge
 Carlos Monzon: in-ring monster, conviction for murder
@@ -201,6 +218,15 @@ Jack Dempsey: move forward punching with each step
 Larry Holmes: one of the best jabs in boxing history, pure boxer
 Naseem Hamed: defined British scene, legacy defining ring entrances
 Wilfredo Gomez vs Carlos Zarate: highest combined knockout percentage match
+
+*** classic
+Jack Dempsey vs Jess Willard
+Muhammed Ali vs Henry Cooper, Floyd Patterson
+Micky Ward vs Arturro Gatti trilogy
+Castillo-Corrales, of course
+Hagler-Hearns, sure
+Cleverly-Bellew II, stay home, you're drunk
+
 
 ** Fighters
 *** Fedor Emelianenko
@@ -239,6 +265,8 @@ UFC 245
 
 
 * To Read
+** Writers
+*** Bert Sugar
 ** Books
 *** Earnie Shaver: Welcome to the Big Time
 ** Articles
@@ -249,3 +277,4 @@ UFC 245
 *** [[http://fightland.vice.com/blog/the-freaks-of-japanese-mma-ashikan-judan-and-wicky-akiyo][The Freaks of Japanese MMA]]
 *** [[https://chinesemartialstudies.com/2016/01/12/letting-real-kung-fu-die-paradoxes-of-the-traditional-chinese-martial-arts-as-intangible-cultural-heritage/][Letting Real Kung Fu Die]]
 *** Why the fascination with boxing? Time Magazine June 27, 1988
+*** [[https://hannibalboxing.com/3-must-read-boxing-writers/][Three Must Read Boxing Writers]]
