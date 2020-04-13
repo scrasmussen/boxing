@@ -25,6 +25,8 @@ def check_columns(rows):
 
 url = \
   "https://en.wikipedia.org/wiki/Alexander_Gustafsson#Mixed_martial_arts_record"
+#"https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Professional_boxing_record"
+
 req = requests.get(url).text
 
 # # REMOVE

@@ -17,6 +17,7 @@ Boxing matches I've seen
 | Andre Ward vs. Sergey Kovalev     | 11/19/2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 5/2/2009   |                                |
 | Kostya Tszyu vs. Ricky Hatton     | 6/4/2005   |                                |
+| Floyd Mayweather vs. JL. Castillo | 4/20/2002  | Jose Luis. THE closest match   |
 | Floyd Mayweather vs. Jesus Chavez | 11/10/2001 | tried Armstrong-esque pressure |
 | Floyd Mayweather vs. C. Hernandez | 5/26/2001  | Floyd went down from own punch |
 | Floyd Mayweather vs. D. Corrales  | 1/20/2001  | Diego                          |
@@ -144,7 +145,8 @@ two main method for reducing hit ability while advancing:
 "In here, they are safe and out there they are at risk -- it doesn't matter how
  tough they are in here, out there they are in danger because of where they come
  from."
-   - Brian Hughes on how the streets are more dangerous than the gym, [[https://www.espn.com/boxing/story/_/id/28957747/gym-closed-coronavirus-leaves-local-boxers-no-place-go][Gym Closed]]
+   - Brian Hughes, known as the Godfather of Manchester boxing, on how the
+     streets are more dangerous than the gym, [[https://www.espn.com/boxing/story/_/id/28957747/gym-closed-coronavirus-leaves-local-boxers-no-place-go][Gym Closed]]
 
 "Fear is like fire, you can make it work for you: It can warm you in the winter
  cook your food when you're hungry, give you light when you are in the dark. Let
@@ -172,6 +174,10 @@ Mike Hunter: best defense, hard to hit
 Larry Holmes: best jab
 *** [[https://www.espn.com/boxing/story/_/id/29005998/you-tyson-fury-naseem-hamed-how-got-here][Like Tyson Fury? Naseem Hamed is how we got here]]
 *** [[https://www.ringtv.com/596817-a-fan-remembers-roger-mayweather/][A Fan Remembers: Roger Mayweather]]
+*** [[https://hannibalboxing.com/see-me-for-dust-the-brief-stardom-of-tommy-hurricane-jackson/][See Me For Dust: The Brief Stardom of Tommy "Hurricane" Jackson]]
+Inspired by a film-showing of Joe Louis–Jersey Joe Walcott II, Jackson
+ impulsively devoted himself to boxing.
+Talks about Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
 ** MMA
 *** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
 Pat Berry influenced by Sagat
@@ -191,6 +197,7 @@ George Foreman occupied the center with his palms
 * To Watch
 :today:
 Roger Mayweather vs. Whitaker
+Tommy "Hurricane" Jackson
 Roger Mayweather vs. Mitchell Julien
 March 12 1997 Top Rank, all three Mayweathers fought, Jeff, Roger, Floyd
 Roger Mayweather vs. Kostya Tszyu
@@ -253,6 +260,7 @@ Carlos Monzon: in-ring monster, conviction for murder
 [[https://www.ringtv.com/596952-donald-currys-greatest-hits-cobra-strikes/][Donald Curry]]
 Earnie Shavers: one of the hardest punchers in boxing history
 Floyd Mayweather vs Diego Corrales
+Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
 The Four Kings
 Henry Armstrong: one of the greatest, inside smothering style
  - vs Barney Ross
@@ -263,6 +271,7 @@ Joe Gans: straight punching with vertical fist
 Jack Dempsey: move forward punching with each step
 Larry Holmes: one of the best jabs in boxing history, pure boxer
 Naseem Hamed: defined British scene, legacy defining ring entrances
+Tommy "Hurricane" Jackson: quirky mystifying style
 Wilfredo Gomez vs Carlos Zarate: highest combined knockout percentage match
 *** at a point
 Chris Eubank: former British world champion
@@ -334,6 +343,7 @@ UFC 245
 *** [[https://www.reddit.com/r/Boxing/comments/20bkab/favorite_boxing_writer/][Reddit: fav boxing writer]]
 *** [[https://www.irish-boxing.com/7-best-boxing-writers-to-follow-today/][Seven best boxers to follow today]]
 ** Books
+*** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Earnie Shaver: Welcome to the Big Time
 *** Bartley Gorman: King of the Gypsies
 ** Articles
