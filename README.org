@@ -13,6 +13,8 @@ Boxing matches I've seen
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12/7/2019  | Second Match                   |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 6/1/2019   |                                |
 | Jarrett Hurd vs. Julian Williams  | 5/11/2019  |                                |
+| Oleksandr Usyk vs. Murat Gassiev  | 7/21/2018  | Undisputed Cruiserweight Champ |
+| Murat Gassiev vs. Yuniel Dorticos | 2/3/2018   |                                |
 | Andre Ward vs. Sergey Kovalev     | 6/17/2017  | Second Match                   |
 | Andre Ward vs. Sergey Kovalev     | 11/19/2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 5/2/2009   |                                |
@@ -61,6 +63,20 @@ A few of his recent ones, will rewatch anyway ;)
 
 ** Floyd Mayweather
 as well as Pacquiao and McGregor
+DAZN: has De La Hoya, Hatton J. Marquez, Mosley, V. Ortiz, Cotto, Guerrero,
+      Canelo, Maidana (2007-2014)
+
+
+** Gennadiy Golovkin
+=DAZN=
+Derevyanchenko
+2019
+Rolls
+2017
+Canelo
+Jacobs
+2016
+Brook
 
 
 ** Lennox Lewis
@@ -121,7 +137,7 @@ to fill in, lots of his latest
 
 * Trainers
 and personalities
-** Eddie Futch
+** Eddie Futch <<<read more>>>
 ** Cus D'Amato
 Trained Mike Tyson
 ** Matt Baranski
@@ -165,6 +181,12 @@ two main method for reducing hit ability while advancing:
  would be effected without delay."
    - The Spirit of the Times, 1832.
 
+"Chess problems demand from the composer the same virtues that characterize all
+ worthwhile art: originality, invention, conciseness, harmony, complexity, and
+ splendid insincerity."
+   - Vladimir Nabokov, Poems and Problems
+
+
 
 * Articles
 ** Boxing
@@ -207,6 +229,7 @@ Tommy "Hurricane" Jackson
 Roger Mayweather vs. Mitchell Julien
 March 12 1997 Top Rank, all three Mayweathers fought, Jeff, Roger, Floyd
 Roger Mayweather vs. Kostya Tszyu
+Oleksandr Usyk vs. Murat Gassiev
 Mayweather
 An earlier Larry Holmes fight than [[https://www.badlefthook.com/2020/3/28/21197872/blh-classic-fight-series-on-cusp-marciano-record-larry-holmes-dethroned-michael-spinks-boxing][vs. Spinks]]
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][Calderon vs. Segura]]
@@ -238,7 +261,7 @@ When We Were Kings
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][You break it, you bought it: Ivan Calderon vs Giovani Segura]]
 :end:
 :best-of-2018:
-February 3 – Murat Gassiev vs Yunier Dorticos
+- [X] February 3 – Murat Gassiev vs Yunier Dorticos
 February 24 – Srisaket Sor Rungvisai vs Juan Estrada
 March 3 – Deontay Wilder vs Luiz Ortiz
 March 10 – Oscar Valdez vs Scott Quigg
@@ -308,7 +331,7 @@ low spinning heel kick targeting thighs
 *** Katsunori Kikuno: one of Jack Slack's favourite oddities
 ** Film
 [[https://www.badlefthook.com/2020/3/27/21193445/blh-movie-club-boxing-movies-reviews-film][badlefthook movie club]]
-** UFC
+** MMA
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
 Chan Sung Jung, Korean Zombie
 Then UFC 239
@@ -338,8 +361,13 @@ UFC 244
 UFC 245
 [[https://www.ufc.com/news/ten-best-fights-2019][Top fights of 2019]]
 
+*** DAZN
+Park vs. Shim
+=Fight Nights Global= has some kickboxing
+
 
 * To Read
+[[https://www.nytimes.com/2001/10/14/sports/sports-of-the-times-you-could-trust-the-trainer-eddie-futch.html][You Could Trust the Trainer Eddie Futch]]
 ** Writers
 *** Bert Sugar
 *** Hamilton Nolan
@@ -349,10 +377,13 @@ UFC 245
 *** [[https://www.reddit.com/r/Boxing/comments/20bkab/favorite_boxing_writer/][Reddit: fav boxing writer]]
 *** [[https://www.irish-boxing.com/7-best-boxing-writers-to-follow-today/][Seven best boxers to follow today]]
 ** Books
+*** Bunce's Big Fat Short History of British Boxing: Steve Bunce
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Earnie Shaver: Welcome to the Big Time
 *** Bartley Gorman: King of the Gypsies
+*** The Eddie Futch Interview: A Conversation with Boxing Legend and Trainer
 ** Articles
+*** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]
 *** [[https://www.ringtv.com/582860-canelo-alvarez-contemplating-greatness/][Canelo Alvarez: comtemplating greatness]] 11/6/2019
 *** [[https://www.theguardian.com/sport/blog/2015/apr/15/boxing-hagler-hearns-30-years-on][The Four Kings]]
 *** [[https://www.telegraph.co.uk/boxing/2020/02/24/tyson-furys-fairy-tale-rise-top-one-lifes-amazing-stories/][Tyson Fury's Rise to the top: one of lifes amazing stories]]
