@@ -23,9 +23,9 @@ def check_columns(rows):
     return False
 
 
-url = \
-      'https://en.wikipedia.org/wiki/Murat_Gassiev'
-#"https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr."
+url = 'https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.'
+#      'https://en.wikipedia.org/wiki/Lawrence_Okolie'
+# 'https://en.wikipedia.org/wiki/Murat_Gassiev'
 # "https://en.wikipedia.org/wiki/Alexander_Gustafsson#Mixed_martial_arts_record"
 
 url += '#Professional_boxing_record'

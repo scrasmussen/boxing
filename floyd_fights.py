@@ -1,12 +1,5 @@
 from bs4 import BeautifulSoup
-
-# fight 26: Carlos Herandez, end of round 6, only knockdown of Mayweathers
-#           careeer. From punching too hard
-
-
-
-
-current_fight = 29
+current_fight = 30
 
 soup = BeautifulSoup(open("floyd_wiki.html"), 'lxml')
 for fight, row in enumerate(soup.find_all('tr')):
@@ -20,3 +13,6 @@ for fight, row in enumerate(soup.find_all('tr')):
             current = ""
         if (i == 3):
             print(str(fight)+" :: "+column.get_text()[:-1]+current)
+
+# fight 26: Carlos Herandez, end of round 6, only knockdown of Mayweathers
+#           careeer. From punching too hard

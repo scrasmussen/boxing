@@ -3,9 +3,8 @@ A collection of ideas and history.
 
 
 * Boxing Matches
-Boxing matches I've seen
+I've seen [insert number] boxing matches
 
-** All
 | *Fighters*                        | *Date*     | *Notes*                        |
 |-----------------------------------+------------+--------------------------------|
 | Tyson Fury vs. Deontay Wilder     | 2/22/2020  |                                |
@@ -59,14 +58,152 @@ Boxing matches I've seen
 
 
 
+* Boxers
+:other-great-boxers:
+Ezzard Charles:
+ - slick defense and prescision
+ - one of greatest fighters of all time
+ - speed, agility, fast hands, excellent footwork
+Archie Moore:
+ - longest reigning world light heavyweight champion
+ - 3rd greatest pound-for-pound fighter all time
+ - 4th greatest punchers of all time
+Nicolino Locche "El Intocable" (the untouchable):
+ - one of the finest defense boxers of all times
+ - became light welterweight champion after Fuji refused to start 10th round,
+   out of frustration because of exhaustion and inability to connect punches.
+ - would sometimes take puffs of a cigarette between rounds.
+James Toney:
+ - shoulder roll technique, taught by Bill Miller who trained Ezzard Charles
+ - exceptional counterpuncher and inside fighter, often preferred to fight off
+   the ropes.
+ - never stopped via stoppage
+ - played Joe Frazier in the movie Ali
+Sugar Ray Robinson
+Shane Mosley !!
+Felix Trinidad
+Sugar Ray Leonard
+Oscar de la Hoya
+  - Derrell Coley, for that knockout
+Lennox Lewis: britih heavyweight boxer
+Manny Pacquiao
+Bernard Hopkins
+Naseem Hamed
+ - exciting fighter in his youth
+ - Kevin Kelley
+ - 22 top pound for pound fighter of the last 25 years:
+ - 10-11 top British fighter of all time
+Jack Dempsey: heavyweight boxer
+ - would move forward, punching with each step, Pacquiao does this
+Willie Pep: footwork
+ - won a round without throwing a punch
+ - fought Sugar Ray Robinson who outweighed him by 15 pounds cause his manager
+   didn't think the unknown guy would be good. Sugar Ray was fighting under a
+   fake name so he could get paid
+ - vs Sandy Saddler made him do tricks
+Floyd Patterson: in picture with Willie Pep
+Evander Holyfield
+Sonny Liston
+Earnie Shavers: one of the hardest hitting punchers
+Thomas Hearns
+:end:
+:contemporary:
+Tyson Fury
+Anthony Joshua
+Sergey Kovalev
+Deontay Wilder
+Vasyl Lomachenko
+essentially contemporary: Wladimir Klitschko
+Errol Spence Jr., one of the best pound for pound
+Terence Crawford
+Junier Welterweight: Jose Ramirez and Josh Taylor
+                     - Apinun Khongsong
+:end:
+
+** All-time Pound-for-Pount
+:all-time-pound-for-pound:
+Sugar Ray Robinson
+Henry Armstrong
+Willie Pep
+Muhammad Ali
+Joe Louis
+Roberto Duran
+Jack Johnson
+Jack Dempsey
+Benny Leonard
+Sugar Ray Leonard
+Harry Greb: aggressive swarming fighter
+Joe Gans
+Sam Langford
+Gene Tunney
+Rocky Marciano
+Archie Moore
+Jimmy Wilde
+Mickey Walker
+Julio Cesar Chavez: fierce swarming style
+George Foreman
+Stanley Ketchel
+Barney Ross
+Jimmy McLarnin
+Tony Canzoneri
+Joe Frazier
+Jake LaMotta: The Raging Bull
+Bernard Hopkins
+Ezzard Charles
+Floyd Mayweather Jr.: defensive talent, boxing IQ, pure talent
+Ruben Olivares
+Marcel Cerdan
+Sandy Saddler: one of the greatest punchers
+Jose Napoles
+Manny Pacquiao
+Terry McGovern: one of the greatest punchers
+Emile Griffith
+Billy Con
+Marvin Hagler
+Roy Jones Jr.
+Tommy Hearns
+Eder Jofre
+Larry Holmes: lethal left jab
+Carlos Monzon
+Pernell Whitaker: one of the best pure boxers, robbed of big fights
+Alexis Arguello: one of the greatest punchers
+Mike Tyson
+Oscar De La Hoya
+Ted "Kid" Lewis
+Wilfredo Gomez: devastating punching power
+Salvador Sanchez
+
+[[https://bleacherreport.com/articles/1436191-the-top-50-pound-for-pound-boxers-of-all-time#slide7][From Here]]
+:end:
+
+
 ** Andre Ward
+Ward vs Green, Ward sees inside training pay off
 A few of his recent ones, will rewatch anyway ;)
+:andre-ward-influences:
+=big three=
+[[http://www.boxing.com/earned_andre_ward_exclusive_part_3.html][from here]]
+Bernard Hopkins
+Roy Jones Jr.
+Floyd Mayweather
+ - jab to the stomach, et al.
+:end:
+:andre-ward-wiki:
+[[https://www.youtube.com/watch?v=o2zhDMwv-_s][Ward Answers Questions]]
+fighter->olympic style-> pro is both
+hated training inside game, showed up in Alan Green Fight
+:end:
 
 
 ** Floyd Mayweather
 as well as Pacquiao and McGregor
 DAZN: has De La Hoya, Hatton J. Marquez, Mosley, V. Ortiz, Cotto, Guerrero,
       Canelo, Maidana (2007-2014)
+In mitt work, after combo will get hit in shoulder
+  foot position will indicate next punch thrown
+After throwing a few punches, he'll start feinting/hesistating once you start
+  flinching, this gives him a few deep breathes for next round
+
 
 
 ** Gennadiy Golovkin
@@ -82,37 +219,27 @@ Brook
 
 
 ** Lennox Lewis
-| *Fighter*        | *Date*    |
-|------------------+-----------|
-| Oliver McCall II | 2/7/1997  |
-| Oliver McCall    | 9/24/1994 |
 
 
 ** Mike Tyson
-| *Fighter*                     | *Date*    |
-|-------------------------------+-----------|
-| Mike Tyson vs. Michael Spinks | 6/27/1988 |
-
+angle shift : Especially Tyson's
+a main method for reducing hit ability while advancing:
+ - head movement (see Mike Tyson; Julio Cesar Chavez)
 
 
 ** Muhammed Ali
-| *Fighter*      | *Date*     |
-|----------------+------------|
-| George Foreman | 10/30/1974 |
-| Jurgen Blin    | 12/26/1971 |
 | TODO: add more |            |
 
 
 ** Pacquiao
 to fill in, lots of his latest
 [[https://www.unibet.co.uk/blog/more-sports/boxing/pacquiao-v-thurman-styles-make-fights-and-this-can-be-a-clash-for-the-ages-1.1217838][Pacquiao vs Thurman]]: need to watch Pacquiao's latest
+Pacquiao's footwork
+
 
 
 ** Tyson Fury
-| *Fighter*      | *Date*    |
-|----------------+-----------|
-| Deontay Wilder | 2/22/2020 |
-| Otto Wallin    | 9/14/2019 |
+Footwork
 
 
 
@@ -138,32 +265,81 @@ to fill in, lots of his latest
 
 
 * Trainers
-and personalities
+:training:
+[[https://www.muscleandfitness.com/workouts/workout-routines/ultimate-boxing-workout-plan-get-lean-and-fit][Freddy Roach based]]
+:end:
 ** Eddie Futch <<<read more>>>
 ** Cus D'Amato
 Trained Mike Tyson
 ** Matt Baranski
+** Virgil Hunter
+Andre Ward's coach: studied under Jimmy Simmons, master of slip-slide style
+[[https://youtu.be/NxjLK1977TA][On Mayweather's shoulder roll]]
+Hispanic styles from Rubin Corarer, Freddie(?), Lawbridge that have gone against
+ Mayweather,
+George Gainford Sugar Ray Robinson's coach from the south, so you see slip-slide
+ style
 
+
+
+** <<Personalities>>
+** Bert Sugar
+Boxing writer
 ** Harold Lederman
 HBO's ringside judge, what spunk!
 Based his scoring on four criteria:
  - ring generalship; clean, hard punching; effective aggression; and defense.
 
 
-* Moves
-[[https://lawofthefist.com/comprehensive-guide-to-footwork-in-boxing/][Comprehenvise guide to footwork]]
+* Moves & Terms
+** Moves
+:to-learn:
+ - slight left out and back, slight right back, boxing stance
+ - more from that video
+=workout=
+ - break right and left when on the ropes, George Groves Masterclass
+   pull left step left pivot
+ - left half step side; jump right ; boxing stance
+:end:
+
+angle shift : Especially Tyson's
 bumping from Lyoto Machida or Fedor Emelianenko
 check hook (see Archie Moore)
 clinch: (tall and good inside: Tyson Fury, Riddick Bowe, Alexis Arguello)
 double jab: good way to force movement without opening much to counters
 draping: (Klitschko)
+:footwork:
+Jersey Joe Walcott's Footwork
+Pacquiao's footwork
+[[https://lawofthefist.com/comprehensive-guide-to-footwork-in-boxing/][Comprehenvise guide to footwork]]
+:end:
 jab: Larry Holmes boog jab
+:shoulder-roll:
+Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
+ based coach) to Bill Miller (Michigan based)
+similar to slip-slide style, lead hand in instead of out
+:end:
+:slip-slide-style:
+From Texas, through Jack Johnson
+similare to shoulder roll, lead hand out instead of in
+:end:
 straight punching with vertical fist: Jack Johnson and Joe Gans
 straigth palms: occupying the center, George Foreman
 punching through standing guard: Badr Hari
 two main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
  - hand checking, smotherers (see George Foremon; Sandy Saddler)
+
+
+** Terms
+Canastota, New York: where the International Boxing Hall of Fame is
+Lethwei (Burmese Boxing): brutal
+pugilistic art
+roadwork: running
+skip roap
+trap range vs clinch range
+trapping: Yip Man type stuff
+
 
 
 * Quotes
@@ -189,6 +365,12 @@ two main method for reducing hit ability while advancing:
  splendid insincerity."
    - Vladimir Nabokov, Poems and Problems
 
+"Challenge matches pretty much a stupid affair—you essentially have two men
+ taking pride in refusing to broaden their horizons—but this one has a couple of
+ nice moments."
+   - Jack Slack
+
+
 
 
 * Articles
@@ -209,6 +391,10 @@ Larry Holmes: best jab
 Inspired by a film-showing of Joe Louis–Jersey Joe Walcott II, Jackson
  impulsively devoted himself to boxing.
 Talks about Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
+*** Shouler Roll
+ - [[https://boxraw.com/blogs/blog/the-shell-game][The Shell Game]]
+ - [[https://fayzfitness.co.uk/the-history-of-the-philly-shell/][The History of the Philly Shell]]
+
 ** MMA
 *** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
 Pat Berry influenced by Sagat
@@ -226,6 +412,7 @@ George Foreman occupied the center with his palms
 
 
 * To Watch
+Ray Mercer: Erin got picture with?
 :today:
 Roger Mayweather vs. Whitaker
 Tommy "Hurricane" Jackson
@@ -258,6 +445,8 @@ Fury excels at using head position to keep his opponents from getting underneath
 Lomachenko
 :end:
 :docos:
+[[https://en.wikipedia.org/wiki/Folk_wrestling][Folk Wrestling]]
+Gloves Off: about Frank Bruno, former British Heavyweight Champion
 When We Were Kings
 :end:
 
@@ -299,6 +488,7 @@ Naoya Inoue vs. Nonito Donaire : November 11th   DAZN  [[https://www.espn.co.uk/
 :end:
 
 Alex Arguello vs Aaron Pryor: controversial challenge
+Barney Ross vs Henry Armstrong 1938
 Carlos Monzon: in-ring monster, conviction for murder
 [[https://www.ringtv.com/596952-donald-currys-greatest-hits-cobra-strikes/][Donald Curry]]
 Earnie Shavers: one of the hardest punchers in boxing history
@@ -312,6 +502,7 @@ George Foreman:
  - using wide rights and left hooks to get to corner for ferocious uppercuts
 Joe Gans: straight punching with vertical fist
 Jack Dempsey: move forward punching with each step
+Julio Cesar Chavez vs Meldrick Taylor rematch, first fight too
 Larry Holmes: one of the best jabs in boxing history, pure boxer
 Naseem Hamed: defined British scene, legacy defining ring entrances
 Tommy "Hurricane" Jackson: quirky mystifying style
@@ -349,6 +540,7 @@ low spinning heel kick targeting thighs
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
 Chan Sung Jung, Korean Zombie
 Then UFC 239
+UFC 141, forget why
 :random-fights:
 Anderson Silva vs Chris Weidman
 Ciryl Gane: Muay Thai
@@ -391,12 +583,32 @@ Park vs. Shim
 *** [[https://www.reddit.com/r/Boxing/comments/20bkab/favorite_boxing_writer/][Reddit: fav boxing writer]]
 *** [[https://www.irish-boxing.com/7-best-boxing-writers-to-follow-today/][Seven best boxers to follow today]]
 ** Books
+:top-10-list:
+[[https://bleacherreport.com/articles/1661287-boxing-summer-reading-list-10-books-every-fan-must-read#slide10][Top 10 List]]
+- [ ] The Last Great Fight: Tyson vs Douglas fight 1990
+- [X] Boxing or On Boxing: Edwin Haislet
+- [X] Championship Fighting: Jack Dempsey
+- [ ] The Straight Left and How to Cultivate It: Jim Driscoll & various volumes
+- [ ] The Art of Infighting: Frank Klaus
+- [ ] Box Like the Pros: Joe Frazier
+- [ ] Undisputed Truth: Mike Tyson
+- [ ] Jack Slack: [[https://en.wikipedia.org/wiki/Jack_Slack#Striking_analyst][wiki list]]
+ - from his podcast
+- [ ]  Boxing Dirty Tricks and Outlaw Killer Punches: Champ Thomas
+- [ ]  My Methods of Boxing as a Fine Art: Georges Carpentier
+- [ ]  Championship Fighting: Jack Dempsey
+ - [[https://www.google.com/search?client=ubuntu&channel=fs&q=Jack+Slack%253A+Four+Strikers+That+Every+MMA+Fan+Should+Be+Watching&ie=utf-8&oe=utf-8][Four strickers everyone should be watching MMA]]
+ - [[http://fightland.vice.com/author/jack-slack][Fightland Articles]]
+- [ ] Footwork Wins Fights:
+:end:
 *** Bunce's Big Fat Short History of British Boxing: Steve Bunce
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Earnie Shaver: Welcome to the Big Time
 *** Bartley Gorman: King of the Gypsies
 *** The Eddie Futch Interview: A Conversation with Boxing Legend and Trainer
+*** Floyd Patteron: Basic Boxing Skills
 ** Articles
+*** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
 *** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]
 *** [[https://www.ringtv.com/582860-canelo-alvarez-contemplating-greatness/][Canelo Alvarez: comtemplating greatness]] 11/6/2019
 *** [[https://www.theguardian.com/sport/blog/2015/apr/15/boxing-hagler-hearns-30-years-on][The Four Kings]]
