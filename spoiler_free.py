@@ -23,20 +23,19 @@ def check_columns(rows):
     return False
 
 
-url = 'https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.'
-#      'https://en.wikipedia.org/wiki/Lawrence_Okolie'
-# 'https://en.wikipedia.org/wiki/Murat_Gassiev'
-# "https://en.wikipedia.org/wiki/Alexander_Gustafsson#Mixed_martial_arts_record"
+url = 'https://en.wikipedia.org/wiki/'
+fighter = 'Floyd_Mayweather_Jr.'
+# fighter = 'Lawrence_Okolie'
+# fighter = 'Murat_Gassiev'
+# fighter = 'Alexander_Gustafsson'
 
-url += '#Professional_boxing_record'
 
+url += fighter
 
-req = requests.get(url).text
 
 # # REMOVE
 # req = open("floyd_wiki.html").text
-
-
+req = requests.get(url).text
 soup = BeautifulSoup(req, 'lxml')
 
 result = soup.find_all('table', {'class': 'wikitable'})
@@ -47,8 +46,7 @@ for res in result:
     td = tr.find_all('th')
     rows = [i.text.rstrip() for i in td]
     if (check_columns(rows)):
-        print(rows)
-
+        print(tr)
 
 
 print("Fin")

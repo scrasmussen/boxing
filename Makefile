@@ -1,5 +1,5 @@
 file=floyd_fights.py
-# file=spoiler_free.py
+file=spoiler_free.py
 
 all: build
 

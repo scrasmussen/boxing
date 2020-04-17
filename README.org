@@ -250,6 +250,7 @@ Footwork
 |---------------------+------------+-------------------------|
 | UFC Fight Night 153 | 6/1/2019   | Gustafsson vs. Smith    |
 | UFC Fight Night 152 | 5/18/2019  | dos Anjos vs. Lee       |
+| UFC 237             | 5/11/2019  | Namajunas vs. Andrade   |
 | UFC 236             | 4/14/2019  | Holloway vs. Poirier    |
 | UFC 229             | 8/6/2018   | Khabib vs. McGregor     |
 | UFC 203             | 9/10/2016  | Miocic vs. Overeem      |
@@ -313,7 +314,10 @@ Jersey Joe Walcott's Footwork
 Pacquiao's footwork
 [[https://lawofthefist.com/comprehensive-guide-to-footwork-in-boxing/][Comprehenvise guide to footwork]]
 :end:
-jab: Larry Holmes boog jab
+:jab:
+Larry Holmes boog jab
+springing jab: juan manuel marquez
+:end:
 :shoulder-roll:
 Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
  based coach) to Bill Miller (Michigan based)
@@ -395,6 +399,7 @@ Talks about Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
  - [[https://boxraw.com/blogs/blog/the-shell-game][The Shell Game]]
  - [[https://fayzfitness.co.uk/the-history-of-the-philly-shell/][The History of the Philly Shell]]
 
+*** [[https://www.unibet.co.uk/blog/more-sports/boxing/joshua-vs-ruiz-heart-and-work-rate-the-key-to-success-in-anthony-joshuas-madison-square-garden-debut-1.1192446][Joshua vs Ruiz]]
 ** MMA
 *** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
 Pat Berry influenced by Sagat
@@ -413,6 +418,7 @@ George Foreman occupied the center with his palms
 
 * To Watch
 Ray Mercer: Erin got picture with?
+UFC 237: 1:25
 :today:
 Roger Mayweather vs. Whitaker
 Tommy "Hurricane" Jackson
@@ -542,8 +548,10 @@ Chan Sung Jung, Korean Zombie
 Then UFC 239
 UFC 141, forget why
 :random-fights:
-Anderson Silva vs Chris Weidman
+Anderson Silva vs Chris Weidman (I-II): look for collar tie
 Ciryl Gane: Muay Thai
+Max Hollaway vs Jose Aldo
+Andrade vs Angela Hill
 :end:
 *** UFC PPV
 UFC 238 6/8/2019 Cejudo vs. Moraes
