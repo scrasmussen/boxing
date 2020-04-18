@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from tabulate import tabulate
 import requests
 
-
 print("start")
 
 def check_boxing_columns(rows):
@@ -51,7 +50,9 @@ url = 'https://en.wikipedia.org/wiki/'
 fighter = 'Floyd_Mayweather_Jr.'
 fighter = 'Lawrence_Okolie'
 # fighter = 'Murat_Gassiev'
+
 fighter = 'Alexander_Gustafsson'
+fighter = 'Marlon_Moraes'
 
 url += fighter
 
@@ -76,5 +77,7 @@ for res in result:
         new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
         q.loc[:,'Date'] = new_date
 
+
+print(tabulate([[fighter.replace('_',' ')]], tablefmt='psql'))
 print(tabulate(q,headers='keys',tablefmt='psql',showindex=False))
 print("Fin")

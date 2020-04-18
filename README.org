@@ -272,6 +272,7 @@ Need to add the scared fighter fight
 |---------------------+------------+-------------------------|
 | UFC Fight Night 153 | 6/1/2019   | Gustafsson vs. Smith    |
 | UFC Fight Night 152 | 5/18/2019  | dos Anjos vs. Lee       |
+| UFC 238             | 6/8/2019   | Cejudo vs. Moraes       |
 | UFC 237             | 5/11/2019  | Namajunas vs. Andrade   |
 | UFC 236             | 4/14/2019  | Holloway vs. Poirier    |
 | UFC 229             | 8/6/2018   | Khabib vs. McGregor     |
