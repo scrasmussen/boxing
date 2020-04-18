@@ -1,11 +1,19 @@
 * Boxing
 A collection of ideas and history.
+#+NAME: matches-seen
+#+BEGIN_SRC emacs-lisp :var table=boxingMatches
+(concat "I have seen " (number-to-string (- (length table) 1) ) " matches")
+#+END_SRC
+
 
 
 * Boxing Matches
-| =I HAVE SEEN=                     | 0          | =FIGHTS=                       |
+#+RESULTS: matches-seen
+: I have seen 49 matches
+
+#+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
-| *Fighters*                        | *Date*     | *Notes*                        |
+| *Fighters*                        | *Date*     | *[[Notes][Notes]]*                        |
 |-----------------------------------+------------+--------------------------------|
 | Tyson Fury vs. Deontay Wilder     | 2/22/2020  |                                |
 | Tyson Fury vs. Otto Wallin        | 9/14/2019  |                                |
@@ -56,20 +64,8 @@ A collection of ideas and history.
 | Marvin Hagler vs. Tomy Hearns     | 4/15/1985  | "The War" co-fight of the year |
 | Muhammed Ali vs. George Foreman   | 10/30/1974 |                                |
 | Muhammed Ali vs. Jurgen Blin      | 12/26/1971 |                                |
-#+TBLFM: @1$2='(length())'
 
-
-# '(length(org-lookup-all "" '(@2$2..@-1$3) nil));EY
-
-#+NAME: table-length
-#+BEGIN_SRC emacs-lisp :var table=boxing-matches
-(length table)
-#+END_SRC
-
-#+RESULTS: table-length
-
-
-** Notes
+** <<Notes>>
 *** Roger Mayweather vs. Pernell Whitaker <<3.28.1987>>
 Round One: bell rung multiple, like ref didn't hear and "Sweet Pea" punched
  several times after the round ended. Roger went to the wrong corner.
