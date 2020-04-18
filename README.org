@@ -3,8 +3,8 @@ A collection of ideas and history.
 
 
 * Boxing Matches
-I've seen [insert number] boxing matches
-
+| =I HAVE SEEN=                     | 0          | =FIGHTS=                       |
+|-----------------------------------+------------+--------------------------------|
 | *Fighters*                        | *Date*     | *Notes*                        |
 |-----------------------------------+------------+--------------------------------|
 | Tyson Fury vs. Deontay Wilder     | 2/22/2020  |                                |
@@ -51,11 +51,33 @@ I've seen [insert number] boxing matches
 | Floyd Mayweather vs. R. Apodaca   | 10/11/1996 | Roberto                        |
 | Lennox Lewis vs. Oliver McCall    | 9/24/1994  |                                |
 | Mike Tyson vs. Michael Spinks     | 6/27/1988  |                                |
+| Roger Mayweather vs. P. Whitaker  | 3/28/1987  | [[3.28.1987][See Notes]]                      |
 | Milton McCrory vs. Donald Curry   | 12/6/1985  |                                |
 | Marvin Hagler vs. Tomy Hearns     | 4/15/1985  | "The War" co-fight of the year |
 | Muhammed Ali vs. George Foreman   | 10/30/1974 |                                |
 | Muhammed Ali vs. Jurgen Blin      | 12/26/1971 |                                |
+#+TBLFM: @1$2='(length())'
 
+
+# '(length(org-lookup-all "" '(@2$2..@-1$3) nil));EY
+
+#+NAME: table-length
+#+BEGIN_SRC emacs-lisp :var table=boxing-matches
+(length table)
+#+END_SRC
+
+#+RESULTS: table-length
+
+
+** Notes
+*** Roger Mayweather vs. Pernell Whitaker <<3.28.1987>>
+Round One: bell rung multiple, like ref didn't hear and "Sweet Pea" punched
+ several times after the round ended. Roger went to the wrong corner.
+Round Second: ref gets a left hook to the face.
+Round Nine: Roger's pants are falling down, Sweet Pea pulls them all the way
+ down. Roger knocks Sweet Pea to the ground and hits him while he's on his
+ knees.
+Ref doesn't do anything about anything.
 
 
 * Boxers
@@ -208,14 +230,13 @@ After throwing a few punches, he'll start feinting/hesistating once you start
 
 ** Gennadiy Golovkin
 =DAZN=
-Derevyanchenko
-2019
-Rolls
-2017
-Canelo
-Jacobs
-2016
-Brook
+Derevyanchenko 2019
+Rolls 2019
+Canelo II 2017
+Canelo 2017
+Jacobs 2017
+Brook 2016
+Lemieux 2015
 
 
 ** Lennox Lewis
@@ -235,6 +256,10 @@ a main method for reducing hit ability while advancing:
 to fill in, lots of his latest
 [[https://www.unibet.co.uk/blog/more-sports/boxing/pacquiao-v-thurman-styles-make-fights-and-this-can-be-a-clash-for-the-ages-1.1217838][Pacquiao vs Thurman]]: need to watch Pacquiao's latest
 Pacquiao's footwork
+=DAZN=
+Barrera 2003
+Hatton 2009
+Barrer 2 2007
 
 
 
@@ -415,12 +440,12 @@ straight punching with vertical fist: Jack Johnson and Joe Gans
 George Foreman occupied the center with his palms
 *** [[http://fightland.vice.com/blog/why-kung-fu-masters-refuse-to-teach][Why Kung Fu Masters Refuse to Teach]]
 
+*** [[https://www.fightprimer.com/articles/2019/5/8/a-tough-ask-for-rose-namajunas][A Tough Ask for Rose Namajunas]]
+
 
 * To Watch
 Ray Mercer: Erin got picture with?
-UFC 237: 1:25
 :today:
-Roger Mayweather vs. Whitaker
 Tommy "Hurricane" Jackson
 Roger Mayweather vs. Mitchell Julien
 March 12 1997 Top Rank, all three Mayweathers fought, Jeff, Roger, Floyd
@@ -470,16 +495,60 @@ down. In the 14th round after going back and forth and back and forth Lupe Pinto
 :best-of-past:
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][You break it, you bought it: Ivan Calderon vs Giovani Segura]]
 :end:
+:dazn:
+Whyte vs. Chisora 2016
+=Amir Khan=
+Khan vs. Maidana 2010
+Khan vs. Judah 2011
+Khan vs. Peterson 2011
+Canelo vs. Khan 2016
+Khan vs. Vargas 2018
+=Manny Pacquiao=
+=Rungvisai vs. Estrada 2=
+:end:
+:dazn-2018:
+
+=January to March=
+Crolla vs. Ramirez
+Cordina vs. Ben Ali
+Kelly vs. Molina
+Povetkin vs. Price
+Joshua vs. Parker
+=April to June=
+Buatsi vs. Cuevas
+Bellew vs. Haye 2
+Mungula vs. Ali
+Okolie vs. Watkins
+=July to Sept=
+Munguia vs. Smith
+Buatsi vs. Pokumeiko
+Taylor vs. Connor
+Chisora vs. Takam
+Whyte vs. Parker
+Weiborn vs. Langford
+Ritson vs. Amador
+Eggington vs. Mwakinyo
+Khan vs. Vargas
+Canelo vs. GGG 2
+Munguia vs. Cook
+Giyasov vs. Laguna
+Campbell vs. Mendy 2
+Kuzmin vs. Price
+Askin vs. Okolie
+Joshua vs. Povetkin
+Groves vs. Smith
+
+:end:
 :best-of-2018:
 - [X] February 3 – Murat Gassiev vs Yunier Dorticos
-February 24 – Srisaket Sor Rungvisai vs Juan Estrada
+February 24 – Srisaket Sor Rungvisai vs Juan Estrada [Youtube]
 March 3 – Deontay Wilder vs Luiz Ortiz
 March 10 – Oscar Valdez vs Scott Quigg
 April 7 – Jarrett Hurd vs Erislandy Lara
 May 12 – Vasyl Lomachenko vs Jorge Linares
 June 30 – Alex Saucedo vs Lenny Zappavigna
-July 28 – Dereck Chisora vs Carlos Takam
-September 15 – Canelo Alvarez vs Gennady Golovkin II
+July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
+September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
 September 24 – Sho Kimura vs Kosei Tanaka
 December 1 – Deontay Wilder vs Tyson Fury
 December 22 – Josh Warrington vs Carl Frampton
@@ -493,11 +562,14 @@ Gennadiy Golovkin vs. Sergiy Derevyanchenko : October 5th DAZN
 Naoya Inoue vs. Nonito Donaire : November 11th   DAZN  [[https://www.espn.co.uk/boxing/story/_/id/28366812/naoya-inoue-nonito-donaire-2019-fight-year-was-best-ko-round][Dan Rafael]]
 :end:
 
+
+
 Alex Arguello vs Aaron Pryor: controversial challenge
 Barney Ross vs Henry Armstrong 1938
 Carlos Monzon: in-ring monster, conviction for murder
 [[https://www.ringtv.com/596952-donald-currys-greatest-hits-cobra-strikes/][Donald Curry]]
 Earnie Shavers: one of the hardest punchers in boxing history
+Evander Hollywood: vs Dwight Mohammed Something
 Floyd Mayweather vs Diego Corrales
 Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
 The Four Kings
@@ -628,3 +700,5 @@ Park vs. Shim
 *** [[https://chinesemartialstudies.com/2016/01/12/letting-real-kung-fu-die-paradoxes-of-the-traditional-chinese-martial-arts-as-intangible-cultural-heritage/][Letting Real Kung Fu Die]]
 *** Why the fascination with boxing? Time Magazine June 27, 1988
 *** [[https://hannibalboxing.com/3-must-read-boxing-writers/][Three Must Read Boxing Writers]]
+;; Local Variables:
+;;
