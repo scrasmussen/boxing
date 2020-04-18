@@ -267,6 +267,7 @@ Footwork
 
 
 * MMA Events
+Need to add the scared fighter fight
 | *Event*             | *Date*     | *Notes*                 |
 |---------------------+------------+-------------------------|
 | UFC Fight Night 153 | 6/1/2019   | Gustafsson vs. Smith    |
@@ -322,6 +323,9 @@ Based his scoring on four criteria:
  - break right and left when on the ropes, George Groves Masterclass
    pull left step left pivot
  - left half step side; jump right ; boxing stance
+:end:
+:combos:
+l. hook - r. straight - jab: brings up hands wided, does damage, keep distance
 :end:
 
 angle shift : Especially Tyson's
@@ -500,7 +504,7 @@ Khan vs. Peterson 2011
 Canelo vs. Khan 2016
 Khan vs. Vargas 2018
 =Manny Pacquiao=
-=Rungvisai vs. Estrada 2=
+=Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
 :end:
 :dazn-2018:
 
@@ -593,6 +597,12 @@ Hagler-Hearns, sure
 Cleverly-Bellew II, stay home, you're drunk
 
 ** Fighters
+*** Petr Yan
+My type of style I think!!
+"Boxeresque  in MMA done perfect"
+"Old school boxing stance with the lead shoulder high"
+high lead shoulder with chin tucked down so the lead hand can be forward more
+
 *** Fedor Emelianenko
 greatest mixed matrial artist of all time
 *** Andy Hug
@@ -612,11 +622,13 @@ low spinning heel kick targeting thighs
 [[https://www.badlefthook.com/2020/3/27/21193445/blh-movie-club-boxing-movies-reviews-film][badlefthook movie club]]
 ** MMA
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
+Chris Weidman vs Machida
 Chan Sung Jung, Korean Zombie
 Then UFC 239
 UFC 141, forget why
 :random-fights:
 Anderson Silva vs Chris Weidman (I-II): look for collar tie
+Derrone vs Donald Sikona?
 Ciryl Gane: Muay Thai
 Max Hollaway vs Jose Aldo
 Andrade vs Angela Hill

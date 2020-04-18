@@ -1,5 +1,8 @@
+import pandas as pd
 from bs4 import BeautifulSoup
+from tabulate import tabulate
 import requests
+
 
 print("start")
 
@@ -25,19 +28,16 @@ def check_columns(rows):
 
 url = 'https://en.wikipedia.org/wiki/'
 fighter = 'Floyd_Mayweather_Jr.'
-# fighter = 'Lawrence_Okolie'
+fighter = 'Lawrence_Okolie'
 # fighter = 'Murat_Gassiev'
 # fighter = 'Alexander_Gustafsson'
 
-
 url += fighter
 
-
-# # REMOVE
-# req = open("floyd_wiki.html").text
+# req = open('full_floyd_wiki.html','r').read()
 req = requests.get(url).text
-soup = BeautifulSoup(req, 'lxml')
 
+soup = BeautifulSoup(req, 'lxml')
 result = soup.find_all('table', {'class': 'wikitable'})
 
 for res in result:
@@ -46,19 +46,8 @@ for res in result:
     td = tr.find_all('th')
     rows = [i.text.rstrip() for i in td]
     if (check_columns(rows)):
-        print(tr)
+        table = pd.read_html(res.prettify())[0]
+        q = table[['No.', 'Opponent', 'Date']]
 
-
+print(tabulate(q,headers='keys',tablefmt='psql',showindex=False))
 print("Fin")
-
-# for fight, row in enumerate(soup.find_all('tr')):
-#     fight = 51-fight
-
-#     columns = row.find_all('td')
-#     for i, column in enumerate(columns):
-#         if (fight == current_fight):
-#             current = "           ------- CURRENT"
-#         else:
-#             current = ""
-#         if (i == 3):
-#             print(str(fight)+" :: "+column.get_text()[:-1]+current)
