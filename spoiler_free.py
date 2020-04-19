@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from tabulate import tabulate
 import requests
 
-print("start")
 # -- Boxers --
 fighter = 'Floyd_Mayweather_Jr.'
 fighter = 'Daniel_Dubois_(boxer)'
@@ -13,10 +12,9 @@ fighter = 'Bernard_Hopkins'
 # -- MMA --
 fighter = 'Alexander_Gustafsson'
 fighter = 'Marlon_Moraes'
+fighter = 'Petr_Yan'
 
-fighter = 'Andre_Ward'
-
-
+# fighter = 'Andre_Ward'
 
 
 def check_boxing_columns(rows):
@@ -87,6 +85,8 @@ for res in result:
         q.insert(0, '', list(range(len(q.index),0,-1)))
         new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
         q.loc[:,'Date'] = new_date
+        shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
+        q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
 
 
 print(tabulate([[fighter.replace('_',' ')]], tablefmt='psql'))
