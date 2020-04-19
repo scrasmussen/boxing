@@ -4,6 +4,20 @@ from tabulate import tabulate
 import requests
 
 print("start")
+# -- Boxers --
+fighter = 'Floyd_Mayweather_Jr.'
+fighter = 'Daniel_Dubois_(boxer)'
+fighter = 'Murat_Gassiev'
+fighter = 'Bernard_Hopkins'
+
+# -- MMA --
+fighter = 'Alexander_Gustafsson'
+fighter = 'Marlon_Moraes'
+
+fighter = 'Andre_Ward'
+
+
+
 
 def check_boxing_columns(rows):
     total = 0
@@ -52,21 +66,6 @@ def check_mma_columns(rows):
 
 
 url = 'https://en.wikipedia.org/wiki/'
-
-# -- Boxers --
-fighter = 'Floyd_Mayweather_Jr.'
-fighter = 'Daniel_Dubois_(boxer)'
-fighter = 'Murat_Gassiev'
-
-# -- MMA --
-fighter = 'Alexander_Gustafsson'
-fighter = 'Marlon_Moraes'
-
-
-fighter = 'Bernard_Hopkins'
-
-
-
 url += fighter
 # req = open('floyd_wiki.html','r').read()
 req = requests.get(url).text
