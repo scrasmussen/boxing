@@ -9,7 +9,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 49 matches
+: I have seen 50 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -64,6 +64,7 @@ A collection of ideas and history.
 | Marvin Hagler vs. Tomy Hearns     | 4/15/1985  | "The War" co-fight of the year |
 | Muhammed Ali vs. George Foreman   | 10/30/1974 |                                |
 | Muhammed Ali vs. Jurgen Blin      | 12/26/1971 |                                |
+| Rocky Marciano vs. Don Cockell    | 5/16/1955  | Tough as Nails: [[5.16.1955][See Notes]]      |
 
 ** <<Notes>>
 *** Roger Mayweather vs. Pernell Whitaker <<3.28.1987>>
@@ -74,6 +75,14 @@ Round Nine: Roger's pants are falling down, Sweet Pea pulls them all the way
  down. Roger knocks Sweet Pea to the ground and hits him while he's on his
  knees.
 Ref doesn't do anything about anything.
+
+*** Rocky Marciano vs. Don Cockell <<5.16.1955>>
+American pressman Joe Williams wrote at the time: “Marciano violated practically
+every rule in the book. He hit after the bell, he used his elbow and head,
+several times punched below the belt and once hit Cockell while he was down. If
+Cockell should get the idea that anything goes in the American ring, short of
+wielding a knife or pulling a gun, you couldn’t blame him.”
+
 
 
 * Boxers
@@ -139,60 +148,58 @@ Junier Welterweight: Jose Ramirez and Josh Taylor
 :end:
 
 ** All-time Pound-for-Pount
-:all-time-pound-for-pound:
-Sugar Ray Robinson
-Henry Armstrong
-Willie Pep
-Muhammad Ali
-Joe Louis
-Roberto Duran
-Jack Johnson
-Jack Dempsey
-Benny Leonard
-Sugar Ray Leonard
-Harry Greb: aggressive swarming fighter
-Joe Gans
-Sam Langford
-Gene Tunney
-Rocky Marciano
-Archie Moore
-Jimmy Wilde
-Mickey Walker
-Julio Cesar Chavez: fierce swarming style
-George Foreman
-Stanley Ketchel
-Barney Ross
-Jimmy McLarnin
-Tony Canzoneri
-Joe Frazier
-Jake LaMotta: The Raging Bull
-Bernard Hopkins
-Ezzard Charles
-Floyd Mayweather Jr.: defensive talent, boxing IQ, pure talent
-Ruben Olivares
-Marcel Cerdan
-Sandy Saddler: one of the greatest punchers
-Jose Napoles
-Manny Pacquiao
-Terry McGovern: one of the greatest punchers
-Emile Griffith
-Billy Con
-Marvin Hagler
-Roy Jones Jr.
-Tommy Hearns
-Eder Jofre
-Larry Holmes: lethal left jab
-Carlos Monzon
-Pernell Whitaker: one of the best pure boxers, robbed of big fights
-Alexis Arguello: one of the greatest punchers
-Mike Tyson
-Oscar De La Hoya
-Ted "Kid" Lewis
-Wilfredo Gomez: devastating punching power
-Salvador Sanchez
+[[https://bleacherreport.com/articles/1436191-the-top-50-pound-for-pound-boxers-of-all-time][From Here]]
+*** Sugar Ray Robinson
+*** Henry Armstrong
+*** Willie Pep
+*** Muhammad Ali
+*** Joe Louis
+*** Roberto Duran
+*** Jack Johnson
+*** Jack Dempsey
+*** Benny Leonard
+*** Sugar Ray Leonard
+*** Harry Greb: aggressive swarming fighter
+*** Joe Gans
+*** Sam Langford
+*** Gene Tunney
+*** Rocky Marciano
+*** Archie Moore
+*** Jimmy Wilde
+*** Mickey Walker
+*** Julio Cesar Chavez: fierce swarming style
+*** George Foreman
+*** Stanley Ketchel
+*** Barney Ross
+*** Jimmy McLarnin
+*** Tony Canzoneri
+*** Joe Frazier
+*** Jake LaMotta: The Raging Bull
+*** Bernard Hopkins
+*** Ezzard Charles
+*** Floyd Mayweather Jr.: defensive talent, boxing IQ, pure talent
+*** Ruben Olivares
+*** Marcel Cerdan
+*** Sandy Saddler: one of the greatest punchers
+*** Jose Napoles
+*** Manny Pacquiao
+*** Terry McGovern: one of the greatest punchers
+*** Emile Griffith
+*** Billy Con
+*** Marvin Hagler
+*** Roy Jones Jr.
+*** Tommy Hearns
+*** Eder Jofre
+*** Larry Holmes: lethal left jab
+*** Carlos Monzon
+*** Pernell Whitaker: one of the best pure boxers, robbed of big fights
+*** Alexis Arguello: one of the greatest punchers
+*** Mike Tyson
+*** Oscar De La Hoya
+*** Ted "Kid" Lewis
+*** Wilfredo Gomez: devastating punching power
+*** Salvador Sanchez
 
-[[https://bleacherreport.com/articles/1436191-the-top-50-pound-for-pound-boxers-of-all-time#slide7][From Here]]
-:end:
 
 
 ** Andre Ward
@@ -336,6 +343,7 @@ clinch: (tall and good inside: Tyson Fury, Riddick Bowe, Alexis Arguello)
 double jab: good way to force movement without opening much to counters
 draping: (Klitschko)
 :footwork:
+Daniel Dubois (British Boxer): for a round BBC just had a camera on his feet
 Jersey Joe Walcott's Footwork
 Pacquiao's footwork
 [[https://lawofthefist.com/comprehensive-guide-to-footwork-in-boxing/][Comprehenvise guide to footwork]]
@@ -362,6 +370,7 @@ two main method for reducing hit ability while advancing:
 
 
 ** Terms
+Britisher: old school American fight announcer lexicon for a British fighter
 Canastota, New York: where the International Boxing Hall of Fame is
 Lethwei (Burmese Boxing): brutal
 pugilistic art
@@ -447,10 +456,12 @@ George Foreman occupied the center with his palms
 * To Watch
 Ray Mercer: Erin got picture with?
 :today:
+Oscar De La Hoya vs Bernard Hopkins
+Roger Mayweather vs. Kostya Tszyu
 Tommy "Hurricane" Jackson
 Roger Mayweather vs. Mitchell Julien
+Dubois vs. Fujimoto feet
 March 12 1997 Top Rank, all three Mayweathers fought, Jeff, Roger, Floyd
-Roger Mayweather vs. Kostya Tszyu
 Oleksandr Usyk vs. Murat Gassiev
 Mayweather
 An earlier Larry Holmes fight than [[https://www.badlefthook.com/2020/3/28/21197872/blh-classic-fight-series-on-cusp-marciano-record-larry-holmes-dethroned-michael-spinks-boxing][vs. Spinks]]
@@ -562,7 +573,9 @@ Josh Taylor vs. Regis Prograis   : October 26th DAZN
 Gennadiy Golovkin vs. Sergiy Derevyanchenko : October 5th DAZN
 Naoya Inoue vs. Nonito Donaire : November 11th   DAZN  [[https://www.espn.co.uk/boxing/story/_/id/28366812/naoya-inoue-nonito-donaire-2019-fight-year-was-best-ko-round][Dan Rafael]]
 :end:
-
+:Josh-Warrington-watched:
+Studied Ricky Hatton, Vasyl Lomachenko, Mike Tyson
+:end:
 
 
 Alex Arguello vs Aaron Pryor: controversial challenge
@@ -584,9 +597,12 @@ Jack Dempsey: move forward punching with each step
 Julio Cesar Chavez vs Meldrick Taylor rematch, first fight too
 Larry Holmes: one of the best jabs in boxing history, pure boxer
 Naseem Hamed: defined British scene, legacy defining ring entrances
+Roy Jones Dr.
 Tommy "Hurricane" Jackson: quirky mystifying style
 Wilfredo Gomez vs Carlos Zarate: highest combined knockout percentage match
+Life after boxing
 *** at a point
+Barry McGuigan: former Irish world champion
 Chris Eubank: former British world champion
 Nigel Benn: former British world champion
 *** classic
@@ -621,6 +637,8 @@ low spinning heel kick targeting thighs
 *** Katsunori Kikuno: one of Jack Slack's favourite oddities
 ** Film
 [[https://www.badlefthook.com/2020/3/27/21193445/blh-movie-club-boxing-movies-reviews-film][badlefthook movie club]]
+Life After Boxing
+Fallen Soldier
 ** MMA
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
 Chris Weidman vs Machida

@@ -9,10 +9,11 @@ def check_boxing_columns(rows):
     total = 0
     for row in rows:
         switch =  {
+            'No.': True,
             'Result': True,
-            'Res.':    True,
             'Record': True,
             'Opponent': True,
+            'Round, time': True,
             'Type': True,
             'Method': True,
             'Date': True,
@@ -20,7 +21,10 @@ def check_boxing_columns(rows):
         }
         if (switch.get(row,False)):
             total += 1
+    # print("total: " + str(total) )
+    # print(rows)
     if (total > 7):
+        print("Boxer")
         return True
     return False
 
@@ -42,20 +46,28 @@ def check_mma_columns(rows):
             total += 1
 
     if (total > 8):
+        print("MMA Fighter")
         return True
     return False
 
 
 url = 'https://en.wikipedia.org/wiki/'
-fighter = 'Floyd_Mayweather_Jr.'
-fighter = 'Lawrence_Okolie'
-# fighter = 'Murat_Gassiev'
 
+# -- Boxers --
+fighter = 'Floyd_Mayweather_Jr.'
+fighter = 'Daniel_Dubois_(boxer)'
+fighter = 'Murat_Gassiev'
+
+# -- MMA --
 fighter = 'Alexander_Gustafsson'
 fighter = 'Marlon_Moraes'
 
-url += fighter
 
+fighter = 'Bernard_Hopkins'
+
+
+
+url += fighter
 # req = open('floyd_wiki.html','r').read()
 req = requests.get(url).text
 
