@@ -13,6 +13,8 @@ fighter = 'Bernard_Hopkins'
 fighter = 'Alexander_Gustafsson'
 fighter = 'Marlon_Moraes'
 fighter = 'Petr_Yan'
+fighter = 'Frankie_Edgar'
+fighter = 'Felicia_Spencer' # leg tied up but still jumps to knee opponent!
 
 # fighter = 'Andre_Ward'
 

@@ -1,5 +1,6 @@
 * Boxing
 A collection of ideas and history.
+
 #+NAME: matches-seen
 #+BEGIN_SRC emacs-lisp :var table=boxingMatches
 (concat "I have seen " (number-to-string (- (length table) 1) ) " matches")
@@ -288,9 +289,10 @@ Footwork
 Need to add the scared fighter fight
 | *Event*             | *Date*     | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 240             | 7/27/2019  | Holloway vs. Edgar      |
+| UFC 238             | 6/8/2019   | Cejudo vs. Moraes       |
 | UFC Fight Night 153 | 6/1/2019   | Gustafsson vs. Smith    |
 | UFC Fight Night 152 | 5/18/2019  | dos Anjos vs. Lee       |
-| UFC 238             | 6/8/2019   | Cejudo vs. Moraes       |
 | UFC 237             | 5/11/2019  | Namajunas vs. Andrade   |
 | UFC 236             | 4/14/2019  | Holloway vs. Poirier    |
 | UFC 229             | 8/6/2018   | Khabib vs. McGregor     |
@@ -651,6 +653,11 @@ low spinning heel kick targeting thighs
 Life After Boxing
 Fallen Soldier
 ** MMA
+:UFC-240:
+[[https://www.mmamania.com/2019/5/28/18643066/latest-ufc-240-fight-card-rumors-updates-holloway-vs-edgar-july-27-edmonton-mma][Fight card]]
+[[https://www.youtube.com/watch?v=9XmlcnkqEmw][Jack Slack podcast]]
+:end:
+
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
 Chris Weidman vs Machida
 Chan Sung Jung, Korean Zombie
@@ -735,8 +742,10 @@ Park vs. Shim
 *** [[https://www.bloodyelbow.com/2012/4/23/2968351/UFC-Elbows-Jon-Jones-Shinya-Aoki-How-to-Technique][UFC Elbows]]
 *** [[https://www.bloodyelbow.com/2013/2/8/3967168/jack-slack-greatest-strikers-giorgio-petrosyan][Jack Slack's Greatest Strikers: Giorgio Petrosyan]]
 *** [[http://fightland.vice.com/blog/the-freaks-of-japanese-mma-ashikan-judan-and-wicky-akiyo][The Freaks of Japanese MMA]]
+*** [[https://www.ringtv.com/597146-a-fan-remembers-hagler-vs-hearns-part-2/][A fan remembers Hagler vs Hearns]]
 *** [[https://chinesemartialstudies.com/2016/01/12/letting-real-kung-fu-die-paradoxes-of-the-traditional-chinese-martial-arts-as-intangible-cultural-heritage/][Letting Real Kung Fu Die]]
 *** Why the fascination with boxing? Time Magazine June 27, 1988
+*** [[https://www.ringtv.com/597268-best-i-faced-kostya-tszyu/][Best I Faced: Kostya Tszyu]]
 *** [[https://hannibalboxing.com/3-must-read-boxing-writers/][Three Must Read Boxing Writers]]
 ;; Local Variables:
 ;;
