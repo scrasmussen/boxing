@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 51 matches
+: I have seen 52 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -22,6 +22,7 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 6/1/2019   |                                |
 | Jarrett Hurd vs. Julian Williams  | 5/11/2019  |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 7/21/2018  | Undisputed Cruiserweight Champ |
+| S. Sor Ringvisai vs. J.F. Estrada | 2/28/2018  | Srisaket, Juan Francisco       |
 | Murat Gassiev vs. Yuniel Dorticos | 2/3/2018   |                                |
 | L. Okolie vs. I. Chamberlain      | 2/3/2018   | Lawrence vs. Isaac             |
 | Andre Ward vs. Sergey Kovalev     | 6/17/2017  | Second Match                   |
@@ -485,6 +486,7 @@ Roger Mayweather vs. Kostya Tszyu
 Tommy "Hurricane" Jackson
 Roger Mayweather vs. Mitchell Julien
 Dubois vs. Fujimoto feet
+Houston vs Dalby: CS 106: night of champions, check youtube
 March 12 1997 Top Rank, all three Mayweathers fought, Jeff, Roger, Floyd
 Oleksandr Usyk vs. Murat Gassiev
 Mayweather
@@ -541,6 +543,9 @@ Canelo vs. Khan 2016
 Khan vs. Vargas 2018
 =Manny Pacquiao=
 =Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
+:end:
+:best-of-2017:
+Rungvisai vs Roman Gonzalez
 :end:
 :dazn-2018:
 
@@ -739,8 +744,9 @@ Park vs. Shim
 :end:
 *** Bunce's Big Fat Short History of British Boxing: Steve Bunce
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
-*** Earnie Shaver: Welcome to the Big Time
 *** Bartley Gorman: King of the Gypsies
+*** Dark Trade: Lost in Boxing by Donald McRae
+*** Earnie Shaver: Welcome to the Big Time
 *** The Eddie Futch Interview: A Conversation with Boxing Legend and Trainer
 *** Floyd Patteron: Basic Boxing Skills
 ** Articles
