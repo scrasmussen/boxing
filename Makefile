@@ -1,7 +1,10 @@
-file=floyd_fights.py
+lc=python3
 file=spoiler_free.py
 
 all: build
 
 build:
-	python3 $(file)
+	$(lc) $(file)
+
+floyd:
+	$(lc) floyd_fights.py

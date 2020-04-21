@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 50 matches
+: I have seen 51 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -28,6 +28,7 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11/19/2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 5/2/2009   |                                |
 | Kostya Tszyu vs. Ricky Hatton     | 6/4/2005   |                                |
+| Floyd Mayweather vs. V. Sosa      | 4/19/2003  | [[4.19.2003][Notes]]                          |
 | F. Mayweather vs. JL. Castillo II | 12/7/2002  |                                |
 | Floyd Mayweather vs. JL. Castillo | 4/20/2002  | Jose Luis. THE closest match   |
 | Floyd Mayweather vs. Jesus Chavez | 11/10/2001 | tried Armstrong-esque pressure |
@@ -68,6 +69,11 @@ A collection of ideas and history.
 | Rocky Marciano vs. Don Cockell    | 5/16/1955  | Tough as Nails: [[5.16.1955][See Notes]]      |
 
 ** <<Notes>>
+*** Floy Mayweather vs. Victoriano Sosa <<4.19.2003>>
+Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
+Round 7, 1:17 left. Ha!
+Between 7-8: montage of Floyd's defence
+
 *** Roger Mayweather vs. Pernell Whitaker <<3.28.1987>>
 Round One: bell rung multiple, like ref didn't hear and "Sweet Pea" punched
  several times after the round ended. Roger went to the wrong corner.
@@ -237,10 +243,10 @@ as well as Pacquiao and McGregor
 DAZN: has De La Hoya, Hatton J. Marquez, Mosley, V. Ortiz, Cotto, Guerrero,
       Canelo, Maidana (2007-2014)
 In mitt work, after combo will get hit in shoulder
-  foot position will indicate next punch thrown
+  Floyd's foot position will indicate next punch thrown
 After throwing a few punches, he'll start feinting/hesistating once you start
-  flinching, this gives him a few deep breathes for next round
-
+  flinching, this gives him a few deep breathes for next combo
+vs Sosa: Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
 
 
 ** Gennadiy Golovkin
@@ -265,6 +271,10 @@ a main method for reducing hit ability while advancing:
 
 ** Muhammed Ali
 | TODO: add more |            |
+
+
+** Oscar De La Hoya
+Last round he goes hard. - Foreman.  Look out for this
 
 
 ** Pacquiao
@@ -365,6 +375,7 @@ Pacquiao's footwork
 Larry Holmes boog jab
 springing jab: juan manuel marquez
 :end:
+shoe shine: change lower level, upper cuts to the body
 :shoulder-roll:
 Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
  based coach) to Bill Miller (Michigan based)
@@ -740,6 +751,7 @@ Park vs. Shim
 *** [[https://www.telegraph.co.uk/boxing/2020/02/24/tyson-furys-fairy-tale-rise-top-one-lifes-amazing-stories/][Tyson Fury's Rise to the top: one of lifes amazing stories]]
 *** [[http://fightland.vice.com/blog/street-fighter-in-the-ufc-hadoukens-and-izuna-drops][Street Fighter in the UFC: Hadoukens and Izuna Drops]]
 *** [[https://www.bloodyelbow.com/2012/4/23/2968351/UFC-Elbows-Jon-Jones-Shinya-Aoki-How-to-Technique][UFC Elbows]]
+*** [[https://www.espn.co.uk/mma/story/_/id/29018509/ufc-249-postponed-now-fighters-ufc][UFC 249 Postponed: What's Next]]
 *** [[https://www.bloodyelbow.com/2013/2/8/3967168/jack-slack-greatest-strikers-giorgio-petrosyan][Jack Slack's Greatest Strikers: Giorgio Petrosyan]]
 *** [[http://fightland.vice.com/blog/the-freaks-of-japanese-mma-ashikan-judan-and-wicky-akiyo][The Freaks of Japanese MMA]]
 *** [[https://www.ringtv.com/597146-a-fan-remembers-hagler-vs-hearns-part-2/][A fan remembers Hagler vs Hearns]]
