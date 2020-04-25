@@ -10,64 +10,67 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 52 matches
+: I have seen 55 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
-| *Fighters*                        | *Date*     | *[[Notes][Notes]]*                        |
+| *Fighters*                        |     *Date* | *[[Notes][Notes]]*                        |
 |-----------------------------------+------------+--------------------------------|
-| Tyson Fury vs. Deontay Wilder     | 2/22/2020  |                                |
-| Tyson Fury vs. Otto Wallin        | 9/14/2019  |                                |
-| Anthony Joshua vs. Andy Ruiz Jr.  | 12/7/2019  | Second Match                   |
-| Anthony Joshua vs. Andy Ruiz Jr.  | 6/1/2019   |                                |
-| Jarrett Hurd vs. Julian Williams  | 5/11/2019  |                                |
-| Oleksandr Usyk vs. Murat Gassiev  | 7/21/2018  | Undisputed Cruiserweight Champ |
-| S. Sor Ringvisai vs. J.F. Estrada | 2/28/2018  | Srisaket, Juan Francisco       |
-| Murat Gassiev vs. Yuniel Dorticos | 2/3/2018   |                                |
-| L. Okolie vs. I. Chamberlain      | 2/3/2018   | Lawrence vs. Isaac             |
-| Andre Ward vs. Sergey Kovalev     | 6/17/2017  | Second Match                   |
-| Andre Ward vs. Sergey Kovalev     | 11/19/2016 |                                |
-| Manny Pacquaio vs Ricky Hatton    | 5/2/2009   |                                |
-| Kostya Tszyu vs. Ricky Hatton     | 6/4/2005   |                                |
-| Floyd Mayweather vs. V. Sosa      | 4/19/2003  | [[4.19.2003][Notes]]                          |
-| F. Mayweather vs. JL. Castillo II | 12/7/2002  |                                |
-| Floyd Mayweather vs. JL. Castillo | 4/20/2002  | Jose Luis. THE closest match   |
-| Floyd Mayweather vs. Jesus Chavez | 11/10/2001 | tried Armstrong-esque pressure |
-| Floyd Mayweather vs. C. Hernandez | 5/26/2001  | Floyd went down from own punch |
-| Floyd Mayweather vs. D. Corrales  | 1/20/2001  | Diego                          |
-| Floyd Mayweather vs. E. Augustus  | 10/21/2000 | Emanuel                        |
-| Floyd Mayweather vs. G. Vargas    | 4/18/2000  | Gregorio                       |
-| Floyd Mayweather vs. C. Gerena    | 9/11/1999  | Carlos                         |
-| Floyd Mayweather vs. Justin Juuko | 5/22/1999  |                                |
-| Floyd Mayweather vs. Carlos Rios  | 2/17/1999  |                                |
-| Floyd Mayweather vs. A. Manfredy  | 12/19/1998 | Angel                          |
-| Floyd Mayweather vs. G. Hernandez | 10/3/1998  | Genaro                         |
-| Floyd Mayweather vs. Tony Pep     | 6/14/1998  |                                |
-| Floyd Mayweather vs. G. Cuello    | 4/18/1998  | Gustavo                        |
-| Floyd Mayweather vs. Miguel Melo  | 3/23/1998  |                                |
-| Floyd Mayweather vs. Sam Girard   | 2/28/1998  |                                |
-| Floyd Mayweather vs. H. Arroyo    | 1/9/1998   | Hector                         |
-| Floyd Mayweather vs. A. Nunez     | 11/20/1997 | Angelo                         |
-| Floyd Mayweather vs. F. Garcia    | 10/14/1997 | Felipe                         |
-| Floyd Mayweather vs. Louie Leija  | 9/6/1997   |                                |
-| Floyd Mayweather vs. J.R. Chavez  | 7/12/1997  | Jesus Roberto                  |
-| Floyd Mayweather vs. L. O'Shields | 6/14/1997  | Larry                          |
-| Floyd Mayweather vs. Tony Duran   | 5/9/1997   |                                |
-| Floyd Mayweather vs. B. Giepert   | 4/12/1997  | Bobby                          |
-| Floyd Mayweather vs. K. Rodriguez | 3/12/1997  | Kino                           |
-| Lennox Lewis vs. Oliver McCall II | 2/7/1997   |                                |
-| Floyd Mayweather vs. E. Ayala     | 2/1/1997   | Edgar                          |
-| Floyd Mayweather vs. J. Cooper    | 1/18/1997  | Jerry                          |
-| Floyd Mayweather vs. R. Sanders   | 11/30/1996 | Reggie                         |
-| Floyd Mayweather vs. R. Apodaca   | 10/11/1996 | Roberto                        |
-| Lennox Lewis vs. Oliver McCall    | 9/24/1994  |                                |
-| Mike Tyson vs. Michael Spinks     | 6/27/1988  |                                |
-| Roger Mayweather vs. P. Whitaker  | 3/28/1987  | [[3.28.1987][See Notes]]                      |
-| Milton McCrory vs. Donald Curry   | 12/6/1985  |                                |
-| Marvin Hagler vs. Tomy Hearns     | 4/15/1985  | "The War" co-fight of the year |
-| Muhammed Ali vs. George Foreman   | 10/30/1974 |                                |
-| Muhammed Ali vs. Jurgen Blin      | 12/26/1971 |                                |
-| Rocky Marciano vs. Don Cockell    | 5/16/1955  | Tough as Nails: [[5.16.1955][See Notes]]      |
+| Tyson Fury vs. Deontay Wilder     | 02.22.2020 |                                |
+| Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                        |
+| Tyson Fury vs. Otto Wallin        | 09.14.2019 |                                |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match                   |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
+| Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
+| Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Deontay Wilder vs Luiz Ortiz      | 03.03.2018 |                                |
+| S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco       |
+| Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
+| L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac             |
+| Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match                   |
+| Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
+| Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                                |
+| Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                                |
+| Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][Notes]]                          |
+| F. Mayweather vs. JL. Castillo II | 12.07.2002 |                                |
+| Floyd Mayweather vs. JL. Castillo | 04.20.2002 | Jose Luis. THE closest match   |
+| Floyd Mayweather vs. Jesus Chavez | 11.10.2001 | tried Armstrong-esque pressure |
+| Floyd Mayweather vs. C. Hernandez | 05.26.2001 | Floyd went down from own punch |
+| Floyd Mayweather vs. D. Corrales  | 01.20.2001 | Diego                          |
+| Floyd Mayweather vs. E. Augustus  | 10.21.2000 | Emanuel                        |
+| Floyd Mayweather vs. G. Vargas    | 04.18.2000 | Gregorio                       |
+| Floyd Mayweather vs. C. Gerena    | 09.11.1999 | Carlos                         |
+| Floyd Mayweather vs. Justin Juuko | 05.22.1999 |                                |
+| Floyd Mayweather vs. Carlos Rios  | 02.17.1999 |                                |
+| Floyd Mayweather vs. A. Manfredy  | 12.19.1998 | Angel                          |
+| Floyd Mayweather vs. G. Hernandez | 10.03.1998 | Genaro                         |
+| Floyd Mayweather vs. Tony Pep     | 06.14.1998 |                                |
+| Floyd Mayweather vs. G. Cuello    | 04.18.1998 | Gustavo                        |
+| Floyd Mayweather vs. Miguel Melo  | 03.23.1998 |                                |
+| Floyd Mayweather vs. Sam Girard   | 02.28.1998 |                                |
+| Floyd Mayweather vs. H. Arroyo    | 01.09.1998 | Hector                         |
+| Floyd Mayweather vs. A. Nunez     | 11.20.1997 | Angelo                         |
+| Floyd Mayweather vs. F. Garcia    | 10.14.1997 | Felipe                         |
+| Floyd Mayweather vs. Louie Leija  | 09.06.1997 |                                |
+| Floyd Mayweather vs. J.R. Chavez  | 07.12.1997 | Jesus Roberto                  |
+| Floyd Mayweather vs. L. O'Shields | 06.14.1997 | Larry                          |
+| Floyd Mayweather vs. Tony Duran   | 05.09.1997 |                                |
+| Floyd Mayweather vs. B. Giepert   | 04.12.1997 | Bobby                          |
+| Floyd Mayweather vs. K. Rodriguez | 03.12.1997 | Kino                           |
+| Lennox Lewis vs. Oliver McCall II | 02.07.1997 |                                |
+| Floyd Mayweather vs. E. Ayala     | 02.01.1997 | Edgar                          |
+| Floyd Mayweather vs. J. Cooper    | 01.18.1997 | Jerry                          |
+| Floyd Mayweather vs. R. Sanders   | 11.30.1996 | Reggie                         |
+| Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                        |
+| Lennox Lewis vs. Oliver McCall    | 09.24.1994 |                                |
+| Mike Tyson vs. Michael Spinks     | 06.27.1988 |                                |
+| Roger Mayweather vs. P. Whitaker  | 03.28.1987 | [[3.28.1987][See Notes]]                      |
+| Buster Douglas vs. Greg Page      | 01.17.1986 |                                |
+| Milton McCrory vs. Donald Curry   | 12.06.1985 |                                |
+| Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | "The War" co-fight of the year |
+| Muhammed Ali vs. George Foreman   | 10.30.1974 |                                |
+| Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                                |
+| Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][See Notes]]      |
 
 ** <<Notes>>
 *** Floy Mayweather vs. Victoriano Sosa <<4.19.2003>>
@@ -199,7 +202,7 @@ Junier Welterweight: Jose Ramirez and Josh Taylor
 *** Tommy Hearns
 *** Eder Jofre
 *** Larry Holmes: lethal left jab
-*** Carlos Monzon
+*** Carlos Monzon: punching power and relentless work rate
 *** Pernell Whitaker: one of the best pure boxers, robbed of big fights
 *** Alexis Arguello: one of the greatest punchers
 *** Mike Tyson
@@ -237,6 +240,11 @@ WBA / WBC and lineal super middleweight championship (and, arguably, the lineal
 WBA 'super'/ IBF / WBO light heavyweight championship vs Sergey Kovalev, 17
   June 2017
 
+
+
+** Bernard Hopkins
+   vs Joe Calzaghe?
+     - Roach tell him to throw more combos, something Hopkins doesnt really do
 
 
 ** Floyd Mayweather
@@ -300,32 +308,46 @@ Footwork
 Need to add the scared fighter fight
 | *Event*             | *Date*     | *Notes*                 |
 |---------------------+------------+-------------------------|
-| UFC 240             | 7/27/2019  | Holloway vs. Edgar      |
-| UFC 238             | 6/8/2019   | Cejudo vs. Moraes       |
-| UFC Fight Night 153 | 6/1/2019   | Gustafsson vs. Smith    |
-| UFC Fight Night 152 | 5/18/2019  | dos Anjos vs. Lee       |
-| UFC 237             | 5/11/2019  | Namajunas vs. Andrade   |
-| UFC 236             | 4/14/2019  | Holloway vs. Poirier    |
-| UFC 229             | 8/6/2018   | Khabib vs. McGregor     |
-| UFC 203             | 9/10/2016  | Miocic vs. Overeem      |
-| UFC 202             | 8/20/2016  | Diaz vs. McGregor II    |
-| UFC 201             | 7/30/2016  | Lawler vs. Woodley      |
-| UFC 200             | 7/9/2016   | Tate vs. Nunes          |
-| UFC 196             | 3/5/2016   | McGregor vs. Diaz       |
-| UFC 194             | 12/12/2015 | Aldo vs. McGregor       |
-| UFC 193             | 11/14/2015 | Rousey vs. Holm         |
-| UFC 184             | 2/28/2015  | Rousey vs. Zingano      |
-| UFC 167             | 11/16/2013 | St-Pierre vs. Hendricks |
-| UFC 165             | 9/21/2013  | Jones vs. Gustafsson    |
+| UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
+|                     |            |                         |
+| UFC 239: Prelims    | 07.06.2019 | Perez vs. Song Yadong   |
+| UFC 238             | 06.08.2019 | Cejudo vs. Moraes       |
+| UFC Fight Night 153 | 06.01.2019 | Gustafsson vs. Smith    |
+| UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee       |
+| UFC 237             | 05.11.2019 | Namajunas vs. Andrade   |
+| UFC 236             | 04.14.2019 | Holloway vs. Poirier    |
+| UFC 229             | 08.06.2018 | Khabib vs. McGregor     |
+| UFC 203             | 09.10.2016 | Miocic vs. Overeem      |
+| UFC 202             | 08.20.2016 | Diaz vs. McGregor II    |
+| UFC 201             | 07.30.2016 | Lawler vs. Woodley      |
+| UFC 200             | 07.9.2016  | Tate vs. Nunes          |
+| UFC 196             | 03.05.2016 | McGregor vs. Diaz       |
+| UFC 194             | 12.12.2015 | Aldo vs. McGregor       |
+| UFC 193             | 11.14.2015 | Rousey vs. Holm         |
+| UFC 184             | 02.28.2015 | Rousey vs. Zingano      |
+| UFC 167             | 11.16.2013 | St-Pierre vs. Hendricks |
+| UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
+| UFC 1               | 11.12.1993 |                         |
+
+** Fights
+|---------------------------------+-----------+---------------|
+| *Fighters*                      |    *Date* | *Event*       |
+|---------------------------------+-----------+---------------|
+| Felicia Spencer vs M. McElhaney | 03.25.2017 | Invicta FC 22 |
+
 
 
 * Trainers
 :training:
 [[https://www.muscleandfitness.com/workouts/workout-routines/ultimate-boxing-workout-plan-get-lean-and-fit][Freddy Roach based]]
 :end:
+** Angelo Dundee
+Trained Muhammad Ali, Sugar Ray Leonard, George Foreman, etc.
 ** Eddie Futch <<<read more>>>
 ** Cus D'Amato
 Trained Mike Tyson
+** Emanuel "Manny" Steward
+Trained Hearns, Lennox Lewis, Klitschko
 ** Matt Baranski
 ** Virgil Hunter
 Andre Ward's coach: studied under Jimmy Simmons, master of slip-slide style
@@ -344,6 +366,9 @@ Boxing writer
 HBO's ringside judge, what spunk!
 Based his scoring on four criteria:
  - ring generalship; clean, hard punching; effective aggression; and defense.
+** Lou DiBella
+AMerican boxing promoter and producer
+
 
 
 * Moves & Terms
@@ -419,6 +444,9 @@ trapping: Yip Man type stuff
  exceptional people."
    - Cus D'Amato
 
+"Adulation is a class A drug"
+   - Barry McGuigan
+
 "Had I an enemy whom I wished to ruin, body and soul, I would ask no more than
  to turn him out into the company of pugilists and their clique, and the matter
  would be effected without delay."
@@ -481,6 +509,9 @@ George Foreman occupied the center with his palms
 * To Watch
 Ray Mercer: Erin got picture with?
 :today:
+Buster Douglas vs Tony Tucker
+Felicia_Spencer # leg tied up but still jumps to knee opponent!
+Lomanchenko on ESPN
 Oscar De La Hoya vs Bernard Hopkins
 Roger Mayweather vs. Kostya Tszyu
 Tommy "Hurricane" Jackson
@@ -510,15 +541,11 @@ Fury excels at using head position to keep his opponents from getting underneath
  him, or standing up tall to leverage uppercuts when they persist in trying, and
  handfighting to off-balance and create openings in their defenses
 :end:
-:espn:
-Lomachenko
-:end:
 :docos:
 [[https://en.wikipedia.org/wiki/Folk_wrestling][Folk Wrestling]]
 Gloves Off: about Frank Bruno, former British Heavyweight Champion
 When We Were Kings
 :end:
-
 :Harold-Ledermans-Favourite:
  The best fight I ever saw without question, I was very fortunate to be a judge
  in the fight, between the then current WBC 122 pound champion Wilfredo Gomez,
@@ -529,9 +556,9 @@ and Benitez. It took everything out of you. I’m virtually positive I had Gomez
 ahead at the time of the knockout. What happened was nobody knocked each other
 down. In the 14th round after going back and forth and back and forth Lupe Pintor fell down and Arthur Mercante Sr. counted him out. Interestingly enough Gomez walked out of the ring that night his faced looked like hamburger, Pintor walked out he didn’t have a scratch on him. Any of the great fights you’ve ever seen, Gomez and Pintor was just better.
 :end:
-
 :best-of-past:
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][You break it, you bought it: Ivan Calderon vs Giovani Segura]]
+Corrales vs Castillo : 5/7/2005
 :end:
 :dazn:
 Whyte vs. Chisora 2016
@@ -543,6 +570,22 @@ Canelo vs. Khan 2016
 Khan vs. Vargas 2018
 =Manny Pacquiao=
 =Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
+:end:
+:espn:
+If a Lomachenko fight isn't here, probs on Youtube
+Lomachenko vs. Ramirez
+Lomachenko vs. Salido
+Lomachenko vs. Tatkhum
+Lomachenko vs. Rodriguez
+Lomachenko vs. Koasicha
+Lomachenko vs. Walters
+Lomachenko vs. Crolla
+Lomachenko vs. Campbell
+:end:
+:Youtube:
+2017
+Wilder vs. Stiverne
+Wilder vs Ortiz 2
 :end:
 :best-of-2017:
 Rungvisai vs Roman Gonzalez
@@ -582,18 +625,21 @@ Groves vs. Smith
 :end:
 :best-of-2018:
 - [X] February 3 – Murat Gassiev vs Yunier Dorticos
-February 24 – Srisaket Sor Rungvisai vs Juan Estrada [Youtube]
-March 3 – Deontay Wilder vs Luiz Ortiz
-March 10 – Oscar Valdez vs Scott Quigg
-April 7 – Jarrett Hurd vs Erislandy Lara
+- [X] February 24 – Srisaket Sor Rungvisai vs Juan Estrada [Youtube]
+- [X] March 3 – Deontay Wilder vs Luiz Ortiz   [Showtime]  [Youtube]
+March 10 – Oscar Valdez vs Scott Quigg [[[https://www.dailymotion.com/video/x74wu61][dailymotion]]]
+April 7 – Jarrett Hurd vs Erislandy Lara [Showtime]
 May 12 – Vasyl Lomachenko vs Jorge Linares
 June 30 – Alex Saucedo vs Lenny Zappavigna
 July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
 September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
 September 24 – Sho Kimura vs Kosei Tanaka
-December 1 – Deontay Wilder vs Tyson Fury
+December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 December 22 – Josh Warrington vs Carl Frampton
 December 22 – Dillian Whyte vs Dereck Chisora II
+:end:
+:2019:
+10/12/2019 - Warrignton vs Takoucht  ESPN
 :end:
 :best-of-2019:
 Julian Williams vs. Jarrett Hurd : May 11th PBC
@@ -605,8 +651,13 @@ Naoya Inoue vs. Nonito Donaire : November 11th   DAZN  [[https://www.espn.co.uk/
 :Josh-Warrington-watched:
 Studied Ricky Hatton, Vasyl Lomachenko, Mike Tyson
 :end:
+:contemporary:
+Vasyl Lomachenko
+Errol Spence Jr.
+Josh Warrington
+:end:
 
-
+*** Boxers
 Alex Arguello vs Aaron Pryor: controversial challenge
 Barney Ross vs Henry Armstrong 1938
 Carlos Monzon: in-ring monster, conviction for murder
@@ -621,12 +672,21 @@ Henry Armstrong: one of the greatest, inside smothering style
 George Foreman:
  - occupying the center with straigh palms (vs Ted Gullick)
  - using wide rights and left hooks to get to corner for ferocious uppercuts
+Gregorio Vargas: retired Mexican boxer, world featherweight title holder
 Joe Gans: straight punching with vertical fist
 Jack Dempsey: move forward punching with each step
+Josh Warrington: English professional boxer, down to earth guy
 Julio Cesar Chavez vs Meldrick Taylor rematch, first fight too
 Larry Holmes: one of the best jabs in boxing history, pure boxer
+Matthew Saad Muhammad: Ligh Heavyweigth Champ for two .5 years
+Micky Ward: see classic fight tab
 Naseem Hamed: defined British scene, legacy defining ring entrances
+Ricky Hatton
+Roberto Duran !
 Roy Jones Dr.
+Sonny Liston: known for toughness, formidable punching, long reach, intimidating
+Thomas Hearns: changed by Manny Steward from light hitting boxer to one of the
+               most devastating punchers in boxing history
 Tommy "Hurricane" Jackson: quirky mystifying style
 Wilfredo Gomez vs Carlos Zarate: highest combined knockout percentage match
 Life after boxing
@@ -634,21 +694,33 @@ Life after boxing
 Barry McGuigan: former Irish world champion
 Chris Eubank: former British world champion
 Nigel Benn: former British world champion
+Bobby Czyz: the fighter with no quite?
 *** classic
+Larry Holmes vs Michael Spinks
 Jack Dempsey vs Jess Willard
+Tex Cobb vs Earnie Shavers, Michael Dokes, Larry Holmes
+Tex Cobb vs Larry Holmes: so brutal commentator vowed never to work another
+                          professional fight
+Larry Holmes vs David Bey
 Muhammed Ali vs Henry Cooper, Floyd Patterson
 Micky Ward vs Arturro Gatti trilogy
 Castillo-Corrales, of course
 Hagler-Hearns, sure
 Cleverly-Bellew II, stay home, you're drunk
 
+
 ** Fighters
+*** UFC
+Arnold Allen UFC Fight Night 1.25.2020
+Song Yadong  UFC on ESPN 12.07.2019
 *** Petr Yan
 My type of style I think!!
 "Boxeresque  in MMA done perfect"
 "Old school boxing stance with the lead shoulder high"
 high lead shoulder with chin tucked down so the lead hand can be forward more
 
+*** Kazushi Sakuraba
+Jack Slack has great vid on him :)
 *** Fedor Emelianenko
 greatest mixed matrial artist of all time
 *** Andy Hug
@@ -668,6 +740,8 @@ low spinning heel kick targeting thighs
 [[https://www.badlefthook.com/2020/3/27/21193445/blh-movie-club-boxing-movies-reviews-film][badlefthook movie club]]
 Life After Boxing
 Fallen Soldier
+Rocky V
+The Great White Hype
 ** MMA
 :UFC-240:
 [[https://www.mmamania.com/2019/5/28/18643066/latest-ufc-240-fight-card-rumors-updates-holloway-vs-edgar-july-27-edmonton-mma][Fight card]]
@@ -680,6 +754,7 @@ Chan Sung Jung, Korean Zombie
 Then UFC 239
 UFC 141, forget why
 :random-fights:
+Pride 2000 Grand Prix: Kazushi Sakuraba vs. Royce Gracie
 Anderson Silva vs Chris Weidman (I-II): look for collar tie
 Derrone vs Donald Sikona?
 Ciryl Gane: Muay Thai
@@ -712,6 +787,13 @@ UFC 245
 Park vs. Shim
 =Fight Nights Global= has some kickboxing
 
+** Podcasts
+SI Boxing with Chris Mannix: high level
+William Hill Boxing: British, good, all about the fights, brief
+Boxing by Sunday Puncher: American, good, super fans, funny
+
+Cheap Seats Boxing Show
+
 
 * To Read
 [[https://www.nytimes.com/2001/10/14/sports/sports-of-the-times-you-could-trust-the-trainer-eddie-futch.html][You Could Trust the Trainer Eddie Futch]]
@@ -743,12 +825,14 @@ Park vs. Shim
 - [ ] Footwork Wins Fights:
 :end:
 *** Bunce's Big Fat Short History of British Boxing: Steve Bunce
+*** TYSON BOOK PAGED 85
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Bartley Gorman: King of the Gypsies
 *** Dark Trade: Lost in Boxing by Donald McRae
 *** Earnie Shaver: Welcome to the Big Time
 *** The Eddie Futch Interview: A Conversation with Boxing Legend and Trainer
 *** Floyd Patteron: Basic Boxing Skills
+*** My View From the Corner: A Life in Boxing, Angelo Dundee
 ** Articles
 *** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
 *** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]

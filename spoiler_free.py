@@ -7,16 +7,27 @@ import requests
 fighter = 'Floyd_Mayweather_Jr.'
 fighter = 'Daniel_Dubois_(boxer)'
 fighter = 'Murat_Gassiev'
-fighter = 'Bernard_Hopkins'
+fighter = 'Vasyl_Lomachenko'
+fightre = 'Errol_Spence_Jr.'
 
 # -- MMA --
 fighter = 'Alexander_Gustafsson'
 fighter = 'Marlon_Moraes'
 fighter = 'Petr_Yan'
 fighter = 'Frankie_Edgar'
+fighter = 'Lyoto_Machida'
+fighter = 'Arnold_Allen_(fighter)'
 fighter = 'Felicia_Spencer' # leg tied up but still jumps to knee opponent!
+fighter = 'Diego_Sanchez'
 
-# fighter = 'Andre_Ward'
+fighter = 'Andre_Ward'
+fighter = 'Buster_Douglas'
+# fighter = 'Mike_Tyson'
+# fighter = 'Josh_Warrington'
+# fighter = 'Bernard_Hopkins'
+fighter = 'Lyoto_Machida'
+fighter = 'Song_Yadong'
+
 
 
 def check_boxing_columns(rows):
