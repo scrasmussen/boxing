@@ -394,6 +394,7 @@ AMerican boxing promoter and producer
 l. hook - r. straight - jab: brings up hands wided, does damage, keep distance
 :end:
 
+[[https://made4fighters.com/blog/advanced-boxing-strategy/][advanced boxing strategies]]
 angle shift : Especially Tyson's
 bumping from Lyoto Machida or Fedor Emelianenko
 check hook (see Archie Moore)
@@ -429,6 +430,7 @@ straigth palms: occupying the center, George Foreman
 two main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
  - hand checking, smotherers (see George Foremon; Sandy Saddler)
+up jab:
 
 
 ** Terms
@@ -860,6 +862,7 @@ Cheap Seats Boxing Show
 *** TYSON BOOK PAGED 85
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Bartley Gorman: King of the Gypsies
+*** Tao of Jeet Kune Do - Bruce Lee
 *** Dark Trade: Lost in Boxing by Donald McRae
 *** Earnie Shaver: Welcome to the Big Time
 *** The Eddie Futch Interview: A Conversation with Boxing Legend and Trainer
@@ -867,6 +870,7 @@ Cheap Seats Boxing Show
 *** My View From the Corner: A Life in Boxing, Angelo Dundee
 ** Articles
 *** [[http://fightland.vice.com/blog/jack-slack-the-bible-of-striking][Jack Slack the bible of striking]]
+*** [[https://www.mightyfighter.com/sergey-kovalev-vs-andre-ward-fight-analysis/][Ward vs Kovalev - Fight Analysis]]
 *** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
 *** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]
 *** [[https://www.ringtv.com/582860-canelo-alvarez-contemplating-greatness/][Canelo Alvarez: comtemplating greatness]] 11/6/2019
@@ -877,6 +881,7 @@ Cheap Seats Boxing Show
 *** [[https://www.espn.co.uk/mma/story/_/id/29018509/ufc-249-postponed-now-fighters-ufc][UFC 249 Postponed: What's Next]]
 *** [[https://www.bloodyelbow.com/2013/2/8/3967168/jack-slack-greatest-strikers-giorgio-petrosyan][Jack Slack's Greatest Strikers: Giorgio Petrosyan]]
 *** [[http://fightland.vice.com/blog/the-freaks-of-japanese-mma-ashikan-judan-and-wicky-akiyo][The Freaks of Japanese MMA]]
+*** [[https://www.mightyfighter.com/floyd-mayweather-jr-teaches-3-smart-boxing-techniques/][Three Mayweather Techniques]]
 *** [[https://www.ringtv.com/597146-a-fan-remembers-hagler-vs-hearns-part-2/][A fan remembers Hagler vs Hearns]]
 *** [[https://chinesemartialstudies.com/2016/01/12/letting-real-kung-fu-die-paradoxes-of-the-traditional-chinese-martial-arts-as-intangible-cultural-heritage/][Letting Real Kung Fu Die]]
 *** Why the fascination with boxing? Time Magazine June 27, 1988
