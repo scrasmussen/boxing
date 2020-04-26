@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 55 matches
+: I have seen 57 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -68,9 +68,13 @@ A collection of ideas and history.
 | Buster Douglas vs. Greg Page      | 01.17.1986 |                                |
 | Milton McCrory vs. Donald Curry   | 12.06.1985 |                                |
 | Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | "The War" co-fight of the year |
+| Carlos Zarate vs Alfonso Zamora   | 04.23.1977 | pre, 74 knockouts in 75 fights |
 | Muhammed Ali vs. George Foreman   | 10.30.1974 |                                |
 | Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                                |
 | Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][See Notes]]      |
+| Jack Johnson vs. Fireman J. Flynn | 04.07.1912 | Jim headbutted. Sherrif stops  |
+
+
 
 ** <<Notes>>
 *** Floy Mayweather vs. Victoriano Sosa <<4.19.2003>>
@@ -204,7 +208,8 @@ Junier Welterweight: Jose Ramirez and Josh Taylor
 *** Larry Holmes: lethal left jab
 *** Carlos Monzon: punching power and relentless work rate
 *** Pernell Whitaker: one of the best pure boxers, robbed of big fights
-*** Alexis Arguello: one of the greatest punchers
+*** Alexis Arguello: one of the greatest punchers,
+tall and loved to fight inside?
 *** Mike Tyson
 *** Oscar De La Hoya
 *** Ted "Kid" Lewis
@@ -329,7 +334,7 @@ Need to add the scared fighter fight
 | UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
 | UFC 1               | 11.12.1993 |                         |
 
-** Fights
+** Individual Fights
 |---------------------------------+-----------+---------------|
 | *Fighters*                      |    *Date* | *Event*       |
 |---------------------------------+-----------+---------------|
@@ -346,6 +351,7 @@ Trained Muhammad Ali, Sugar Ray Leonard, George Foreman, etc.
 ** Eddie Futch <<<read more>>>
 ** Cus D'Amato
 Trained Mike Tyson
+*** Trainers Kevin Rooney and Teddy Atlas
 ** Emanuel "Manny" Steward
 Trained Hearns, Lennox Lewis, Klitschko
 ** Matt Baranski
@@ -374,12 +380,15 @@ AMerican boxing promoter and producer
 * Moves & Terms
 ** Moves
 :to-learn:
+ - [[https://www.mightyfighter.com/top-5-advanced-boxing-techniques/][five advanced boxing techniques]]
+   - corkscrew punch, leaping lead hook, multi lead hook, double cross,
  - slight left out and back, slight right back, boxing stance
  - more from that video
 =workout=
  - break right and left when on the ropes, George Groves Masterclass
    pull left step left pivot
  - left half step side; jump right ; boxing stance
+ - slip bag
 :end:
 :combos:
 l. hook - r. straight - jab: brings up hands wided, does damage, keep distance
@@ -397,10 +406,14 @@ Jersey Joe Walcott's Footwork
 Pacquiao's footwork
 [[https://lawofthefist.com/comprehensive-guide-to-footwork-in-boxing/][Comprehenvise guide to footwork]]
 :end:
+inside slip: slip to the side of the opponents power hand, more dangerous
 :jab:
 Larry Holmes boog jab
 springing jab: juan manuel marquez
 :end:
+lock & switch: use forearm to lock opponents gloves, stance switch
+punching through standing guard: Badr Hari
+rolling thunder kick: Tenshin Nasukawa
 shoe shine: change lower level, upper cuts to the body
 :shoulder-roll:
 Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
@@ -413,7 +426,6 @@ similare to shoulder roll, lead hand out instead of in
 :end:
 straight punching with vertical fist: Jack Johnson and Joe Gans
 straigth palms: occupying the center, George Foreman
-punching through standing guard: Badr Hari
 two main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
  - hand checking, smotherers (see George Foremon; Sandy Saddler)
@@ -446,6 +458,10 @@ trapping: Yip Man type stuff
 
 "Adulation is a class A drug"
    - Barry McGuigan
+
+"I don’t allow people to intimidate me, for no other reason than to set an
+ example for my boxers."
+   - Cus D'Amato
 
 "Had I an enemy whom I wished to ruin, body and soul, I would ask no more than
  to turn him out into the company of pugilists and their clique, and the matter
@@ -489,6 +505,7 @@ Talks about Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
 
 *** [[https://www.unibet.co.uk/blog/more-sports/boxing/joshua-vs-ruiz-heart-and-work-rate-the-key-to-success-in-anthony-joshuas-madison-square-garden-debut-1.1192446][Joshua vs Ruiz]]
 ** MMA
+*** [[https://www.vice.com/en_us/article/j5nxgb/stomping-the-knee-a-guide-to-countering-mmas-most-ungentlemanly-tactic][stomping the knee: guid to countering MMA's most ungentlemanly tactic]]
 *** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
 Pat Berry influenced by Sagat
 Sagat Petchyindee influenced Sagat
@@ -640,6 +657,7 @@ December 22 – Dillian Whyte vs Dereck Chisora II
 :end:
 :2019:
 10/12/2019 - Warrignton vs Takoucht  ESPN
+Roy Jones Jr. Boxing on UFC fight pass
 :end:
 :best-of-2019:
 Julian Williams vs. Jarrett Hurd : May 11th PBC
@@ -694,8 +712,12 @@ Life after boxing
 Barry McGuigan: former Irish world champion
 Chris Eubank: former British world champion
 Nigel Benn: former British world champion
-Bobby Czyz: the fighter with no quite?
 *** classic
+**** fighters
+Eusebio Pedroza: one of the dirtiest fighters
+Bobby Czyz: the fighter with no quite?
+
+**** fights
 Larry Holmes vs Michael Spinks
 Jack Dempsey vs Jess Willard
 Tex Cobb vs Earnie Shavers, Michael Dokes, Larry Holmes
@@ -704,9 +726,12 @@ Tex Cobb vs Larry Holmes: so brutal commentator vowed never to work another
 Larry Holmes vs David Bey
 Muhammed Ali vs Henry Cooper, Floyd Patterson
 Micky Ward vs Arturro Gatti trilogy
+Jack Dempsey vs. Fireman Jim Flynn
 Castillo-Corrales, of course
 Hagler-Hearns, sure
 Cleverly-Bellew II, stay home, you're drunk
+*** random things
+joe calzaghe vs jeff lacy: for the clinch game?
 
 
 ** Fighters
@@ -750,6 +775,13 @@ The Great White Hype
 
 =on UFC Fight Night: Moicano vs. The Korean Zombie=
 Chris Weidman vs Machida
+:LOOK-HERE:
+Jones uses a great deal of double hand checking himself. This meant that the
+ second Jones – Cormier fight took on that strange dynamic that Lyoto Machida
+ vs Chris Weidman and Robbie Lawler vs Johnny Hendricks II did. Both men stood
+ in striking range, checking their opponent’s offensive options and then tried
+ to trick him with a crafty straight around the side or up the middle.
+:end:
 Chan Sung Jung, Korean Zombie
 Then UFC 239
 UFC 141, forget why
@@ -834,6 +866,7 @@ Cheap Seats Boxing Show
 *** Floyd Patteron: Basic Boxing Skills
 *** My View From the Corner: A Life in Boxing, Angelo Dundee
 ** Articles
+*** [[http://fightland.vice.com/blog/jack-slack-the-bible-of-striking][Jack Slack the bible of striking]]
 *** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
 *** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]
 *** [[https://www.ringtv.com/582860-canelo-alvarez-contemplating-greatness/][Canelo Alvarez: comtemplating greatness]] 11/6/2019
