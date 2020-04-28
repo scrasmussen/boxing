@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 59 matches
+: I have seen 62 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -23,15 +23,18 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Mikey Garcia vs. Sergey Lipinets  | 03.10.2018 |                                |
 | Oscar Valdez vs Scott Quigg       | 03.10.2018 |                                |
 | Deontay Wilder vs Luiz Ortiz      | 03.03.2018 |                                |
 | S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco       |
 | Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
 | L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac             |
+| Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                        |
 | Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match                   |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                                |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                                |
+| Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match      |
 | F. Mayweather vs. Phillip N'dou   | 11.01.2003 | [[11.1.2003][Notes]]                          |
 | Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][Notes]]                          |
 | F. Mayweather vs. JL. Castillo II | 12.07.2002 |                                |
@@ -290,6 +293,12 @@ a main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
 
 
+** Mikey Garcia
+The one you show when you want to show someone what a boxer should look like
+vs Zlatičanin, [to be seen] of the year canidate
+vs. J. Vargas 2020 [DAZN]
+
+
 ** Muhammed Ali
 | TODO: add more |            |
 
@@ -389,6 +398,8 @@ George Gainford Sugar Ray Robinson's coach from the south, so you see slip-slide
 
 
 ** <<Personalities>>
+** Al Bernstein
+ESPN then in 2003 switch to Showtime boxing announcer
 ** Bert Sugar
 Boxing writer
 ** Harold Lederman
@@ -396,7 +407,7 @@ HBO's ringside judge, what spunk!
 Based his scoring on four criteria:
  - ring generalship; clean, hard punching; effective aggression; and defense.
 ** Lou DiBella
-AMerican boxing promoter and producer
+American boxing promoter and producer
 
 
 
@@ -618,23 +629,6 @@ down. In the 14th round after going back and forth and back and forth Lupe Pinto
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][You break it, you bought it: Ivan Calderon vs Giovani Segura]]
 Corrales vs Castillo : 5/7/2005
 :end:
-:dazn:
-Whyte vs. Chisora 2016
-=Amir Khan=
-Khan vs. Maidana 2010
-Khan vs. Judah 2011
-Khan vs. Peterson 2011
-Canelo vs. Khan 2016
-Khan vs. Vargas 2018
-=Manny Pacquiao=
-=Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
-:end:
-:Youtube:
-2017
-Wilder vs. Stiverne
-Wilder vs Ortiz 2
-=Matchroom Boxing Fights=
-:end:
 :best-of-2017:
 - [X] Rungvisai vs Roman Gonzalez
 :end:
@@ -709,7 +703,16 @@ Josh Warrington
 Sunny Edwards
 :end:
 
-
+*** DAZN
+Whyte vs. Chisora 2016
+=Amir Khan=
+Khan vs. Maidana 2010
+Khan vs. Judah 2011
+Khan vs. Peterson 2011
+Canelo vs. Khan 2016
+Khan vs. Vargas 2018
+=Manny Pacquiao=
+=Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
 *** ESPN
 **** maincards
 | *Event*                 |     *Date* |
@@ -760,6 +763,12 @@ Lomachenko vs. Walters
 Lomachenko vs. Crolla
 Lomachenko vs. Campbell
 
+*** Youtube
+**** main events
+11.04.2017 Deontay Wilder vs Bermane Stiverne 2
+**** Wilder vs.
+vs. Stiverne
+vs. Ortiz 2
 *** Boxers
 
 

@@ -22,6 +22,7 @@ fighter = 'Arnold_Allen_(fighter)'
 fighter = 'Felicia_Spencer' # leg tied up but still jumps to knee opponent!
 fighter = 'Diego_Sanchez'
 
+fighter = ''
 fighter = 'Andre_Ward'
 fighter = 'Buster_Douglas'
 # fighter = 'Mike_Tyson'
@@ -29,6 +30,7 @@ fighter = 'Buster_Douglas'
 # fighter = 'Bernard_Hopkins'
 fighter = 'Lyoto_Machida'
 fighter = 'Song_Yadong'
+fighter = 'Mikey_Garcia'
 
 
 
