@@ -8,7 +8,9 @@ fighter = 'Floyd_Mayweather_Jr.'
 fighter = 'Daniel_Dubois_(boxer)'
 fighter = 'Murat_Gassiev'
 fighter = 'Vasyl_Lomachenko'
-fightre = 'Errol_Spence_Jr.'
+fighter = 'Errol_Spence_Jr.'
+fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' # chocolatito
+
 
 # -- MMA --
 fighter = 'Alexander_Gustafsson'

@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 57 matches
+: I have seen 59 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -23,6 +23,7 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Oscar Valdez vs Scott Quigg       | 03.10.2018 |                                |
 | Deontay Wilder vs Luiz Ortiz      | 03.03.2018 |                                |
 | S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco       |
 | Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
@@ -31,6 +32,7 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                                |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                                |
+| F. Mayweather vs. Phillip N'dou   | 11.01.2003 | [[11.1.2003][Notes]]                          |
 | Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][Notes]]                          |
 | F. Mayweather vs. JL. Castillo II | 12.07.2002 |                                |
 | Floyd Mayweather vs. JL. Castillo | 04.20.2002 | Jose Luis. THE closest match   |
@@ -77,7 +79,11 @@ A collection of ideas and history.
 
 
 ** <<Notes>>
-*** Floy Mayweather vs. Victoriano Sosa <<4.19.2003>>
+*** Floyd Mayweather vs. Phillip N'dou <<11.1.2003>>
+round 5 1:17 left, rest of round impressive as well
+ - perfect example of using elbow from inside to misdirect a punch
+
+*** Floyd Mayweather vs. Victoriano Sosa <<4.19.2003>>
 Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
 Round 7, 1:17 left. Ha!
 Between 7-8: montage of Floyd's defence
@@ -153,6 +159,7 @@ Thomas Hearns
 Tyson Fury
 Anthony Joshua
 Sergey Kovalev
+RomanGonzalez # chocolatito, aggressive and great footwork
 Deontay Wilder
 Vasyl Lomachenko
 essentially contemporary: Wladimir Klitschko
@@ -306,15 +313,31 @@ Barrer 2 2007
 Footwork
 
 
+** ----Boxing Promotions----
+|--------------------------------+--------------------|
+| *Promotion*                    | *Network*          |
+|--------------------------------+--------------------|
+| Premier Boxing Champions (PBC) | Fox, FS1, Showtime |
+| Top Rank                       | ESPN               |
+| Golden Boy Promotions          | DAZN               |
+| Matchroom Sports               | DAZN               |
+
+
+** <<Boxers Continued>>
+** Ken Buchanan
+Retired Scottish boxer, former undisputed world lighweight champion
+Duran refused to honor two contracts to fight rematches with Buchanan
+** Henry Cooper
+Only three time winner of the Lonsdale Belt
 
 
 
 * MMA Events
 Need to add the scared fighter fight
-| *Event*             | *Date*     | *Notes*                 |
+| *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
 | UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
-|                     |            |                         |
+| UFC 239             | 07.06.2019 | Jones vs. Santos        |
 | UFC 239: Prelims    | 07.06.2019 | Perez vs. Song Yadong   |
 | UFC 238             | 06.08.2019 | Cejudo vs. Moraes       |
 | UFC Fight Night 153 | 06.01.2019 | Gustafsson vs. Smith    |
@@ -325,7 +348,7 @@ Need to add the scared fighter fight
 | UFC 203             | 09.10.2016 | Miocic vs. Overeem      |
 | UFC 202             | 08.20.2016 | Diaz vs. McGregor II    |
 | UFC 201             | 07.30.2016 | Lawler vs. Woodley      |
-| UFC 200             | 07.9.2016  | Tate vs. Nunes          |
+| UFC 200             |  07.9.2016 | Tate vs. Nunes          |
 | UFC 196             | 03.05.2016 | McGregor vs. Diaz       |
 | UFC 194             | 12.12.2015 | Aldo vs. McGregor       |
 | UFC 193             | 11.14.2015 | Rousey vs. Holm         |
@@ -391,7 +414,9 @@ AMerican boxing promoter and producer
  - slip bag
 :end:
 :combos:
-l. hook - r. straight - jab: brings up hands wided, does damage, keep distance
+3-2-1 :: brings up hands wided, does damage, keep distance
+8-L step-{left defends,1}-2 :: 8 brings arm left down, O. is worried about
+                               movement, not the 2. While L-step try 7 [[https://youtu.be/3rq8iKZnRyc][source]]
 :end:
 
 [[https://made4fighters.com/blog/advanced-boxing-strategy/][advanced boxing strategies]]
@@ -442,6 +467,9 @@ roadwork: running
 skip roap
 trap range vs clinch range
 trapping: Yip Man type stuff
+Undisputed: hold's world titles in all of the major sanctioning organizations
+ - WBA, WBC, IBF, and WBO
+Unified: holds at least two world champions fromm the major organizations
 
 
 
@@ -451,6 +479,11 @@ trapping: Yip Man type stuff
  from."
    - Brian Hughes, known as the Godfather of Manchester boxing, on how the
      streets are more dangerous than the gym, [[https://www.espn.com/boxing/story/_/id/28957747/gym-closed-coronavirus-leaves-local-boxers-no-place-go][Gym Closed]]
+
+"When a boxer slides out from his corner at the sound of the bell, a trained eye
+ can immediately ascertain the degree of his ability by the on-guard position he
+ assumes."
+   - John F. Walsh
 
 "Fear is like fire, you can make it work for you: It can warm you in the winter
  cook your food when you're hungry, give you light when you are in the dark. Let
@@ -483,8 +516,14 @@ trapping: Yip Man type stuff
 
 
 
-* Articles
-** Boxing
+* Literature
+** Boxing Books
+*** Bunce's Big Fat Short History of British Boxing
+**** 1971
+Henry Cooper should have fought Jimmy Ellis, British Boxing Board of Control
+ (BBBofC) didn't allow it and Jimmy ended up getting bludgeoned by Joe Frazier
+Henry Fought Jack Bodell, got kicked in the shins a bunch
+** Boxing Articles
 *** [[https://www.badlefthook.com/2020/3/19/21185798/watsons-favorite-fight-kostya-tszyu-vs-ricky-hatton-classic-boxing-history][Watson’s favorite fight: Kostya Tszyu vs Ricky Hatton]]
 *** [[https://www.bloodyelbow.com/2013/1/24/3908574/muhammad-ali-boxing-technique-jack-slack][Pulling Back the Curtian on Muhammad Ali]]
 Ali's anchor punch, used by Jack Johnson, though not the same setup.
@@ -506,7 +545,7 @@ Talks about Floyd Patterson vs Ingemar Johannsson, lack of referee mercy
  - [[https://fayzfitness.co.uk/the-history-of-the-philly-shell/][The History of the Philly Shell]]
 
 *** [[https://www.unibet.co.uk/blog/more-sports/boxing/joshua-vs-ruiz-heart-and-work-rate-the-key-to-success-in-anthony-joshuas-madison-square-garden-debut-1.1192446][Joshua vs Ruiz]]
-** MMA
+** MMA Articles
 *** [[https://www.vice.com/en_us/article/j5nxgb/stomping-the-knee-a-guide-to-countering-mmas-most-ungentlemanly-tactic][stomping the knee: guid to countering MMA's most ungentlemanly tactic]]
 *** [[http://fightland.vice.com/blog/around-the-world-in-the-fighting-styles-of-street-fighter][Around the World in the Fighting Styles of Street Fighter]]
 Pat Berry influenced by Sagat
@@ -590,24 +629,14 @@ Khan vs. Vargas 2018
 =Manny Pacquiao=
 =Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
 :end:
-:espn:
-If a Lomachenko fight isn't here, probs on Youtube
-Lomachenko vs. Ramirez
-Lomachenko vs. Salido
-Lomachenko vs. Tatkhum
-Lomachenko vs. Rodriguez
-Lomachenko vs. Koasicha
-Lomachenko vs. Walters
-Lomachenko vs. Crolla
-Lomachenko vs. Campbell
-:end:
 :Youtube:
 2017
 Wilder vs. Stiverne
 Wilder vs Ortiz 2
+=Matchroom Boxing Fights=
 :end:
 :best-of-2017:
-Rungvisai vs Roman Gonzalez
+- [X] Rungvisai vs Roman Gonzalez
 :end:
 :dazn-2018:
 
@@ -646,16 +675,16 @@ Groves vs. Smith
 - [X] February 3 – Murat Gassiev vs Yunier Dorticos
 - [X] February 24 – Srisaket Sor Rungvisai vs Juan Estrada [Youtube]
 - [X] March 3 – Deontay Wilder vs Luiz Ortiz   [Showtime]  [Youtube]
-March 10 – Oscar Valdez vs Scott Quigg [[[https://www.dailymotion.com/video/x74wu61][dailymotion]]]
-April 7 – Jarrett Hurd vs Erislandy Lara [Showtime]
-May 12 – Vasyl Lomachenko vs Jorge Linares
-June 30 – Alex Saucedo vs Lenny Zappavigna
-July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
-September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
-September 24 – Sho Kimura vs Kosei Tanaka
-December 1 – Deontay Wilder vs Tyson Fury [Showtime]
-December 22 – Josh Warrington vs Carl Frampton
-December 22 – Dillian Whyte vs Dereck Chisora II
+- [X] March 10 – Oscar Valdez vs Scott Quigg
+- [ ] April 7 – Jarrett Hurd vs Erislandy Lara [Showtime]
+- [ ] May 12 – Vasyl Lomachenko vs Jorge Linares
+- [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
+- [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
+- [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
+- [ ] September 24 – Sho Kimura vs Kosei Tanaka
+- [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
+- [ ] December 22 – Josh Warrington vs Carl Frampton
+- [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 :end:
 :2019:
 10/12/2019 - Warrignton vs Takoucht  ESPN
@@ -676,8 +705,64 @@ Vasyl Lomachenko
 Errol Spence Jr.
 Josh Warrington
 :end:
+:british-boxers:
+Sunny Edwards
+:end:
+
+
+*** ESPN
+**** maincards
+| *Event*                 |     *Date* |
+|-------------------------+------------|
+| Wilder vs Fury II       |            |
+| Dignum vs. Meli         | 03.07.2020 |
+| Lasisi vs. Jimenez      | 03.07.2020 |
+| Foster vs. Reid         | 02.22.2020 |
+| Alvarez vs. Seals       | 01.18.2020 |
+| Hart vs. Smith          | 01.11.2020 |
+| Murata vs. Butler       | 12.23.2019 |
+| Dubois vs. Fujimoto     | 12.21.2019 |
+| Navarrete vs. Horta     | 12.07.2019 |
+| Valdez vs. Lopez        | 11.30.2019 |
+| Tete vs. Casimero       | 11.30.2019 |
+| Berchelt vs. Sosa       | 11.02.2019 |
+| Herring vs. Roach Jr.   | 11.09.2019 |
+| Stevenson vs. Gonzalez  | 10.26.2019 |
+| Beterbiev vs. Gvozdyk   | 10.18.2019 |
+| Warrington vs. Takoucht | 10.12.2019 |
+| Golden Contract Tourny? | 10.04.2019 |
+| Fury vs. Wallin      ?  | 09.14.2019 |
+| Lomachenko vs. Campbell | 08.31.2019 |
+| Navarrete vs. De Vaca   | 08.17.2019 |
+| Kovalev vs. Yarde       | 08.24.2019 |
+| Conlan vs. Ruiz         | 08.03.2019 |
+| Lopez vs. Nakatani      | 07.19.2019 |
+| Crawford vs. Horn       | 07.09.2019 |
+| Lomachenko vs. Crolla   | 04.12.2019 |
+
+
+**** Crawford
+Horn
+Beltran
+Diaz
+Khan
+Gamboa
+**** Fury
+Schawarz
+
+**** Lomachenko
+Lomachenko vs. Ramirez
+Lomachenko vs. Salido
+Lomachenko vs. Tatkhum
+Lomachenko vs. Rodriguez
+Lomachenko vs. Koasicha
+Lomachenko vs. Walters
+Lomachenko vs. Crolla
+Lomachenko vs. Campbell
 
 *** Boxers
+
+
 Alex Arguello vs Aaron Pryor: controversial challenge
 Barney Ross vs Henry Armstrong 1938
 Carlos Monzon: in-ring monster, conviction for murder
@@ -858,7 +943,7 @@ Cheap Seats Boxing Show
  - [[http://fightland.vice.com/author/jack-slack][Fightland Articles]]
 - [ ] Footwork Wins Fights:
 :end:
-*** Bunce's Big Fat Short History of British Boxing: Steve Bunce
+*** Angelo Dundee's My View From the Corner
 *** TYSON BOOK PAGED 85
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
 *** Bartley Gorman: King of the Gypsies
