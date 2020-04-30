@@ -8,3 +8,6 @@ build:
 
 floyd:
 	$(lc) floyd_fights.py
+
+when:
+	@echo "beyond 17th of March, 2018"

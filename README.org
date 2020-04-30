@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 62 matches
+: I have seen 65 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -23,14 +23,17 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Jose Ramirez vs. Amir Imam        | 03.17.2018 |                                |
 | Mikey Garcia vs. Sergey Lipinets  | 03.10.2018 |                                |
 | Oscar Valdez vs Scott Quigg       | 03.10.2018 |                                |
+| Regis Prograis vs Julius Indongo  | 03.09.2018 |                                |
 | Deontay Wilder vs Luiz Ortiz      | 03.03.2018 |                                |
 | S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco       |
 | Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
 | L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac             |
 | Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                        |
 | Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match                   |
+| E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out       |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                                |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                                |
@@ -713,6 +716,9 @@ Canelo vs. Khan 2016
 Khan vs. Vargas 2018
 =Manny Pacquiao=
 =Rungvisai vs. Estrada 2= see first [[https://www.youtube.com/watch?v=ZBPqWyNEbYM][here]]
+**** Mayweather
+Juan Manuel Marquez
+Oscar De La Hoya
 *** ESPN
 **** maincards
 | *Event*                 |     *Date* |
@@ -769,6 +775,29 @@ Lomachenko vs. Campbell
 **** Wilder vs.
 vs. Stiverne
 vs. Ortiz 2
+**** Random
+Ajagba vs Kiladze 12/21/2019
+Mayweather vs Hatton
+Pacquiao vs Broner 1.19.2019
+Prince Naseem Hamed vs Steve Robinson
+Klitschko vs Fury
+Klitschko vs David Haye
+Pacquiao vs Miguel Cotto
+Froch vs George Groves II
+Kell Brooks vs Errol Spence Jr
+Mikey Garcia vs Jessie Vargas
+GGG vs Kell Brook
+Wilder vs Ortiz II
+GGG vs Serhiy Derevianchenko
+Anthony Joshua vs Alexander Povetkin
+Wilder vs Dominic Breazeale
+Anthony Joshua vs Dominic Breazeale
+Vasyl Lomachenko vs Anthony Crolla
+Anthony Joshua vs Joseph Parker 3.31.2018
+Amir Khan vs Devon Alexander
+Anthony Joshua vs Carlos Takam
+Carl Frampton vs Scott Quigg 2.27.2016
+Anthony Joshua vs Wladimir Klitschko 4.29.2017
 *** Boxers
 
 
@@ -805,6 +834,7 @@ Tommy "Hurricane" Jackson: quirky mystifying style
 Wilfredo Gomez vs Carlos Zarate: highest combined knockout percentage match
 Life after boxing
 *** at a point
+Ricky Burns: former world title holder in three divisions
 Barry McGuigan: former Irish world champion
 Chris Eubank: former British world champion
 Nigel Benn: former British world champion
@@ -830,7 +860,7 @@ Cleverly-Bellew II, stay home, you're drunk
 joe calzaghe vs jeff lacy: for the clinch game?
 
 
-** Fighters
+** MMA
 *** UFC
 Arnold Allen UFC Fight Night 1.25.2020
 Song Yadong  UFC on ESPN 12.07.2019
