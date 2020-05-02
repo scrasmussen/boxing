@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 65 matches
+: I have seen 69 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -23,6 +23,8 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Jarrett Hurd vs Erislandy Lara    | 04.07.2018 |                                |
+| Anthony Joshua vs Joseph Parker   | 03.31.2018 |                                |
 | Jose Ramirez vs. Amir Imam        | 03.17.2018 |                                |
 | Mikey Garcia vs. Sergey Lipinets  | 03.10.2018 |                                |
 | Oscar Valdez vs Scott Quigg       | 03.10.2018 |                                |
@@ -32,6 +34,7 @@ A collection of ideas and history.
 | Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
 | L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac             |
 | Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                        |
+| Manny Pacquiao vs. Jeff Horn      | 07.02.2017 |                                |
 | Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match                   |
 | E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out       |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
@@ -349,6 +352,7 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 241             | 08.17.2019 | Cormier vs. Miocic II   |
 | UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
 | UFC 239             | 07.06.2019 | Jones vs. Santos        |
 | UFC 239: Prelims    | 07.06.2019 | Perez vs. Song Yadong   |
@@ -674,7 +678,7 @@ Groves vs. Smith
 - [X] February 24 – Srisaket Sor Rungvisai vs Juan Estrada [Youtube]
 - [X] March 3 – Deontay Wilder vs Luiz Ortiz   [Showtime]  [Youtube]
 - [X] March 10 – Oscar Valdez vs Scott Quigg
-- [ ] April 7 – Jarrett Hurd vs Erislandy Lara [Showtime]
+- [X] April 7 – Jarrett Hurd vs Erislandy Lara [Showtime]
 - [ ] May 12 – Vasyl Lomachenko vs Jorge Linares
 - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
 - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
@@ -865,6 +869,7 @@ joe calzaghe vs jeff lacy: for the clinch game?
 *** UFC
 Arnold Allen UFC Fight Night 1.25.2020
 Song Yadong  UFC on ESPN 12.07.2019
+Fight Night in Shanghai August 31, 2019
 *** Petr Yan
 My type of style I think!!
 "Boxeresque  in MMA done perfect"
@@ -888,6 +893,8 @@ low spinning heel kick targeting thighs
 **** Semmy Schilt
 *** Fedor Emelianenko vs Mirko Cro Cop
 *** Katsunori Kikuno: one of Jack Slack's favourite oddities
+
+
 ** Film
 [[https://www.badlefthook.com/2020/3/27/21193445/blh-movie-club-boxing-movies-reviews-film][badlefthook movie club]]
 Life After Boxing

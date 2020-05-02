@@ -9,8 +9,14 @@ fighter = 'Daniel_Dubois_(boxer)'
 fighter = 'Murat_Gassiev'
 fighter = 'Vasyl_Lomachenko'
 fighter = 'Errol_Spence_Jr.'
+fighter = 'Canelo_Álvarez'
 fighter = 'Mikey_Garcia'  # "look to him for what a boxer should look like"
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' # chocolatito
+# fighter = 'Oleksandr_Usyk'                   # 11.10.2018
+# fighter = 'José_Ramírez_(boxer)'             # 09.14.2018
+# fighter = 'Boxing_career_of_Manny_Pacquiao'  # 07.15.2018
+# fighter = 'Regis_Prograis'                   # 07.14.2018
+# fighter = 'Josh_Warrington'                  # 05.19.2018
 
 
 # -- MMA --
@@ -22,18 +28,18 @@ fighter = 'Lyoto_Machida'
 fighter = 'Arnold_Allen_(fighter)'
 fighter = 'Felicia_Spencer' # leg tied up but still jumps to knee opponent!
 fighter = 'Diego_Sanchez'
+fighter = 'Song_Yadong' # 12.07.2019
+fighter = 'Colby_Covington' # UFC 245
 
 
 # -- Currently Watching ---
+# Boxing May 2018 || MMA August 2019
 fighter = 'Andre_Ward'
 fighter = 'Buster_Douglas'
 fighter = 'Mike_Tyson'
-fighter = 'Josh_Warrington'
-fighter = 'Bernard_Hopkins'
-fighter = 'Lyoto_Machida'
-fighter = 'Song_Yadong'
-fighter = 'José_Ramírez_(boxer)'
-fighter = 'Regis_Prograis'
+# fighter = 'Bernard_Hopkins'
+# fighter = 'Lyoto_Machida'
+# fighter = ''
 
 
 
