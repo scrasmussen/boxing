@@ -693,7 +693,7 @@ Groves vs. Smith
 Roy Jones Jr. Boxing on UFC fight pass
 :end:
 :best-of-2019:
-Julian Williams vs. Jarrett Hurd : May 11th PBC
+Julian Williams vs. Jarrett Hurd : [X] May 11th PBC
 Errol Spence vs. Shawn Porter : September 28th PBC
 Josh Taylor vs. Regis Prograis   : October 26th DAZN
 Gennadiy Golovkin vs. Sergiy Derevyanchenko : October 5th DAZN
