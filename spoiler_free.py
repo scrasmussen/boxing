@@ -5,41 +5,43 @@ import requests
 
 # -- Boxers --
 fighter = 'Floyd_Mayweather_Jr.'
-fighter = 'Daniel_Dubois_(boxer)'
-fighter = 'Murat_Gassiev'
-fighter = 'Vasyl_Lomachenko'
-fighter = 'Errol_Spence_Jr.'
-fighter = 'Canelo_Álvarez'
-fighter = 'Mikey_Garcia'  # "look to him for what a boxer should look like"
-fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' # chocolatito
-# fighter = 'Oleksandr_Usyk'                   # 11.10.2018
-# fighter = 'José_Ramírez_(boxer)'             # 09.14.2018
-# fighter = 'Boxing_career_of_Manny_Pacquiao'  # 07.15.2018
-# fighter = 'Regis_Prograis'                   # 07.14.2018
-# fighter = 'Josh_Warrington'                  # 05.19.2018
+fighter = 'Murat_Gassiev'                    #  eventually; on DAZN
+fighter = 'Oleksandr_Usyk'                   #  11.10.2018
+fighter = 'Canelo_Álvarez'                   #  09.15.2018
+fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
+fighter = 'José_Ramírez_(boxer)'             #  09.14.2018
+fighter = 'Mikey_Garcia'                     #  07.28.2018
+fighter = 'Boxing_career_of_Manny_Pacquiao'  #  07.15.2018
+fighter = 'Regis_Prograis'                   #  07.14.2018
+fighter = 'Daniel_Dubois_(boxer)'            #  06.23.2018
+fighter = 'Errol_Spence_Jr.'                 #  06.16.2018
+fighter = 'Josh_Warrington'                  #  05.19.2018
+fighter = 'Vasyl_Lomachenko'                 #  05.12.2018
 
 
 # -- MMA --
-fighter = 'Alexander_Gustafsson'
-fighter = 'Marlon_Moraes'
-fighter = 'Petr_Yan'
-fighter = 'Frankie_Edgar'
-fighter = 'Lyoto_Machida'
-fighter = 'Arnold_Allen_(fighter)'
-fighter = 'Felicia_Spencer' # leg tied up but still jumps to knee opponent!
-fighter = 'Diego_Sanchez'
-fighter = 'Song_Yadong' # 12.07.2019
-fighter = 'Colby_Covington' # UFC 245
-
+fighter = 'Alexander_Gustafsson'    # Retired
+ # leg tied up but still jumps to knee opponent!
+fighter = 'Felicia_Spencer'         #  02.29.2020  UFC Fight Night
+fighter = 'Diego_Sanchez'           #  02.15.2020 UFC Fight Night
+fighter = 'Arnold_Allen_(fighter)'  #  01.14.2020  UFC Fight Night
+fighter = 'Frankie_Edgar'           #  12.21.2019 UFC Fight Night
+fighter = 'Colby_Covington'         #  12.14.2019  UFC 245
+fighter = 'Marlon_Moraes'           #  12.14.2019  UFC 245
+fighter = 'Petr_Yan'                #  12.14.2019  UFC 245
+fighter = 'Song_Yadong'             #  12.07.2019
+fighter = 'Jorge_Masvidal'          #  11.02.2019  UFC 244
 
 # -- Currently Watching ---
 # Boxing May 2018 || MMA August 2019
+fighter = 'Lyoto_Machida'           # Bellator, past @ UFC 67 02.03.2007
 fighter = 'Andre_Ward'
 fighter = 'Buster_Douglas'
 fighter = 'Mike_Tyson'
-# fighter = 'Bernard_Hopkins'
-# fighter = 'Lyoto_Machida'
-# fighter = ''
+fighter = 'Bernard_Hopkins'
+fighter = ''
+
+
 
 
 
