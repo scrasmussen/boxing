@@ -4,6 +4,8 @@ current_fight = 33
 soup = BeautifulSoup(open("floyd_wiki.html"), 'lxml')
 for fight, row in enumerate(soup.find_all('tr')):
     fight = 51-fight
+    print("On Youtube https://youtu.be/o_PLFpTmIYw") if fight == 43 else False
+    print("On DAZN, Saturday Fight Live")            if fight == 39 else False
 
     columns = row.find_all('td')
     for i, column in enumerate(columns):

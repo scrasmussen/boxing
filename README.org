@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 69 matches
+: I have seen 73 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -23,6 +23,10 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Jermall Charlo vs. H. Centeno Jr. | 04.21.2018 | Hugo                           |
+| Gervonta Davis vs. Jesus Cuellar  | 04.21.2018 | Davis fun fighter              |
+| Adrien Broner vs. Jessie Vargas   | 04.21.2018 |                                |
+| Amir Khan vs. Phil Lo Greco       | 04.21.2018 |                                |
 | Jarrett Hurd vs Erislandy Lara    | 04.07.2018 |                                |
 | Anthony Joshua vs Joseph Parker   | 03.31.2018 |                                |
 | Jose Ramirez vs. Amir Imam        | 03.17.2018 |                                |
@@ -269,6 +273,13 @@ WBA 'super'/ IBF / WBO light heavyweight championship vs Sergey Kovalev, 17
      - Roach tell him to throw more combos, something Hopkins doesnt really do
 
 
+** Canelo Alvarez
+vs Trout    2013, DAZN SFL
+vs Kirkland 2015, DAZN SFL
+vs GGG      2017, DAZN SFL
+
+
+
 ** Floyd Mayweather
 as well as Pacquiao and McGregor
 DAZN: has De La Hoya, Hatton J. Marquez, Mosley, V. Ortiz, Cotto, Guerrero,
@@ -312,6 +323,7 @@ vs. J. Vargas 2020 [DAZN]
 
 ** Oscar De La Hoya
 Last round he goes hard. - Foreman.  Look out for this
+vs Gatti (2001) DAZN, Saturday Fight Live
 
 
 ** Pacquiao

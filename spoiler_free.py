@@ -3,28 +3,39 @@ from bs4 import BeautifulSoup
 from tabulate import tabulate
 import requests
 
+# Saturday Fight Live (SFL)
+
 # -- Boxers --
 fighter = 'Floyd_Mayweather_Jr.'
 fighter = 'Murat_Gassiev'                    #  eventually; on DAZN
-fighter = 'Jarrett_Hurd'                     #  12.01.2018
+# Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
+# Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
+fighter = 'Amir_Khan_(boxer)'                #  04.20.2019 vs Crawford, EPSN
+fighter = 'Gervonta_Davis'                   #  02.09.2019 # fun, powerful
+fighter = 'Adrian_Broner'                    #  01.19.2019
+fighter = 'Jermall_Charlo'                   #  12.22.2018
+fighter = 'Jarrett_Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr_Usyk'                   #  11.10.2018
-fighter = 'Canelo_Álvarez'                   #  09.15.2018
+fighter = 'Canelo_Álvarez'                   #  09.15.2018 DAZN ?
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José_Ramírez_(boxer)'             #  09.14.2018
-fighter = 'Mikey_Garcia'                     #  07.28.2018
+fighter = 'Amir_Khan_(boxer)'                #  09.08.2018 vs Samual Vargas
+fighter = 'Mikey_Garcia'                     #  07.28.2018 PBC
 fighter = 'Boxing_career_of_Manny_Pacquiao'  #  07.15.2018
 fighter = 'Regis_Prograis'                   #  07.14.2018
 fighter = 'Daniel_Dubois_(boxer)'            #  06.23.2018
-fighter = 'Errol_Spence_Jr.'                 #  06.16.2018
+fighter = 'Errol_Spence_Jr.'                 #  06.16.2018 PBC
+# Okolie vs. Watkins                         #  06.06.2018 DAZN
+fighter = 'Vergil_Ortiz_Jr.'                 #  05.23.2019 DAZN ?
 fighter = 'Josh_Warrington'                  #  05.19.2018
+# Stevenson vs Jack, Russell vs Diaz         #  05.19.2018 PBC
 fighter = 'Vasyl_Lomachenko'                 #  05.12.2018
+# Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Gennady_Golovkin'                 #  05.05.2018
-fighter = 'Amir_Khan_(boxer)'                #  04.21.2018 vs
-fighter = 'Jermall_Charlo'                   #  04.21.2018 vs Centeno
-fighter = 'Adrian_Broner'                    #  04.21.2018 vs Vargas
-                                             #       Davis vs Cuellar
-
- # https://www.forbes.com/sites/brianmazique/2018/04/02/boxing-schedule-april-2018-tv-and-stream-info-results-reported-earnings-and-viewership/#46c7737159f2
+# Bellow vs Haye 2,  Buatsi vs. Cuevas       #  05.05.2018 DAZN
+# Jessie Magdaleno vs. Isaac Dogboe          #  04.28.2018 Youtube it
+# Jacobs vs. Sulecki                         #  04.28.2018 HBO
+# Miller vs. Duhauspas                       #  04.28.2018 HBO
 
 
 # -- MMA --
@@ -49,7 +60,6 @@ fighter = 'Buster_Douglas'
 fighter = 'Mike_Tyson'
 fighter = 'Bernard_Hopkins'
 fighter = ''
-
 
 def check_boxing_columns(rows):
     total = 0
