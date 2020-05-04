@@ -17,6 +17,8 @@ fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018
+fighter = 'Maciej Sulecki'                   #  11.10.2018
+fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN ?
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
@@ -35,8 +37,7 @@ fighter = 'Vasyl Lomachenko'                 #  05.12.2018
 # Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Gennady Golovkin'                 #  05.05.2018
 # Bellow vs Haye 2,  Buatsi vs. Cuevas       #  05.05.2018 DAZN
-# Jacobs vs. Sulecki                         #  04.28.2018 HBO
-# Miller vs. Duhaupas, will he come in assics#  04.28.2018 HBO
+
 
 # -- MMA --
 fighter = 'Alexander Gustafsson'    # Retired
@@ -59,7 +60,7 @@ fighter = 'Andre Ward'
 fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
-# fighter = ''
+fighter = ''
 
 
 
