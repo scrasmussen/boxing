@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 75 matches
+: I have seen 79 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+--------------------------------|
@@ -22,7 +22,10 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match                   |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
+| Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation       |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
+| Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                          |
+| Tony Bellew vs David Haye 2       | 05.05.2018 |                                |
 | Jessie Magdaleno vs. Isaac Dogboe | 04.28.2018 |                                |
 | Daniyar Yeleussinov vs. Noah Kidd | 04.28.2018 |                                |
 | Daniel Jacobs vs. Maciej Sulecki  | 04.28.2018 |                                |
@@ -367,6 +370,7 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 242             | 09.07.2019 | Khabib vs. Poirier      |
 | UFC Fight Night     | 08.31.2019 | Andrade vs. Zhang       |
 | UFC 241             | 08.17.2019 | Cormier vs. Miocic II   |
 | UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
@@ -391,10 +395,17 @@ Need to add the scared fighter fight
 | UFC 1               | 11.12.1993 |                         |
 
 ** Individual Fights
-|---------------------------------+-----------+---------------|
-| *Fighters*                      |    *Date* | *Event*       |
-|---------------------------------+-----------+---------------|
-| Felicia Spencer vs M. McElhaney | 03.25.2017 | Invicta FC 22 |
+|-----------------------------------+------------+------------------|
+| *Fighters*                        |     *Date* | *Event*          |
+|-----------------------------------+------------+------------------|
+| Muslim Salikhov vs. Nordine Taleb | 09.07.2019 | UFC 242: Prelims |
+| Felicia Spencer vs. M. McElhaney  | 03.25.2017 | Invicta FC 22    |
+| Rico Verhoeven vs. Anderson Silva | 09.09.2016 | Glory 33 [[09.09.2016][Notes]]   |
+
+
+** Notes
+<<09.09.2016>>
+Wicked kicks to the inside far thigh cause two knockdowns!
 
 
 
@@ -402,6 +413,9 @@ Need to add the scared fighter fight
 :training:
 [[https://www.muscleandfitness.com/workouts/workout-routines/ultimate-boxing-workout-plan-get-lean-and-fit][Freddy Roach based]]
 :end:
+** Abel Sanchez
+2015 trainer of the year
+Golovkin's trianer
 ** Angelo Dundee
 Trained Muhammad Ali, Sugar Ray Leonard, George Foreman, etc.
 ** Eddie Futch <<<read more>>>
@@ -475,6 +489,7 @@ springing jab: juan manuel marquez
 lock & switch: use forearm to lock opponents gloves, stance switch
 punching through standing guard: Badr Hari
 rolling thunder kick: Tenshin Nasukawa
+running backwards: like Muhammad Ali
 shoe shine: change lower level, upper cuts to the body
 :shoulder-roll:
 Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
@@ -886,6 +901,7 @@ joe calzaghe vs jeff lacy: for the clinch game?
 Arnold Allen UFC Fight Night 1.25.2020
 Song Yadong  UFC on ESPN 12.07.2019
 Fight Night in Shanghai August 31, 2019
+UFC 221 Li vs Matthews eye gouge
 *** Petr Yan
 My type of style I think!!
 "Boxeresque  in MMA done perfect"
