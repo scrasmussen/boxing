@@ -17,7 +17,7 @@ fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
-fighter = 'Oleksandr Usyk'                   #  11.10.2018
+fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
@@ -25,6 +25,7 @@ fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
+fighter = 'Ryan García'                      #  09.01.2018 Morales
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
@@ -41,18 +42,18 @@ fighter = 'Shakur Stevenson'                 #  06.09.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
 fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby
 # Stevenson vs Jack, Russell vs Diaz         #  05.19.2018 PBC
-fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN
+fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
 fighter = 'Michael Conlan (boxer)'           #  05.12.2018
 # Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
 # Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Devin Haney'                      #  05.11.2018
-fighter = 'Ryan García'                      #  05.04.2018
 
 
 # -- MMA --
 fighter = 'Alexander Gustafsson'    # Retired
  # leg tied up but still jumps to knee opponent!
  #  UFC Fight Night: Andrade vs. Zhang 13:45
+fighter = 'Tony Ferguson'           #  Next UFC Card, wiki broken too
 fighter = 'Felicia Spencer'         #  02.29.2020  UFC Fight Night
 fighter = 'Diego Sanchez'           #  02.15.2020  UFC Fight Night
 fighter = 'Curtis Blaydes'          #  01.25.2020  UFC Fight Night
@@ -65,12 +66,15 @@ fighter = 'Marlon Moraes'           #  12.14.2019  UFC 245
 fighter = 'Petr Yan'                #  12.14.2019  UFC 245
 fighter = 'Song Yadong'             #  12.07.2019  UFC on ESPN
 fighter = 'Jorge Masvidal'          #  11.02.2019  UFC 244
+fighter = 'Robert Whittaker (fighter)' # 10.06.19  UFC 243
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
+# this Smolka vs Paddy Holohan is the best grappling match
+fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
 
 # --- Currently Watching ---
-# Boxing May 2018 || MMA September 2019  UFC Fight Night Cowboy
+# Boxing May 2018 || MMA September 2019  UFC Fight Night Rodriguez
 fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
 fighter = 'Archie Moore'
 fighter = 'Andre Ward'
@@ -78,6 +82,8 @@ fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
 fighter = ''
+fighter = 'Donald Cerrone'
+
 
 
 def check_boxing_columns(rows):

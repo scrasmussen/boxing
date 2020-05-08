@@ -13,88 +13,89 @@ A collection of ideas and history.
 : I have seen 79 matches
 
 #+NAME:boxingMatches
-|-----------------------------------+------------+--------------------------------|
-| *Fighters*                        |     *Date* | *[[Notes][Notes]]*                        |
-|-----------------------------------+------------+--------------------------------|
-| Tyson Fury vs. Deontay Wilder     | 02.22.2020 |                                |
-| Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                        |
-| Tyson Fury vs. Otto Wallin        | 09.14.2019 |                                |
-| Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match                   |
-| Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                                |
-| Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                                |
-| Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation       |
-| Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight Champ |
-| Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                          |
-| Tony Bellew vs David Haye 2       | 05.05.2018 |                                |
-| Jessie Magdaleno vs. Isaac Dogboe | 04.28.2018 |                                |
-| Daniyar Yeleussinov vs. Noah Kidd | 04.28.2018 |                                |
-| Daniel Jacobs vs. Maciej Sulecki  | 04.28.2018 |                                |
-| Gervonta Davis vs. Jesus Cuellar  | 04.21.2018 | Davis fun fighter              |
-| Jermall Charlo vs. H. Centeno Jr. | 04.21.2018 | Hugo                           |
-| Adrien Broner vs. Jessie Vargas   | 04.21.2018 |                                |
-| Amir Khan vs. Phil Lo Greco       | 04.21.2018 |                                |
-| Jarrett Hurd vs. Erislandy Lara   | 04.07.2018 |                                |
-| Anthony Joshua vs. Joseph Parker  | 03.31.2018 |                                |
-| Jose Ramirez vs. Amir Imam        | 03.17.2018 |                                |
-| Mikey Garcia vs. Sergey Lipinets  | 03.10.2018 |                                |
-| Oscar Valdez vs. Scott Quigg      | 03.10.2018 |                                |
-| Regis Prograis vs. Julius Indongo | 03.09.2018 |                                |
-| Deontay Wilder vs. Luiz Ortiz     | 03.03.2018 |                                |
-| S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco       |
-| Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                                |
-| L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac             |
-| Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                        |
-| Manny Pacquiao vs. Jeff Horn      | 07.02.2017 |                                |
-| Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match                   |
-| E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out       |
-| Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                                |
-| Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                                |
-| Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                                |
-| Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                       |
-| Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match      |
-| Floyd Mayweather vs. P. N'dou     | 11.01.2003 | Phillip. [[11.1.2003][Notes]]                 |
-| Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][Notes]]                          |
-| Floyd Mayweather vs. Castillo II  | 12.07.2002 | Jose Luis.                     |
-| Floyd Mayweather vs. JL. Castillo | 04.20.2002 | Jose Luis. THE closest match   |
-| Floyd Mayweather vs. Jesus Chavez | 11.10.2001 | tried Armstrong-esque pressure |
-| Floyd Mayweather vs. C. Hernandez | 05.26.2001 | Floyd went down from own punch |
-| Floyd Mayweather vs. D. Corrales  | 01.20.2001 | Diego                          |
-| Floyd Mayweather vs. E. Augustus  | 10.21.2000 | Emanuel                        |
-| Floyd Mayweather vs. G. Vargas    | 04.18.2000 | Gregorio                       |
-| Floyd Mayweather vs. C. Gerena    | 09.11.1999 | Carlos                         |
-| Floyd Mayweather vs. Justin Juuko | 05.22.1999 |                                |
-| Floyd Mayweather vs. Carlos Rios  | 02.17.1999 |                                |
-| Floyd Mayweather vs. A. Manfredy  | 12.19.1998 | Angel                          |
-| Floyd Mayweather vs. G. Hernandez | 10.03.1998 | Genaro                         |
-| Floyd Mayweather vs. Tony Pep     | 06.14.1998 |                                |
-| Floyd Mayweather vs. G. Cuello    | 04.18.1998 | Gustavo                        |
-| Floyd Mayweather vs. Miguel Melo  | 03.23.1998 |                                |
-| Floyd Mayweather vs. Sam Girard   | 02.28.1998 |                                |
-| Floyd Mayweather vs. H. Arroyo    | 01.09.1998 | Hector                         |
-| Floyd Mayweather vs. A. Nunez     | 11.20.1997 | Angelo                         |
-| Floyd Mayweather vs. F. Garcia    | 10.14.1997 | Felipe                         |
-| Floyd Mayweather vs. Louie Leija  | 09.06.1997 |                                |
-| Floyd Mayweather vs. J.R. Chavez  | 07.12.1997 | Jesus Roberto                  |
-| Floyd Mayweather vs. L. O'Shields | 06.14.1997 | Larry                          |
-| Floyd Mayweather vs. Tony Duran   | 05.09.1997 |                                |
-| Floyd Mayweather vs. B. Giepert   | 04.12.1997 | Bobby                          |
-| Floyd Mayweather vs. K. Rodriguez | 03.12.1997 | Kino                           |
-| Lennox Lewis vs. Oliver McCall II | 02.07.1997 |                                |
-| Floyd Mayweather vs. E. Ayala     | 02.01.1997 | Edgar                          |
-| Floyd Mayweather vs. J. Cooper    | 01.18.1997 | Jerry                          |
-| Floyd Mayweather vs. R. Sanders   | 11.30.1996 | Reggie                         |
-| Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                        |
-| Lennox Lewis vs. Oliver McCall    | 09.24.1994 |                                |
-| Mike Tyson vs. Michael Spinks     | 06.27.1988 |                                |
-| Roger Mayweather vs. P. Whitaker  | 03.28.1987 | [[3.28.1987][See Notes]]                      |
-| Buster Douglas vs. Greg Page      | 01.17.1986 |                                |
-| Milton McCrory vs. Donald Curry   | 12.06.1985 |                                |
-| Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | "The War" co-fight of the year |
-| Carlos Zarate vs Alfonso Zamora   | 04.23.1977 | pre, 74 knockouts in 75 fights |
-| Muhammed Ali vs. George Foreman   | 10.30.1974 |                                |
-| Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                                |
-| Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][See Notes]]      |
-| Jack Johnson vs. Fireman J. Flynn | 04.07.1912 | Jim headbutted. Sherrif stops  |
+|-----------------------------------+------------+----------------------------|
+| *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
+|-----------------------------------+------------+----------------------------|
+| Tyson Fury vs. Deontay Wilder     | 02.22.2020 |                            |
+| Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                    |
+| Tyson Fury vs. Otto Wallin        | 09.14.2019 |                            |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match               |
+| Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                            |
+| Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
+| Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
+| Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                      |
+| Tony Bellew vs. David Haye II     | 05.05.2018 | KO cause walking stance    |
+| Ryan Garcia vs. Jayson Velez      | 05.05.2018 |                            |
+| Jessie Magdaleno vs. Isaac Dogboe | 04.28.2018 |                            |
+| Daniyar Yeleussinov vs. Noah Kidd | 04.28.2018 |                            |
+| Daniel Jacobs vs. Maciej Sulecki  | 04.28.2018 |                            |
+| Gervonta Davis vs. Jesus Cuellar  | 04.21.2018 | Davis fun fighter          |
+| Jermall Charlo vs. H. Centeno Jr. | 04.21.2018 | Hugo                       |
+| Adrien Broner vs. Jessie Vargas   | 04.21.2018 |                            |
+| Amir Khan vs. Phil Lo Greco       | 04.21.2018 |                            |
+| Jarrett Hurd vs. Erislandy Lara   | 04.07.2018 |                            |
+| Anthony Joshua vs. Joseph Parker  | 03.31.2018 |                            |
+| Jose Ramirez vs. Amir Imam        | 03.17.2018 |                            |
+| Mikey Garcia vs. Sergey Lipinets  | 03.10.2018 |                            |
+| Oscar Valdez vs. Scott Quigg      | 03.10.2018 |                            |
+| Regis Prograis vs. Julius Indongo | 03.09.2018 |                            |
+| Deontay Wilder vs. Luiz Ortiz     | 03.03.2018 |                            |
+| S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco   |
+| Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                            |
+| L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac         |
+| Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                    |
+| Manny Pacquiao vs. Jeff Horn      | 07.02.2017 |                            |
+| Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match               |
+| E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out   |
+| Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
+| Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
+| Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
+| Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
+| Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
+| Floyd Mayweather vs. P. N'dou     | 11.01.2003 | [[11.1.2003][ff.]]                        |
+| Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][ff.]]                        |
+| Floyd Mayweather vs. Castillo II  | 12.07.2002 | Jose Luis.                 |
+| Floyd Mayweather vs. JL. Castillo | 04.20.2002 | THE closest match          |
+| Floyd Mayweather vs. Jesus Chavez | 11.10.2001 | [[11.10.2001][ff.]]                        |
+| Floyd Mayweather vs. C. Hernandez | 05.26.2001 | [[05.26.2001][ff.]] only time F. went down |
+| Floyd Mayweather vs. D. Corrales  | 01.20.2001 | Diego                      |
+| Floyd Mayweather vs. E. Augustus  | 10.21.2000 | Emanuel                    |
+| Floyd Mayweather vs. G. Vargas    | 04.18.2000 | Gregorio                   |
+| Floyd Mayweather vs. C. Gerena    | 09.11.1999 | Carlos                     |
+| Floyd Mayweather vs. Justin Juuko | 05.22.1999 |                            |
+| Floyd Mayweather vs. Carlos Rios  | 02.17.1999 |                            |
+| Floyd Mayweather vs. A. Manfredy  | 12.19.1998 | Angel                      |
+| Floyd Mayweather vs. G. Hernandez | 10.03.1998 | Genaro                     |
+| Floyd Mayweather vs. Tony Pep     | 06.14.1998 |                            |
+| Floyd Mayweather vs. G. Cuello    | 04.18.1998 | Gustavo                    |
+| Floyd Mayweather vs. Miguel Melo  | 03.23.1998 |                            |
+| Floyd Mayweather vs. Sam Girard   | 02.28.1998 |                            |
+| Floyd Mayweather vs. H. Arroyo    | 01.09.1998 | Hector                     |
+| Floyd Mayweather vs. A. Nunez     | 11.20.1997 | Angelo                     |
+| Floyd Mayweather vs. F. Garcia    | 10.14.1997 | Felipe                     |
+| Floyd Mayweather vs. Louie Leija  | 09.06.1997 |                            |
+| Floyd Mayweather vs. J.R. Chavez  | 07.12.1997 | Jesus Roberto              |
+| Floyd Mayweather vs. L. O'Shields | 06.14.1997 | Larry                      |
+| Floyd Mayweather vs. Tony Duran   | 05.09.1997 |                            |
+| Floyd Mayweather vs. B. Giepert   | 04.12.1997 | Bobby                      |
+| Floyd Mayweather vs. K. Rodriguez | 03.12.1997 | Kino                       |
+| Lennox Lewis vs. Oliver McCall II | 02.07.1997 |                            |
+| Floyd Mayweather vs. E. Ayala     | 02.01.1997 | Edgar                      |
+| Floyd Mayweather vs. J. Cooper    | 01.18.1997 | Jerry                      |
+| Floyd Mayweather vs. R. Sanders   | 11.30.1996 | Reggie                     |
+| Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                    |
+| Lennox Lewis vs. Oliver McCall    | 09.24.1994 |                            |
+| Mike Tyson vs. Michael Spinks     | 06.27.1988 |                            |
+| Roger Mayweather vs. P. Whitaker  | 03.28.1987 | [[3.28.1987][ff.]]                        |
+| Buster Douglas vs. Greg Page      | 01.17.1986 |                            |
+| Milton McCrory vs. Donald Curry   | 12.06.1985 |                            |
+| Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | "The War"                  |
+| Carlos Zarate vs Alfonso Zamora   | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
+| Muhammed Ali vs. George Foreman   | 10.30.1974 |                            |
+| Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                            |
+| Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][ff.]]        |
+| Jack Johnson vs. Fireman J. Flynn | 04.07.1912 | [[04.07.1912][ff]]                         |
 
 
 
@@ -108,6 +109,11 @@ Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
 Round 7, 1:17 left. Ha!
 Between 7-8: montage of Floyd's defence
 
+*** Floyd Mayweather vs. Jesus Chavez <<11.10.2001>>
+Opponent tried Armstrong-esque pressure
+*** Floyd Mayweather vs. C. Hernandez <<05.26.2001>>
+Floyd went down from own punch
+only time he's been down
 *** Roger Mayweather vs. Pernell Whitaker <<3.28.1987>>
 Round One: bell rung multiple, like ref didn't hear and "Sweet Pea" punched
  several times after the round ended. Roger went to the wrong corner.
@@ -117,12 +123,19 @@ Round Nine: Roger's pants are falling down, Sweet Pea pulls them all the way
  knees.
 Ref doesn't do anything about anything.
 
+*** Carlos Zarate vs Alfonso Zamora <<04.23.1977>>
+Both fighters knock-out kings
+pre-fight, the match had the highest combined knockout ratio ever
+74 of 75 fights ended in a knockouts
 *** Rocky Marciano vs. Don Cockell <<5.16.1955>>
 American pressman Joe Williams wrote at the time: “Marciano violated practically
 every rule in the book. He hit after the bell, he used his elbow and head,
 several times punched below the belt and once hit Cockell while he was down. If
 Cockell should get the idea that anything goes in the American ring, short of
 wielding a knife or pulling a gun, you couldn’t blame him.”
+*** Jack Johnson vs. Fireman Jim Flynn <<04.07.1912>>
+Jim kept on headbutted Jack.
+Sherrif jumps into the ring and stops the fight
 
 
 
@@ -353,7 +366,7 @@ Footwork
 |--------------------------------+--------------------|
 | Premier Boxing Champions (PBC) | Fox, FS1, Showtime |
 | Top Rank                       | ESPN               |
-| Golden Boy Promotions          | DAZN               |
+| Golden Boy Promotions          | DAZN, was ESPN     |
 | Matchroom Sports               | DAZN               |
 
 
@@ -370,8 +383,9 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje      |
 | UFC 242             | 09.07.2019 | Khabib vs. Poirier      |
-| UFC Fight Night     | 08.31.2019 | Andrade vs. Zhang       |
+| UFC Fight Night 157 | 08.31.2019 | Andrade vs. Zhang       |
 | UFC 241             | 08.17.2019 | Cormier vs. Miocic II   |
 | UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
 | UFC 239             | 07.06.2019 | Jones vs. Santos        |
@@ -434,6 +448,10 @@ George Gainford Sugar Ray Robinson's coach from the south, so you see slip-slide
  style
 
 
+** <<MMA>>
+** Eddie Bravo
+coaches Tony Ferguson
+
 
 ** <<Personalities>>
 ** Al Bernstein
@@ -451,6 +469,7 @@ American boxing promoter and producer
 
 * Moves & Terms
 ** Moves
+*** boxing
 :to-learn:
  - [[https://www.mightyfighter.com/top-5-advanced-boxing-techniques/][five advanced boxing techniques]]
    - corkscrew punch, leaping lead hook, multi lead hook, double cross,
@@ -506,6 +525,12 @@ two main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
  - hand checking, smotherers (see George Foremon; Sandy Saddler)
 up jab:
+
+*** MMA
+imanari roll
+rubber guard
+ - see ben saunders for rubber guard and elbows at their best
+
 
 
 ** Terms
@@ -620,6 +645,7 @@ Ray Mercer: Erin got picture with?
 Buster Douglas vs Tony Tucker
 Felicia_Spencer # leg tied up but still jumps to knee opponent!
 Lomanchenko on ESPN
+Tony Canzoneri moves(?) like Tony Ferguson
 Oscar De La Hoya vs Bernard Hopkins
 Roger Mayweather vs. Kostya Tszyu
 Tommy "Hurricane" Jackson
