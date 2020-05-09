@@ -383,6 +383,7 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 243             | 10.05.2019 | Whittaker vs. Adesaynya |
 | UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje      |
 | UFC 242             | 09.07.2019 | Khabib vs. Poirier      |
 | UFC Fight Night 157 | 08.31.2019 | Andrade vs. Zhang       |
@@ -409,17 +410,24 @@ Need to add the scared fighter fight
 | UFC 1               | 11.12.1993 |                         |
 
 ** Individual Fights
-|-----------------------------------+------------+------------------|
-| *Fighters*                        |     *Date* | *Event*          |
-|-----------------------------------+------------+------------------|
-| Muslim Salikhov vs. Nordine Taleb | 09.07.2019 | UFC 242: Prelims |
-| Felicia Spencer vs. M. McElhaney  | 03.25.2017 | Invicta FC 22    |
-| Rico Verhoeven vs. Anderson Silva | 09.09.2016 | Glory 33 [[09.09.2016][Notes]]   |
+|-----------------------------------+------------+---------------------|
+| *Fighters*                        |     *Date* | *Event*             |
+|-----------------------------------+------------+---------------------|
+| Muslim Salikhov vs. Nordine Taleb | 09.07.2019 | UFC 242: Prelims    |
+| Felicia Spencer vs. M. McElhaney  | 03.25.2017 | Invicta FC 22       |
+| Rico Verhoeven vs. Anderson Silva | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
+| Alistair Overeem vs. Todd Duffee  | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
+| Todd Duffee vs Tim Hague          | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
+
 
 
 ** Notes
-<<09.09.2016>>
+*** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
 Wicked kicks to the inside far thigh cause two knockdowns!
+*** Alistair Overeem vs. Todd Duffee <<12.31.2010>>
+"roided" Alistair just pushes Todd away and easily knocks him out
+*** Todd Duffee vs. Tim Hague <<08.29.2009>>
+Fastest Heavyweight K.O.
 
 
 

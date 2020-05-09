@@ -53,7 +53,10 @@ fighter = 'Devin Haney'                      #  05.11.2018
 fighter = 'Alexander Gustafsson'    # Retired
  # leg tied up but still jumps to knee opponent!
  #  UFC Fight Night: Andrade vs. Zhang 13:45
+fighter = 'Robert Whittaker (fighter)'
+fighter = 'Donald Cerrone'
 fighter = 'Tony Ferguson'           #  Next UFC Card, wiki broken too
+fighter = 'Israel Adesanya'         #  03.07.2019  UFC 248
 fighter = 'Felicia Spencer'         #  02.29.2020  UFC Fight Night
 fighter = 'Diego Sanchez'           #  02.15.2020  UFC Fight Night
 fighter = 'Curtis Blaydes'          #  01.25.2020  UFC Fight Night
@@ -66,15 +69,16 @@ fighter = 'Marlon Moraes'           #  12.14.2019  UFC 245
 fighter = 'Petr Yan'                #  12.14.2019  UFC 245
 fighter = 'Song Yadong'             #  12.07.2019  UFC on ESPN
 fighter = 'Jorge Masvidal'          #  11.02.2019  UFC 244
-fighter = 'Robert Whittaker (fighter)' # 10.06.19  UFC 243
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
 # this Smolka vs Paddy Holohan is the best grappling match
 fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
 
+
 # --- Currently Watching ---
 # Boxing May 2018 || MMA September 2019  UFC Fight Night Rodriguez
+fighter = 'Tony Ferguson'
 fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
 fighter = 'Archie Moore'
 fighter = 'Andre Ward'
@@ -82,7 +86,6 @@ fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
 fighter = ''
-fighter = 'Donald Cerrone'
 
 
 
