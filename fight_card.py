@@ -1,5 +1,7 @@
+import sys
 import pandas as pd
 import requests
+import re
 import random
 from sys import exit
 from bs4 import BeautifulSoup
@@ -8,7 +10,10 @@ from tabulate import tabulate
 # Saturday Fight Live (SFL)
 
 event = ''
-event = 'UFC_Fight_Night:_Hermansson_vs._Cannonier'
+event = 'UFC on ESPN: Overeem vs. Rozenstruik'
+# event = 'UFC 244: Masvidal vs. Diaz'
+# event = 'UFC Fight Night: Błachowicz vs. Jacaré'
+# event = 'UFC Fight Night: Joanna vs. Waterson'
 
 def check_boxing_columns(rows):
     total = 0
@@ -59,18 +64,31 @@ def getUrl(event):
     if (event == ''):
         print("No Event Selected")
         exit()
-    event.replace(' ', '_')
+    event = event.replace(' ', '_')
+
+    #- check if UFC PPV
+    p = re.compile('UFC_[1-9]+')
+    match = p.match(event)
+    if match is not None:
+        event = match.group()
+
     url = 'https://en.wikipedia.org/wiki/'
     url += event
     return url
 
+
+
 # ----------------------------------------------------------------------------
 #                                  START
 # ----------------------------------------------------------------------------
-req = requests.get(getUrl(event)).text
+
+url = getUrl(event)
+req = requests.get(url).text
 soup = BeautifulSoup(req, 'lxml')
 # result = soup.find_all('table', {'class': 'wikitable'})
 result = soup.find('table', {'class': 'toccolours'})
+if result is None:
+    result = soup.find('table')
 td = result.find_all('tr')
 rows = [i.text.rstrip() for i in td]   # dont need this right now
 table = pd.read_html(result.prettify())[0]
@@ -98,15 +116,34 @@ for index, row in table.iterrows():
         row['Fighter 2'] = x
 
 
-# split tables
+# --- check what prelims there are ---
 has_prelim = table['Weight class'].str.contains("Preliminary")
-prelim_row_i = list(has_prelim).index(True)
-maincard = table.iloc[:prelim_row_i,:]
-prelims  = table.iloc[prelim_row_i+1:,:]
+has_early_prelim_l = table['Weight class'].str.contains("Early Preliminary")
+has_early_prelim = any(i == True for i in has_early_prelim_l)
 
+# --- get range of tables
+prelim_row_i = list(has_prelim).index(True)
+if (has_early_prelim):
+    early_prelim_row_i = list(has_early_prelim_l).index(True)
+    prelim_row_e = early_prelim_row_i
+else:
+    prelim_row_e = len(table)
+
+# --- split and print tables ---
+maincard = table.iloc[:prelim_row_i,:]
 print(tabulate([[event.replace('_',' ')]], tablefmt='psql'))
 print(tabulate([["Maincard"]], tablefmt='psql'))
 print(tabulate(maincard,headers='keys',tablefmt='psql',showindex=False))
+
+prelims  = table.iloc[prelim_row_i+1:prelim_row_e,:]
 print(tabulate([["Prelims"]], tablefmt='psql'))
 print(tabulate(prelims,headers='keys',tablefmt='psql',showindex=False))
+
+if (has_early_prelim):
+    early_prelims  = table.iloc[early_prelim_row_i+1:,:]
+    print(tabulate([["Early Prelims"]], tablefmt='psql'))
+    print(tabulate(early_prelims,headers='keys',tablefmt='psql',
+                   showindex=False))
+
+
 print("Fin")
