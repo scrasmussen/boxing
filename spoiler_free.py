@@ -53,22 +53,38 @@ fighter = 'Devin Haney'                      #  05.11.2018
 fighter = 'Alexander Gustafsson'    # Retired
  # leg tied up but still jumps to knee opponent!
  #  UFC Fight Night: Andrade vs. Zhang 13:45
+fighter = 'Randy Couture' # bounce people off of fence to get past guard
+fighter = 'Petr Yan'
+fighter = 'Song Yadong'
+fighter = 'Chan Sung Jung '
+fighter = 'Donald Cerronbe'
+fighter = 'Colby Covington'
+fighter = 'Jorge Masvidal'
+fighter = 'Frankie Edgar'
+fighter = 'Marlon Moraes'
+fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
-fighter = 'Donald Cerrone'
 fighter = 'Tony Ferguson'           #  Next UFC Card, wiki broken too
-fighter = 'Israel Adesanya'         #  03.07.2019  UFC 248
+fighter = 'Israel Adesanya'         #  03.07.2020  UFC 248
 fighter = 'Felicia Spencer'         #  02.29.2020  UFC Fight Night
 fighter = 'Diego Sanchez'           #  02.15.2020  UFC Fight Night
+fighter = 'Arnold Allen'            #  01.25.2020  UFC Fight Night
 fighter = 'Curtis Blaydes'          #  01.25.2020  UFC Fight Night
 fighter = 'Carlos Diego Ferreira'   #  01.18.2020  UFC 246
 fighter = 'Arnold Allen (fighter)'  #  01.14.2020  UFC Fight Night
-fighter = 'Frankie Edgar'           #  12.21.2019  UFC Fight Night
-fighter = 'Colby Covington'         #  12.14.2019  UFC 245
-fighter = 'Kamaru Usman'            #  12.14.2019  UFC 245
-fighter = 'Marlon Moraes'           #  12.14.2019  UFC 245
-fighter = 'Petr Yan'                #  12.14.2019  UFC 245
-fighter = 'Song Yadong'             #  12.07.2019  UFC on ESPN
-fighter = 'Jorge Masvidal'          #  11.02.2019  UFC 244
+fighter = 'Frankie Edgar'
+fighter = 'Cody Garbrandt'
+# 2nd fastest knockdown
+# tj dillashaw vs henry cejudo : head butt
+
+
+# UFC 244
+# Masvidal 4:42
+# comain event 17:20 darren and kelvin gastelum, unibet
+# derick lewis who the fuck cares
+# at thompson vs luque
+# anderson vs johnnie walker , few punches but bigt knockout power
+
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
 # this Smolka vs Paddy Holohan is the best grappling match
@@ -88,7 +104,17 @@ fighter = 'Bernard Hopkins'
 fighter = ''
 
 
+fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
+fighter = 'Michael Conlan (boxer)'           #  05.12.2018
+# Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
+# Mungula vs. Ali                            #  05.12.2018 DAZN
+fighter = 'Devin Haney'                      #  05.11.2018   Menard
 
+
+
+# allows easy access to fighters near the top
+if 'ffighter' in locals():
+    fighter = ffighter
 def check_boxing_columns(rows):
     total = 0
     for row in rows:

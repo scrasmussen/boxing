@@ -6,6 +6,9 @@ all: build
 build:
 	$(lc) $(file)
 
+card:
+	$(lc) fight_card.py
+
 floyd:
 	$(lc) floyd_fights.py
 

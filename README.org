@@ -383,6 +383,9 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 245             | 12.14.2019 | Usman vs. Covington     |
+| UFC on ESPN         | 12.07.2019 | Overeem vs. Rozenstruik |
+| UFC 244             | 11.02.2019 | Masvidal vs. Diaz       |
 | UFC 243             | 10.05.2019 | Whittaker vs. Adesaynya |
 | UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje      |
 | UFC 242             | 09.07.2019 | Khabib vs. Poirier      |
@@ -395,7 +398,7 @@ Need to add the scared fighter fight
 | UFC Fight Night 153 | 06.01.2019 | Gustafsson vs. Smith    |
 | UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee       |
 | UFC 237             | 05.11.2019 | Namajunas vs. Andrade   |
-| UFC 236             | 04.14.2019 | Holloway vs. Poirier    |
+| UFC 236             | 04.13.2019 | Holloway vs. Poirier II |
 | UFC 229             | 08.06.2018 | Khabib vs. McGregor     |
 | UFC 203             | 09.10.2016 | Miocic vs. Overeem      |
 | UFC 202             | 08.20.2016 | Diaz vs. McGregor II    |
@@ -413,6 +416,7 @@ Need to add the scared fighter fight
 |-----------------------------------+------------+---------------------|
 | *Fighters*                        |     *Date* | *Event*             |
 |-----------------------------------+------------+---------------------|
+| Frankie Edgar vs. Chan Sung Jung  | 12.21.2019 | UFC Fight Night 165 |
 | Muslim Salikhov vs. Nordine Taleb | 09.07.2019 | UFC 242: Prelims    |
 | Felicia Spencer vs. M. McElhaney  | 03.25.2017 | Invicta FC 22       |
 | Rico Verhoeven vs. Anderson Silva | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
@@ -476,6 +480,24 @@ American boxing promoter and producer
 
 
 * Moves & Terms
+:footwork-fighters:
+1. Guillermo Rigondeaux
+2. Pernell Whitaker
+3. Nonito Donaire
+4. Floyd Mayweather Jr
+5. Muhammad Ali
+=Other balance champions to learn from=
+Marvin Hagler
+Ricardo "Finito" Lopez
+JM Marquez
+Reggie Johnson
+Bernard Hopkins
+Azumah Nelson
+:end:
+:footwork:
+move with the bag
+jump rope as fast as possible
+:end:
 ** Moves
 *** boxing
 :to-learn:
@@ -536,6 +558,7 @@ up jab:
 
 *** MMA
 imanari roll
+question mark kick: knee up to incate straight kick, turn sideways mid-air
 rubber guard
  - see ben saunders for rubber guard and elbows at their best
 
@@ -933,9 +956,11 @@ joe calzaghe vs jeff lacy: for the clinch game?
 ** MMA
 *** UFC
 Arnold Allen UFC Fight Night 1.25.2020
-Song Yadong  UFC on ESPN 12.07.2019
 Fight Night in Shanghai August 31, 2019
 UFC 221 Li vs Matthews eye gouge
+watch Till vs Masvidal to see Till effectively take away Masvidal’s terrific jab
+  with handfighting).
+
 *** Petr Yan
 My type of style I think!!
 "Boxeresque  in MMA done perfect"

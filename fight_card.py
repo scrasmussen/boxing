@@ -11,6 +11,8 @@ from tabulate import tabulate
 
 event = ''
 event = 'UFC on ESPN: Overeem vs. Rozenstruik'
+event = 'UFC Fight Night: Lee vs. Oliveira'
+event = 'UFC Fight Night: Edgar vs. The Korean Zombie'
 # event = 'UFC 244: Masvidal vs. Diaz'
 # event = 'UFC Fight Night: Błachowicz vs. Jacaré'
 # event = 'UFC Fight Night: Joanna vs. Waterson'
