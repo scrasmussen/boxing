@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 79 matches
+: I have seen 81 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -58,6 +58,7 @@ A collection of ideas and history.
 | Floyd Mayweather vs. Castillo II  | 12.07.2002 | Jose Luis.                 |
 | Floyd Mayweather vs. JL. Castillo | 04.20.2002 | THE closest match          |
 | Floyd Mayweather vs. Jesus Chavez | 11.10.2001 | [[11.10.2001][ff.]]                        |
+| Kostya Tszyu vs. Zab Judah        | 11.03.2001 |                            |
 | Floyd Mayweather vs. C. Hernandez | 05.26.2001 | [[05.26.2001][ff.]] only time F. went down |
 | Floyd Mayweather vs. D. Corrales  | 01.20.2001 | Diego                      |
 | Floyd Mayweather vs. E. Augustus  | 10.21.2000 | Emanuel                    |
