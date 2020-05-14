@@ -61,6 +61,7 @@ fighter = 'Donald Cerronbe'
 fighter = 'Colby Covington'
 fighter = 'Jorge Masvidal'
 fighter = 'Frankie Edgar'
+fighter = 'Carlos Diego Ferreira'
 fighter = 'Marlon Moraes'
 fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
@@ -70,7 +71,6 @@ fighter = 'Felicia Spencer'         #  02.29.2020  UFC Fight Night
 fighter = 'Diego Sanchez'           #  02.15.2020  UFC Fight Night
 fighter = 'Arnold Allen'            #  01.25.2020  UFC Fight Night
 fighter = 'Curtis Blaydes'          #  01.25.2020  UFC Fight Night
-fighter = 'Carlos Diego Ferreira'   #  01.18.2020  UFC 246
 fighter = 'Arnold Allen (fighter)'  #  01.14.2020  UFC Fight Night
 fighter = 'Frankie Edgar'
 fighter = 'Cody Garbrandt'
@@ -96,6 +96,9 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Boxing May 2018 || MMA September 2019  UFC Fight Night Rodriguez
 fighter = 'Tony Ferguson'
 fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
+          # moves back to catch the opponent moving forward all the time
+# 2013 article
+# http://fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
 fighter = 'Archie Moore'
 fighter = 'Andre Ward'
 fighter = 'Buster Douglas'

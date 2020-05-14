@@ -51,6 +51,7 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
+| Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
 | Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
 | Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
 | Floyd Mayweather vs. P. N'dou     | 11.01.2003 | [[11.1.2003][ff.]]                        |
@@ -184,7 +185,8 @@ Willie Pep: footwork
    fake name so he could get paid
  - vs Sandy Saddler made him do tricks
 Floyd Patterson: in picture with Willie Pep
-Evander Holyfield
+Evander Holyfield:
+ - "nodder": dropping the head below the opponent's as they advance
 Sonny Liston
 Earnie Shavers: one of the hardest hitting punchers
 Thomas Hearns
@@ -263,6 +265,13 @@ tall and loved to fight inside?
 Ward vs Green, Ward sees inside training pay off
 A few of his recent ones, will rewatch anyway ;)
 vs. Sullivan Barrera : right catch and punch, defend right hit back, left hook
+:vs-Dawson:
+But what makes Ward so special is his combination of the classical methods and
+ the new age thinking. The switching of stance is perhaps the biggest
+ 'new school' asset of his game, but his work specifically in the match with
+ Dawson demonstrated a good deal of what has changed in boxing in the recent
+ generation.
+:end:
 *** Influences
 =big three=
 [[http://www.boxing.com/earned_andre_ward_exclusive_part_3.html][from here]]
@@ -286,6 +295,9 @@ WBA / WBC and lineal super middleweight championship (and, arguably, the lineal
 WBA 'super'/ IBF / WBO light heavyweight championship vs Sergey Kovalev, 17
   June 2017
 
+
+*** articles
+[[http://fightland.vice.com/blog/andre-ward-old-school-science-new-school-thinking][old school science, new school thinking]]
 
 
 ** Bernard Hopkins
@@ -384,6 +396,7 @@ Only three time winner of the Lonsdale Belt
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 246             | 01.18.2020 | McGregor vs. Cowboy     |
 | UFC 245             | 12.14.2019 | Usman vs. Covington     |
 | UFC on ESPN         | 12.07.2019 | Overeem vs. Rozenstruik |
 | UFC 244             | 11.02.2019 | Masvidal vs. Diaz       |
@@ -439,6 +452,9 @@ Fastest Heavyweight K.O.
 * Trainers
 :training:
 [[https://www.muscleandfitness.com/workouts/workout-routines/ultimate-boxing-workout-plan-get-lean-and-fit][Freddy Roach based]]
+catch coin off of back of hand
+partner drops coin, you catch
+hit paper, catch as it floats down
 :end:
 ** Abel Sanchez
 2015 trainer of the year
@@ -669,6 +685,10 @@ George Foreman occupied the center with his palms
 *** [[http://fightland.vice.com/blog/why-kung-fu-masters-refuse-to-teach][Why Kung Fu Masters Refuse to Teach]]
 
 *** [[https://www.fightprimer.com/articles/2019/5/8/a-tough-ask-for-rose-namajunas][A Tough Ask for Rose Namajunas]]
+
+** Other
+[[http://fightland.vice.com/blog/a-real-yokozuna-the-vindication-of-kisenosato][A Real Yokozuna: The Vindication of Kisenosato]]
+[[http://fightland.vice.com/blog/wushu-watch-a-concession-to-the-men-in-black-pajamas][Wushu Watch]]: talks about pressure points
 
 
 * To Watch
@@ -914,7 +934,9 @@ Joe Gans: straight punching with vertical fist
 Jack Dempsey: move forward punching with each step
 Josh Warrington: English professional boxer, down to earth guy
 Julio Cesar Chavez vs Meldrick Taylor rematch, first fight too
+Kostya Tszyu
 Larry Holmes: one of the best jabs in boxing history, pure boxer
+Livingstone Bramble: best defense Kostya Tszyu fought
 Matthew Saad Muhammad: Ligh Heavyweigth Champ for two .5 years
 Micky Ward: see classic fight tab
 Naseem Hamed: defined British scene, legacy defining ring entrances
@@ -956,6 +978,9 @@ joe calzaghe vs jeff lacy: for the clinch game?
 
 ** MMA
 *** UFC
+UFC Fortaleza was one of the most enjoyable nights of fights the UFC has put on
+ this year of the lord, 2017
+[[http://fightland.vice.com/blog/teymur-vs-vannata-the-ol-southpaw-double-attack][UFC 209]]: watch after
 Arnold Allen UFC Fight Night 1.25.2020
 Fight Night in Shanghai August 31, 2019
 UFC 221 Li vs Matthews eye gouge
@@ -1056,6 +1081,8 @@ Cheap Seats Boxing Show
 * To Read
 [[https://www.nytimes.com/2001/10/14/sports/sports-of-the-times-you-could-trust-the-trainer-eddie-futch.html][You Could Trust the Trainer Eddie Futch]]
 ** Writers
+*** Jack Slack
+Flightland: 2013-2017: UFC 167 - UFC 211
 *** Bert Sugar
 *** Hamilton Nolan
 [[https://deadspin.com/paulie-and-danny-fought-in-brooklyn-and-the-better-man-1721715419][Paulie And Danny Fought In Brooklyn, And The Better Man Survived]]

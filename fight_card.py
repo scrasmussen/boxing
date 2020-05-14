@@ -10,12 +10,9 @@ from tabulate import tabulate
 # Saturday Fight Live (SFL)
 
 event = ''
-event = 'UFC on ESPN: Overeem vs. Rozenstruik'
-event = 'UFC Fight Night: Lee vs. Oliveira'
 event = 'UFC Fight Night: Edgar vs. The Korean Zombie'
-# event = 'UFC 244: Masvidal vs. Diaz'
-# event = 'UFC Fight Night: Błachowicz vs. Jacaré'
-# event = 'UFC Fight Night: Joanna vs. Waterson'
+event = 'UFC 246'
+event = 'UFC_Fight_Night:_Blaydes_vs._dos_Santos'
 
 def check_boxing_columns(rows):
     total = 0
