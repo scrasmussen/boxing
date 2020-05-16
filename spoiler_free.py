@@ -1,10 +1,16 @@
 import pandas as pd
 import requests
-from sys import exit
+import sys
+import re
+import random
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
 # Saturday Fight Live (SFL)
+
+event = 'UFC Fight Night: Edgar vs. The Korean Zombie'
+event = 'UFC 234'
+# at Mariano vs Vannata at 1:30 in fight pass
 
 # -- Boxers --
 fighter = 'Floyd Mayweather Jr.'
@@ -57,23 +63,25 @@ fighter = 'Randy Couture' # bounce people off of fence to get past guard
 fighter = 'Petr Yan'
 fighter = 'Song Yadong'
 fighter = 'Chan Sung Jung '
-fighter = 'Donald Cerronbe'
+fighter = 'Arnold Allen (fighter)'
 fighter = 'Colby Covington'
 fighter = 'Jorge Masvidal'
-fighter = 'Frankie Edgar'
+fighter = 'Curtis Blaydes'          #  Like this heavyweight
 fighter = 'Carlos Diego Ferreira'
+fighter = 'Donald Cerrone'
+fighter = 'Frankie Edgar'
 fighter = 'Marlon Moraes'
+fighter = 'Tim Elliott'             # no respect, love it
+fighter = 'Israel Adesanya'
+fighter = 'Felicia Spencer'
 fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
-fighter = 'Tony Ferguson'           #  Next UFC Card, wiki broken too
-fighter = 'Israel Adesanya'         #  03.07.2020  UFC 248
-fighter = 'Felicia Spencer'         #  02.29.2020  UFC Fight Night
-fighter = 'Diego Sanchez'           #  02.15.2020  UFC Fight Night
-fighter = 'Arnold Allen'            #  01.25.2020  UFC Fight Night
-fighter = 'Curtis Blaydes'          #  01.25.2020  UFC Fight Night
-fighter = 'Arnold Allen (fighter)'  #  01.14.2020  UFC Fight Night
+fighter = 'Diego Sanchez'
+fighter = 'Tony Ferguson'           #  05.09.2020  UFC 249
 fighter = 'Frankie Edgar'
 fighter = 'Cody Garbrandt'
+fighter = 'Aleksei Oleinik'
+fighter = 'Johnny Walker (fighter)'
 # 2nd fastest knockdown
 # tj dillashaw vs henry cejudo : head butt
 
@@ -81,9 +89,9 @@ fighter = 'Cody Garbrandt'
 # UFC 244
 # Masvidal 4:42
 # comain event 17:20 darren and kelvin gastelum, unibet
-# derick lewis who the fuck cares
 # at thompson vs luque
 # anderson vs johnnie walker , few punches but bigt knockout power
+# Shamrock vs
 
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
@@ -99,7 +107,7 @@ fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
           # moves back to catch the opponent moving forward all the time
 # 2013 article
 # http://fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
-fighter = 'Archie Moore'
+fighter = 'Archie Moore'   # Jack Slack likes, influenced lots
 fighter = 'Andre Ward'
 fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
@@ -112,6 +120,7 @@ fighter = 'Michael Conlan (boxer)'           #  05.12.2018
 # Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
 # Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Devin Haney'                      #  05.11.2018   Menard
+fighter = 'Georges St-Pierre'
 
 
 
@@ -172,9 +181,105 @@ def getUrl(fighter):
     url += fighter
     return url
 
+def getEventUrl(event):
+    if (event == ''):
+        print("No Event Selected")
+        exit()
+    event = event.replace(' ', '_')
+
+    #- check if UFC PPV
+    p = re.compile('UFC_[1-9]+')
+    match = p.match(event)
+    if match is not None:
+        event = match.group()
+
+    url = 'https://en.wikipedia.org/wiki/'
+    url += event
+    return url
+
+
+def getEvent():
+    # --------------------------------------------------------------------------
+    #                                  EVENT
+    # --------------------------------------------------------------------------
+    url = getEventUrl(event)
+    req = requests.get(url).text
+    soup = BeautifulSoup(req, 'lxml')
+    # result = soup.find_all('table', {'class': 'wikitable'})
+    result = soup.find('table', {'class': 'toccolours'})
+    if result is None:
+        result = soup.find('table')
+    td = result.find_all('tr')
+    rows = [i.text.rstrip() for i in td]   # dont need this right now
+    table = pd.read_html(result.prettify())[0]
+
+    # Fix column names
+    column_names = [i[1] for i in table.columns]
+    column_names[1] = 'Fighter 1'
+    column_names[2] = 'vs.'
+    column_names[3] = 'Fighter 2'
+    table.columns = column_names
+
+    # Remove unwanted columns and change to 'vs.'
+    table = table.drop(['Method','Round','Time','Notes'], axis=1)
+    table['vs.'] = 'vs.'
+
+    # Randomly choose which fighter is where
+    for index, row in table.iterrows():
+        x = row['Fighter 1']
+        y = row['Fighter 2']
+        if (random.choice([True,False])):
+            row['Fighter 1'] = x
+            row['Fighter 2'] = y
+        else:
+            row['Fighter 1'] = y
+            row['Fighter 2'] = x
+
+
+        # --- check what prelims there are ---
+        has_prelim = table['Weight class'].str.contains("Preliminary")
+        has_early_prelim_l = table['Weight class'].str.contains("Early Preliminary")
+        has_early_prelim = any(i == True for i in has_early_prelim_l)
+
+        # --- get range of tables
+        prelim_row_i = list(has_prelim).index(True)
+        if (has_early_prelim):
+            early_prelim_row_i = list(has_early_prelim_l).index(True)
+            prelim_row_e = early_prelim_row_i
+        else:
+            prelim_row_e = len(table)
+
+        # --- split and print tables ---
+        maincard = table.iloc[:prelim_row_i,:]
+        print(tabulate([[event.replace('_',' ')]], tablefmt='psql'))
+        print(tabulate([["Maincard"]], tablefmt='psql'))
+        print(tabulate(maincard,headers='keys',tablefmt='psql',showindex=False))
+
+        prelims  = table.iloc[prelim_row_i+1:prelim_row_e,:]
+        print(tabulate([["Prelims"]], tablefmt='psql'))
+        print(tabulate(prelims,headers='keys',tablefmt='psql',showindex=False))
+
+        if (has_early_prelim):
+            early_prelims  = table.iloc[early_prelim_row_i+1:,:]
+            print(tabulate([["Early Prelims"]], tablefmt='psql'))
+            print(tabulate(early_prelims,headers='keys',tablefmt='psql',
+                           showindex=False))
+
+
+        print("Fin")
+        sys.exit()
+
+if (len(sys.argv) > 1):
+    if (sys.argv[1] == 'event'):
+        getEvent()
+    sys.exit()
+sys.exit()
 # ----------------------------------------------------------------------------
 #                                  START
 # ----------------------------------------------------------------------------
+
+
+
 req = requests.get(getUrl(fighter)).text
 soup = BeautifulSoup(req, 'lxml')
 result = soup.find_all('table', {'class': 'wikitable'})

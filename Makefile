@@ -6,8 +6,9 @@ all: build
 build:
 	$(lc) $(file)
 
+event: card
 card:
-	$(lc) fight_card.py
+	$(lc) spoiler_free.py event
 
 floyd:
 	$(lc) floyd_fights.py

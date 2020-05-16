@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 81 matches
+: I have seen 82 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -393,10 +393,14 @@ Only three time winner of the Lonsdale Belt
 
 
 * MMA Events
+[[Individual Fights][Individual fights]]
 Need to add the scared fighter fight
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC 248             | 03.07.2020 | Adesanya vs. Romero     |
+| UFC 247             | 02.08.2020 | Jones vs. Reyes         |
 | UFC 246             | 01.18.2020 | McGregor vs. Cowboy     |
+| UFC 246: Prelims    | 01.18.2020 | McGregor vs. Cowboy     |
 | UFC 245             | 12.14.2019 | Usman vs. Covington     |
 | UFC on ESPN         | 12.07.2019 | Overeem vs. Rozenstruik |
 | UFC 244             | 11.02.2019 | Masvidal vs. Diaz       |
@@ -413,11 +417,12 @@ Need to add the scared fighter fight
 | UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee       |
 | UFC 237             | 05.11.2019 | Namajunas vs. Andrade   |
 | UFC 236             | 04.13.2019 | Holloway vs. Poirier II |
+| UFC 234             | 02.10.2019 | Adesanya vs. Silva      |
 | UFC 229             | 08.06.2018 | Khabib vs. McGregor     |
 | UFC 203             | 09.10.2016 | Miocic vs. Overeem      |
 | UFC 202             | 08.20.2016 | Diaz vs. McGregor II    |
 | UFC 201             | 07.30.2016 | Lawler vs. Woodley      |
-| UFC 200             |  07.9.2016 | Tate vs. Nunes          |
+| UFC 200             | 07.09.2016 | Tate vs. Nunes          |
 | UFC 196             | 03.05.2016 | McGregor vs. Diaz       |
 | UFC 194             | 12.12.2015 | Aldo vs. McGregor       |
 | UFC 193             | 11.14.2015 | Rousey vs. Holm         |
@@ -426,16 +431,21 @@ Need to add the scared fighter fight
 | UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
 | UFC 1               | 11.12.1993 |                         |
 
-** Individual Fights
-|-----------------------------------+------------+---------------------|
-| *Fighters*                        |     *Date* | *Event*             |
-|-----------------------------------+------------+---------------------|
-| Frankie Edgar vs. Chan Sung Jung  | 12.21.2019 | UFC Fight Night 165 |
-| Muslim Salikhov vs. Nordine Taleb | 09.07.2019 | UFC 242: Prelims    |
-| Felicia Spencer vs. M. McElhaney  | 03.25.2017 | Invicta FC 22       |
-| Rico Verhoeven vs. Anderson Silva | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
-| Alistair Overeem vs. Todd Duffee  | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
-| Todd Duffee vs Tim Hague          | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
+** <<Individual Fights>>
+|--------------------------------------+------------+---------------------|
+| *Fighters*                           |     *Date* | *Event*             |
+|--------------------------------------+------------+---------------------|
+| Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169 |
+| Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169 |
+| Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167 |
+| Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166 |
+| Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166 |
+| Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165 |
+| Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims    |
+| Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22       |
+| Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
+| Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
+| Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
 
 
 
@@ -1109,6 +1119,7 @@ Flightland: 2013-2017: UFC 167 - UFC 211
  - [[http://fightland.vice.com/author/jack-slack][Fightland Articles]]
 - [ ] Footwork Wins Fights:
 :end:
+*** Footwork Wins Fights: ==get this online==
 *** Angelo Dundee's My View From the Corner
 *** TYSON BOOK PAGED 85
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
@@ -1120,6 +1131,7 @@ Flightland: 2013-2017: UFC 167 - UFC 211
 *** Floyd Patteron: Basic Boxing Skills
 *** My View From the Corner: A Life in Boxing, Angelo Dundee
 ** Articles
+*** [[http://fightland.vice.com/blog/the-elements-of-style-the-jab][the elements of the style of jab]]
 *** [[http://fightland.vice.com/blog/jack-slack-the-bible-of-striking][Jack Slack the bible of striking]]
 *** [[https://www.mightyfighter.com/sergey-kovalev-vs-andre-ward-fight-analysis/][Ward vs Kovalev - Fight Analysis]]
 *** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
