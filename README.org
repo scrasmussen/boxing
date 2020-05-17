@@ -417,6 +417,8 @@ Need to add the scared fighter fight
 | UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee       |
 | UFC 237             | 05.11.2019 | Namajunas vs. Andrade   |
 | UFC 236             | 04.13.2019 | Holloway vs. Poirier II |
+| UFC 235             | 03.02.2019 | Jones vs. Smith         |
+| UFC 235: Prelims    | 03.02.2019 | Jones vs. Smith         |
 | UFC 234             | 02.10.2019 | Adesanya vs. Silva      |
 | UFC 229             | 08.06.2018 | Khabib vs. McGregor     |
 | UFC 203             | 09.10.2016 | Miocic vs. Overeem      |

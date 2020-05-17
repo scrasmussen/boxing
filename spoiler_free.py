@@ -6,14 +6,16 @@ import random
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
-# Saturday Fight Live (SFL)
 
-event = 'UFC Fight Night: Edgar vs. The Korean Zombie'
-event = 'UFC 234'
+# ---------------------------- EVENTS ----------------------------
+event = 'UFC 235'
 # at Mariano vs Vannata at 1:30 in fight pass
 
-# -- Boxers --
+
+# ---------------------------- BOXERS ----------------------------
+#---- Historical ----
 fighter = 'Floyd Mayweather Jr.'
+#----- Current ------
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
@@ -55,11 +57,12 @@ fighter = 'Michael Conlan (boxer)'           #  05.12.2018
 fighter = 'Devin Haney'                      #  05.11.2018
 
 
-# -- MMA --
+# ----------------------------- MMA -----------------------------
 fighter = 'Alexander Gustafsson'    # Retired
- # leg tied up but still jumps to knee opponent!
- #  UFC Fight Night: Andrade vs. Zhang 13:45
+#---- Historical ----
 fighter = 'Randy Couture' # bounce people off of fence to get past guard
+fighter = 'Kazushi Sakuraba'
+#----- Current ------
 fighter = 'Petr Yan'
 fighter = 'Song Yadong'
 fighter = 'Chan Sung Jung '
@@ -77,50 +80,50 @@ fighter = 'Felicia Spencer'
 fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
 fighter = 'Diego Sanchez'
-fighter = 'Tony Ferguson'           #  05.09.2020  UFC 249
+fighter = 'Tony Ferguson'
+fighter = 'Johnny Walker (fighter)' #  finishes people in minutes
 fighter = 'Frankie Edgar'
+fighter = 'Zabit Magomedsharipov'
+fighter = 'Kron Gracie'
+fighter = 'Cody Stamann'
+fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
-fighter = 'Johnny Walker (fighter)'
+
+# -----------------------  RANDOM NOTES  -----------------------
 # 2nd fastest knockdown
 # tj dillashaw vs henry cejudo : head butt
-
-
-# UFC 244
-# Masvidal 4:42
-# comain event 17:20 darren and kelvin gastelum, unibet
 # at thompson vs luque
-# anderson vs johnnie walker , few punches but bigt knockout power
-# Shamrock vs
-
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
 # this Smolka vs Paddy Holohan is the best grappling match
 fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
+# leg tied up but still jumps to knee opponent!
+#     UFC Fight Night: Andrade vs. Zhang 13:45
 
 
-# --- Currently Watching ---
-# Boxing May 2018 || MMA September 2019  UFC Fight Night Rodriguez
-fighter = 'Tony Ferguson'
+
+# -------------------  CURRENTLY WATCHING  ---------------------
+# ---------- MMA -----------
 fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
           # moves back to catch the opponent moving forward all the time
-# 2013 article
-# http://fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
-fighter = 'Archie Moore'   # Jack Slack likes, influenced lots
+# 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
+fighter = 'Georges St-Pierre'
+# --------- BOXING ---------
+# -- Historical
+fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
 fighter = 'Andre Ward'
 fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
-fighter = ''
-
-
+# -- Contemporary
 fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
 fighter = 'Michael Conlan (boxer)'           #  05.12.2018
 # Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
 # Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Devin Haney'                      #  05.11.2018   Menard
-fighter = 'Georges St-Pierre'
+fighter = 'Matt Hughes (fighter)'
 
 
 
@@ -269,11 +272,12 @@ def getEvent():
         print("Fin")
         sys.exit()
 
+# run event if in command line
 if (len(sys.argv) > 1):
     if (sys.argv[1] == 'event'):
         getEvent()
     sys.exit()
-sys.exit()
+
 # ----------------------------------------------------------------------------
 #                                  START
 # ----------------------------------------------------------------------------
