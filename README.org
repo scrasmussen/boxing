@@ -443,6 +443,7 @@ Need to add the scared fighter fight
 | Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166 |
 | Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166 |
 | Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165 |
+| Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162 |
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims    |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22       |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
