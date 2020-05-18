@@ -10,7 +10,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 82 matches
+: I have seen 84 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -24,6 +24,8 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Sadam Ali vs. Jamie Munguía       | 05.12.2018 |                            |
+| Devin Haney vs. Mason Menard      | 05.11.2018 |                            |
 | Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                      |
 | Tony Bellew vs. David Haye II     | 05.05.2018 | KO cause walking stance    |
 | Ryan Garcia vs. Jayson Velez      | 05.05.2018 |                            |
@@ -449,7 +451,7 @@ Need to add the scared fighter fight
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
 | Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
 | Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
-
+| Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67              |
 
 
 ** Notes
@@ -459,6 +461,13 @@ Wicked kicks to the inside far thigh cause two knockdowns!
 "roided" Alistair just pushes Todd away and easily knocks him out
 *** Todd Duffee vs. Tim Hague <<08.29.2009>>
 Fastest Heavyweight K.O.
+
+
+** Future
+*** | Roy Nelson vs Nogueira | 04.11.2014 | UFC Fight Night 39 |
+look for Nogueira's dipping jab
+look for Roy Nelson's uppercut to counter the dipping jab
+
 
 
 
@@ -510,6 +519,10 @@ American boxing promoter and producer
 
 
 * Moves & Terms
+:remember:
+start to move as you throw your last punch
+hit with bad intentions
+:end:
 :footwork-fighters:
 1. Guillermo Rigondeaux
 2. Pernell Whitaker
@@ -562,6 +575,8 @@ Pacquiao's footwork
 :end:
 inside slip: slip to the side of the opponents power hand, more dangerous
 :jab:
+dipping jab: BJ Penn used the dipping jab marvellously to show up other fighters
+             who tried to box with him throughout his career.
 Larry Holmes boog jab
 springing jab: juan manuel marquez
 :end:
@@ -571,6 +586,7 @@ rolling thunder kick: Tenshin Nasukawa
 running backwards: like Muhammad Ali
 shoe shine: change lower level, upper cuts to the body
 :shoulder-roll:
+also known as Philly Shell, Stonewall, Detroit Style
 Virgil Hunter: midwest shoulder roll style, came from Luther Burgess (Detroit
  based coach) to Bill Miller (Michigan based)
 similar to slip-slide style, lead hand in instead of out
@@ -629,6 +645,9 @@ Unified: holds at least two world champions fromm the major organizations
 
 "Adulation is a class A drug"
    - Barry McGuigan
+
+"Before you mug a guy, you get him drunk."
+   - Larry Holmes
 
 "I don’t allow people to intimidate me, for no other reason than to set an
  example for my boxers."
@@ -990,6 +1009,12 @@ joe calzaghe vs jeff lacy: for the clinch game?
 
 
 ** MMA
+*** The Journey
+Jack Slack Fights Gone By (08.02.2016-Present)
+=Articles=
+Jack Slack [[https://www.unibet.co.uk/blog/authors/jack-slack-1.1056644][unibet]] (08.04.2018-Present)
+Jack Slack [[http://fightland.vice.com/fightland/fightlandArticle/author/author_id/jack-slack/Article_page/45][fightland]] (11.04.2013-05.04.2017)
+
 *** UFC
 UFC Fortaleza was one of the most enjoyable nights of fights the UFC has put on
  this year of the lord, 2017
@@ -1123,6 +1148,8 @@ Flightland: 2013-2017: UFC 167 - UFC 211
 - [ ] Footwork Wins Fights:
 :end:
 *** Footwork Wins Fights: ==get this online==
+*** [[http://fightland.vice.com/blog/three-books-every-fight-fan-should-read-this-holiday][Three books to read: Jack Slack]]
+*** [[https://www.goodreads.com/list/show/103107.Jack_Slack_s_reading_list][Jack Slack's Reading List]]
 *** Angelo Dundee's My View From the Corner
 *** TYSON BOOK PAGED 85
 *** AJ Liebling: The Sweet Science [[https://archive.org/details/sweetscience0000lieb][archive.org]]
@@ -1137,6 +1164,7 @@ Flightland: 2013-2017: UFC 167 - UFC 211
 *** [[http://fightland.vice.com/blog/the-elements-of-style-the-jab][the elements of the style of jab]]
 *** [[http://fightland.vice.com/blog/jack-slack-the-bible-of-striking][Jack Slack the bible of striking]]
 *** [[https://www.mightyfighter.com/sergey-kovalev-vs-andre-ward-fight-analysis/][Ward vs Kovalev - Fight Analysis]]
+*** [[http://fightland.vice.com/blog/the-kray-twins-and-boxing-remembering-a-lifelong-passion-for-violence?utm_source=reddit.com][The Kray Twins and Boxing: remembering a life of violence]]
 *** Jab is a Lost Art [[https://bleacherreport.com/articles/441920-is-the-jab-a-lost-art][read]]
 *** [[https://www.ringtv.com/597020-the-ring-magazine-ratings-reviewed-pound-for-pound/][Ring Magazine indepth pound-for-pound]]
 *** [[https://www.ringtv.com/582860-canelo-alvarez-contemplating-greatness/][Canelo Alvarez: comtemplating greatness]] 11/6/2019

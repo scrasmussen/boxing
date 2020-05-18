@@ -28,6 +28,7 @@ fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
+fighter = 'Devin Haney'                      #  09.28.2018 ; 2019 on DAZN, YT
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
@@ -36,6 +37,7 @@ fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
 fighter = 'Ryan García'                      #  09.01.2018 Morales
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
+fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
 fighter = 'Regis Prograis'                   #  07.14.2018
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
@@ -55,13 +57,14 @@ fighter = 'Michael Conlan (boxer)'           #  05.12.2018
 # Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
 # Mungula vs. Ali                            #  05.12.2018 DAZN
 fighter = 'Devin Haney'                      #  05.11.2018
-
+# YT = Young Talent
 
 # ----------------------------- MMA -----------------------------
 fighter = 'Alexander Gustafsson'    # Retired
 #---- Historical ----
 fighter = 'Randy Couture' # bounce people off of fence to get past guard
 fighter = 'Kazushi Sakuraba'
+fighter = 'Roy Nelson'
 #----- Current ------
 fighter = 'Petr Yan'
 fighter = 'Song Yadong'
@@ -91,6 +94,7 @@ fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
 
 # -----------------------  RANDOM NOTES  -----------------------
+# Jack Slack starts at UFC 202
 # 2nd fastest knockdown
 # tj dillashaw vs henry cejudo : head butt
 # at thompson vs luque
@@ -110,6 +114,7 @@ fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
           # moves back to catch the opponent moving forward all the time
 # 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
 fighter = 'Georges St-Pierre'
+fighter = 'Matt Hughes (fighter)'
 # --------- BOXING ---------
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
@@ -119,11 +124,11 @@ fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
 # -- Contemporary
 fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
-fighter = 'Michael Conlan (boxer)'           #  05.12.2018
-# Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
-# Mungula vs. Ali                            #  05.12.2018 DAZN
-fighter = 'Devin Haney'                      #  05.11.2018   Menard
-fighter = 'Matt Hughes (fighter)'
+fighter = 'Michael Conlan (boxer)'           #  06.12.2018
+
+
+
+
 
 
 
