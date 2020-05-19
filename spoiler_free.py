@@ -10,23 +10,27 @@ from tabulate import tabulate
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
 # at Mariano vs Vannata at 1:30 in fight pass
-
+# ----------------------------------------------------------------
 # --------------------  CURRENTLY WATCHING  ----------------------
-# ---------- MMA -----------
+# ----------------------------- MMA ------------------------------
 # -- Historicalish
 fighter = 'Lyoto Machida'
 fighter = 'Georges St-Pierre'
 fighter = 'Matt Hughes (fighter)'
-# --------- BOXING ---------
+# ---------------------------- BOXING ----------------------------
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
 fighter = 'Andre Ward'
 fighter = 'Buster Douglas'
 fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
+fighter = 'Roy Jones Jr.'
+fighter = 'Charley Burley'
+# -- Contemporary
+fighter = 'Terence Crawford'
 # ----------------------------------------------------------------
-
-
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
 # ---------------------------- BOXERS ----------------------------
 #---- Historical ----
 fighter = 'Floyd Mayweather Jr.'
@@ -58,12 +62,14 @@ fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
 fighter = 'Regis Prograis'                   #  07.14.2018
+# Alex Saucedo vs Lenny Zappavigna           #  06.30.2018
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
 fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 fighter = 'Josh Kelly (boxer)'               #  06.16.2018
 fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
 fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
+fighter = 'Terence Crawford'                 #  06.09.2018
 fighter = 'Carlos Balderas'                  #  06.09.2018
 fighter = 'Shakur Stevenson'                 #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
@@ -106,8 +112,9 @@ fighter = 'Cody Stamann'
 fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
-
+# --------------------------------------------------------------
 # -----------------------  RANDOM NOTES  -----------------------
+# --------------------------------------------------------------
 # Jack Slack starts at UFC 202
 # 2nd fastest knockdown
 # tj dillashaw vs henry cejudo : head butt
@@ -119,11 +126,13 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
 # leg tied up but still jumps to knee opponent!
 #     UFC Fight Night: Andrade vs. Zhang 13:45
-
-
-
-
-
+# --------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------------------------------------------------
 # --------------------------------------------------------------
 # allows easy access to fighters near the top
 if 'ffighter' in locals():
