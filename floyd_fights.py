@@ -4,17 +4,27 @@ current_fight = 34
 soup = BeautifulSoup(open("floyd_wiki.html"), 'lxml')
 for fight, row in enumerate(soup.find_all('tr')):
     fight = 51-fight
-    print("On Youtube https://youtu.be/o_PLFpTmIYw") if fight == 43 else False
-    print("On DAZN, Saturday Fight Live")            if fight == 39 else False
+    add_space = 0
 
     columns = row.find_all('td')
     for i, column in enumerate(columns):
-        if (fight == current_fight):
-            current = "           ------- CURRENT"
-        else:
-            current = ""
         if (i == 3):
-            print(str(fight)+" :: "+column.get_text()[:-1]+current)
+            fight_str = str(fight)+" :: "+column.get_text()[:-1]
+            if len(fight_str) < 36:
+                add_space = 36 - len(fight_str)
+            print(fight_str, end='')
 
-# fight 26: Carlos Herandez, end of round 6, only knockdown of Mayweathers
-#           careeer. From punching too hard
+
+    if fight >= 38 and fight <= 47:
+        dazn = ' - on DAZN'
+        dazn = dazn.rjust(add_space)
+        print(dazn, end='')
+        if fight == 39:
+              print(', Saturday Fight Live', end='')
+
+    if (fight == current_fight):
+        current = '==CURRENT=='
+        current = current.rjust(add_space+2)
+        print(current, end='')
+
+    print('')

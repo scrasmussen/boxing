@@ -16,7 +16,7 @@ event = 'UFC 235'
 # -- Historicalish
 fighter = 'Lyoto Machida'
 fighter = 'Georges St-Pierre'
-fighter = 'Matt Hughes (fighter)'
+fighter = 'Matt Hughes (fighter)'             # UFC 22,26
 # ---------------------------- BOXING ----------------------------
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
@@ -44,19 +44,21 @@ fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
-fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN
+fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
+                                             #           ; Chavez Jr. on SFL
 fighter = 'Jorge Linares'                    #  09.29.2018
-fighter = 'Devin Haney'                      #  09.28.2018 ; 2019 on DAZN, YT
+fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
+                                             #           ; Haney on SFL
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
-fighter = 'Ryan García'                      #  09.01.2018 Morales
+fighter = 'Ryan García'                      #  09.01.2018 YT Morales
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
@@ -77,7 +79,11 @@ fighter = 'Shakur Stevenson'                 #  06.09.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
 fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby
 # Stevenson vs Jack, Russell vs Diaz         #  05.19.2018 PBC
-# YT = Young Talent
+# April-June 2018 on DAZN:
+#   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
+#
+# YT  = Young Talent
+# SFL = Saturday Fight Live on DAZN
 
 # ----------------------------- MMA -----------------------------
 fighter = 'Alexander Gustafsson'    # Retired
@@ -112,6 +118,7 @@ fighter = 'Cody Stamann'
 fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
+ffighter = 'Sage Northcutt'
 # --------------------------------------------------------------
 # -----------------------  RANDOM NOTES  -----------------------
 # --------------------------------------------------------------
