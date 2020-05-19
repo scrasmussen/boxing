@@ -24,6 +24,7 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Vasiliy Lomachenko vs. J. Linares | 05.12.2018 | Fantastic Fight, Jorge     |
 | Sadam Ali vs. Jamie Munguía       | 05.12.2018 |                            |
 | Devin Haney vs. Mason Menard      | 05.11.2018 |                            |
 | Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                      |
@@ -394,6 +395,12 @@ Only three time winner of the Lonsdale Belt
 
 
 
+* MMA
+** Lyoto Machida
+moves back to catch the opponent moving forward all the time
+2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
+
+
 * MMA Events
 [[Individual Fights][Individual fights]]
 Need to add the scared fighter fight
@@ -523,6 +530,7 @@ American boxing promoter and producer
 start to move as you throw your last punch
 hit with bad intentions
 :end:
+** Footwork
 :footwork-fighters:
 1. Guillermo Rigondeaux
 2. Pernell Whitaker
@@ -537,10 +545,13 @@ Reggie Johnson
 Bernard Hopkins
 Azumah Nelson
 :end:
-:footwork:
+*** Practice
 move with the bag
 jump rope as fast as possible
-:end:
+*** Study
+movement around opponent: Lomachenko vs. Linares: Round 3, 2:10
+
+
 ** Moves
 *** boxing
 :to-learn:

@@ -11,6 +11,21 @@ from tabulate import tabulate
 event = 'UFC 235'
 # at Mariano vs Vannata at 1:30 in fight pass
 
+# --------------------  CURRENTLY WATCHING  ----------------------
+# ---------- MMA -----------
+# -- Historicalish
+fighter = 'Lyoto Machida'
+fighter = 'Georges St-Pierre'
+fighter = 'Matt Hughes (fighter)'
+# --------- BOXING ---------
+# -- Historical
+fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
+fighter = 'Andre Ward'
+fighter = 'Buster Douglas'
+fighter = 'Mike Tyson'
+fighter = 'Bernard Hopkins'
+# ----------------------------------------------------------------
+
 
 # ---------------------------- BOXERS ----------------------------
 #---- Historical ----
@@ -24,10 +39,13 @@ fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Jermall Charlo'                   #  12.22.2018
+fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
+fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
+fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 ; 2019 on DAZN, YT
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
@@ -45,6 +63,7 @@ fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 fighter = 'Josh Kelly (boxer)'               #  06.16.2018
 fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
 fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
+fighter = 'Michael Conlan (boxer)'           #  06.12.2018
 fighter = 'Carlos Balderas'                  #  06.09.2018
 fighter = 'Shakur Stevenson'                 #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
@@ -52,11 +71,6 @@ fighter = 'Shakur Stevenson'                 #  06.09.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
 fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby
 # Stevenson vs Jack, Russell vs Diaz         #  05.19.2018 PBC
-fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
-fighter = 'Michael Conlan (boxer)'           #  05.12.2018
-# Sam Sexton vs Hughie Fury                  #  05.12.2018 Youtube
-# Mungula vs. Ali                            #  05.12.2018 DAZN
-fighter = 'Devin Haney'                      #  05.11.2018
 # YT = Young Talent
 
 # ----------------------------- MMA -----------------------------
@@ -108,30 +122,9 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 
 
 
-# -------------------  CURRENTLY WATCHING  ---------------------
-# ---------- MMA -----------
-fighter = 'Lyoto Machida'           # Bellator, past @ UFC 67 02.03.2007
-          # moves back to catch the opponent moving forward all the time
-# 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
-fighter = 'Georges St-Pierre'
-fighter = 'Matt Hughes (fighter)'
-# --------- BOXING ---------
-# -- Historical
-fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
-fighter = 'Andre Ward'
-fighter = 'Buster Douglas'
-fighter = 'Mike Tyson'
-fighter = 'Bernard Hopkins'
-# -- Contemporary
-fighter = 'Vasyl Lomachenko'                 #  05.12.2018 ESPN Linares
-fighter = 'Michael Conlan (boxer)'           #  06.12.2018
 
 
-
-
-
-
-
+# --------------------------------------------------------------
 # allows easy access to fighters near the top
 if 'ffighter' in locals():
     fighter = ffighter
