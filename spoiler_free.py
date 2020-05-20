@@ -28,6 +28,7 @@ fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
 # -- Contemporary
 fighter = 'Terence Crawford'
+fighter = "Kell Brook"    # vs. Golovkin and then Spence Jr.
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
@@ -35,6 +36,7 @@ fighter = 'Terence Crawford'
 #---- Historical ----
 fighter = 'Floyd Mayweather Jr.'
 #----- Current ------
+show    = 'The Boxing Beat: ESPN'
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
@@ -42,9 +44,14 @@ fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
+fighter = 'Badou Jack'                       #  01.19.2019
+# - [ ] December 22 – Josh Warrington vs Carl Frampton
+# - [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
+fighter = "Kell Brook"                       #  12.08.2018
+# - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
@@ -53,37 +60,45 @@ fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
 fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
+# - [ ] September 24 – Sho Kimura vs Kosei Tanaka
+# - [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
+fighter = 'Shawn Porter'                     #  09.08.2018
 fighter = 'Ryan García'                      #  09.01.2018 YT Morales
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
+# - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
 fighter = 'Regis Prograis'                   #  07.14.2018
 # Alex Saucedo vs Lenny Zappavigna           #  06.30.2018
+# best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
 fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 fighter = 'Josh Kelly (boxer)'               #  06.16.2018
 fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
 fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
-fighter = 'Terence Crawford'                 #  06.09.2018
+fighter = 'Terence Crawford'                 #  06.09.2018 ESPN
 fighter = 'Carlos Balderas'                  #  06.09.2018
 fighter = 'Shakur Stevenson'                 #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
 # Inoue vs McDonnell, WBC featherweight      #  05.25.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
 fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby
-# Stevenson vs Jack, Russell vs Diaz         #  05.19.2018 PBC
+# Russell vs Diaz                            #  05.19.2018 PBC
+# Vargas vs Hovhannisyan                     #  05.12.2018 Youtube
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
 #
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
+
+
 
 # ----------------------------- MMA -----------------------------
 fighter = 'Alexander Gustafsson'    # Retired
@@ -118,7 +133,7 @@ fighter = 'Cody Stamann'
 fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
-ffighter = 'Sage Northcutt'
+fighter = 'Sage Northcutt'          #  UFC 192
 # --------------------------------------------------------------
 # -----------------------  RANDOM NOTES  -----------------------
 # --------------------------------------------------------------
@@ -126,13 +141,17 @@ ffighter = 'Sage Northcutt'
 # 2nd fastest knockdown
 # tj dillashaw vs henry cejudo : head butt
 # at thompson vs luque
+# Whittaker vs Romero 1 and 2
+# Brian Ortega vs. Korean Zombie
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
 # this Smolka vs Paddy Holohan is the best grappling match
 fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
-# leg tied up but still jumps to knee opponent!
+# Felicia Spencer: leg tied up but still jumps to knee opponent!
 #     UFC Fight Night: Andrade vs. Zhang 13:45
+# Marvin Johnson vs Mathew Said Mohammad :: great classic fight
+# Archie Moore vs Evon Durell            :: top ten list of fights
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 # --------------------------------------------------------------
@@ -141,6 +160,7 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 # --------------------------------------------------------------
+
 # allows easy access to fighters near the top
 if 'ffighter' in locals():
     fighter = ffighter
