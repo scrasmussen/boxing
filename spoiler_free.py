@@ -89,8 +89,13 @@ fighter = 'Shakur Stevenson'                 #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
 # Inoue vs McDonnell, WBC featherweight      #  05.25.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
-fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby
+fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby Youtube
 # Russell vs Diaz                            #  05.19.2018 PBC
+# Gary Russell Jr. vs. Jo Jo Diaz            #  05.19.2018 PBC on Youtube
+#  - 99 SP 174
+#  - two guys who haven't proved much
+#  - Russell fast but again Lomachenko (2014) cant take getting hit
+#  - Jojo good offense, but underpowerd
 # Vargas vs Hovhannisyan                     #  05.12.2018 Youtube
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
