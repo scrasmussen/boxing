@@ -43,9 +43,12 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Gary Russell vs. Joseph Diaz      | 05.19.2018 | Both Jr.'s                 |
+| Josh Warrington vs. Lee Selby     | 05.19.2018 |                            |
 | Adonis Stevenson vs. Badou Jack   | 05.19.2018 |                            |
 | Vasiliy Lomachenko vs. J. Linares | 05.12.2018 | Fantastic Fight, Jorge     |
-| Sadam Ali vs. Jamie Munguía       | 05.12.2018 |                            |
+| Sadam Ali vs. Jamie Munguía       | 05.12.2018 | How good will M. be?       |
+| Rey Vargas vs Azat Hovhannisyan   | 05.12.2018 | H. only throws 3's! ;)     |
 | Devin Haney vs. Mason Menard      | 05.11.2018 |                            |
 | Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                      |
 | Tony Bellew vs. David Haye II     | 05.05.2018 | KO cause walking stance    |
@@ -460,6 +463,10 @@ Need to add the scared fighter fight
 | UFC 184             | 02.28.2015 | Rousey vs. Zingano      |
 | UFC 167             | 11.16.2013 | St-Pierre vs. Hendricks |
 | UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
+| UFC 5               | 04.07.1995 |                         |
+| UFC 4               | 12.16.1994 |                         |
+| UFC 3               | 09.09.1994 |                         |
+| UFC 2               | 03.11.1994 |                         |
 | UFC 1               | 11.12.1993 |                         |
 
 ** <<Individual Fights>>

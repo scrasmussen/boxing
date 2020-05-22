@@ -9,6 +9,8 @@ from tabulate import tabulate
 
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
+# UFC 17 : Chuck Liddell
+# UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
 # ----------------------------------------------------------------
 # --------------------  CURRENTLY WATCHING  ----------------------
@@ -26,6 +28,7 @@ fighter = 'Mike Tyson'
 fighter = 'Bernard Hopkins'
 fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
+fighter = 'Pernell Whitaker' # Elite, defensive talent
 # -- Contemporary
 fighter = 'Terence Crawford'
 fighter = "Kell Brook"    # vs. Golovkin and then Spence Jr.
@@ -40,6 +43,7 @@ show    = 'The Boxing Beat: ESPN'
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
+fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
@@ -48,6 +52,7 @@ fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] December 22 – Josh Warrington vs Carl Frampton
 # - [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 fighter = 'Jermall Charlo'                   #  12.22.2018
+fighter = 'Josh Warrington'                  #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 fighter = "Kell Brook"                       #  12.08.2018
@@ -84,25 +89,28 @@ fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
 fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
 fighter = 'Terence Crawford'                 #  06.09.2018 ESPN
+fighter = 'Austin Trout'                     #  06.09.2018
+fighter = 'Jermell Charlo'                   #  06.09.2018
 fighter = 'Carlos Balderas'                  #  06.09.2018
 fighter = 'Shakur Stevenson'                 #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
 # Inoue vs McDonnell, WBC featherweight      #  05.25.2018
 fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
-fighter = 'Josh Warrington'                  #  05.19.2018 vs Lee Selby Youtube
-# Russell vs Diaz                            #  05.19.2018 PBC
-# Gary Russell Jr. vs. Jo Jo Diaz            #  05.19.2018 PBC on Youtube
-#  - 99 SP 174
-#  - two guys who haven't proved much
-#  - Russell fast but again Lomachenko (2014) cant take getting hit
-#  - Jojo good offense, but underpowerd
-# Vargas vs Hovhannisyan                     #  05.12.2018 Youtube
+
+# Duno vs González goldenboy espn thursday
+
+#
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
 #
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
 
+
+fighter = 'Keith Thurman'
+# 06.24.2016 Shawn Porter    #  03.04.2017 vs Danny Garcia
+# Gary Russell Jr. vs. Escandon 2017, vs. Hyland 2016, on Youtube Playlist
+#                  vs. Lomachenko
 
 
 # ----------------------------- MMA -----------------------------
@@ -251,6 +259,9 @@ def getEvent():
     result = soup.find('table', {'class': 'toccolours'})
     if result is None:
         result = soup.find('table')
+    if result is None:
+        print("Table not found")
+        sys.exit()
     td = result.find_all('tr')
     rows = [i.text.rstrip() for i in td]   # dont need this right now
     table = pd.read_html(result.prettify())[0]
