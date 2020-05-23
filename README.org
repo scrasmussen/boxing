@@ -10,15 +10,15 @@ A collection of ideas and history.
 *** 105 : minimumweight
 *** 108 : light flyweight
 *** 112 : flyweight
-*** 115 : bantamweight
+*** 115 : super flyweight / junior bantamweight
 *** 118 : bantamweight
-*** 122 : super bantamweight
+*** 122 : super bantamweight / junior featherweight
 *** 126 : featherweight
-*** 130 : super featherweight
+*** 130 : super featherweight / junior lightweight
 *** 135 : lightweight
-*** 140 : super lightweight
+*** 140 : super lightweight / junior welterweight
 *** 147 : welterweight
-*** 154 : super welterweight
+*** 154 : super welterweight / junior middleweight
 *** 160 : middleweight
 *** 168 : super middleweight
 *** 175 : light heavyweight
@@ -43,6 +43,7 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Naoya Inoue vs. Jamie McDonnell   | 05.25.2018 |                            |
 | Gary Russell vs. Joseph Diaz      | 05.19.2018 | Both Jr.'s                 |
 | Josh Warrington vs. Lee Selby     | 05.19.2018 |                            |
 | Adonis Stevenson vs. Badou Jack   | 05.19.2018 |                            |
@@ -463,6 +464,8 @@ Need to add the scared fighter fight
 | UFC 184             | 02.28.2015 | Rousey vs. Zingano      |
 | UFC 167             | 11.16.2013 | St-Pierre vs. Hendricks |
 | UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
+| UFC 7               | 09.08.1996 |                         |
+| UFC 6               | 07.14.1995 |                         |
 | UFC 5               | 04.07.1995 |                         |
 | UFC 4               | 12.16.1994 |                         |
 | UFC 3               | 09.09.1994 |                         |
@@ -483,6 +486,7 @@ Need to add the scared fighter fight
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims    |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22       |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
+| Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80  |
 | Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
 | Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
 | Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67              |

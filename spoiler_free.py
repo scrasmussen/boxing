@@ -62,6 +62,7 @@ fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
+fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
@@ -87,18 +88,20 @@ fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 fighter = 'Josh Kelly (boxer)'               #  06.16.2018
 fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
 fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
+fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
-fighter = 'Terence Crawford'                 #  06.09.2018 ESPN
+fighter = 'Terence Crawford'                 #  06.09.2018 ESPN Horn
 fighter = 'Austin Trout'                     #  06.09.2018
 fighter = 'Jermell Charlo'                   #  06.09.2018
 fighter = 'Carlos Balderas'                  #  06.09.2018
 fighter = 'Shakur Stevenson'                 #  06.09.2018
+fighter = 'Leo Santa Cruz'                   #  06.09.2018
 # Okolie vs. Watkins                         #  06.06.2018 DAZN
-# Inoue vs McDonnell, WBC featherweight      #  05.25.2018
-fighter = 'Vergil Ortiz Jr.'                 #  05.23.2019 DAZN ?
 
-# Duno vs González goldenboy espn thursday
 
+
+# Billy Joe Saunders vs. Martin Murray 04.14.2018
+fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
 #
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
@@ -155,6 +158,7 @@ fighter = 'Sage Northcutt'          #  UFC 192
 # tj dillashaw vs henry cejudo : head butt
 # at thompson vs luque
 # Whittaker vs Romero 1 and 2
+# Yves Edwards, practices thugjitsu
 # Brian Ortega vs. Korean Zombie
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
 # For something?                    #  02.11.2017  UFC 208
