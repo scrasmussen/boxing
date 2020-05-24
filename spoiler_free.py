@@ -42,7 +42,9 @@ fighter = 'Floyd Mayweather Jr.'
 show    = 'The Boxing Beat: ESPN'
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
+fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
+fighter = 'Austin Trout'                     #  05.25.2019
 fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
@@ -52,6 +54,7 @@ fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] December 22 – Josh Warrington vs Carl Frampton
 # - [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 fighter = 'Jermall Charlo'                   #  12.22.2018
+fighter = 'Jermell Charlo'                   #  12.22.2018
 fighter = 'Josh Warrington'                  #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
@@ -62,6 +65,7 @@ fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
+fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
 fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
@@ -75,9 +79,12 @@ fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
 fighter = 'Shawn Porter'                     #  09.08.2018
 fighter = 'Ryan García'                      #  09.01.2018 YT Morales
+fighter = 'Tyson Fury'                       #  08.18.2018
+fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 07.2019 ESPN
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
+fighter = 'Carlos Balderas'                  #  07.28.2018 YT
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
 fighter = 'Regis Prograis'                   #  07.14.2018
@@ -87,17 +94,13 @@ fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
 fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 fighter = 'Josh Kelly (boxer)'               #  06.16.2018
 fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
-fighter = 'Daniyar Yeleussinov'    # 06.06.2018, 09.13.2019 on DAZN
 fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
-fighter = 'Terence Crawford'                 #  06.09.2018 ESPN Horn
-fighter = 'Austin Trout'                     #  06.09.2018
-fighter = 'Jermell Charlo'                   #  06.09.2018
-fighter = 'Carlos Balderas'                  #  06.09.2018
-fighter = 'Shakur Stevenson'                 #  06.09.2018
-fighter = 'Leo Santa Cruz'                   #  06.09.2018
-# Okolie vs. Watkins                         #  06.06.2018 DAZN
+# YT  = Young Talent
+# SFL = Saturday Fight Live on DAZN
 
+# showtime
+fighter = 'Leo Santa Cruz'                   #  06.09.2018 vs Mares
 
 
 # Billy Joe Saunders vs. Martin Murray 04.14.2018
@@ -106,8 +109,8 @@ fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
 #
-# YT  = Young Talent
-# SFL = Saturday Fight Live on DAZN
+# --Classic--
+# Andre Berto vs. Victor Ortiz
 
 
 fighter = 'Keith Thurman'
@@ -158,6 +161,7 @@ fighter = 'Sage Northcutt'          #  UFC 192
 # tj dillashaw vs henry cejudo : head butt
 # at thompson vs luque
 # Whittaker vs Romero 1 and 2
+# Giant Silva: PRIDE fighter
 # Yves Edwards, practices thugjitsu
 # Brian Ortega vs. Korean Zombie
 fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night

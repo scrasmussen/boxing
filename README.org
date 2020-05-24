@@ -29,7 +29,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: matches-seen
-: I have seen 84 matches
+: I have seen 101 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -43,6 +43,13 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Terence Crawford vs. Jeff Horn    | 06.09.2018 |                            |
+| Leo Santa Cruz vs. Abner Mares    | 06.09.2018 |                            |
+| Jermell Charlo vs. Austin Trout   | 06.09.2018 |                            |
+| Carlos Balderas vs. Alex Silva    | 06.09.2018 |                            |
+| Shakur Stevenson vs. A. Mesquita  | 06.09.2018 | Aelio                      |
+| Tyson Fury vs. Sefer Seferi       | 06.09.2018 |                            |
+| Lawrence Okolie vs. Luke Watkins  | 06.06.2018 |                            |
 | Naoya Inoue vs. Jamie McDonnell   | 05.25.2018 |                            |
 | Gary Russell vs. Joseph Diaz      | 05.19.2018 | Both Jr.'s                 |
 | Josh Warrington vs. Lee Selby     | 05.19.2018 |                            |
@@ -69,11 +76,15 @@ A collection of ideas and history.
 | Regis Prograis vs. Julius Indongo | 03.09.2018 |                            |
 | Deontay Wilder vs. Luiz Ortiz     | 03.03.2018 |                            |
 | S. Sor Ringvisai vs. J.F. Estrada | 02.28.2018 | Srisaket, Juan Francisco   |
+| Karlos Balderas vs. Jorge Rojas   | 02.17.2018 |                            |
 | Murat Gassiev vs. Yuniel Dorticos | 02.03.2018 |                            |
 | L. Okolie vs. I. Chamberlain      | 02.03.2018 | Lawrence vs. Isaac         |
+| Karlos Balderas vs. Carlos Flores | 12.15.2017 |                            |
 | Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                    |
+| Karlos Balderas vs. Amaro Fajardo | 07.30.2017 |                            |
 | Manny Pacquiao vs. Jeff Horn      | 07.02.2017 |                            |
 | Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match               |
+| Karlos Balderas vs. Thomas Smith  | 04.09.2017 |                            |
 | E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out   |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
