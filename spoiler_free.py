@@ -83,19 +83,25 @@ fighter = 'Ryan García'                      #  09.01.2018 YT Morales
 fighter = 'Tyson Fury'                       #  08.18.2018
 fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 07.2019 ESPN
 # devin alexander vs. aundr bird spence      #  08.05.2018
-fighter = 'Mikey Garcia'                     #  07.28.2018 PBC
+fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
 fighter = 'Carlos Balderas'                  #  07.28.2018 YT
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
 fighter = 'Regis Prograis'                   #  07.14.2018
-# Alex Saucedo vs Lenny Zappavigna           #  06.30.2018
+# 06.23.2018
 # best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
+# Gilberto Ramirez vs. Roamer Alexis Angulo for WBO super-middleweight
+fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
 fighter = 'Josh Taylor (boxer)'              #  06.23.2018
-fighter = 'Josh Kelly (boxer)'               #  06.16.2018
-fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC
-fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
+# 06.23.2018
+# Billy Joe Saunders vs. Martin Murray for WBO middleweight
+fighter = 'Josh Kelly (boxer)'               #  06.16.2018 Kris George
+fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC Ocampo
+# 06.12.2018
+# Lewis Ritson vs. Paul Hyland Jr. for British lightweight title
+
 fighter = 'Michael Conlan (boxer)'           #  06.12.2018
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
