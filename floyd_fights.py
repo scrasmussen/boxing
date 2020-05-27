@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-current_fight = 34
+current_fight = 35
 
 soup = BeautifulSoup(open("floyd_wiki.html"), 'lxml')
 for fight, row in enumerate(soup.find_all('tr')):

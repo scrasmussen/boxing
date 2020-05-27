@@ -48,6 +48,7 @@ fighter = 'Austin Trout'                     #  05.25.2019
 fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
+fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Badou Jack'                       #  01.19.2019
@@ -72,7 +73,7 @@ fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
 # - [ ] September 24 – Sho Kimura vs Kosei Tanaka
 # - [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
-fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
+ffighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
@@ -99,9 +100,6 @@ fighter = 'Michael Conlan (boxer)'           #  06.12.2018
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
 
-# showtime
-fighter = 'Leo Santa Cruz'                   #  06.09.2018 vs Mares
-
 
 # Billy Joe Saunders vs. Martin Murray 04.14.2018
 fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
@@ -111,6 +109,7 @@ fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
 #
 # --Classic--
 # Andre Berto vs. Victor Ortiz
+# GGG vs. Daniel Jacobs 3.18.2017
 
 
 fighter = 'Keith Thurman'
