@@ -6,6 +6,7 @@ all: build
 build:
 	$(lc) $(file)
 
+e: card
 event: card
 card:
 	$(lc) spoiler_free.py event

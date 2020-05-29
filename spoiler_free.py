@@ -9,6 +9,7 @@ from tabulate import tabulate
 
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
+event = 'UFC Fight Night: Smith vs. Teixeira'
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
@@ -42,12 +43,14 @@ fighter = 'Floyd Mayweather Jr.'
 show    = 'The Boxing Beat: ESPN'
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
+fighter = 'Michael Conlan (boxer)'           #
 fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
 fighter = 'Austin Trout'                     #  05.25.2019
 fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
+ffighter = 'Errol Spence Jr.'                 #  03.16.2019
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
@@ -57,6 +60,7 @@ fighter = 'Badou Jack'                       #  01.19.2019
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jermell Charlo'                   #  12.22.2018
 fighter = 'Josh Warrington'                  #  12.22.2018
+fighter = 'Billy Joe Saunders'               #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 fighter = "Kell Brook"                       #  12.08.2018
@@ -64,21 +68,24 @@ fighter = "Kell Brook"                       #  12.08.2018
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
+fighter = 'Josh Kelly (boxer)'               #  11.10.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
 fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
 fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Jorge Linares'                    #  09.29.2018
+fighter = 'Jerwin Ancajas'                   #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
 # - [ ] September 24 – Sho Kimura vs Kosei Tanaka
 # - [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
-ffighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
+fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
 fighter = 'Shawn Porter'                     #  09.08.2018
+fighter = 'Lewis Ritson'                     #  09.08.2018
 fighter = 'Ryan García'                      #  09.01.2018 YT Morales
 fighter = 'Tyson Fury'                       #  08.18.2018
 fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 07.2019 ESPN
@@ -87,7 +94,7 @@ fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
 fighter = 'Carlos Balderas'                  #  07.28.2018 YT
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
-fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018
+fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 fighter = 'Regis Prograis'                   #  07.14.2018
 # 06.23.2018
 # best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
@@ -95,20 +102,11 @@ fighter = 'Regis Prograis'                   #  07.14.2018
 fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
 fighter = 'Josh Taylor (boxer)'              #  06.23.2018
-# 06.23.2018
-# Billy Joe Saunders vs. Martin Murray for WBO middleweight
-fighter = 'Josh Kelly (boxer)'               #  06.16.2018 Kris George
-fighter = 'Errol Spence Jr.'                 #  06.16.2018 PBC Ocampo
-# 06.12.2018
-# Lewis Ritson vs. Paul Hyland Jr. for British lightweight title
 
-fighter = 'Michael Conlan (boxer)'           #  06.12.2018
+
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
 
-
-# Billy Joe Saunders vs. Martin Murray 04.14.2018
-fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
 #
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
@@ -116,8 +114,9 @@ fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018
 # --Classic--
 # Andre Berto vs. Victor Ortiz
 # GGG vs. Daniel Jacobs 3.18.2017
+# Errol Spence Jr. vs Kell Brook 05.27.2017
 
-
+ffighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018   # 09.28.2018
 fighter = 'Keith Thurman'
 # 06.24.2016 Shawn Porter    #  03.04.2017 vs Danny Garcia
 # Gary Russell Jr. vs. Escandon 2017, vs. Hyland 2016, on Youtube Playlist
@@ -137,6 +136,7 @@ fighter = 'Chan Sung Jung '
 fighter = 'Arnold Allen (fighter)'
 fighter = 'Colby Covington'
 fighter = 'Jorge Masvidal'
+fighter = 'Justin Gaethje'
 fighter = 'Curtis Blaydes'          #  Like this heavyweight
 fighter = 'Carlos Diego Ferreira'
 fighter = 'Donald Cerrone'
