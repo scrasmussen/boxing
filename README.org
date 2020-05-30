@@ -37,7 +37,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 101 matches
+: I have seen 108 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -51,6 +51,9 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Josh Taylor vs. Viktor Postol     | 06.23.2018 |                            |
+| Vergil Ortiz Jr. vs. Juan Salgado | 06.23.2018 |                            |
+| Daniel Dubois vs. Tom Little      | 06.23.2018 |                            |
 | Errol Spence Jr. vs. C. Ocampo    | 06.16.2018 | Carlos                     |
 | Lewis Ritson vs. Paul Hyland Jr.  | 06.12.2018 |                            |
 | Terence Crawford vs. Jeff Horn    | 06.09.2018 |                            |
@@ -755,6 +758,7 @@ Henry Cooper should have fought Jimmy Ellis, British Boxing Board of Control
  (BBBofC) didn't allow it and Jimmy ended up getting bludgeoned by Joe Frazier
 Henry Fought Jack Bodell, got kicked in the shins a bunch
 ** Boxing Articles
+*** [[https://www.vice.com/en_ca/article/evqqgm/busted-faces-and-broken-fingers-bare-knuckle-boxing-is-back][Busted face and broken fingers: bare-knuckle boxing is back]]
 *** [[https://www.badlefthook.com/2020/3/19/21185798/watsons-favorite-fight-kostya-tszyu-vs-ricky-hatton-classic-boxing-history][Watson’s favorite fight: Kostya Tszyu vs Ricky Hatton]]
 *** [[https://www.bloodyelbow.com/2013/1/24/3908574/muhammad-ali-boxing-technique-jack-slack][Pulling Back the Curtian on Muhammad Ali]]
 Ali's anchor punch, used by Jack Johnson, though not the same setup.

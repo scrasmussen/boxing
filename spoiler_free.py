@@ -9,7 +9,6 @@ from tabulate import tabulate
 
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
-event = 'UFC Fight Night: Smith vs. Teixeira'
 event = 'UFC on ESPN: Overeem vs. Harris'
 
 # UFC 17 : Chuck Liddell
@@ -71,10 +70,12 @@ fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Josh Kelly (boxer)'               #  11.10.2018
+fighter = 'Josh Taylor (boxer)'              #  11.03.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
 fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
 fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
+fighter = 'Daniel Dubois (boxer)'            #  10.06.2018
 fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Jerwin Ancajas'                   #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
@@ -84,6 +85,7 @@ fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
 fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
+fighter = 'Vergil Ortiz Jr.'                 #  09.15.2018 YT no DAZN til 2019
 fighter = 'José Ramírez (boxer)'             #  09.14.2018
 fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
 fighter = 'Shawn Porter'                     #  09.08.2018
@@ -98,14 +100,12 @@ fighter = 'Carlos Balderas'                  #  07.28.2018 YT
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
-# 06.23.2018
+# 06.30.2018
 # best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
 # Gilberto Ramirez vs. Roamer Alexis Angulo for WBO super-middleweight
-fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
-fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
-ffighter = 'Josh Taylor (boxer)'              #  06.23.2018 Viktor Postol
-fighter = 'Viktor Postol'
 
+
+# Vergil Ortiz Jr. vs. Juan Carlos Salgado
 
 
 # YT  = Young Talent
