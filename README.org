@@ -1,10 +1,18 @@
-* Boxing
+* Boxing and MMA
 A collection of ideas and history.
 
 ** Compute
-#+NAME: matches-seen
+*** Boxing Matches Seen
+#+NAME: boxing-matches-seen
 #+BEGIN_SRC emacs-lisp :var table=boxingMatches
 (concat "I have seen " (number-to-string (- (length table) 1) ) " matches")
+#+END_SRC
+*** MMA Events Seen
+#+NAME: mma-events-seen
+#+BEGIN_SRC emacs-lisp :var table1=mmaEvents table2=mmaFights
+(concat "I have seen " (number-to-string (- (length table1) 1) )
+" events and "         (number-to-string (- (length table2) 1) )
+" additional fights")
 #+END_SRC
 ** Weight Classes
 *** 105 : minimumweight
@@ -28,7 +36,7 @@ A collection of ideas and history.
 
 
 * Boxing Matches
-#+RESULTS: matches-seen
+#+RESULTS: boxing-matches-seen
 : I have seen 101 matches
 
 #+NAME:boxingMatches
@@ -444,16 +452,23 @@ moves back to catch the opponent moving forward all the time
 
 * MMA Events
 [[Individual Fights][Individual fights]]
+#+RESULTS: mma-events-seen
+: I have seen 44 events and 14 additional fights
+
 Need to add the scared fighter fight
+#+NAME:mmaEvents
+|---------------------+------------+-------------------------|
 | *Event*             |     *Date* | *Notes*                 |
 |---------------------+------------+-------------------------|
+| UFC on ESPN 8       | 05.16.2020 | Overeem vs. Harris      |
+| UFC Fight Night 171 | 05.13.2020 | (Smith vs. Teixeira     |
 | UFC 249             | 05.09.2020 | Ferguson vs. Gaethje    |
 | UFC 248             | 03.07.2020 | Adesanya vs. Romero     |
 | UFC 247             | 02.08.2020 | Jones vs. Reyes         |
 | UFC 246             | 01.18.2020 | McGregor vs. Cowboy     |
 | UFC 246: Prelims    | 01.18.2020 | McGregor vs. Cowboy     |
 | UFC 245             | 12.14.2019 | Usman vs. Covington     |
-| UFC on ESPN         | 12.07.2019 | Overeem vs. Rozenstruik |
+| UFC on ESPN 7       | 12.07.2019 | Overeem vs. Rozenstruik |
 | UFC 244             | 11.02.2019 | Masvidal vs. Diaz       |
 | UFC 243             | 10.05.2019 | Whittaker vs. Adesaynya |
 | UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje      |
@@ -491,6 +506,7 @@ Need to add the scared fighter fight
 | UFC 1               | 11.12.1993 |                         |
 
 ** <<Individual Fights>>
+#+NAME:mmaFights
 |--------------------------------------+------------+---------------------|
 | *Fighters*                           |     *Date* | *Event*             |
 |--------------------------------------+------------+---------------------|

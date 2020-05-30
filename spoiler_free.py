@@ -10,6 +10,8 @@ from tabulate import tabulate
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
 event = 'UFC Fight Night: Smith vs. Teixeira'
+event = 'UFC on ESPN: Overeem vs. Harris'
+
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
@@ -50,7 +52,7 @@ fighter = 'Austin Trout'                     #  05.25.2019
 fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
-ffighter = 'Errol Spence Jr.'                 #  03.16.2019
+fighter = 'Errol Spence Jr.'                 #  03.16.2019
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
 fighter = 'Adrian Broner'                    #  01.19.2019
@@ -95,13 +97,15 @@ fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 fighter = 'Carlos Balderas'                  #  07.28.2018 YT
 fighter = 'Jaime Munguía'                    #  07.21.2018 YT
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
-fighter = 'Regis Prograis'                   #  07.14.2018
+fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
 # 06.23.2018
 # best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
 # Gilberto Ramirez vs. Roamer Alexis Angulo for WBO super-middleweight
 fighter = 'Vergil Ortiz Jr.'                 #  06.23.2019 no DAZN til 2019
 fighter = 'Daniel Dubois (boxer)'            #  06.23.2018
-fighter = 'Josh Taylor (boxer)'              #  06.23.2018
+ffighter = 'Josh Taylor (boxer)'              #  06.23.2018 Viktor Postol
+fighter = 'Viktor Postol'
+
 
 
 # YT  = Young Talent
@@ -116,11 +120,14 @@ fighter = 'Josh Taylor (boxer)'              #  06.23.2018
 # GGG vs. Daniel Jacobs 3.18.2017
 # Errol Spence Jr. vs Kell Brook 05.27.2017
 
-ffighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018   # 09.28.2018
+fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018   # 09.28.2018
 fighter = 'Keith Thurman'
 # 06.24.2016 Shawn Porter    #  03.04.2017 vs Danny Garcia
 # Gary Russell Jr. vs. Escandon 2017, vs. Hyland 2016, on Youtube Playlist
 #                  vs. Lomachenko
+# Big Steal: 'Viktor Postol' vs. Jamshidbek Najmiddinov
+# one of the worst hbo fights   vs. Selçuk Aydın?
+
 
 
 # ----------------------------- MMA -----------------------------
