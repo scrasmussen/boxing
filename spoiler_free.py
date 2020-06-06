@@ -10,6 +10,13 @@ from tabulate import tabulate
 # ---------------------------- EVENTS ----------------------------
 event = 'UFC 235'
 event = 'UFC on ESPN: Overeem vs. Harris'
+event = 'UFC on ESPN: Woodley vs. Burns'
+
+# 8:12  Woodley vs. Burns
+#       Sakia vs. Ivanov  1:34
+
+# GGG vs Daniel Jacobs, DAZN USA YOUTUBE
+# https://www.youtube.com/watch?v=4VfPtgFEXYc
 
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
@@ -21,6 +28,7 @@ event = 'UFC on ESPN: Overeem vs. Harris'
 fighter = 'Lyoto Machida'
 fighter = 'Georges St-Pierre'
 fighter = 'Matt Hughes (fighter)'             # UFC 22,26
+fighter = 'Kevin Randleman'
 # ---------------------------- BOXING ----------------------------
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
@@ -31,6 +39,7 @@ fighter = 'Bernard Hopkins'
 fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
 fighter = 'Pernell Whitaker' # Elite, defensive talent
+fighter = 'Guillermo Rigondeaux' # ducked?
 # -- Contemporary
 fighter = 'Terence Crawford'
 fighter = "Kell Brook"    # vs. Golovkin and then Spence Jr.
@@ -70,6 +79,7 @@ fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Josh Kelly (boxer)'               #  11.10.2018
+fighter = 'Sullivan Barrera'                 #  11.03.2018
 fighter = 'Josh Taylor (boxer)'              #  11.03.2018
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
@@ -92,17 +102,29 @@ fighter = 'Shawn Porter'                     #  09.08.2018
 fighter = 'Lewis Ritson'                     #  09.08.2018
 fighter = 'Ryan García'                      #  09.01.2018 YT Morales
 fighter = 'Tyson Fury'                       #  08.18.2018
+fighter = 'Carl Frampton'                    #  08.18.2018 Jackson
 fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 07.2019 ESPN
+fighter = 'Sergey Kovalev'                   #  08.05.2018
 # devin alexander vs. aundr bird spence      #  08.05.2018
+# 08.04.2018
+#  Kovalev vs. Eleidar Alvarez
+# fighter = 'Dmitry Bivol'                   # vs. TBA
+ffighter = 'Zab Judah'
+
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
-fighter = 'Carlos Balderas'                  #  07.28.2018 YT
-fighter = 'Jaime Munguía'                    #  07.21.2018 YT
+# Whyte vs Parker 02 Arena
+# Kell Brook vs Brandon Cook
+fighter = 'Carlos Balderas'                  #  07.28.2018 YT Caro
+
+fighter = 'Jaime Munguía'                    #  07.21.2018 YT Smith
 fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
+# Undercard: Moruti Mthalane vs Muhammad Waseem for the IBF flyweight world
+#  title; Carlos Canizares vs Bin Lu for the WBA super-straweight world title
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
 # 06.30.2018
 # best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
-# Gilberto Ramirez vs. Roamer Alexis Angulo for WBO super-middleweight
+
 
 
 # Vergil Ortiz Jr. vs. Juan Carlos Salgado

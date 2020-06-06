@@ -11,10 +11,6 @@ event: card
 card:
 	$(lc) spoiler_free.py event
 
+f: floyd
 floyd:
 	$(lc) floyd_fights.py
-
-when:
-	@echo "beyond 17th of March, 2018"
-
-where: when

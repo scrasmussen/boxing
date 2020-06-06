@@ -37,7 +37,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 108 matches
+: I have seen 114 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -51,6 +51,7 @@ A collection of ideas and history.
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Gilberto Ramirez vs. R.A. Angulo  | 06.30.2018 | Roamer Alexis              |
 | Josh Taylor vs. Viktor Postol     | 06.23.2018 |                            |
 | Vergil Ortiz Jr. vs. Juan Salgado | 06.23.2018 |                            |
 | Daniel Dubois vs. Tom Little      | 06.23.2018 |                            |
@@ -103,12 +104,15 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
+| Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
 | Floyd Mayweather vs. S. Mitchell  | 11.19.2005 | Sharmba                    |
 | Floyd Mayweather vs. Arturo Gatti | 06.25.2005 |                            |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
+| Zab Judah vs. Cosme Rivera        | 05.14.2005 |                            |
 | Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
 | Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
 | Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
+| Zab Judah vs. Jaime Rangel        | 12.13.2003 |                            |
 | Floyd Mayweather vs. P. N'dou     | 11.01.2003 | [[11.1.2003][ff.]]                        |
 | Floyd Mayweather vs. V. Sosa      | 04.19.2003 | [[4.19.2003][ff.]]                        |
 | Floyd Mayweather vs. Castillo II  | 12.07.2002 | Jose Luis.                 |
@@ -456,77 +460,80 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 44 events and 14 additional fights
+: I have seen 46 events and 15 additional fights
 
 Need to add the scared fighter fight
 #+NAME:mmaEvents
-|---------------------+------------+-------------------------|
-| *Event*             |     *Date* | *Notes*                 |
-|---------------------+------------+-------------------------|
-| UFC on ESPN 8       | 05.16.2020 | Overeem vs. Harris      |
-| UFC Fight Night 171 | 05.13.2020 | (Smith vs. Teixeira     |
-| UFC 249             | 05.09.2020 | Ferguson vs. Gaethje    |
-| UFC 248             | 03.07.2020 | Adesanya vs. Romero     |
-| UFC 247             | 02.08.2020 | Jones vs. Reyes         |
-| UFC 246             | 01.18.2020 | McGregor vs. Cowboy     |
-| UFC 246: Prelims    | 01.18.2020 | McGregor vs. Cowboy     |
-| UFC 245             | 12.14.2019 | Usman vs. Covington     |
-| UFC on ESPN 7       | 12.07.2019 | Overeem vs. Rozenstruik |
-| UFC 244             | 11.02.2019 | Masvidal vs. Diaz       |
-| UFC 243             | 10.05.2019 | Whittaker vs. Adesaynya |
-| UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje      |
-| UFC 242             | 09.07.2019 | Khabib vs. Poirier      |
-| UFC Fight Night 157 | 08.31.2019 | Andrade vs. Zhang       |
-| UFC 241             | 08.17.2019 | Cormier vs. Miocic II   |
-| UFC 240             | 07.27.2019 | Holloway vs. Edgar      |
-| UFC 239             | 07.06.2019 | Jones vs. Santos        |
-| UFC 239: Prelims    | 07.06.2019 | Perez vs. Song Yadong   |
-| UFC 238             | 06.08.2019 | Cejudo vs. Moraes       |
-| UFC Fight Night 153 | 06.01.2019 | Gustafsson vs. Smith    |
-| UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee       |
-| UFC 237             | 05.11.2019 | Namajunas vs. Andrade   |
-| UFC 236             | 04.13.2019 | Holloway vs. Poirier II |
-| UFC 235             | 03.02.2019 | Jones vs. Smith         |
-| UFC 235: Prelims    | 03.02.2019 | Jones vs. Smith         |
-| UFC 234             | 02.10.2019 | Adesanya vs. Silva      |
-| UFC 229             | 08.06.2018 | Khabib vs. McGregor     |
-| UFC 203             | 09.10.2016 | Miocic vs. Overeem      |
-| UFC 202             | 08.20.2016 | Diaz vs. McGregor II    |
-| UFC 201             | 07.30.2016 | Lawler vs. Woodley      |
-| UFC 200             | 07.09.2016 | Tate vs. Nunes          |
-| UFC 196             | 03.05.2016 | McGregor vs. Diaz       |
-| UFC 194             | 12.12.2015 | Aldo vs. McGregor       |
-| UFC 193             | 11.14.2015 | Rousey vs. Holm         |
-| UFC 184             | 02.28.2015 | Rousey vs. Zingano      |
-| UFC 167             | 11.16.2013 | St-Pierre vs. Hendricks |
-| UFC 165             | 09.21.2013 | Jones vs. Gustafsson    |
-| UFC 7               | 09.08.1996 |                         |
-| UFC 6               | 07.14.1995 |                         |
-| UFC 5               | 04.07.1995 |                         |
-| UFC 4               | 12.16.1994 |                         |
-| UFC 3               | 09.09.1994 |                         |
-| UFC 2               | 03.11.1994 |                         |
-| UFC 1               | 11.12.1993 |                         |
+|---------------------+------------+---------------------------|
+| *Event*             |     *Date* | *Notes*                   |
+|---------------------+------------+---------------------------|
+| UFC on ESPN 9       | 05.30.2020 | Wodley vs. Burns          |
+| UFC on ESPN 8       | 05.16.2020 | Overeem vs. Harris        |
+| UFC Fight Night 171 | 05.13.2020 | (Smith vs. Teixeira       |
+| UFC 249             | 05.09.2020 | Ferguson vs. Gaethje      |
+| UFC 248             | 03.07.2020 | Adesanya vs. Romero       |
+| UFC 247             | 02.08.2020 | Jones vs. Reyes           |
+| UFC 246             | 01.18.2020 | McGregor vs. Cowboy       |
+| UFC 246: Prelims    | 01.18.2020 | McGregor vs. Cowboy       |
+| UFC 245             | 12.14.2019 | Usman vs. Covington       |
+| UFC on ESPN 7       | 12.07.2019 | Overeem vs. Rozenstruik   |
+| UFC 244             | 11.02.2019 | Masvidal vs. Diaz         |
+| UFC 243             | 10.05.2019 | Whittaker vs. Adesaynya   |
+| UFC Fight Night 158 | 09.14.2019 | Cowboy vs. Gaethje        |
+| UFC 242             | 09.07.2019 | Khabib vs. Poirier        |
+| UFC Fight Night 157 | 08.31.2019 | Andrade vs. Zhang         |
+| UFC 241             | 08.17.2019 | Cormier vs. Miocic II     |
+| UFC 240             | 07.27.2019 | Holloway vs. Edgar        |
+| UFC 239             | 07.06.2019 | Jones vs. Santos          |
+| UFC 239: Prelims    | 07.06.2019 | Perez vs. Song Yadong     |
+| UFC 238             | 06.08.2019 | Cejudo vs. Moraes         |
+| UFC Fight Night 153 | 06.01.2019 | Gustafsson vs. Smith      |
+| UFC Fight Night 152 | 05.18.2019 | dos Anjos vs. Lee         |
+| UFC 237             | 05.11.2019 | Namajunas vs. Andrade     |
+| UFC 236             | 04.13.2019 | Holloway vs. Poirier II   |
+| UFC 235             | 03.02.2019 | Jones vs. Smith           |
+| UFC 235: Prelims    | 03.02.2019 | Jones vs. Smith           |
+| UFC 234             | 02.10.2019 | Adesanya vs. Silva        |
+| UFC 229             | 08.06.2018 | Khabib vs. McGregor       |
+| UFC 203             | 09.10.2016 | Miocic vs. Overeem        |
+| UFC 202             | 08.20.2016 | Diaz vs. McGregor II      |
+| UFC 201             | 07.30.2016 | Lawler vs. Woodley        |
+| UFC 200             | 07.09.2016 | Tate vs. Nunes            |
+| UFC 196             | 03.05.2016 | McGregor vs. Diaz         |
+| UFC 194             | 12.12.2015 | Aldo vs. McGregor         |
+| UFC 193             | 11.14.2015 | Rousey vs. Holm           |
+| UFC 184             | 02.28.2015 | Rousey vs. Zingano        |
+| UFC 167             | 11.16.2013 | St-Pierre vs. Hendricks   |
+| UFC 165             | 09.21.2013 | Jones vs. Gustafsson      |
+| UFC 8               | 04.16.1996 | Goodridge cross knockout! |
+| UFC 7               | 09.08.1996 |                           |
+| UFC 6               | 07.14.1995 |                           |
+| UFC 5               | 04.07.1995 |                           |
+| UFC 4               | 12.16.1994 |                           |
+| UFC 3               | 09.09.1994 |                           |
+| UFC 2               | 03.11.1994 |                           |
+| UFC 1               | 11.12.1993 |                           |
 
 ** <<Individual Fights>>
 #+NAME:mmaFights
-|--------------------------------------+------------+---------------------|
-| *Fighters*                           |     *Date* | *Event*             |
-|--------------------------------------+------------+---------------------|
-| Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169 |
-| Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169 |
-| Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167 |
-| Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166 |
-| Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166 |
-| Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165 |
-| Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162 |
-| Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims    |
-| Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22       |
-| Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]        |
-| Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80  |
-| Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]] |
-| Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]         |
-| Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67              |
+|--------------------------------------+------------+----------------------|
+| *Fighters*                           |     *Date* | *Event*              |
+|--------------------------------------+------------+----------------------|
+| Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169  |
+| Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169  |
+| Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167  |
+| Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166  |
+| Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166  |
+| Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165  |
+| Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162  |
+| Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims     |
+| Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22        |
+| Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]         |
+| Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80   |
+| Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]]  |
+| Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]          |
+| Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67               |
+| Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003 |
 
 
 ** Notes
@@ -766,6 +773,7 @@ Ali's handfighting: as seen versus Foreman, Zora Folley, Brian London
 Rope-a-dope versus George Foreman
 Clinch heavy versus Joe Frazier
 Retreating left hooks versus Oscar Bonavena
+*** [[https://www.ringtv.com/387071-ducking-opponents-no-way-from-the-ring-magazine/][Ducking opponents? No Way]]
 *** [[https://www.ringtv.com/596520-best-i-faced-oliver-mccall/][Best I Faced: Oliver McCall]]
 Mike Hunter: best defense, hard to hit
 Larry Holmes: best jab
