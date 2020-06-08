@@ -8,9 +8,10 @@ from tabulate import tabulate
 
 
 # ---------------------------- EVENTS ----------------------------
-event = 'UFC 235'
-event = 'UFC on ESPN: Overeem vs. Harris'
-event = 'UFC on ESPN: Woodley vs. Burns'
+# event = 'UFC 235'
+# event = 'UFC on ESPN: Overeem vs. Harris'
+# event = 'UFC on ESPN: Woodley vs. Burns'
+event = 'UFC 250' # 1:37
 
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
@@ -280,7 +281,7 @@ def getEventUrl(event):
     event = event.replace(' ', '_')
 
     #- check if UFC PPV
-    p = re.compile('UFC_[1-9]+')
+    p = re.compile('UFC_[0-9]+')
     match = p.match(event)
     if match is not None:
         event = match.group()
