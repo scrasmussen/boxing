@@ -123,8 +123,7 @@ fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 # Undercard: Moruti Mthalane vs Muhammad Waseem for the IBF flyweight world
 #  title; Carlos Canizares vs Bin Lu for the WBA super-straweight world title
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
-# 06.30.2018
-# best of match - [ ] June 30 – Alex Saucedo vs Lenny Zappavigna
+# ------------------------- 07.14.2018 current -------------------------
 
 
 
