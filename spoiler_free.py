@@ -12,6 +12,7 @@ from tabulate import tabulate
 # event = 'UFC on ESPN: Overeem vs. Harris'
 # event = 'UFC on ESPN: Woodley vs. Burns'
 event = 'UFC 250' # 1:37
+event = 'UFC_on_ESPN:_Eye_vs._Calvillo'
 
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
