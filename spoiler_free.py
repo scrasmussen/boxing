@@ -8,11 +8,8 @@ from tabulate import tabulate
 
 
 # ---------------------------- EVENTS ----------------------------
-# event = 'UFC 235'
-# event = 'UFC on ESPN: Overeem vs. Harris'
-# event = 'UFC on ESPN: Woodley vs. Burns'
 event = 'UFC 250' # 1:37
-event = 'UFC_on_ESPN:_Eye_vs._Calvillo'
+event = 'UFC on ESPN: Blaydes vs. Volkov'
 
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
@@ -178,7 +175,7 @@ fighter = 'Felicia Spencer'
 fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
 fighter = 'Diego Sanchez'
-fighter = 'Tony Ferguson'
+ffighter = 'Tony Ferguson'
 fighter = 'Johnny Walker (fighter)' #  finishes people in minutes
 fighter = 'Frankie Edgar'
 fighter = 'Zabit Magomedsharipov'
