@@ -474,7 +474,10 @@ Need to add the scared fighter fight
 |-------------------------+------------+---------------------------|
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
+| UFC 251: Prelims        | 07.12.2020 | Usman vs. Masvidal        |
+| UFC 251: Early Prelims  | 07.12.2020 | Usman vs. Masvidal        |
 | UFC on ESPN 10: Prelims | 06.13.2020 | Eyes vs Calvillo          |
+| UFC 250                 | 06.06.2020 | Nunes vs. Spencer         |
 | UFC 250: Prelims        | 06.06.2020 | Nunes vs. Spencer         |
 | UFC 250: Early Prelims  | 06.06.2020 | Nunes vs. Spencer         |
 | UFC on ESPN 9           | 05.30.2020 | Wodley vs. Burns          |

@@ -8,15 +8,19 @@ from tabulate import tabulate
 
 
 # ---------------------------- EVENTS ----------------------------
-event = 'UFC 250' # 1:37
-event = 'UFC on ESPN: Blaydes vs. Volkov'
-
+# event = 'UFC on ESPN: Blaydes vs. Volkov'
+event = 'UFC on ESPN: Eye vs. Calvillo'
+event = 'UFC 251'
+ffighter = 'Danny Henry'
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
 
 # GGG vs Daniel Jacobs, DAZN USA YOUTUBE
 # https://www.youtube.com/watch?v=4VfPtgFEXYc
 
+
+# Dominick Cruz vs Cody Garbandt, UFC 207
+#
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
@@ -185,6 +189,8 @@ fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
 fighter = 'Sage Northcutt'          #  UFC 192
+ffighter = 'Aljamain Sterling'
+
 # --------------------------------------------------------------
 # -----------------------  RANDOM NOTES  -----------------------
 # --------------------------------------------------------------
@@ -205,6 +211,7 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 #     UFC Fight Night: Andrade vs. Zhang 13:45
 # Marvin Johnson vs Mathew Said Mohammad :: great classic fight
 # Archie Moore vs Evon Durell            :: top ten list of fights
+
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 # --------------------------------------------------------------
@@ -213,6 +220,7 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 # --------------------------------------------------------------
+
 
 # allows easy access to fighters near the top
 if 'ffighter' in locals():
