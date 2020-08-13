@@ -37,7 +37,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 120 matches
+: I have seen 121 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -467,13 +467,15 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 49 events and 15 additional fights
+: I have seen 54 events and 15 additional fights
 
 Need to add the scared fighter fight
 #+NAME:mmaEvents
 |-------------------------+------------+---------------------------|
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
+| UFC on ESPN 13          | 07.16.2020 | Kattar vs. Ige            |
+| UFC 251                 | 07.12.2020 | Usman vs. Masvidal        |
 | UFC 251: Prelims        | 07.12.2020 | Usman vs. Masvidal        |
 | UFC 251: Early Prelims  | 07.12.2020 | Usman vs. Masvidal        |
 | UFC on ESPN 10: Prelims | 06.13.2020 | Eyes vs Calvillo          |

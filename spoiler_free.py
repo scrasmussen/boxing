@@ -9,9 +9,11 @@ from tabulate import tabulate
 
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
-event = 'UFC on ESPN: Eye vs. Calvillo'
-event = 'UFC 251'
+event = 'UFC_on_ESPN:_Kattar_vs._Ige'
+# event = 'UFC 251'
 ffighter = 'Danny Henry'
+ffighter = 'Jorge Masvidal'
+ffighter = 'Stephen Thompson (fighter)'
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
 
@@ -112,7 +114,7 @@ fighter = 'Sergey Kovalev'                   #  08.05.2018
 # 08.04.2018
 #  Kovalev vs. Eleidar Alvarez
 # fighter = 'Dmitry Bivol'                   # vs. TBA
-ffighter = 'Zab Judah'
+fighter = 'Zab Judah'
 
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
@@ -179,7 +181,7 @@ fighter = 'Felicia Spencer'
 fighter = 'Kamaru Usman'
 fighter = 'Robert Whittaker (fighter)'
 fighter = 'Diego Sanchez'
-ffighter = 'Tony Ferguson'
+fighter = 'Tony Ferguson'
 fighter = 'Johnny Walker (fighter)' #  finishes people in minutes
 fighter = 'Frankie Edgar'
 fighter = 'Zabit Magomedsharipov'
@@ -189,7 +191,8 @@ fighter = 'Ben Askren'
 fighter = 'Cody Garbrandt'
 fighter = 'Aleksei Oleinik'
 fighter = 'Sage Northcutt'          #  UFC 192
-ffighter = 'Aljamain Sterling'
+fighter = 'Aljamain Sterling'
+fighter = 'Mounir Lazzez'
 
 # --------------------------------------------------------------
 # -----------------------  RANDOM NOTES  -----------------------
