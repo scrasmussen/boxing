@@ -10,13 +10,16 @@ from tabulate import tabulate
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
-# event = 'UFC 251'
+event = 'UFC_Fight_Night:_Smith_vs._Rakić'
+# event = 'UFC 252'
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
+# ffighter='Bethe Correia'  # Jack Slack funny chant
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
 
+# GSP vs Josh Koscheck
 # GGG vs Daniel Jacobs, DAZN USA YOUTUBE
 # https://www.youtube.com/watch?v=4VfPtgFEXYc
 
@@ -34,6 +37,7 @@ fighter = 'Lyoto Machida'
 fighter = 'Georges St-Pierre'
 fighter = 'Matt Hughes (fighter)'             # UFC 22,26
 fighter = 'Kevin Randleman'
+fighter = 'Sean O\'Malley (fighter)'
 # ---------------------------- BOXING ----------------------------
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
