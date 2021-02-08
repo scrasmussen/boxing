@@ -469,14 +469,15 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 54 events and 15 additional fights
+: I have seen 57 events and 15 additional fights
 
 Need to add the scared fighter fight
 #+NAME:mmaEvents
 |-------------------------+------------+---------------------------|
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
-| UFC Fight Island 7      | 01.16.2020 | Holloway vs. Kattar       |
+| UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC on ESPN 15          | 08.22.2020 | Munhoz vs. Edgar          |
 | UFC 252                 | 08.15.2020 | Miocic vs. Cormier III    |
 | UFC on ESPN 13          | 07.16.2020 | Kattar vs. Ige            |
 | UFC 251                 | 07.12.2020 | Usman vs. Masvidal        |
