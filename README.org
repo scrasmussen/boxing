@@ -1,3 +1,4 @@
+#+STARTUP: overview
 * Boxing and MMA
 A collection of ideas and history.
 
@@ -477,6 +478,7 @@ Need to add the scared fighter fight
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
 | UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC Fight Night 175     | 08.29.2020 | Smith vs. Rakic           |
 | UFC on ESPN 15          | 08.22.2020 | Munhoz vs. Edgar          |
 | UFC 252                 | 08.15.2020 | Miocic vs. Cormier III    |
 | UFC on ESPN 13          | 07.16.2020 | Kattar vs. Ige            |
