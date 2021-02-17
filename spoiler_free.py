@@ -11,13 +11,14 @@ from tabulate import tabulate
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
-event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO ADD THIS FIGHT!
-event = 'UFC_Fight_Night:_Covington_vs._Woodley'
-# event = 'UFC 252'
+event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO FINISH THIS CARD
+
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
+# brandon royval vs tim elliott : UFC on ESPN : Woodley vs Burns 05.30.2020
+# ffighter = 'Neil Magny'
 # ffighter='Bethe Correia'  # Jack Slack funny chant
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
@@ -29,6 +30,7 @@ ffighter = 'Alistair Overeem'
 
 # Dominick Cruz vs Cody Garbandt, UFC 207
 #
+# event = 'UFC 104' # title fight, ring cutoff
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
