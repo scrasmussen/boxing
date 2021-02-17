@@ -478,6 +478,9 @@ Need to add the scared fighter fight
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
 | UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC 253                 | 09.27.2020 | Adesanya vs. Costa        |
+| UFC Fight Night 178     | 09.19.2020 | Covington vs. Woodley     |
+| UFC Fight Night 176     | 09.05.2020 | Overeem vs. Sakai         |
 | UFC Fight Night 175     | 08.29.2020 | Smith vs. Rakic           |
 | UFC on ESPN 15          | 08.22.2020 | Munhoz vs. Edgar          |
 | UFC 252                 | 08.15.2020 | Miocic vs. Cormier III    |
