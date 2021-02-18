@@ -12,7 +12,7 @@ A collection of ideas and history.
 #+NAME: mma-events-seen
 #+BEGIN_SRC emacs-lisp :var table1=mmaEvents table2=mmaFights
 (concat "I have seen " (number-to-string (- (length table1) 1) )
-" events and "         (number-to-string (- (length table2) 1) )
+" fight cards and "    (number-to-string (- (length table2) 1) )
 " additional fights")
 #+END_SRC
 ** Weight Classes
@@ -470,14 +470,15 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 57 events and 15 additional fights
+: I have seen 61 fight cards and 18 additional fights
 
 Need to add the scared fighter fight
 #+NAME:mmaEvents
 |-------------------------+------------+---------------------------|
-| *Event*                 | *Date*     | *Notes*                   |
+| *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
 | UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC on ESPN 16          | 10.04.2020 | Holm vs. Aldana           |
 | UFC 253                 | 09.27.2020 | Adesanya vs. Costa        |
 | UFC Fight Night 178     | 09.19.2020 | Covington vs. Woodley     |
 | UFC Fight Night 176     | 09.05.2020 | Overeem vs. Sakai         |
@@ -552,7 +553,9 @@ Need to add the scared fighter fight
 | Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166    |
 | Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166    |
 | Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165    |
+| Youssef Zalal vs. Jaime Hernandez    | 11.22.2019 | LFA 79                 |
 | Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162    |
+| Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162    |
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims       |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22          |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]           |

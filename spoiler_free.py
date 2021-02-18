@@ -12,11 +12,35 @@ from tabulate import tabulate
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
 event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO FINISH THIS CARD
+event = 'UFC_Fight_Night:_Moraes_vs._Sandhagen'
 
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
+# ffighter = 'Loma Lookboonmee' # fix parsing
+# ffighter = 'Seo Hee Ham'
+# ffighter = 'Youssef Zalal'
+
+# Seo Hee Ham, atom weight
+# Loma Lookboonmee: first thai fighter to sign with UFC
+#                   had that one match a few before
+# Pride Fighter
+# fabor emelianenko vs heath herring, crocop, vs kevin randelman (end great,
+#                                                             polite at end)
+# vs crocop (fabor had a masterful plan, went to holland had Tyrone Spong &
+#            Ernesto Hoost)
+# stipe miocic could probably take him , fabricio werdum on a very good day
+# perfect record obsession: black
+# vs Tsuyoshi Kohsaka, vs Blagoi Ivanov (combat sambo)
+#
+# best Pride Fights
+#https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time
+#
+# Watch
+# Ernesto Hoost (youtube)
+# Tyrone Spong (youtube)
+
 # brandon royval vs tim elliott : UFC on ESPN : Woodley vs Burns 05.30.2020
 # ffighter = 'Neil Magny'
 # ffighter='Bethe Correia'  # Jack Slack funny chant
@@ -316,6 +340,7 @@ def getEvent():
     req = requests.get(url).text
     soup = BeautifulSoup(req, 'lxml')
     # result = soup.find_all('table', {'class': 'wikitable'})
+
     result = soup.find('table', {'class': 'toccolours'})
     if result is None:
         result = soup.find('table')
@@ -382,15 +407,14 @@ def getEvent():
         print("Fin")
         sys.exit()
 
+
 # run event if in command line
 if (len(sys.argv) > 1):
     if (sys.argv[1] == 'event'):
         getEvent()
     sys.exit()
 
-# ----------------------------------------------------------------------------
-#                                  START
-# ----------------------------------------------------------------------------
+
 
 
 
@@ -398,22 +422,48 @@ req = requests.get(getUrl(fighter)).text
 soup = BeautifulSoup(req, 'lxml')
 result = soup.find_all('table', {'class': 'wikitable'})
 
-for res in result:
-    tr = res.find('tr')
-    td = tr.find_all('th')
-    rows = [i.text.rstrip() for i in td]
-    # print(rows)
-    if (check_boxing_columns(rows)):
-        table = pd.read_html(res.prettify())[0]
-        q = table[['No.', 'Opponent', 'Date']]
-    elif (check_mma_columns(rows)):
-        table = pd.read_html(res.prettify())[0]
-        q = table[['Opponent', 'Event', 'Date']].copy().dropna()
-        q.insert(0, '', list(range(len(q.index),0,-1)))
-        new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
-        q.loc[:,'Date'] = new_date
-        shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
-        q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
+
+# --- MMA record ---
+headers = soup.select_one('h2:contains("Mixed martial arts record")')
+h_table = headers.find_next_sibling()
+row = h_table.find_next_sibling()
+row_text = row.get_text()
+
+
+if ('Record' in row_text) and ('Opponent' in row_text):
+    table = pd.read_html(row.prettify())[0]
+    q = table[['Opponent', 'Event', 'Date']].copy().dropna()
+    q.insert(0, '', list(range(len(q.index),0,-1)))
+    # fix date
+    new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
+    q.loc[:,'Date'] = new_date
+    # shorten event name
+    shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
+    q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
+
+
+# --- Boxing record ---
+    # header = soup.select_one('h2:contains("Professional boxing record")')
+
+# for res in result:
+#     tr = res.find('tr')
+#     td = tr.find_all('th')
+#     rows = [i.text.rstrip() for i in td]
+#     # print(rows)
+#     if (check_boxing_columns(rows)):
+#         table = pd.read_html(res.prettify())[0]
+#         q = table[['No.', 'Opponent', 'Date']]
+#     elif (check_mma_columns(rows)):
+#         print(res)
+#         table = pd.read_html(res.prettify())[0]
+#         q = table[['Opponent', 'Event', 'Date']].copy().dropna()
+#         q.insert(0, '', list(range(len(q.index),0,-1)))
+#         new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
+#         q.loc[:,'Date'] = new_date
+#         shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
+#         q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
+#         sys.exit()
+
 
 
 print(tabulate([[fighter.replace('_',' ')]], tablefmt='psql'))
