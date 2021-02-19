@@ -11,21 +11,24 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from tabulate import tabulate
 
-
+event = True
+event = False
 
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
 event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO FINISH THIS CARD
-# event = 'UFC_Fight_Night:_Moraes_vs._Sandhagen'
+event = 'UFC_Fight_Night:_Moraes_vs._Sandhagen'
+event = 'UFC_Fight_Night: Ortega vs. The Korean Zombie'
 # event = 'UFC 240'
-event = 'UFC 141'
+# event = 'UFC 141'
 
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
+ffighter = 'Jimmy Crute'
 # ffighter = 'Loma Lookboonmee' # fix parsing
 # ffighter = 'Seo Hee Ham'
 # ffighter = 'Youssef Zalal'
@@ -33,6 +36,7 @@ ffighter = 'Alistair Overeem'
 # Seo Hee Ham, atom weight
 # Loma Lookboonmee: first thai fighter to sign with UFC
 #                   had that one match a few before
+# Jojua
 # Pride Fighter
 # fabor emelianenko vs heath herring, crocop, vs kevin randelman (end great,
 #                                                             polite at end)
@@ -155,7 +159,7 @@ fighter = 'Sergey Kovalev'                   #  08.05.2018
 # 08.04.2018
 #  Kovalev vs. Eleidar Alvarez
 # fighter = 'Dmitry Bivol'                   # vs. TBA
-ffighter = 'Zab Judah'
+fighter = 'Zab Judah'
 
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
@@ -272,22 +276,21 @@ if 'ffighter' in locals():
     fighter_name = ffighter
 
 
-
 # run event if in command line
 # if (len(sys.argv) > 1):
 #     if (sys.argv[1] == 'event'):
 #         getEvent()
 #     sys.exit()
 
-event = fe.FightEvent(event)
-event.print_name()
-event.print_events()
-
-sys.exit()
-# --- handle fighter ---
-fighter = ft.Fighter(fighter_name)
-fighter.print_name()
-fighter.print_records()
+if event is True:
+    event = fe.FightEvent(event)
+    event.print_name()
+    event.print_events()
+else:
+    # --- handle fighter ---
+    fighter = ft.Fighter(fighter_name)
+    fighter.print_name()
+    fighter.print_records()
 
 
 print("Fin")
