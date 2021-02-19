@@ -542,31 +542,40 @@ Need to add the scared fighter fight
 
 ** <<Individual Fights>>
 #+NAME:mmaFights
-|--------------------------------------+------------+------------------------|
-| *Fighters*                           |     *Date* | *Event*                |
-|--------------------------------------+------------+------------------------|
-| Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims       |
-| Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims |
-| Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169    |
-| Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169    |
-| Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167    |
-| Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166    |
-| Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166    |
-| Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165    |
-| Youssef Zalal vs. Jaime Hernandez    | 11.22.2019 | LFA 79                 |
-| Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162    |
-| Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162    |
-| Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims       |
-| Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22          |
-| Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]           |
-| Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80     |
-| Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]]    |
-| Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]            |
-| Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                 |
-| Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003   |
+|--------------------------------------+------------+-------------------------|
+| *Fighters*                           |     *Date* | *Event*                 |
+|--------------------------------------+------------+-------------------------|
+| Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
+| Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims  |
+| Modestas Bukauskas vs. Michailidis   | 07.16.2020 | UFC Fight Island 1 [[07.16.2020][ff.]]  |
+| Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169     |
+| Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169     |
+| Jimmy Crute vs. Michał Oleksiejczuk  | 02.23.2020 | UFC Fight Night 168 [[02.23.2020][ff.]] |
+| Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167     |
+| Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166     |
+| Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166     |
+| Frankie Edgar vs. Chan Sung Jung     | 12.21.2019 | UFC Fight Night 165     |
+| Youssef Zalal vs. Jaime Hernandez    | 11.22.2019 | LFA 79                  |
+| Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162     |
+| Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162     |
+| Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims        |
+| Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22           |
+| Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]            |
+| Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80      |
+| Tyrone Woodley vs. Dong Hyun Kim     | 08.23.2014 | UFC Fight Night 48      |
+| Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]]     |
+| Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]             |
+| Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                  |
+| Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003    |
 
 
 ** Notes
+*** Modestas Bukauskas vs. Andreas Michailidis <<07.16.2020>>
+UFC Fight Island Prelims
+Fight called off inbetween rounds
+*** Jimmy Crute vs. Michał Oleksiejczuk  <<02.23.2020>>
+Kimura Finish :D
+Jimmy Crute has a number of kimura finishes
 *** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
 Wicked kicks to the inside far thigh cause two knockdowns!
 *** Alistair Overeem vs. Todd Duffee <<12.31.2010>>
