@@ -147,7 +147,7 @@ fighter = 'Sergey Kovalev'                   #  08.05.2018
 # 08.04.2018
 #  Kovalev vs. Eleidar Alvarez
 # fighter = 'Dmitry Bivol'                   # vs. TBA
-fighter = 'Zab Judah'
+ffighter = 'Zab Judah'
 
 fighter = 'Mikey Garcia'                     #  07.28.2018 PBC Robert Easter Jr.
 # - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
@@ -408,6 +408,38 @@ def getEvent():
         sys.exit()
 
 
+
+
+def get_record(soup, record_type):
+    if (record_type == 'Professional boxing record'):
+        columns = ['No.', 'Opponent', 'Date']
+    if (record_type == 'Mixed martial arts record'):
+        columns = ['Opponent', 'Event', 'Date']
+
+    headers = soup.select_one('h2:contains("'+record_type+'")')
+    if (headers is None):
+        return None
+    h_table = headers.find_next_sibling()
+    row = h_table.find_next_sibling()
+    row_text = row.get_text()
+
+    if ('Record' in row_text) and ('Opponent' in row_text):
+        table = pd.read_html(row.prettify())[0]
+        record = table[columns].copy().dropna()
+        # fix date
+        new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
+        record.loc[:,'Date'] = new_date
+        if (record_type == 'Mixed martial arts record'):
+            record.insert(0, '', list(range(len(record.index),0,-1)))
+            # shorten event name
+            shorten_lambda = lambda x: x[0:x.find(':')] \
+                if (x.find(':')>0) else x
+            record.loc[:,'Event'] = record[['Event']].applymap(shorten_lambda)
+
+    return record
+
+
+
 # run event if in command line
 if (len(sys.argv) > 1):
     if (sys.argv[1] == 'event'):
@@ -420,52 +452,19 @@ if (len(sys.argv) > 1):
 
 req = requests.get(getUrl(fighter)).text
 soup = BeautifulSoup(req, 'lxml')
-result = soup.find_all('table', {'class': 'wikitable'})
+# result = soup.find_all('table', {'class': 'wikitable'})
 
 
 # --- MMA record ---
-headers = soup.select_one('h2:contains("Mixed martial arts record")')
-h_table = headers.find_next_sibling()
-row = h_table.find_next_sibling()
-row_text = row.get_text()
-
-
-if ('Record' in row_text) and ('Opponent' in row_text):
-    table = pd.read_html(row.prettify())[0]
-    q = table[['Opponent', 'Event', 'Date']].copy().dropna()
-    q.insert(0, '', list(range(len(q.index),0,-1)))
-    # fix date
-    new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
-    q.loc[:,'Date'] = new_date
-    # shorten event name
-    shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
-    q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
-
+mma_record = get_record(soup, "Mixed martial arts record")
 
 # --- Boxing record ---
-    # header = soup.select_one('h2:contains("Professional boxing record")')
-
-# for res in result:
-#     tr = res.find('tr')
-#     td = tr.find_all('th')
-#     rows = [i.text.rstrip() for i in td]
-#     # print(rows)
-#     if (check_boxing_columns(rows)):
-#         table = pd.read_html(res.prettify())[0]
-#         q = table[['No.', 'Opponent', 'Date']]
-#     elif (check_mma_columns(rows)):
-#         print(res)
-#         table = pd.read_html(res.prettify())[0]
-#         q = table[['Opponent', 'Event', 'Date']].copy().dropna()
-#         q.insert(0, '', list(range(len(q.index),0,-1)))
-#         new_date = pd.to_datetime(q['Date']).dt.strftime('%m.%d.%Y')
-#         q.loc[:,'Date'] = new_date
-#         shorten_lambda = lambda x: x[0:x.find(':')] if (x.find(':')>0) else x
-#         q.loc[:,'Event'] = q[['Event']].applymap(shorten_lambda)
-#         sys.exit()
-
+boxing_record = get_record(soup, "Professional boxing record")
 
 
 print(tabulate([[fighter.replace('_',' ')]], tablefmt='psql'))
-print(tabulate(q,headers='keys',tablefmt='psql',showindex=False))
+if (mma_record is not None):
+    print(tabulate(mma_record,headers='keys',tablefmt='psql',showindex=False))
+if (boxing_record is not None):
+    print(tabulate(boxing_record,headers='keys',tablefmt='psql',showindex=False))
 print("Fin")
