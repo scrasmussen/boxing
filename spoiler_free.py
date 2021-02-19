@@ -1,10 +1,15 @@
 import pandas as pd
-import requests
 import sys
 import re
 import random
+import fighter as ft
+
+# remove
+import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 from tabulate import tabulate
+
 
 
 # ---------------------------- EVENTS ----------------------------
@@ -258,9 +263,11 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 # --------------------------------------------------------------
 
 
+fighter_name = fighter
 # allows easy access to fighters near the top
 if 'ffighter' in locals():
-    fighter = ffighter
+    fighter_name = ffighter
+
 def check_boxing_columns(rows):
     total = 0
     for row in rows:
@@ -410,36 +417,6 @@ def getEvent():
 
 
 
-def get_record(soup, record_type):
-    if (record_type == 'Professional boxing record'):
-        columns = ['No.', 'Opponent', 'Date']
-    if (record_type == 'Mixed martial arts record'):
-        columns = ['Opponent', 'Event', 'Date']
-
-    headers = soup.select_one('h2:contains("'+record_type+'")')
-    if (headers is None):
-        return None
-    h_table = headers.find_next_sibling()
-    row = h_table.find_next_sibling()
-    row_text = row.get_text()
-
-    if ('Record' in row_text) and ('Opponent' in row_text):
-        table = pd.read_html(row.prettify())[0]
-        record = table[columns].copy().dropna()
-        # fix date
-        new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
-        record.loc[:,'Date'] = new_date
-        if (record_type == 'Mixed martial arts record'):
-            record.insert(0, '', list(range(len(record.index),0,-1)))
-            # shorten event name
-            shorten_lambda = lambda x: x[0:x.find(':')] \
-                if (x.find(':')>0) else x
-            record.loc[:,'Event'] = record[['Event']].applymap(shorten_lambda)
-
-    return record
-
-
-
 # run event if in command line
 if (len(sys.argv) > 1):
     if (sys.argv[1] == 'event'):
@@ -447,24 +424,10 @@ if (len(sys.argv) > 1):
     sys.exit()
 
 
+# --- handle fighter ---
+fighter = ft.Fighter(fighter_name)
+fighter.print_name()
+fighter.print_records()
 
 
-
-req = requests.get(getUrl(fighter)).text
-soup = BeautifulSoup(req, 'lxml')
-# result = soup.find_all('table', {'class': 'wikitable'})
-
-
-# --- MMA record ---
-mma_record = get_record(soup, "Mixed martial arts record")
-
-# --- Boxing record ---
-boxing_record = get_record(soup, "Professional boxing record")
-
-
-print(tabulate([[fighter.replace('_',' ')]], tablefmt='psql'))
-if (mma_record is not None):
-    print(tabulate(mma_record,headers='keys',tablefmt='psql',showindex=False))
-if (boxing_record is not None):
-    print(tabulate(boxing_record,headers='keys',tablefmt='psql',showindex=False))
 print("Fin")
