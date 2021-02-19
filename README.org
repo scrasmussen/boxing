@@ -478,6 +478,7 @@ Need to add the scared fighter fight
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
 | UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC Fight Night 179     | 10.11.2020 | Moraes vs. Sandhagen      |
 | UFC on ESPN 16          | 10.04.2020 | Holm vs. Aldana           |
 | UFC 253                 | 09.27.2020 | Adesanya vs. Costa        |
 | UFC Fight Night 178     | 09.19.2020 | Covington vs. Woodley     |
@@ -570,17 +571,27 @@ Need to add the scared fighter fight
 
 
 ** Notes
-*** Modestas Bukauskas vs. Andreas Michailidis <<07.16.2020>>
+*** Moves
+**** Knock Outs
+| Moraes vs. Sandhagen:               | UFC Fight Night 179 |
+| head over heels                     |          10.11.2020 |
+|                                     |                     |
+| Joaquin Buckley vs. Impa Kasanganay | UFC Fight Night 179 |
+| Tekken move                         |          10.11.2020 |
+|                                     |                     |
+
+*** Match Notes
+**** Modestas Bukauskas vs. Andreas Michailidis <<07.16.2020>>
 UFC Fight Island Prelims
 Fight called off inbetween rounds
-*** Jimmy Crute vs. Michał Oleksiejczuk  <<02.23.2020>>
+**** Jimmy Crute vs. Michał Oleksiejczuk  <<02.23.2020>>
 Kimura Finish :D
 Jimmy Crute has a number of kimura finishes
-*** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
+**** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
 Wicked kicks to the inside far thigh cause two knockdowns!
-*** Alistair Overeem vs. Todd Duffee <<12.31.2010>>
+**** Alistair Overeem vs. Todd Duffee <<12.31.2010>>
 "roided" Alistair just pushes Todd away and easily knocks him out
-*** Todd Duffee vs. Tim Hague <<08.29.2009>>
+**** Todd Duffee vs. Tim Hague <<08.29.2009>>
 Fastest Heavyweight K.O.
 
 
