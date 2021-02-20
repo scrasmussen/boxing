@@ -93,7 +93,7 @@ class FightEvent:
 
         # early prelims
         has_early_prelim = self.table['Weight class'].str.contains(
-            "Early Preliminary")
+            "Early preliminary")
         if (any(has_early_prelim)):
             early_prelim_row_i = list(has_early_prelim).index(True)
             prelim_row_end = early_prelim_row_i
