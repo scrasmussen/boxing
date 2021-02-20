@@ -59,6 +59,7 @@ A collection of ideas and history.
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                            |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
+| Gennady Golovkin vs. Canelo A.    | 09.15.2018 | Alvarez                    |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
 | Alex Saucedo vs. Lenny Zappavigna | 06.30.2018 |                            |
 | Gilberto Ramirez vs. R.A. Angulo  | 06.30.2018 | Roamer Alexis              |
@@ -106,6 +107,7 @@ A collection of ideas and history.
 | Karlos Balderas vs. Carlos Flores | 12.15.2017 |                            |
 | Jerwin Ancajas vs. Jamie Conlan   | 11.18.2017 |                            |
 | Deontay Wilder vs. B. Stiverne    | 11.04.2017 | Bermane                    |
+| Gennady Golovkin vs. C. Alvarez   | 09.16.2017 | Canelo                     |
 | Karlos Balderas vs. Amaro Fajardo | 07.30.2017 |                            |
 | Manny Pacquiao vs. Jeff Horn      | 07.02.2017 |                            |
 | Andre Ward vs. Sergey Kovalev     | 06.17.2017 | Second Match               |
@@ -478,6 +480,8 @@ Need to add the scared fighter fight
 | *Event*                 |     *Date* | *Notes*                   |
 |-------------------------+------------+---------------------------|
 | UFC Fight Island 7      | 01.16.2021 | Holloway vs. Kattar       |
+| UFC 254                 | 10.24.2020 | Khabib vs. Gaethje        |
+| UFC Fight Night 180     | 10.18.2020 | Ortega vs. Korean Zombie  |
 | UFC Fight Night 179     | 10.11.2020 | Moraes vs. Sandhagen      |
 | UFC on ESPN 16          | 10.04.2020 | Holm vs. Aldana           |
 | UFC 253                 | 09.27.2020 | Adesanya vs. Costa        |
@@ -864,6 +868,29 @@ George Foreman occupied the center with his palms
 * To Watch
 Ray Mercer: Erin got picture with?
 :today:
+Usyk
+  - vs Chisora     10.31.2020
+  - vs Witherspoon 10.12.2019
+  - vs Bellew      11.10.2018
+Joshua
+  - vs Pulev 2020 Dazn
+Golovkin
+  - vs Szeremeta      12.2020
+  - vs Derevyanchenko 10.2019
+  - vs Rolls          06.2019
+Alvarez - DAZN
+  - vs Yildirim 02.2021
+  - vs Smith    12.2020
+  - vs Kovalev  11.2019
+  - vs Jacobs   05.2019
+  - vs Fielding 12.2018
+Pacquiao
+  - vs Thurman   07.20.2019
+  - vs Broner    01.19.2019
+  - vs Matthysse 07.15.2018
+
+
+
 Buster Douglas vs Tony Tucker
 Felicia_Spencer # leg tied up but still jumps to knee opponent!
 Lomanchenko on ESPN

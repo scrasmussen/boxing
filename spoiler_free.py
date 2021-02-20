@@ -11,17 +11,16 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from tabulate import tabulate
 
-event = True
-event = False
+event_bool = True
+# event_bool = False
 
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
 event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO FINISH THIS CARD
-event = 'UFC_Fight_Night:_Moraes_vs._Sandhagen'
-event = 'UFC_Fight_Night: Ortega vs. The Korean Zombie'
-# event = 'UFC 240'
+event = 'UFC_Fight_Night:_Hall_vs._Silva'
+event = 'UFC 254'
 # event = 'UFC 141'
 
 ffighter = 'Danny Henry'
@@ -29,6 +28,7 @@ ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
 ffighter = 'Jimmy Crute'
+ffighter = 'Chan Sung Jung'
 # ffighter = 'Loma Lookboonmee' # fix parsing
 # ffighter = 'Seo Hee Ham'
 # ffighter = 'Youssef Zalal'
@@ -92,7 +92,8 @@ fighter = 'Pernell Whitaker' # Elite, defensive talent
 fighter = 'Guillermo Rigondeaux' # ducked?
 # -- Contemporary
 fighter = 'Terence Crawford'
-fighter = "Kell Brook"    # vs. Golovkin and then Spence Jr.
+fighter = 'Kell Brook'    # vs. Golovkin and then Spence Jr.
+fighter = 'Anthony Joshua'
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
@@ -126,7 +127,7 @@ fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 fighter = "Kell Brook"                       #  12.08.2018
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
-fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
+ffighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Josh Kelly (boxer)'               #  11.10.2018
 fighter = 'Sullivan Barrera'                 #  11.03.2018
@@ -282,7 +283,7 @@ if 'ffighter' in locals():
 #         getEvent()
 #     sys.exit()
 
-if event is True:
+if event_bool is True:
     event = fe.FightEvent(event)
     event.print_name()
     event.print_events()
