@@ -486,11 +486,12 @@ Need to add the scared fighter fight
 | UFC on ESPN 16          | 10.04.2020 | Holm vs. Aldana           |
 | UFC 253                 | 09.27.2020 | Adesanya vs. Costa        |
 | UFC Fight Night 178     | 09.19.2020 | Covington vs. Woodley     |
+| UFC Fight Night 177     | 09.12.2020 | Waterson vs. Hill         |
 | UFC Fight Night 176     | 09.05.2020 | Overeem vs. Sakai         |
 | UFC Fight Night 175     | 08.29.2020 | Smith vs. Rakic           |
 | UFC on ESPN 15          | 08.22.2020 | Munhoz vs. Edgar          |
 | UFC 252                 | 08.15.2020 | Miocic vs. Cormier III    |
-| UFC on ESPN 13          | 07.16.2020 | Kattar vs. Ige            |
+| UFC Fight Island 1      | 07.16.2020 | Kattar vs. Ige            |
 | UFC 251                 | 07.12.2020 | Usman vs. Masvidal        |
 | UFC 251: Prelims        | 07.12.2020 | Usman vs. Masvidal        |
 | UFC 251: Early Prelims  | 07.12.2020 | Usman vs. Masvidal        |
@@ -564,6 +565,7 @@ Need to add the scared fighter fight
 | Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162     |
 | Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162     |
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims        |
+| Ottman Azaitar vs. Teemu Packalen    | 07.19.2019 | UFC 242: Prelims        |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22           |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]            |
 | Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80      |

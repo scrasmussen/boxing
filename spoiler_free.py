@@ -12,15 +12,14 @@ import pandas as pd
 from tabulate import tabulate
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
-event = 'UFC_Fight_Night:_Waterson_vs._Hill' # NEED TO FINISH THIS CARD
-event = 'UFC_Fight_Night:_Hall_vs._Silva'
-event = 'UFC 254'
+# event = 'UFC_Fight_Night:_Hall_vs._Silva'
+# event = 'UFC 254'
 # event = 'UFC 141'
 
 ffighter = 'Danny Henry'
@@ -29,6 +28,8 @@ ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
 ffighter = 'Jimmy Crute'
 ffighter = 'Chan Sung Jung'
+# ffighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
+#                               into room and he has temp removed from UFC
 # ffighter = 'Loma Lookboonmee' # fix parsing
 # ffighter = 'Seo Hee Ham'
 # ffighter = 'Youssef Zalal'
@@ -54,8 +55,8 @@ ffighter = 'Chan Sung Jung'
 # Tyrone Spong (youtube)
 
 # brandon royval vs tim elliott : UFC on ESPN : Woodley vs Burns 05.30.2020
-# ffighter = 'Neil Magny'
-# ffighter='Bethe Correia'  # Jack Slack funny chant
+# fighter = 'Neil Magny'
+# fighter='Bethe Correia'  # Jack Slack funny chant
 # 8:12  Woodley vs. Burns
 #       Sakia vs. Ivanov  1:34
 
@@ -127,7 +128,7 @@ fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 fighter = "Kell Brook"                       #  12.08.2018
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
-ffighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
+fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Josh Kelly (boxer)'               #  11.10.2018
 fighter = 'Sullivan Barrera'                 #  11.03.2018
