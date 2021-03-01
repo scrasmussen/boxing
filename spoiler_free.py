@@ -12,14 +12,17 @@ import pandas as pd
 from tabulate import tabulate
 
 event_bool = True
-event_bool = False
 
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
-# event = 'UFC_Fight_Night:_Hall_vs._Silva'
-# event = 'UFC 254'
+event = 'UFC_Fight_Night:_Hall_vs._Silva'
+event = 'UFC Fight Night: Santos vs. Teixeira'
+event = 'UFC Fight Night: Felder vs. Hooker'
+event = 'UFC Fight Night: Holm vs. Aldana'
+event = 'UFC 256'
+event = 'UFC Fight Night: Thompson vs. Neal'
 # event = 'UFC 141'
 
 ffighter = 'Danny Henry'
@@ -28,15 +31,32 @@ ffighter = 'Stephen Thompson (fighter)'
 ffighter = 'Alistair Overeem'
 ffighter = 'Jimmy Crute'
 ffighter = 'Chan Sung Jung'
-# ffighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
-#                               into room and he has temp removed from UFC
-# ffighter = 'Loma Lookboonmee' # fix parsing
-# ffighter = 'Seo Hee Ham'
-# ffighter = 'Youssef Zalal'
+ffighter = 'Antonina Shevchenko'
+ffighter = 'Khaos Williams' # watch 247 prelims with him
+ffighter = 'Curtis Blaydes'
 
-# Seo Hee Ham, atom weight
+ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
+                          # weird intesting stuff
+ffighter = 'Cub Swanson' # fierce look
+ffighter = 'Ciryl Gane'
+# event_bool = False
+
+
+# --- Muay Thai Fighters ---
 # Loma Lookboonmee: first thai fighter to sign with UFC
 #                   had that one match a few before
+# ffighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
+# heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
+
+
+# ffighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
+#                               into room and he has temp removed from UFC
+# ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
+# ffighter = 'Seo Hee Ham'
+# ffighter = 'Youssef Zalal'
+# ffighter = 'Marvin Vettori' $ Italian middleweight
+
+# Seo Hee Ham, atom weight
 # Jojua
 # Pride Fighter
 # fabor emelianenko vs heath herring, crocop, vs kevin randelman (end great,
