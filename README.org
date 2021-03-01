@@ -44,6 +44,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | V. Lomachenko vs. Teojimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
 | Edgar Berlanga vs. Lanell Bellows | 10.17.2020 |                            |
 | Albert Bell vs. Mark Bernaldez    | 07.02.2020 |                            |
@@ -472,7 +473,7 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 61 fight cards and 18 additional fights
+: I have seen 80 fight cards and 24 additional fights
 
 Need to add the scared fighter fight
 #+NAME:mmaEvents
@@ -480,10 +481,20 @@ Need to add the scared fighter fight
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
 | UFC Fight Island 7       | 01.16.2021 | Holloway vs. Kattar      |
+| UFC Fight Night 183      | 12.19.2020 | Thompson vs. Neal        |
+| UFC 256                  | 12.12.2020 | Figueiredo vs. Moreno    |
+| UFC 256: Prelims         | 12.12.2020 | Figueiredo vs. Moreno    |
+| UFC 256: Early Prelims   | 12.12.2020 | Figueiredo vs. Moreno    |
+| UFC on ESPN 19           | 12.05.2020 | Hermansson vs. Vettori   |
+| UFC on ESPN 19: Prelims  | 12.05.2020 | Hermansson vs. Vettori   |
+| UFC on ESPN 18           | 11.28.2020 | Smith vs. Clark          |
+| UFC on ESPN 18: Prelims  | 11.28.2020 | Smith vs. Clark          |
+| UFC 255                  | 11.21.2020 | Figueiredo vs. Perez     |
 | UFC 255: Prelims         | 11.21.2020 | Figueiredo vs. Perez     |
-| UFC Fight Night 181      | 11.14.2020 | Felder vs. dos Anjos     |
-| UFC Fight Night 181: Pre | 11.14.2020 | Felder vs. dos Anjos     |
-| UFC Fight Night 180      | 11.07.2020 | Santos vs. Teixeira      |
+| UFC Fight Night 182      | 11.14.2020 | Felder vs. dos Anjos     |
+| UFC Fight Night 182: Pre | 11.14.2020 | Felder vs. dos Anjos     |
+| UFC on ESPN 17           | 11.07.2020 | Santos vs. Teixeira      |
+| UFC Fight Night 181      | 10.31.2020 | Hall vs. Silva           |
 | UFC 254                  | 10.24.2020 | Khabib vs. Gaethje       |
 | UFC Fight Night 180      | 10.18.2020 | Ortega vs. Korean Zombie |
 | UFC Fight Night 179      | 10.11.2020 | Moraes vs. Sandhagen     |
@@ -561,6 +572,7 @@ Need to add the scared fighter fight
 | Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169     |
 | Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169     |
 | Jimmy Crute vs. Michał Oleksiejczuk  | 02.23.2020 | UFC Fight Night 168 [[02.23.2020][ff.]] |
+| Angela Hill vs. Loma Lookboonmee     | 02.23.2020 | UFC Fight Night 168     |
 | Diego Sanchez vs. Michel Pereira     | 02.15.2020 | UFC Fight Night 167     |
 | Curtis Blaydes vs. Junior Dos Santos | 01.25.2020 | UFC Fight Night 166     |
 | Arnold Allen vs. Nik Lentz           | 01.25.2020 | UFC Fight Night 166     |
