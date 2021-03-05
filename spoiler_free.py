@@ -21,14 +21,24 @@ event = 'UFC_Fight_Night:_Hall_vs._Silva'
 event = 'UFC Fight Night: Santos vs. Teixeira'
 event = 'UFC Fight Night: Felder vs. Hooker'
 event = 'UFC Fight Night: Holm vs. Aldana'
-event = 'UFC 256'
 event = 'UFC Fight Night: Thompson vs. Neal'
+event = 'UFC on ESPN: Chiesa vs. Magny'
+event = 'UFC 257' # watch prelims
+
+
+event = 'UFC Fight Night: Overeem vs. Volkov'
+# jack slack 6
+# james vick , upright tall fighter lost vs short guy, tried finishing uppercuts
+# edson bubarso vs benile de el rush, every time hit, edson would run around
+#    ring to walk off
+# vador vs vagita; stumble after win
+
 # event = 'UFC 141'
 
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
-ffighter = 'Alistair Overeem'
+ffighter = 'Alistair Overeem' # vs Sakai
 ffighter = 'Jimmy Crute'
 ffighter = 'Chan Sung Jung'
 ffighter = 'Antonina Shevchenko'
@@ -39,6 +49,9 @@ ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
                           # weird intesting stuff
 ffighter = 'Cub Swanson' # fierce look
 ffighter = 'Ciryl Gane'
+ffighter = 'Ian Heinisch' # great anti-wrestling, will just stand right up
+ffighter = 'Dustin Poirier'
+# ffighter = 'Conor McGregor'
 # event_bool = False
 
 
@@ -52,7 +65,7 @@ ffighter = 'Ciryl Gane'
 # ffighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
 #                               into room and he has temp removed from UFC
 # ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
-# ffighter = 'Seo Hee Ham'
+# ffighter = 'Seo Hee Ham' # the ultimate fighter 18
 # ffighter = 'Youssef Zalal'
 # ffighter = 'Marvin Vettori' $ Italian middleweight
 
@@ -69,6 +82,7 @@ ffighter = 'Ciryl Gane'
 #
 # best Pride Fights
 #https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time
+
 #
 # Watch
 # Ernesto Hoost (youtube)

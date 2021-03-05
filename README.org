@@ -480,6 +480,10 @@ Need to add the scared fighter fight
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC 258                  | 02.13.2021 | Usman vs. Burns          |
+| UFC Fight Night: 184     | 02.06.2021 | Overeem vs. Volkov       |
+| UFC 257                  | 01.24.2021 | Poirier vs. McGregor II  |
+| UFC on ESPN 20           | 01.20.2021 | Chiesa vs. Magny         |
 | UFC Fight Island 7       | 01.16.2021 | Holloway vs. Kattar      |
 | UFC Fight Night 183      | 12.19.2020 | Thompson vs. Neal        |
 | UFC 256                  | 12.12.2020 | Figueiredo vs. Moreno    |
@@ -583,6 +587,7 @@ Need to add the scared fighter fight
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims        |
 | Ottman Azaitar vs. Teemu Packalen    | 07.19.2019 | UFC 242: Prelims        |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22           |
+| Chas Skelly vs. Maximo Blanco        | 09.17.2016 | UFC Fight Night 94      |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]            |
 | Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80      |
 | Tyrone Woodley vs. Dong Hyun Kim     | 08.23.2014 | UFC Fight Night 48      |
