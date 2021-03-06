@@ -465,9 +465,23 @@ Only three time winner of the Lonsdale Belt
 
 
 * MMA
-** Lyoto Machida
+** playlists
+*** Fights that should have been stopped sooner
+|------------------------------------+------------|
+| Herb Dean: (sorry) not sorry       |     *Date* |
+|------------------------------------+------------|
+| Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
+| Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
+*** quotes
+"Maybe they should ban calf kicks" - Rivera vs Munhoz II
+
+
+
+** fighters
+*** Lyoto Machida
 moves back to catch the opponent moving forward all the time
 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
+
 
 
 * MMA Events
@@ -480,8 +494,9 @@ Need to add the scared fighter fight
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC Fight Night 185      | 02.20.2021 | Blaydes vs. Lewis        |
 | UFC 258                  | 02.13.2021 | Usman vs. Burns          |
-| UFC Fight Night: 184     | 02.06.2021 | Overeem vs. Volkov       |
+| UFC Fight Night 184      | 02.06.2021 | Overeem vs. Volkov       |
 | UFC 257                  | 01.24.2021 | Poirier vs. McGregor II  |
 | UFC on ESPN 20           | 01.20.2021 | Chiesa vs. Magny         |
 | UFC Fight Island 7       | 01.16.2021 | Holloway vs. Kattar      |
@@ -572,6 +587,7 @@ Need to add the scared fighter fight
 |--------------------------------------+------------+-------------------------|
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
 | Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims  |
+| Jai Herbert vs. Fransisco Trinaldo   | 07.26.2020 | UFC Fight Island 3 [[07.26.2020][ff.]]  |
 | Modestas Bukauskas vs. Michailidis   | 07.16.2020 | UFC Fight Island 1 [[07.16.2020][ff.]]  |
 | Felicia Spencer vs. Zarah Fairn      | 02.29.2020 | UFC Fight Night 169     |
 | Ion Cutelaba vs. Magomed Ankalaev    | 02.29.2020 | UFC Fight Night 169     |
@@ -595,6 +611,7 @@ Need to add the scared fighter fight
 | Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]             |
 | Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                  |
 | Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003    |
+| Ken Shamrock vs. Bas Rutten          | 03.10.1995 | Pacrase [[03.10.1995][ff.]]             |
 
 
 ** Notes
@@ -608,6 +625,8 @@ Need to add the scared fighter fight
 |                                     |                     |
 
 *** Match Notes
+**** Jai Herbert vs. Francisco Trinaldo <<07.26.2020>>
+Herb Dean didn't stop fight soon enough
 **** Modestas Bukauskas vs. Andreas Michailidis <<07.16.2020>>
 UFC Fight Island Prelims
 Fight called off inbetween rounds
@@ -620,6 +639,10 @@ Wicked kicks to the inside far thigh cause two knockdowns!
 "roided" Alistair just pushes Todd away and easily knocks him out
 **** Todd Duffee vs. Tim Hague <<08.29.2009>>
 Fastest Heavyweight K.O.
+
+**** Ken Shamrock vs. Bas Rutten   <<03.10.1995>>
+Eyes of the Beast 2
+Very cool spin to get into kneebar
 
 
 ** Future
