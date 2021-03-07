@@ -466,6 +466,12 @@ Only three time winner of the Lonsdale Belt
 
 * MMA
 ** playlists
+*** Fights of interest
+**** worst heavyweight fight?
+Francis Ngannou vs Derrick Lewis: 33 strikes in 15 minutes
+both were afraid to hit each other
+
+
 *** Fights that should have been stopped sooner
 |------------------------------------+------------|
 | Herb Dean: (sorry) not sorry       |     *Date* |
@@ -494,6 +500,7 @@ Need to add the scared fighter fight
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC Fight Night 186      | 02.27.2021 | Rozenstruik vs. Gane     |
 | UFC Fight Night 185      | 02.20.2021 | Blaydes vs. Lewis        |
 | UFC 258                  | 02.13.2021 | Usman vs. Burns          |
 | UFC Fight Night 184      | 02.06.2021 | Overeem vs. Volkov       |

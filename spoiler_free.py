@@ -13,6 +13,8 @@ from tabulate import tabulate
 
 event_bool = True
 
+
+# derrick lewis vs daniel cormier, look at cormier's entries
 # ---------------------------- EVENTS ----------------------------
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
@@ -24,9 +26,20 @@ event = 'UFC Fight Night: Holm vs. Aldana'
 event = 'UFC Fight Night: Thompson vs. Neal'
 event = 'UFC on ESPN: Chiesa vs. Magny'
 event = 'UFC 257' # watch prelims
+event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
+event = 'UFC Fight Night: Rozenstruik vs. Gane'
+event = 'UFC 259' # at Nzechukwu I think, and Joe Benavidez
+# 07.26.2020  prelims for another fight that should have been stopped
+#             look at herb dean controversy too earlier UFCs
+#
+# 2.  ankalave good striker, can handle counter strikers, other wacky lots of
+#                        kicks, great front kick to body
+#     A need to keep K on the back foot so he is not kicking
+#  Caceres vs Croom may be fun
+#
 
 
-event = 'UFC Fight Night: Overeem vs. Volkov'
+# event = 'UFC Fight Night: Overeem vs. Volkov' # watch prelims?
 # jack slack 6
 # james vick , upright tall fighter lost vs short guy, tried finishing uppercuts
 # edson bubarso vs benile de el rush, every time hit, edson would run around
@@ -52,6 +65,8 @@ ffighter = 'Ciryl Gane'
 ffighter = 'Ian Heinisch' # great anti-wrestling, will just stand right up
 ffighter = 'Dustin Poirier'
 # ffighter = 'Conor McGregor'
+ffighter = 'Frank Shamrock'
+ffighter = 'Bas Rutten'
 # event_bool = False
 
 
@@ -71,6 +86,7 @@ ffighter = 'Dustin Poirier'
 
 # Seo Hee Ham, atom weight
 # Jojua
+# Kunitskaya : keyyah like every time
 # Pride Fighter
 # fabor emelianenko vs heath herring, crocop, vs kevin randelman (end great,
 #                                                             polite at end)
