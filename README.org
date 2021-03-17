@@ -466,11 +466,14 @@ Only three time winner of the Lonsdale Belt
 
 * MMA
 ** playlists
+*** Fighters
+Most boring fighter I'm excited to see : Michael Chiesa
+*** Fighter to Watch
+Tim Elliott
 *** Fights of interest
 **** worst heavyweight fight?
 Francis Ngannou vs Derrick Lewis: 33 strikes in 15 minutes
 both were afraid to hit each other
-
 
 *** Fights that should have been stopped sooner
 |------------------------------------+------------|
@@ -478,6 +481,8 @@ both were afraid to hit each other
 |------------------------------------+------------|
 | Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
+*** Submissions from Bottom
+Anthony Petis vs. Michael Chiesa : UFC 226
 *** quotes
 "Maybe they should ban calf kicks" - Rivera vs Munhoz II
 
@@ -493,14 +498,13 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 80 fight cards and 24 additional fights
+: I have seen 89 fight cards and 27 additional fights
 
-Need to add the scared fighter fight
 #+NAME:mmaEvents
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
-| UFC 259                  | 03.06.2021 | Blachowicz vs. Adesanya  |
+| UFC Fight Night 187: Pre | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC 259: Prelims         | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC 259: Early Prelims   | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC Fight Night 186      | 02.27.2021 | Rozenstruik vs. Gane     |
@@ -571,6 +575,7 @@ Need to add the scared fighter fight
 | UFC 235: Prelims         | 03.02.2019 | Jones vs. Smith          |
 | UFC 234                  | 02.10.2019 | Adesanya vs. Silva       |
 | UFC 229                  | 08.06.2018 | Khabib vs. McGregor      |
+| UFC 226                  | 07.07.2018 | Miocic vs. Cormier       |
 | UFC 203                  | 09.10.2016 | Miocic vs. Overeem       |
 | UFC 202                  | 08.20.2016 | Diaz vs. McGregor II     |
 | UFC 201                  | 07.30.2016 | Lawler vs. Woodley       |
@@ -612,9 +617,14 @@ Need to add the scared fighter fight
 | Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162     |
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims        |
 | Ottman Azaitar vs. Teemu Packalen    | 07.19.2019 | UFC 242: Prelims        |
+| Loma Lookboonmee vs. Monique Adriane | 06.07.2019 | Invicta FC 35           |
+| Loma Lookboonmee vs. S. Boonsorn     | 11.03.2018 | Full Metal Dojo 16      |
+| Loma Lookboonmee vs. Hana Data       | 08.05.2018 | Pancrase 298            |
+| Loma Lookboonmee vs. Mellissa Wang   | 01.13.2018 | Invicta FC 27           |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22           |
 | Chas Skelly vs. Maximo Blanco        | 09.17.2016 | UFC Fight Night 94      |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]            |
+| Mark Hunt vs. Frank Mir              | 03.20.2016 | UFC Fight Night 85      |
 | Sage Northcutt vs. Cody Pfister      | 12.10.2015 | UFC Fight Night 80      |
 | Tyrone Woodley vs. Dong Hyun Kim     | 08.23.2014 | UFC Fight Night 48      |
 | Alistair Overeem vs. Todd Duffee     | 12.31.2010 | Dynamite!! 2010 [[12.31.2010][ff.]]     |
@@ -632,6 +642,9 @@ Need to add the scared fighter fight
 |                                     |                     |
 | Joaquin Buckley vs. Impa Kasanganay | UFC Fight Night 179 |
 | Tekken move                         |          10.11.2020 |
+|                                     |                     |
+| Mark Hunt Walk-off K.O.s            |                     |
+| UFC Fight Night 85                  |          03.20.2016 |
 |                                     |                     |
 
 *** Match Notes
