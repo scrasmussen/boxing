@@ -507,6 +507,9 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC on ESPN 188          | 03.20.2021 | Brunson vs. Holland      |
+| UFC on ESPN 188: Prelims | 03.20.2021 | Brunson vs. Holland      |
+| UFC Fight Night 187      | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC Fight Night 187: Pre | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC 259: Prelims         | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC 259: Early Prelims   | 03.06.2021 | Blachowicz vs. Adesanya  |
@@ -577,6 +580,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 235                  | 03.02.2019 | Jones vs. Smith          |
 | UFC 235: Prelims         | 03.02.2019 | Jones vs. Smith          |
 | UFC 234                  | 02.10.2019 | Adesanya vs. Silva       |
+| Quintet Fight Night 2    | 02.03.2019 |                          |
 | UFC 229                  | 08.06.2018 | Khabib vs. McGregor      |
 | UFC 226                  | 07.07.2018 | Miocic vs. Cormier       |
 | UFC 203                  | 09.10.2016 | Miocic vs. Overeem       |
@@ -603,6 +607,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
 | Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims  |
 | Jai Herbert vs. Fransisco Trinaldo   | 07.26.2020 | UFC Fight Island 3 [[07.26.2020][ff.]]  |
