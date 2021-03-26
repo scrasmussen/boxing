@@ -562,6 +562,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 246                  | 01.18.2020 | McGregor vs. Cowboy      |
 | UFC 246: Prelims         | 01.18.2020 | McGregor vs. Cowboy      |
 | UFC 245                  | 12.14.2019 | Usman vs. Covington      |
+| Quintet Ulta             | 12.12.2019 |                          |
 | UFC on ESPN 7            | 12.07.2019 | Overeem vs. Rozenstruik  |
 | UFC 244                  | 11.02.2019 | Masvidal vs. Diaz        |
 | UFC 243                  | 10.05.2019 | Whittaker vs. Adesaynya  |
