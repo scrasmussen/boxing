@@ -19,16 +19,25 @@ event_bool = True
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
-event = 'UFC_Fight_Night:_Hall_vs._Silva'
-event = 'UFC Fight Night: Santos vs. Teixeira'
-event = 'UFC Fight Night: Felder vs. Hooker'
-event = 'UFC Fight Night: Holm vs. Aldana'
-event = 'UFC Fight Night: Thompson vs. Neal'
 event = 'UFC on ESPN: Chiesa vs. Magny'
 event = 'UFC 257' # watch prelims
+event = 'UFC Fight Night: Thompson vs. Neal' # should watch prelims
 event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
-event = 'UFC Fight Night: Rozenstruik vs. Gane'
 event = 'UFC 259' # at Nzechukwu I think, and Joe Benavidez
+event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
+#                                                home
+#                                                and kill you
+
+# Fedor, Couture, Velasquez, and Nog
+# Monsters: Brock Lesner, Shane Carwin
+
+# Charles Jourdain vs Marcelo Rojo, Jourdain is skilled fun fighter
+#        |- check out more of his fights
+
+# combat sambo, muay thai on ufc
+# invicta fc 39 Pearl Gonzalez vs Leonardo
+# some bellator on DAZN, cbs sports network, hulu?, moving to showtime
+
 # 07.26.2020  prelims for another fight that should have been stopped
 #             look at herb dean controversy too earlier UFCs
 #
@@ -48,6 +57,7 @@ event = 'UFC 259' # at Nzechukwu I think, and Joe Benavidez
 
 # event = 'UFC 141'
 
+# more Pettis!
 ffighter = 'Danny Henry'
 ffighter = 'Jorge Masvidal'
 ffighter = 'Stephen Thompson (fighter)'
@@ -67,22 +77,22 @@ ffighter = 'Dustin Poirier'
 # ffighter = 'Conor McGregor'
 ffighter = 'Frank Shamrock'
 ffighter = 'Bas Rutten'
+ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
 # event_bool = False
 
 
 # --- Muay Thai Fighters ---
 # Loma Lookboonmee: first thai fighter to sign with UFC
 #                   had that one match a few before
-# ffighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
+# fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
 
 
-# ffighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
+# fighter = 'Ottman Azaitar' # a bad man, ko power, man with a bag sneaked
 #                               into room and he has temp removed from UFC
-# ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
-# ffighter = 'Seo Hee Ham' # the ultimate fighter 18
-# ffighter = 'Youssef Zalal'
-# ffighter = 'Marvin Vettori' $ Italian middleweight
+# fighter = 'Seo Hee Ham' # the ultimate fighter 18
+# fighter = 'Youssef Zalal'
+# fighter = 'Marvin Vettori' $ Italian middleweight
 
 # Seo Hee Ham, atom weight
 # Jojua
@@ -114,6 +124,7 @@ ffighter = 'Bas Rutten'
 # GGG vs Daniel Jacobs, DAZN USA YOUTUBE
 # https://www.youtube.com/watch?v=4VfPtgFEXYc
 
+# Serigne Ousmane Dia "Bombardier / B52"
 
 # Dominick Cruz vs Cody Garbandt, UFC 207
 #
@@ -121,6 +132,8 @@ ffighter = 'Bas Rutten'
 # UFC 17 : Chuck Liddell
 # UFC 13 : Tito Ortiz's first fight
 # at Mariano vs Vannata at 1:30 in fight pass
+
+# Trevin Giles: power, good striker, someone to watch
 # ----------------------------------------------------------------
 # --------------------  CURRENTLY WATCHING  ----------------------
 # ----------------------------- MMA ------------------------------
@@ -246,6 +259,7 @@ fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
 fighter = 'Chris Eubank Jr' # vs Groves #  02.17.2018   # 09.28.2018
 fighter = 'Keith Thurman'
 # 06.24.2016 Shawn Porter    #  03.04.2017 vs Danny Garcia
+# forrest vs mayorga
 # Gary Russell Jr. vs. Escandon 2017, vs. Hyland 2016, on Youtube Playlist
 #                  vs. Lomachenko
 # Big Steal: 'Viktor Postol' vs. Jamshidbek Najmiddinov

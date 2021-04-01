@@ -509,10 +509,13 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II    |
+| UFC 260: Early Prelims   | 03.27.2021 | Miocic vs. Ngannou II    |
 | UFC on ESPN 188          | 03.20.2021 | Brunson vs. Holland      |
 | UFC on ESPN 188: Prelims | 03.20.2021 | Brunson vs. Holland      |
 | UFC Fight Night 187      | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC Fight Night 187: Pre | 03.13.2021 | Edwards vs. Muhammad     |
+| UFC 259                  | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC 259: Prelims         | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC 259: Early Prelims   | 03.06.2021 | Blachowicz vs. Adesanya  |
 | UFC Fight Night 186      | 02.27.2021 | Rozenstruik vs. Gane     |
@@ -586,6 +589,7 @@ moves back to catch the opponent moving forward all the time
 | Quintet Fight Night 2    | 02.03.2019 |                          |
 | UFC 229                  | 08.06.2018 | Khabib vs. McGregor      |
 | UFC 226                  | 07.07.2018 | Miocic vs. Cormier       |
+| Quintet 1                | 04.11.2018 |                          |
 | UFC 203                  | 09.10.2016 | Miocic vs. Overeem       |
 | UFC 202                  | 08.20.2016 | Diaz vs. McGregor II     |
 | UFC 201                  | 07.30.2016 | Lawler vs. Woodley       |
