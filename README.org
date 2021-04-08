@@ -509,6 +509,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| ONE on TNT               | 04.07.2021 | Rodtang vs. Williams     |
 | UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II    |
 | UFC 260: Early Prelims   | 03.27.2021 | Miocic vs. Ngannou II    |
 | UFC on ESPN 188          | 03.20.2021 | Brunson vs. Holland      |
@@ -614,6 +615,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
 | Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims  |
@@ -631,6 +633,7 @@ moves back to catch the opponent moving forward all the time
 | Demian Maia vs. Ben Askren           | 10.26.2019 | UFC Fight Night 162     |
 | Loma Lookboonmee vs. Aleksandra Albu | 10.26.2019 | UFC Fight Night 162     |
 | Muslim Salikhov vs. Nordine Taleb    | 09.07.2019 | UFC 242: Prelims        |
+| Rodtang Jitmuangnon vs. J. Haggerty  | 08.02.2019 | ONE Championship        |
 | Ottman Azaitar vs. Teemu Packalen    | 07.19.2019 | UFC 242: Prelims        |
 | Loma Lookboonmee vs. Monique Adriane | 06.07.2019 | Invicta FC 35           |
 | Loma Lookboonmee vs. S. Boonsorn     | 11.03.2018 | Full Metal Dojo 16      |
