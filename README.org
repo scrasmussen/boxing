@@ -487,6 +487,7 @@ both were afraid to hit each other
 *** Submissions: the greatest
 Koshi Matsumoto vs. David Garmo - Quintet: Fight Night 2 - final round, match 3
 *** Submissions from Bottom
+Shoki Higuchi vs. Yuji Hoshino: Quintet Fight Night 4
 Anthony Petis vs. Michael Chiesa : UFC 226
 *** quotes
 "Maybe they should ban calf kicks" - Rivera vs Munhoz II
@@ -568,7 +569,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 246                  | 01.18.2020 | McGregor vs. Cowboy      |
 | UFC 246: Prelims         | 01.18.2020 | McGregor vs. Cowboy      |
 | UFC 245                  | 12.14.2019 | Usman vs. Covington      |
-| Quintet Ulta             | 12.12.2019 |                          |
+| QUINTET Ultra            | 12.12.2019 |                          |
 | UFC on ESPN 7            | 12.07.2019 | Overeem vs. Rozenstruik  |
 | UFC 244                  | 11.02.2019 | Masvidal vs. Diaz        |
 | UFC 243                  | 10.05.2019 | Whittaker vs. Adesaynya  |
@@ -584,13 +585,17 @@ moves back to catch the opponent moving forward all the time
 | UFC Fight Night 152      | 05.18.2019 | dos Anjos vs. Lee        |
 | UFC 237                  | 05.11.2019 | Namajunas vs. Andrade    |
 | UFC 236                  | 04.13.2019 | Holloway vs. Poirier II  |
+| QUINTET Fight Night 3    | 04.07.2019 |                          |
 | UFC 235                  | 03.02.2019 | Jones vs. Smith          |
 | UFC 235: Prelims         | 03.02.2019 | Jones vs. Smith          |
 | UFC 234                  | 02.10.2019 | Adesanya vs. Silva       |
-| Quintet Fight Night 2    | 02.03.2019 |                          |
+| QUINTET Fight Night 2    | 02.03.2019 |                          |
+| QUINTET 3                | 10.05.2018 |                          |
 | UFC 229                  | 08.06.2018 | Khabib vs. McGregor      |
+| QUINTET 2                | 07.16.2018 |                          |
 | UFC 226                  | 07.07.2018 | Miocic vs. Cormier       |
-| Quintet 1                | 04.11.2018 |                          |
+| QUINTET Fight Night 1    | 06.09.2018 |                          |
+| QUINTET 1                | 04.11.2018 |                          |
 | UFC 203                  | 09.10.2016 | Miocic vs. Overeem       |
 | UFC 202                  | 08.20.2016 | Diaz vs. McGregor II     |
 | UFC 201                  | 07.30.2016 | Lawler vs. Woodley       |
