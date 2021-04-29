@@ -44,6 +44,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| DaCarree Scott vs. Q. Thompson    | 04.20.2021 | "Mac Truck"                |
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
 | V. Lomachenko vs. Teojimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
@@ -504,12 +505,14 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 89 fight cards and 27 additional fights
+: I have seen 107 fight cards and 36 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC 261: Early Prelims   | 04.24.2021 | Usman vs. Masvidal II    |
+| ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin       |
 | ONE on TNT               | 04.07.2021 | Rodtang vs. Williams     |
 | UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II    |
 | UFC 260: Early Prelims   | 03.27.2021 | Miocic vs. Ngannou II    |
@@ -571,6 +574,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 245                  | 12.14.2019 | Usman vs. Covington      |
 | QUINTET Ultra            | 12.12.2019 |                          |
 | UFC on ESPN 7            | 12.07.2019 | Overeem vs. Rozenstruik  |
+| QUINTET Fight Night 4    | 11.30.2019 |                          |
 | UFC 244                  | 11.02.2019 | Masvidal vs. Diaz        |
 | UFC 243                  | 10.05.2019 | Whittaker vs. Adesaynya  |
 | UFC Fight Night 158      | 09.14.2019 | Cowboy vs. Gaethje       |
@@ -620,6 +624,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Anthony Pettis vs. Clay Collard      | 04.23.2021 | PFL 1                   |
 | Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
