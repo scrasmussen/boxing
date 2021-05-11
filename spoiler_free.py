@@ -27,6 +27,30 @@ event = 'UFC 259' # at Nzechukwu I think, and Joe Benavidez
 event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 #                                                home
 #                                                and kill you
+#                                                 - Montserrat Ruiz
+#  invicta 33, 41
+# event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in
+# prelims?
+
+# to catch up on, Vettori vs Holland, UFC 260, and this
+event = 'UFC on ESPN: Whittaker vs. Gastelum'
+event = 'UFC on ESPN: Reyes vs. Procházka'
+event = 'UFC on ESPN: Rodriguez vs. Waterson'
+event = 'UFC 261'
+
+# fighter Sean Strickland, super technical, travels up/down Cali training
+
+# Donald Cerrone
+# fights with Jamie Varner and Benson Henderson were, and still are
+# classics of the non-UFC genre.
+
+
+# Hideo Tokoro vs. Daisuke Nakamura K-1 2008-12-31
+#   K-1 Dynamite 2008
+#   Saitama, Japan
+# Ben Askren
+
+# 4.24.2021 Qileng Aori vs Jeff Molina
 
 # Fedor, Couture, Velasquez, and Nog
 # Monsters: Brock Lesner, Shane Carwin
@@ -46,6 +70,8 @@ event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 #     A need to keep K on the back foot so he is not kicking
 #  Caceres vs Croom may be fun
 #
+
+# check out Asian Boxing Raise?
 
 
 # event = 'UFC Fight Night: Overeem vs. Volkov' # watch prelims?
@@ -78,6 +104,7 @@ ffighter = 'Dustin Poirier'
 ffighter = 'Frank Shamrock'
 ffighter = 'Bas Rutten'
 ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
+ffighter = 'Canelo Álvarez'
 # event_bool = False
 
 

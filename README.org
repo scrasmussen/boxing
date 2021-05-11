@@ -44,8 +44,12 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Canelo Alvarez vs. Billy Joe S.   | 05.08.2021 | Saunders, Middleweight U.  |
 | DaCarree Scott vs. Q. Thompson    | 04.20.2021 | "Mac Truck"                |
+| Joe Smith Jr. vs. Maxim Vlasov    | 04.11.2021 | WBO Light Heavyweight      |
+| Efe Ajagba vs. Brian Howard       | 04.11.2021 |                            |
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
+| Canelo Alvarez vs. Callum Smith   | 12.19.2020 |                            |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
 | V. Lomachenko vs. Teojimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
 | Edgar Berlanga vs. Lanell Bellows | 10.17.2020 |                            |
@@ -470,7 +474,40 @@ Only three time winner of the Lonsdale Belt
 
 * MMA
 ** playlists
+*** to watch
+**** Jiri Prochazka
+**** Giga Chikadze
+**** Vieira gassed
+**** Takumi Yano
+**** Invicta
+**** Ed Hurn groin shot ref
+**** Kevin Holland bottom KO
+**** Gegard Mousasi
+**** Khamzat Chimaev
+**** Roger Gracie & GSP rolling
+**** Hayato Sakurai Anderson Silva
+**** Wanderlei Silva
+**** Chute Boxe Academy
+**** fight pass must-sees reddit
+*** to watch boxing
+**** Bob Sapp 2002
+*** To Learn from
+**** bjj fanatics
+**** chewjitsu
+**** mma shredded
+**** Jackson Wink mma
+*** to learn
+**** The Greate Gamma
+**** Shoot Wrestling
 *** Fighters
+**** grapplers
+Shutaro Debana: exciting from QUINTET
+Hideo Tokoro: grapples everyone
+
+Craig Jones: fun Auzzie
+Gordan "The King" Ryan
+
+**** random
 Most boring fighter I'm excited to see : Michael Chiesa
 *** Fighter to Watch
 Tim Elliott
@@ -511,13 +548,18 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson   |
+| UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka      |
+| UFC on ESPN 23: Prelims  | 05.01.2021 | Reyes vs. Procházka      |
+| ONE on TNT 4             | 04.28.2021 | Nsang vs. Ridder         |
 | UFC 261: Early Prelims   | 04.24.2021 | Usman vs. Masvidal II    |
+| ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman        |
 | ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin       |
 | ONE on TNT               | 04.07.2021 | Rodtang vs. Williams     |
 | UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II    |
 | UFC 260: Early Prelims   | 03.27.2021 | Miocic vs. Ngannou II    |
-| UFC on ESPN 188          | 03.20.2021 | Brunson vs. Holland      |
-| UFC on ESPN 188: Prelims | 03.20.2021 | Brunson vs. Holland      |
+| UFC on ESPN 21           | 03.20.2021 | Brunson vs. Holland      |
+| UFC on ESPN 21: Prelims  | 03.20.2021 | Brunson vs. Holland      |
 | UFC Fight Night 187      | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC Fight Night 187: Pre | 03.13.2021 | Edwards vs. Muhammad     |
 | UFC 259                  | 03.06.2021 | Blachowicz vs. Adesanya  |
@@ -1375,8 +1417,24 @@ Park vs. Shim
 SI Boxing with Chris Mannix: high level
 William Hill Boxing: British, good, all about the fights, brief
 Boxing by Sunday Puncher: American, good, super fans, funny
-
 Cheap Seats Boxing Show
+*** Tim Boxeo
+**** subscription list
+NETWORK	COUNTRY	PER MONTH (USD)
+DAZN	worldwide	$8.25
+ESPN+	worldwide	$4.99
+UFC Fight Pass	worldwide	$9.99
+FLO Sport	US	$29.99
+Punching Grace	Canada	$8.95
+Bild+	Germany	$5.00
+FightNation	France	$7.25
+Proximia	Spain	$12.01
+BoxingRaise	Japan	$9.99
+Isakura IPTV	Japan	$29.95
+Epicentre TV 	Australia	$5.00
+BoxingM	South Korea	$5.00
+FightZone 	UK	$6.00
+TOTAL	 	$142.37 PER MONTH
 
 
 * To Read
