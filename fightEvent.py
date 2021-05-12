@@ -44,10 +44,10 @@ def fix_column_names(names):
 
 class FightEvent:
     def print_name(self):
-        print_title(self.name)
+        print(tabulate([[self.name]], tablefmt='fancy_grid'))
 
     def print_events(self):
-        print_title("Maincard")
+        print(tabulate([["Maincard", self.date]], tablefmt='psql'))
         print_card(self.maincard)
 
         print_title("Prelims")
@@ -56,6 +56,11 @@ class FightEvent:
         if self.early_prelims is not None:
             print_title("Early Prelims")
             print_card(self.early_prelims)
+
+    def get_date(self, soup):
+        # result = soup.find('table', {'class': 'infobox'})
+        span = soup.find('span', {'class': 'dtstart'})
+        self.date = span.get_text().replace('-','.')
 
 
     def get_table(self, soup):
@@ -115,6 +120,7 @@ class FightEvent:
         soup = BeautifulSoup(req, 'lxml')
 
         self.get_table(soup)
+        self.get_date(soup)
         self.sort_table()
 
         # self.mma_record = get_record(soup, 'mma')
