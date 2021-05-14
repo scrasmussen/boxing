@@ -39,6 +39,8 @@ event = 'UFC on ESPN: Reyes vs. Procházka'
 event = 'UFC on ESPN: Rodriguez vs. Waterson'
 event = 'UFC 261' # prelims?
 
+
+ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
 # fighter Sean Strickland, super technical, travels up/down Cali training
 # ffighter = 'Khaos Williams' # watch 247 prelims with him
 # ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
@@ -120,7 +122,6 @@ event = 'UFC 261' # prelims?
 # ffighter = 'Giant Silva'     # Pride   12.31.2003
 # ffighter= Fedor Emelianenko' #Pride 21 06.23.2002, in Rings from 2000-02.2002
 # ffighter= Georges St-Pierre' # UFC 46  01.31.2004 UCC in 01.25.2002
-# ffighter = 'Mirko Cro Cop'   # Pride   11.03.2001 UFC 67 02.03.2007
 # ffighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
 # ffighter = 'Alistair Overeem'#         10.24.1999
 # ffighter = 'Kevin Randleman' # UFC 19  03.05.1999
@@ -133,97 +134,109 @@ event = 'UFC 261' # prelims?
 # ffighter = 'Alexey Oleynik'  #         11.10.1996
 # ffighter = 'Kazushi Sakuraba'#         07.14.1996
 # __________current_________   : UFC  9  05.17.1996  -------------------
-# ffighter = 'Frank Shamrock' # Pancrase 12.16.1994, UFC 12.21.1997
-# ffighter = 'Ken Shamrock'   # Pancrase 09.21.1993
-# ffighter = 'Bas Rutten'     # Pancrase 09.21.1993, UFC 01.08.1999
-#        Pancrase: Yes, We Are Hybrid Wrestlers 1
+# ffighter = 'mirko cro cop'   # pride   11.03.2001 ufc 67 02.03.2007
+#    k-1 grand prix '99 final round      12.05.1999 kickboxing since 1996
+# ffighter = 'frank shamrock' # pancrase 12.16.1994, ufc 12.21.1997
+# ffighter = 'ken shamrock'   # pancrase 09.21.1993
+# ffighter = 'bas rutten'     # pancrase 09.21.1993, ufc 01.08.1999
+#        pancrase: yes, we are hybrid wrestlers 1
 #
 
 # ----------------------------------------------------------------------
-#                         Fedor Emelianenko
+#                         fedor emelianenko
 # ----------------------------------------------------------------------
 # fabor emelianenko vs heath herring, crocop, vs kevin randelman (end great,
 #                                                             polite at end)
-# vs crocop (fabor had a masterful plan, went to holland had Tyrone Spong &
-#            Ernesto Hoost)
+# vs crocop (fabor had a masterful plan, went to holland had tyrone spong &
+#            ernesto hoost)
 # stipe miocic could probably take him , fabricio werdum on a very good day
 # perfect record obsession: black
-# vs Tsuyoshi Kohsaka, vs Blagoi Ivanov (combat sambo)
+# vs tsuyoshi kohsaka, vs blagoi ivanov (combat sambo)
 # ----------------------------------------------------------------------
 
 
 
-# --- Young Bloods ---
-# ffighter = 'Loma Lookboonmee' # fixed; last fight on ESPN
-# first thai fighter to sign with UFC, had that one match a few before
-# ffighter = 'Youssef Zalal'   #         02.08.2020, LFA 22 09.08.2017
-# ffighter = 'Jimmy Crute'     #         07.24.2018
-# ffighter = 'Antonina Shevchenko' #     06.26.2018
-# ffighter = 'Ciryl Gane'      #         08.02.2018
-# Serigne Ousmane Dia "Bombardier / B52"
-#      vs Konez 05.05.2018;   vs Podmore 02.20.2020
-# ffighter = 'Liana Jojua'             # 09.07.2019 UFC 242
-# Mariano vs Vannata           UFC 234:  02.09.2019
-# ffighter = 'Johnny Walker (fighter)' # 08.11.2018
-# ffighter = 'Sean O\'Malley (fighter)'# 03.03.2018 UFC 222
-# ffighter = 'Israel Adesanya' #         02.11.2018 UFC 221
-# ffighter = 'Ian Heinisch'   #          07.31.2018 LFA 04.21.2017
+# --- young bloods ---
+# ffighter = 'loma lookboonmee' # fixed; last fight on espn
+# first thai fighter to sign with ufc, had that one match a few before
+# ffighter = 'youssef zalal'   #         02.08.2020, lfa 22 09.08.2017
+# ffighter = 'jimmy crute'     #         07.24.2018
+# ffighter = 'antonina shevchenko' #     06.26.2018
+# ffighter = 'ciryl gane'      #         08.02.2018
+# serigne ousmane dia "bombardier / b52"
+#      vs konez 05.05.2018;   vs podmore 02.20.2020
+# ffighter = 'liana jojua'             # 09.07.2019 ufc 242
+# mariano vs vannata           ufc 234:  02.09.2019
+# ffighter = 'johnny walker (fighter)' # 08.11.2018
+# ffighter = 'sean o\'malley (fighter)'# 03.03.2018 ufc 222
+# ffighter = 'israel adesanya' #         02.11.2018 ufc 221
+# ffighter = 'ian heinisch'   #          07.31.2018 lfa 04.21.2017
 #                        great anti-wrestling, will just stand right up
-# ffighter = 'Zabit Magomedsharipov' #   09.02.2017  ACB before that
-# ffighter = 'Trevin Giles'   #          07.08.2017
+# ffighter = 'zabit magomedsharipov' #   09.02.2017  acb before that
+# ffighter = 'trevin giles'   #          07.08.2017
 #                        power, good striker, someone to watch
-# ffighter = 'Cody Stamann'  #           07.08.2017 UFC 213
-# ffighter = 'Justin Gaethje' #          07.07.2017
-# ffighter = 'Marlon Moraes'  #          06.03.2017 UFC 212
-# Dominick Cruz vs Cody Garbandt,        12.30.2016 UFC 207
-# ffighter = 'Yana Kunitskaya' #         11.18.2016 Invicta 20
+# ffighter = 'cody stamann'  #           07.08.2017 ufc 213
+# ffighter = 'justin gaethje' #          07.07.2017
+# ffighter = 'marlon moraes'  #          06.03.2017 ufc 212
+# dominick cruz vs cody garbandt,        12.30.2016 ufc 207
+# ffighter = 'yana kunitskaya' #         11.18.2016 invicta 20
 #             keyyah like every time
-# ffighter = 'Marvin Vettori' #          08.20.2016 Italian middleweight
-# Jack Slack starts at UFC 202           08.20.2016
-# ffighter = 'Curtis Blaydes'  #         04.10.2016
-# ffighter = 'Kamaru Usman'    #         12.19.2015
-# ffighter = 'Sage Northcutt'  #         10.03.2015   UFC 192
-# ffighter = 'Felicia Spencer' #         09.12.2015 Invicta 14
-# ffighter = 'Arnold Allen (fighter)' #  06.20.2015
-# ffighter = 'Danny Henry' # anacondas   06.06.2015 EFC 57, UFC 251
-# ffighter = 'Cody Garbrandt'  #         01.03.2015 UFC 182
-# ffighter = 'Kron Gracie' #             12.23.2014
-# ffighter = 'Petr Yan'  #               06.23.2018
-#                Siberian league         12.20.2014
-# ffighter = 'Seo Hee Ham' # atom weight 12.12.2014 the ultimate fighter 18
-#                                        02.16.2007 Deep
-# ffighter = 'Colby Covington'  #        08.23.2014
-# ffighter = 'Carlos Diego Ferreira' #   06.28.2014
-# ffighter = 'Aljamain Sterling'#        02.22.2014
-# ffighter = 'Ottman Azaitar'   #        01.15.2014 temp removed from UFC
+# ffighter = 'marvin vettori' #          08.20.2016 italian middleweight
+# jack slack starts at ufc 202           08.20.2016
+# ffighter = 'curtis blaydes'  #         04.10.2016
+# ffighter = 'kamaru usman'    #         12.19.2015
+# ffighter = 'sage northcutt'  #         10.03.2015   ufc 192
+# ffighter = 'felicia spencer' #         09.12.2015 invicta 14
+# ffighter = 'arnold allen (fighter)' #  06.20.2015
+# ffighter = 'danny henry' # anacondas   06.06.2015 efc 57, ufc 251
+# ffighter = 'cody garbrandt'  #         01.03.2015 ufc 182
+# ffighter = 'kron gracie' #             12.23.2014
+# ffighter = 'petr yan'  #               06.23.2018
+#                siberian league         12.20.2014
+# ffighter = 'seo hee ham' # atom weight 12.12.2014 the ultimate fighter 18
+#                                        02.16.2007 deep
+# ffighter = 'colby covington'  #        08.23.2014
+# ffighter = 'carlos diego ferreira' #   06.28.2014
+# ffighter = 'aljamain sterling'#        02.22.2014
+# ffighter = 'ottman azaitar'   #        01.15.2014 temp removed from ufc
 # -- a bad man, ko power, man with a bag sneaked into room
-# ffighter='Bethe Correia'      #        12.07.2013 Jack Slack funny chant
-# ffighter = 'Song Yadong'      #        11.25.2017
-#                 RUFF 9                 05.18.2013
-# ffighter = 'Neil Magny'       #        02.23.2013 UFC 157
-# ffighter='Robert Whittaker (fighter)'# 12.15.2012
-# ffighter = 'Tim Elliott' #             05.05.2012 no respect, love it
-# ffighter = 'Cub Swanson' # fierce look 11.12.2011
+# ffighter='bethe correia'      #        12.07.2013 jack slack funny chant
+# ffighter = 'song yadong'      #        11.25.2017
+#                 ruff 9                 05.18.2013
+# ffighter = "uriah hall"       #        04.13.2013
+# ffighter = 'neil magny'       #        02.23.2013 ufc 157
+# ffighter='robert whittaker (fighter)'# 12.15.2012
+# ffighter = 'tim elliott' #             05.05.2012 no respect, love it
+# ffighter = 'cub swanson' # fierce look 11.12.2011
 
-# -----------------------  RANDOM NOTES  -----------------------
+# -----------------------  random notes  -----------------------
 # 2nd fastest knockdown
-# T.J. Dillashaw vs henry cejudo : head butt
+# t.j. dillashaw vs henry cejudo : head butt
 # at thompson vs luque
-# Whittaker vs Romero 1 and 2
-# Yves Edwards, practices thugjitsu
-# Brian Ortega vs. Korean Zombie
-fighter = 'Islam Makhachev'         #  04.20.2019  UFC Fight Night
-# For something?                    #  02.11.2017  UFC 208
-# this Smolka vs Paddy Holohan is the best grappling match
-fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
-# Tito Ortiz and Ken Shamrock       #  11.22.2002  UFC 40
-# Felicia Spencer: leg tied up but still jumps to knee opponent!
-#     UFC Fight Night: Andrade vs. Zhang 13:45
+# whittaker vs romero 1 and 2
+# yves edwards, practices thugjitsu
+# brian ortega vs. korean zombie
+fighter = 'islam makhachev'         #  04.20.2019  ufc fight night
+# for something?                    #  02.11.2017  ufc 208
+# this smolka vs paddy holohan is the best grappling match
+fighter = 'louis smolka'            #  10.24.2015 ufc fight night
+# tito ortiz and ken shamrock       #  11.22.2002  ufc 40
+# felicia spencer: leg tied up but still jumps to knee opponent!
+#     ufc fight night: andrade vs. zhang 13:45
 
-# Fedor, Couture, Velasquez, and Nog; Monsters: Brock Lesner, Shane Carwin
+# fedor, couture, velasquez, and nog; monsters: brock lesner, shane carwin
 
-# best Pride Fights
+# best pride fights
 #https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time
+
+#
+# Kick boxing
+# --Ernesto Hoost--
+# Branko Cikatić
+#
+# K-1 World Grand Prix
+# https://en.wikipedia.org/wiki/K-1_World_Grand_Prix
+
 
 # --- Watch --
 # Ernesto Hoost (youtube)
@@ -232,9 +245,9 @@ fighter = 'Louis Smolka'            #  10.24.2015 UFC Fight Night
 
 # event_bool = False
 # --- Muay Thai Fighters ---
+# Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
 # fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
-
 
 
 
