@@ -552,6 +552,7 @@ moves back to catch the opponent moving forward all the time
 | UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka      |
 | UFC on ESPN 23: Prelims  | 05.01.2021 | Reyes vs. Procházka      |
 | ONE on TNT 4             | 04.28.2021 | Nsang vs. Ridder         |
+| UFC 261                  | 04.24.2021 | Usman vs. Masvidal II    |
 | UFC 261: Early Prelims   | 04.24.2021 | Usman vs. Masvidal II    |
 | ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman        |
 | ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin       |
