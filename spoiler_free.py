@@ -136,6 +136,8 @@ event = 'UFC 261' # prelims?
 # ffighter = 'Frank Shamrock' # Pancrase 12.16.1994, UFC 12.21.1997
 # ffighter = 'Ken Shamrock'   # Pancrase 09.21.1993
 # ffighter = 'Bas Rutten'     # Pancrase 09.21.1993, UFC 01.08.1999
+#        Pancrase: Yes, We Are Hybrid Wrestlers 1
+#
 
 # ----------------------------------------------------------------------
 #                         Fedor Emelianenko
