@@ -123,6 +123,7 @@ ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
 # ffighter= Fedor Emelianenko' #Pride 21 06.23.2002, in Rings from 2000-02.2002
 # ffighter= Georges St-Pierre' # UFC 46  01.31.2004 UCC in 01.25.2002
 # ffighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
+# ffighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
 # ffighter = 'Alistair Overeem'#         10.24.1999
 # ffighter = 'Kevin Randleman' # UFC 19  03.05.1999
 # ffighter = 'Chuck Liddell'   # UFC 17  05.15.1998
@@ -249,6 +250,11 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
 
+
+# --------------------------------------------------------------
+# -------------------------- GRAPPLING -------------------------
+# --------------------------------------------------------------
+# Hideo Tokoro, more MMA
 
 
 
