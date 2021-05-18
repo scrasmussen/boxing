@@ -44,6 +44,10 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
+| Eric Murguia vs. Arenio Terrazas  | 05.15.2021 |                            |
+| Melissa St. Vil vs. Olivia Gerula | 05.14.2021 |                            |
+| Dereck Chisora vs. Joseph Parker  | 05.01.2021 | WBO Intercont. Heavyweight |
 | Canelo Alvarez vs. Billy Joe S.   | 05.08.2021 | Saunders, Middleweight U.  |
 | DaCarree Scott vs. Q. Thompson    | 04.20.2021 | "Mac Truck"                |
 | Joe Smith Jr. vs. Maxim Vlasov    | 04.11.2021 | WBO Light Heavyweight      |
@@ -512,7 +516,10 @@ Most boring fighter I'm excited to see : Michael Chiesa
 *** Fighter to Watch
 Tim Elliott
 *** Fights of interest
-**** worst heavyweight fight?
+**** boring fights
+***** UFC 9 Ironman match
+Ken Shamrock vs. Dan Severn: 20 of 30 minutes was circling without any contact
+***** worst heavyweight fight?
 Francis Ngannou vs Derrick Lewis: 33 strikes in 15 minutes
 both were afraid to hit each other
 
@@ -653,6 +660,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 184                  | 02.28.2015 | Rousey vs. Zingano       |
 | UFC 167                  | 11.16.2013 | St-Pierre vs. Hendricks  |
 | UFC 165                  | 09.21.2013 | Jones vs. Gustafsson     |
+| UFC 9                    | 05.17.1996 | Shamrock vs. Severn bore |
 | UFC 8                    | 04.16.1996 | Goodridge cross knockout |
 | UFC 7                    | 09.08.1996 |                          |
 | UFC 6                    | 07.14.1995 |                          |
@@ -667,6 +675,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Sergey Khrisanov vs. Andrey Novikov  | 05.15.2021 |                         |
 | Anthony Pettis vs. Clay Collard      | 04.23.2021 | PFL 1                   |
 | Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
