@@ -21,7 +21,7 @@ def get_record(soup, record_type):
         columns = ['Opponent', 'Event', 'Date']
         record_name = 'Mixed martial arts record'
 
-    headers = soup.select_one('h2:contains("'+record_name+'")')
+    headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
     if (headers is None):
         return None
     h_table = headers.find_next_sibling()
