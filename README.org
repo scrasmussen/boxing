@@ -44,6 +44,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
 | David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
 | Eric Murguia vs. Arenio Terrazas  | 05.15.2021 |                            |
 | Jessica Hardy vs. Jessica Camara  | 05.14.2021 |                            |
@@ -670,6 +671,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 3                    | 09.09.1994 |                          |
 | UFC 2                    | 03.11.1994 |                          |
 | UFC 1                    | 11.12.1993 |                          |
+| Pancrase: Yes, We Are    | 09.21.1993 | Hybrid Wrestlers 1       |
 
 ** <<Individual Fights>>
 #+NAME:mmaFights

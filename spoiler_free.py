@@ -139,8 +139,9 @@ ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
 #    k-1 grand prix '99 final round      12.05.1999 kickboxing since 1996
 # ffighter = 'frank shamrock' # pancrase 12.16.1994, ufc 12.21.1997
 # ffighter = 'ken shamrock'   # pancrase 09.21.1993
-ffighter = 'bas rutten'     # pancrase 09.21.1993, ufc 01.08.1999
-#        pancrase: yes, we are hybrid wrestlers 1
+ffighter = 'Bas Rutten'     # pancrase 09.21.1993, ufc 01.08.1999
+# -----------------------------------------------------------------
+#        pancrase: yes, we are hybrid wrestlers 2 10.1993
 #
 
 # ----------------------------------------------------------------------
