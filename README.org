@@ -46,6 +46,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
 | Eric Murguia vs. Arenio Terrazas  | 05.15.2021 |                            |
+| Jessica Hardy vs. Jessica Camara  | 05.14.2021 |                            |
 | Melissa St. Vil vs. Olivia Gerula | 05.14.2021 |                            |
 | Dereck Chisora vs. Joseph Parker  | 05.01.2021 | WBO Intercont. Heavyweight |
 | Canelo Alvarez vs. Billy Joe S.   | 05.08.2021 | Saunders, Middleweight U.  |
@@ -702,6 +703,7 @@ moves back to catch the opponent moving forward all the time
 | Loma Lookboonmee vs. Hana Data       | 08.05.2018 | Pancrase 298            |
 | Loma Lookboonmee vs. Mellissa Wang   | 01.13.2018 | Invicta FC 27           |
 | Felicia Spencer vs. M. McElhaney     | 03.25.2017 | Invicta FC 22           |
+| Dominick Cruz vs. Cody Garbrandt     | 12.30.2016 | UFC 207                 |
 | Chas Skelly vs. Maximo Blanco        | 09.17.2016 | UFC Fight Night 94      |
 | Rico Verhoeven vs. Anderson Silva    | 09.09.2016 | Glory 33 [[09.09.2016][ff.]]            |
 | Mark Hunt vs. Frank Mir              | 03.20.2016 | UFC Fight Night 85      |
@@ -1449,6 +1451,9 @@ TOTAL	 	$142.37 PER MONTH
 
 * To Read
 [[https://www.nytimes.com/2001/10/14/sports/sports-of-the-times-you-could-trust-the-trainer-eddie-futch.html][You Could Trust the Trainer Eddie Futch]]
+** Sites
+bloodyelbow
+boxingscene
 ** Writers
 *** Jack Slack
 Flightland: 2013-2017: UFC 167 - UFC 211
