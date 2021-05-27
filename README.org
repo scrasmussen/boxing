@@ -44,8 +44,9 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
 | Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
-qqq| David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
+| David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
 | Eric Murguia vs. Arenio Terrazas  | 05.15.2021 |                            |
 | Jessica Hardy vs. Jessica Camara  | 05.14.2021 |                            |
 | Melissa St. Vil vs. Olivia Gerula | 05.14.2021 |                            |
@@ -558,6 +559,8 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt       |
+| Invicta FC 44            | 05.21.2021 | Rodriguez vs. Torquato   |
 | UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson   |
 | UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka      |
 | UFC on ESPN 23: Prelims  | 05.01.2021 | Reyes vs. Procházka      |
@@ -565,6 +568,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 261                  | 04.24.2021 | Usman vs. Masvidal II    |
 | UFC 261: Early Prelims   | 04.24.2021 | Usman vs. Masvidal II    |
 | ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman        |
+| UFC on ESPN 22           | 04.17.2021 | Whittaker vs. Gastelum   |
 | ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin       |
 | ONE on TNT               | 04.07.2021 | Rodtang vs. Williams     |
 | UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II    |
@@ -679,7 +683,9 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Ben Rothwell vs. Chris Barnett       | 05.22.2021 | UFC Fight Night 188     |
 | Sergey Khrisanov vs. Andrey Novikov  | 05.15.2021 |                         |
+| Juan Espino vs. Alexander Romanov    | 04.17.2021 | UFC on ESPN 22          |
 | Anthony Pettis vs. Clay Collard      | 04.23.2021 | PFL 1                   |
 | Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |

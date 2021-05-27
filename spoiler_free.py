@@ -34,13 +34,15 @@ event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 # prelims?
 
 # to catch up on, Vettori vs Holland, UFC 260, and this
-event = 'UFC on ESPN: Whittaker vs. Gastelum'
 event = 'UFC on ESPN: Reyes vs. Procházka'
 event = 'UFC on ESPN: Rodriguez vs. Waterson'
 event = 'UFC 261' # prelims?
+event = 'UFC on ESPN: Whittaker vs. Gastelum'
+event = 'UFC Fight Night: Font vs. Garbrandt'
 
 
 ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
+ffighter = 'Juan Espino' # heavy weight grappler
 # fighter Sean Strickland, super technical, travels up/down Cali training
 # ffighter = 'Khaos Williams' # watch 247 prelims with him
 # ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
@@ -291,6 +293,8 @@ fighter = 'Floyd Mayweather Jr.'
 #----- Current ------
 
 show    = 'The Boxing Beat: ESPN'
+
+fighter = 'Naoya Inoue'
 fighter = 'Canelo Álvarez'
 fighter = 'Timothy Bradley'
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN

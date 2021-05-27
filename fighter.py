@@ -41,15 +41,15 @@ def get_record(soup, record_type):
                 if (x.find(':')>0) else x
             record.loc[:,'Event'] = record[['Event']].applymap(shorten_lambda)
 
-        max_len = 54
-        max_opponent = record.Opponent.str.len().max()
-        max_event = record.Event.str.len().max()
-        if (max_len < max_opponent + max_event):
-            width = max_len - max_opponent
-            e = record.Event.replace("(.{"+str(width)+"})", "\\1-\n",
-                                     regex=True)
-            e = e.replace("\s+-\n|-\n\s+","\n",regex=True)
-            record.Event = e.replace("-$","",regex=True)
+            max_len = 54
+            max_opponent = record.Opponent.str.len().max()
+            max_event = record.Event.str.len().max()
+            if (max_len < max_opponent + max_event):
+                width = max_len - max_opponent
+                e = record.Event.replace("(.{"+str(width)+"})", "\\1-\n",
+                                         regex=True)
+                e = e.replace("\s+-\n|-\n\s+","\n",regex=True)
+                record.Event = e.replace("-$","",regex=True)
         return record
     return None
 
