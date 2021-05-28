@@ -45,6 +45,7 @@ A collection of ideas and history.
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
+| Luis Nery vs. Brandon Figueroa    | 05.15.2021 | WBC/WBA Super Bantamweight |
 | Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
 | David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
 | Eric Murguia vs. Arenio Terrazas  | 05.15.2021 |                            |
@@ -74,6 +75,7 @@ A collection of ideas and history.
 | Oleksandr Usyk vs C. Witherspoon  | 10.12.2019 | Chazz                      |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                            |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
+| Manny Pacquiao vs. Adrien Broner  | 01.19.2019 | WBA Welterweight           |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Tony Bellew    | 11.10.2018 |                            |
 | Gennady Golovkin vs. Canelo A.    | 09.15.2018 | Alvarez                    |
@@ -133,6 +135,7 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
+| Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
 | Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
 | Floyd Mayweather vs. S. Mitchell  | 11.19.2005 | Sharmba                    |
 | Floyd Mayweather vs. Arturo Gatti | 06.25.2005 |                            |
@@ -229,7 +232,8 @@ Sherrif jumps into the ring and stops the fight
 
 
 
-* Boxers
+* Boxing
+
 :other-great-boxers:
 Ezzard Charles:
  - slick defense and prescision
@@ -292,6 +296,14 @@ Terence Crawford
 Junier Welterweight: Jose Ramirez and Josh Taylor
                      - Apinun Khongsong
 :end:
+
+** Playlists
+Find other ones as well
+*** K.O.'s
+ - Silenced the crowd: Eduard Troyanovsky vs. Julius Indongo
+   major upset piston knock-out
+
+
 
 ** All-time Pound-for-Pound
 [[https://bleacherreport.com/articles/1436191-the-top-50-pound-for-pound-boxers-of-all-time][From Here]]

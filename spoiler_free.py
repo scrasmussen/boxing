@@ -126,10 +126,11 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Lyoto Machida'   # UFC 67  02.03.2007
 # ffighter = 'Diego Sanchez'   # UFC 54  08.20.2005
 # ffighter = 'Giant Silva'     # Pride   12.31.2003
-# ffighter= Fedor Emelianenko' #Pride 21 06.23.2002, in Rings from 2000-02.2002
 # ffighter= Georges St-Pierre' # UFC 46  01.31.2004 UCC in 01.25.2002
 # ffighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
 # ffighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
+# ffighter='Fedor Emelianenko' #Pride 21 06.23.2002
+#         , in Rings from 2000-02.2002   05.21.2000
 # ffighter = 'Alistair Overeem'#         10.24.1999
 # ffighter = 'Kevin Randleman' # UFC 19  03.05.1999
 # ffighter = 'Chuck Liddell'   # UFC 17  05.15.1998
@@ -139,15 +140,20 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Randy Couture'   # UFC 13  05.30.1997
 #             bounce people off of fence to get past guard
 # ffighter = 'Alexey Oleynik'  #         11.10.1996
+# __________at_________   : UFC  10  07.12.1996  ------------------
 # ffighter = 'Kazushi Sakuraba'#         07.14.1996
-# __________finished_________   : UFC  9  05.17.1996  ------------------
 # ffighter = 'mirko cro cop'   # pride   11.03.2001 ufc 67 02.03.2007
 #    k-1 grand prix '99 final round      12.05.1999 kickboxing since 1996
 # ffighter = 'frank shamrock' # pancrase 12.16.1994, ufc 12.21.1997
-# ffighter = 'ken shamrock'   # pancrase 09.21.1993
-ffighter = 'Bas Rutten'     # pancrase 09.21.1993, ufc 01.08.1999
+# ffighter = 'ken shamrock'   # pancrase 10.14.1993
+#          all Pancrase and UFC until Pride in 2000
+# ffighter = 'Bas Rutten'     # pancrase 10.14.1993, ufc 01.08.1999
 # -----------------------------------------------------------------
-#        pancrase: yes, we are hybrid wrestlers 2 10.1993
+#                   CURRENT: 10.14.1993
+# -----------------------------------------------------------------
+#        Pride 1 : 10.11.1997
+#        UFC 10  : 07.12.1996
+#        Pancrase: yes, we are hybrid wrestlers 2 10.14.1993
 #
 
 # ----------------------------------------------------------------------
