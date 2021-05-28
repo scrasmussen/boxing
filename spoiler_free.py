@@ -57,7 +57,10 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # Hideo Tokoro vs. Daisuke Nakamura K-1 2008-12-31
 #   K-1 Dynamite 2008
 #   Saitama, Japan
-# Ben Askren
+# --- early fights of ---
+# --- Ben Askren --------
+# --- Deontay Wilder ----
+# --- Tyson Fury --------
 
 # 4.24.2021 Qileng Aori vs Jeff Molina
 
@@ -99,6 +102,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # more Pettis!
 # ffighter = 'Henry Cejudo'    # UFC FOX 12.13.2014
 # ffighter = 'Jorge Masvidal'  # UFC FOX 04.20.2013, Bellator since 1
+# -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
 # ffighter = 'T.J. Dillashaw'  # UFC FOX 12.03.2011
 # ffighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
@@ -266,30 +270,38 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # --------------------  CURRENTLY WATCHING  ----------------------
 # ---------------------------- BOXING ----------------------------
 # ----------------------------------------------------------------
+#
+# https://www.theguardian.com/sport/2021/may/27/time-to-find-out-who-cares-box\
+#ing-brain-damage-tris-dixon
+#
 # GSP vs Josh Koscheck
 # GGG vs Daniel Jacobs, DAZN USA YOUTUBE
 # https://www.youtube.com/watch?v=4VfPtgFEXYc
+# Wilfred Benítez vs. Sugar Ray Leonard
+
+fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
+fighter = 'Deontay Wilder' # |     2 | Shannon Gray        | 03.06.2009 |
+fighter = 'Floyd Mayweather Jr.' # |36| Zab Judah          | 04.08.2006 |
+fighter = 'Andre Ward' # |     1 | Chris Molina            | 12.18.2004 |
+fighter = 'Bernard Hopkins' # |     1 | Clinton Mitchell   | 10.11.1988 |
+fighter = 'Mike Tyson' #|     1 | Hector Mercedes          | 03.06.1985 |
 
 # -- Historical
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
-fighter = 'Andre Ward'
 fighter = 'Buster Douglas'
-fighter = 'Mike Tyson'
-fighter = 'Bernard Hopkins'
 fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
 fighter = 'Pernell Whitaker' # Elite, defensive talent
 fighter = 'Guillermo Rigondeaux' # ducked?
+fighter = 'Aaron Pryor' # two battles with Alexis Arguello
 # -- Contemporary
 fighter = 'Terence Crawford'
 fighter = 'Kell Brook'    # vs. Golovkin and then Spence Jr.
-fighter = 'Anthony Joshua'
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ---------------------------- BOXERS ----------------------------
 #---- Historical ----
-fighter = 'Floyd Mayweather Jr.'
 #----- Current ------
 
 show    = 'The Boxing Beat: ESPN'
