@@ -47,7 +47,8 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Khaos Williams' # watch 247 prelims with him
 # ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
 #                           # weird intesting stuff
-
+# "Good on Arjan Bhullar. I've liked him since he headbutted Juan Adams"
+#                          - Jack Slack
 
 
 # check out Asian Boxing Raise?
