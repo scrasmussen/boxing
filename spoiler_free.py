@@ -156,7 +156,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # -----------------------------------------------------------------
 #        Pride 1 : 10.11.1997
 #        UFC 10  : 07.12.1996
-#        Pancrase: yes, we are hybrid wrestlers 2 10.14.1993
+#    *   Pancrase: yes, we are hybrid wrestlers 2 10.14.1993
 #
 
 # ----------------------------------------------------------------------
@@ -202,7 +202,6 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # jack slack starts at ufc 202           08.20.2016
 # ffighter = 'curtis blaydes'  #         04.10.2016
 # ffighter = 'kamaru usman'    #         12.19.2015
-# ffighter = 'sage northcutt'  #         10.03.2015   ufc 192
 # ffighter = 'felicia spencer' #         09.12.2015 invicta 14
 # ffighter = 'arnold allen (fighter)' #  06.20.2015
 # ffighter = 'danny henry' # anacondas   06.06.2015 efc 57, ufc 251
@@ -214,6 +213,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 #                                        02.16.2007 deep
 # ffighter = 'colby covington'  #        08.23.2014
 # ffighter = 'carlos diego ferreira' #   06.28.2014
+# ffighter = 'sage northcutt'  #         04.20.2014 ufc 192: 10.03.2015
 # ffighter = 'aljamain sterling'#        02.22.2014
 # ffighter = 'ottman azaitar'   #        01.15.2014 temp removed from ufc
 # -- a bad man, ko power, man with a bag sneaked into room

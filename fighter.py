@@ -8,9 +8,8 @@ def getUrl(fighter):
     if (fighter == ''):
         print("No Fighter Selected")
         exit()
-    fighter.replace(' ', '_')
     url = 'https://en.wikipedia.org/wiki/'
-    url += fighter
+    url += fighter.title()
     return url
 
 def get_record(soup, record_type):
@@ -97,7 +96,7 @@ class Fighter:
                                showindex=False))
 
     def __init__(self, name):
-        self.name = name.replace('_',' ')
+        self.name = name.replace('_',' ').title()
 
         req = requests.get(getUrl(name)).text
         soup = BeautifulSoup(req, 'lxml')
