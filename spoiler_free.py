@@ -106,7 +106,6 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
 # ffighter = 'T.J. Dillashaw'  # UFC FOX 12.03.2011
-# ffighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
 # ffighter = 'Tony Ferguson'   # UFC 135 09.24.2011
 # ffighter = 'Donald Cerrone'  # UFC 126 02.05.2011
 #   fights with Jamie Varner and Benson Henderson were,
@@ -124,16 +123,19 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Brock Lesner'    # UFC 81  02.02.2008
 #                               Dynamite 06.02.2007
 # ffighter = 'Frankie Edgar'   # UFC 67  02.03.2007
-# ffighter = 'Lyoto Machida'   # UFC 67  02.03.2007
+# ffighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
 # ffighter = 'Diego Sanchez'   # UFC 54  08.20.2005
 # ffighter = 'Giant Silva'     # Pride   12.31.2003
-# ffighter= Georges St-Pierre' # UFC 46  01.31.2004 UCC in 01.25.2002
+# ffighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
+# ffighter= Georges St-Pierre' # UFC 46  01.31.2004
+#                                UCC in  01.25.2002
 # ffighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
 # ffighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
 # ffighter='Fedor Emelianenko' #Pride 21 06.23.2002
 #         , in Rings from 2000-02.2002   05.21.2000
 # ffighter = 'Alistair Overeem'#         10.24.1999
 # ffighter = 'Kevin Randleman' # UFC 19  03.05.1999
+# ffighter = 'Badr Hari'       #         02.17.2002 Kickboxing
 # ffighter = 'Chuck Liddell'   # UFC 17  05.15.1998
 # ffighter = 'Matt Hughes (fighter)'#    09.24.1999  UFC 22, lots of others
 #              Jeet Kune Do Challenge 1  01.01.1998
