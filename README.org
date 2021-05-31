@@ -38,12 +38,13 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 123 matches
+: I have seen 145 matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight  defense   |
 | Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
 | Luis Nery vs. Brandon Figueroa    | 05.15.2021 | WBC/WBA Super Bantamweight |
 | Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
@@ -59,7 +60,7 @@ A collection of ideas and history.
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | Canelo Alvarez vs. Callum Smith   | 12.19.2020 |                            |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
-| V. Lomachenko vs. Teojimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
+| V. Lomachenko vs. Teofimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
 | Edgar Berlanga vs. Lanell Bellows | 10.17.2020 |                            |
 | Jose Carlos vs. Viktor Postol     | 08.29.2020 |                            |
 | Albert Bell vs. Mark Bernaldez    | 07.02.2020 |                            |
@@ -133,8 +134,10 @@ A collection of ideas and history.
 | Karlos Balderas vs. Thomas Smith  | 04.09.2017 |                            |
 | E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out   |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
+| E. Troyanovsky vs. Keita Obara    | 09.09.2016 | Eduard.                    |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
+| Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
 | Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
 | Floyd Mayweather vs. S. Mitchell  | 11.19.2005 | Sharmba                    |
@@ -302,7 +305,7 @@ Find other ones as well
 *** K.O.'s
  - Silenced the crowd: Eduard Troyanovsky vs. Julius Indongo
    major upset piston knock-out
-
+ - Knocked out of ring: Eduard Troyanovsky vs. Keita Obara
 
 
 ** All-time Pound-for-Pound
@@ -565,7 +568,7 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 107 fight cards and 36 additional fights
+: I have seen 118 fight cards and 40 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+--------------------------|

@@ -287,7 +287,8 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # Wilfred Benítez vs. Sugar Ray Leonard
 
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
-fighter = 'Deontay Wilder' # |     2 | Shannon Gray        | 03.06.2009 |
+fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
+                            # couldn't find Wilder's #3 vs Greene
 fighter = 'Floyd Mayweather Jr.' # |36| Zab Judah          | 04.08.2006 |
 fighter = 'Andre Ward' # |     1 | Chris Molina            | 12.18.2004 |
 fighter = 'Bernard Hopkins' # |     1 | Clinton Mitchell   | 10.11.1988 |
@@ -308,14 +309,39 @@ fighter = 'Kell Brook'    # vs. Golovkin and then Spence Jr.
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ---------------------------- BOXERS ----------------------------
-#---- Historical ----
-#----- Current ------
+# ----------------------------------------------------------------
+# ----------------------------------------------------------------
 
 show    = 'The Boxing Beat: ESPN'
+# https://www.theguardian.com/sport/2021/may/27/\
+# time-to-find-out-who-cares-boxing-brain-damage-tris-dixon
+
+# Watch Vasiliy Lomachenko vs. Teofima Lopez again
+# June 26th Show: PPV soooo....
+# June 26th ESPN: Vasiliy Lomachenko vs Masayoshi Nakatani
+# June 25th ESPN: Rob Brant vs Janibek Alimkhanuly
+# June 19th DAZN: Bektemir Melikuziev vs Gabriel Rosado
+# June 19th DAZN: Jaime Munguia vs Maciej Sulecki
+# June 19th ESPN: *Naoya Inoue* vs Michael Dasmarinas
+# June 12th ESPN: Shakur Stevenson vs Jeremiah Nakathila
+#                 Jose Pedraza vs Julian Rodriguez
+#
+
 
 fighter = 'Naoya Inoue'
 fighter = 'Canelo Álvarez'
 fighter = 'Timothy Bradley'
+# listed below 'Terence Crawford', Errol Spence Jr., Teofima Lopez
+# Usyk, Lomachenko, Josh Taylor, Juan Francisco Estrada
+# Michael Hunter: Heavyweight American
+# Andy Ruiz Jr. : Heavyweight American
+# Joe Joyce     : Heavyweight U.K.
+# Dillian Whyte : Heavyweight U.K.
+# Alexander Povetkin: Heavyweight Russia
+#
+# Nonito Donaire vs. Nordine Oubaali
+#
+# Shakur Stevenson
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 fighter = 'Michael Conlan (boxer)'           #
 fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
@@ -416,7 +442,11 @@ fighter = 'Keith Thurman'
 # Archie Moore vs Evon Durell            :: top ten list of fights
 
 # --------------------------------------------------------------
+#  QUOTES
 # --------------------------------------------------------------
+# “Weeping may endure for a night, but joy cometh in the
+#  morning.”
+#   - Psalm 30:5
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 # --------------------------------------------------------------
