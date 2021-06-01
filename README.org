@@ -62,6 +62,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| N. Oubaali vs. Nonito Donaire     | 05.29.2021 | Nordine, WBC Bantamweight  |
 | Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight  defense   |
 | Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
 | Luis Nery vs. Brandon Figueroa    | 05.15.2021 | WBC/WBA Super Bantamweight |
@@ -716,6 +717,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 3                    | 09.09.1994 |                          |
 | UFC 2                    | 03.11.1994 |                          |
 | UFC 1                    | 11.12.1993 |                          |
+| Pancrase: Yes, We Are    | 10.14.1993 | Hybrid Wrestlers 2       |
 | Pancrase: Yes, We Are    | 09.21.1993 | Hybrid Wrestlers 1       |
 
 ** <<Individual Fights>>
