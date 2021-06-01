@@ -6,7 +6,8 @@ A collection of ideas and history.
 *** Boxing Matches Seen
 #+NAME: boxing-matches-seen
 #+BEGIN_SRC emacs-lisp :var table=boxingMatches
-(concat "I have seen " (number-to-string (- (length table) 1) ) " matches")
+(concat "I have seen " (number-to-string (- (length table) 1) )
+ " boxing matches")
 #+END_SRC
 *** MMA Events Seen
 #+NAME: mma-events-seen
@@ -15,7 +16,14 @@ A collection of ideas and history.
 " fight cards and "    (number-to-string (- (length table2) 1) )
 " additional fights")
 #+END_SRC
-** Weight Classes
+*** Kickboxing Matches Seen
+#+NAME: kickboxing-matches-seen
+#+BEGIN_SRC emacs-lisp :var table=kickboxingMatches
+(concat "I have seen " (number-to-string (- (length table) 1) )
+ " kickboxing matches")
+#+END_SRC
+
+** Boxing Weight Classes
 *** 105 : minimumweight
 *** 108 : light flyweight
 *** 112 : flyweight
@@ -33,12 +41,22 @@ A collection of ideas and history.
 *** 175 : light heavyweight
 *** 200 : cruiserweight
 *** unlimited : heavyweight
+** MMA Weight Classes
+*** 115 : strawweight
+*** 125 : flyweight
+*** 135 : bantamweight
+*** 145 : featherweight
+*** 155 : lightweight
+*** 170 : welterweight
+*** 185 : middleweight
+*** 205 : light heavyweight
+*** 265 : heavyweight
 
 
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 145 matches
+: I have seen 148 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -548,9 +566,16 @@ both were afraid to hit each other
 |------------------------------------+------------|
 | Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
+*** K.O. from leg kicks
+**** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
+Wicked kicks to the inside far thigh cause two knockdowns and k.o. finish!
+Rare inside  kick causes K.O.
+**** Katsuomi Inagaki vs. Joop van de Ven <<10.14.1993>>
+Kick to the knee
+Pancrase: Yes, We Are Hybrid Wrestlers 2
 *** Submissions: the greatest
-Koshi Matsumoto vs. David Garmo - Quintet: Fight Night 2 - final round, match 3
-*** Submissions from Bottom
+Koshi Matsumoto vs. David Garmo - Quintet: Fight Night 2 -final round, match 3
+*** Submissions: from Bottom
 Shoki Higuchi vs. Yuji Hoshino: Quintet Fight Night 4
 Anthony Petis vs. Michael Chiesa : UFC 226
 *** quotes
@@ -780,6 +805,23 @@ look for Nogueira's dipping jab
 look for Roy Nelson's uppercut to counter the dipping jab
 
 
+
+
+* Kickboxing Matches
+#+RESULTS: kickboxing-matches-seen
+: I have seen 1 kickboxing matches
+
+#+NAME:kickboxingMatches
+|--------------------------------+------------+------------------------------|
+| *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
+|--------------------------------+------------+------------------------------|
+| Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+|--------------------------------+------------+------------------------------|
+
+** Notes
+*** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
+Hilarious heavyweight match, Martiis running around huge-slow Lungu
+2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
 
 
 * Trainers
