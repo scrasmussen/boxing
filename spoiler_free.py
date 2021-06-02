@@ -49,8 +49,6 @@ ffighter = 'Juan Espino' # heavy weight grappler
 #                           # weird intesting stuff
 # "Good on Arjan Bhullar. I've liked him since he headbutted Juan Adams"
 #                          - Jack Slack
-
-
 # check out Asian Boxing Raise?
 
 
@@ -64,23 +62,22 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # --- Tyson Fury --------
 
 # 4.24.2021 Qileng Aori vs Jeff Molina
-
 # Charles Jourdain vs Marcelo Rojo, Jourdain is skilled fun fighter
 #        |- check out more of his fights
 
 # combat sambo, muay thai on ufc
 # invicta fc 39 Pearl Gonzalez vs Leonardo
 # some bellator on DAZN, cbs sports network, hulu?, moving to showtime
-
-
+#
+#
 #  -- look at herb dean controversy too earlier UFCs
 # 2.  ankalave good striker, can handle counter strikers, other wacky lots of
 #                        kicks, great front kick to body
 #     A need to keep K on the back foot so he is not kicking
 #  Caceres vs Croom maybe fun 02.27.2021 UFC Fight Night: Rozenstruik vs. Gane
 #
-
-
+#
+#
 # event = 'UFC Fight Night: Overeem vs. Volkov' # watch prelims?
 # jack slack 6
 # james vick , upright tall fighter lost vs short guy, tried finishing uppercuts
@@ -156,7 +153,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # -----------------------------------------------------------------
 #        Pride 1 : 10.11.1997
 #        UFC 10  : 07.12.1996
-#    *   Pancrase: yes, we are hybrid wrestlers 2 10.14.1993
+#    *   Pancrase: yes, we are hybrid wrestlers 3 11.00.1993
 #
 
 # ----------------------------------------------------------------------
