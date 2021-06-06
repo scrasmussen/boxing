@@ -56,7 +56,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 148 boxing matches
+: I have seen 151 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -213,7 +213,7 @@ A collection of ideas and history.
 | Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                            |
 | Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][ff.]]        |
 | Jack Johnson vs. Fireman J. Flynn | 04.07.1912 | [[04.07.1912][ff]]                         |
-
+|-----------------------------------+------------+----------------------------|
 
 
 ** <<Notes>>
@@ -596,14 +596,16 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 118 fight cards and 40 additional fights
+: I have seen 121 fight cards and 40 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+--------------------------|
 | *Event*                  |     *Date* | *Notes*                  |
 |--------------------------+------------+--------------------------|
+| UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai    |
 | UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt       |
 | Invicta FC 44            | 05.21.2021 | Rodriguez vs. Torquato   |
+| UFC 262                  | 05.15.2021 | Oliveira vs. Chandler    |
 | UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson   |
 | UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka      |
 | UFC on ESPN 23: Prelims  | 05.01.2021 | Reyes vs. Procházka      |
@@ -721,6 +723,7 @@ moves back to catch the opponent moving forward all the time
 | UFC 1                    | 11.12.1993 |                          |
 | Pancrase: Yes, We Are    | 10.14.1993 | Hybrid Wrestlers 2       |
 | Pancrase: Yes, We Are    | 09.21.1993 | Hybrid Wrestlers 1       |
+|--------------------------+------------+--------------------------|
 
 ** <<Individual Fights>>
 #+NAME:mmaFights
@@ -767,7 +770,7 @@ moves back to catch the opponent moving forward all the time
 | Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                  |
 | Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003    |
 | Ken Shamrock vs. Bas Rutten          | 03.10.1995 | Pacrase [[03.10.1995][ff.]]             |
-
+|--------------------------------------+------------+-------------------------|
 
 ** Notes
 *** Moves

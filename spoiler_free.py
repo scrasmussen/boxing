@@ -24,7 +24,7 @@ event = 'UFC on ESPN: Chiesa vs. Magny'
 event = 'UFC 257' # watch prelims
 event = 'UFC Fight Night: Thompson vs. Neal' # should watch prelims
 event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
-event = 'UFC 259' # at Nzechukwu I think, and Joe Benavidez
+event = 'UFC 262' # Prelims: Submissions!
 event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 #                                                home
 #                                                and kill you
@@ -107,7 +107,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Donald Cerrone'  # UFC 126 02.05.2011
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
-# ffighter = 'Dustin Poirier'  # UFC 125 01.01.2011
+# ffighter = 'Dustin Poirier'  # UFC 125 01.01.2011 Jack Slack's Adv-Strike2.0
 # ffighter = 'Ben Askren' # Bellator 14  04.15.2010
 # UFC 104: title fight, ring cutoff      12.24.2009
 # ffighter = 'Roy Nelson'      # TUF 10  12.05.2009
@@ -301,6 +301,10 @@ fighter = 'Charley Burley'
 fighter = 'Pernell Whitaker' # Elite, defensive talent
 fighter = 'Guillermo Rigondeaux' # ducked?
 fighter = 'Aaron Pryor' # two battles with Alexis Arguello
+# -- other historical
+# Jess Willard
+# Jack Johnson
+# -----
 # -- Contemporary
 fighter = 'Terence Crawford'
 fighter = 'Kell Brook'    # vs. Golovkin and then Spence Jr.
