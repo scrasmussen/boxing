@@ -52,7 +52,28 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # check out Asian Boxing Raise?
 
 
-
+# --- Jack Slack: The Fight Primer ---
+# ===Badr Hari===
+#  - used cross hand trap/Dutch hand trap
+#  - Barney Ross: most dangerous punch in boxing?
+#    A: head left, right straight down the middle, response to right hook
+#  - kickboxer vs mma Japan New Years Eve card
+#    - Masato Kobayashi
+#  - Semmy Schilt: perhaps the greatest kickboxing heaveyweight ever
+#    - 7 ft. 300+ pounds, awkward style
+#  - K-1 fell apart and fighters went to Glory
+#  - Cro Cop
+#  - Rico Verhoeven
+#  - Kickboxing heavyweight Greats:
+#    - Hoost, Schilt, Aerts, Le Banner, Hug, Hari
+# ===Tommy Loughran===
+# Jabbed like a fencer: what he did, how he won, jab-and-clutch
+# Great light heavyweights:
+#  - undersized light heavyweight masqueradign as a heavyweight
+#  - Bob Foster, Joey Maxim, Archie Moore
+#  vs. Primo Carnera: a giant
+#
+# -------------------------------------
 # Hideo Tokoro vs. Daisuke Nakamura K-1 2008-12-31
 #   K-1 Dynamite 2008
 #   Saitama, Japan
@@ -151,9 +172,11 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # -----------------------------------------------------------------
 #                   CURRENT: 10.14.1993
 # -----------------------------------------------------------------
+#        Glory   : 05.26.2012
 #        Pride 1 : 10.11.1997
 #        UFC 10  : 07.12.1996
 #    *   Pancrase: yes, we are hybrid wrestlers 3 11.00.1993
+#        K-1     : 03.30.1993
 #
 
 # ----------------------------------------------------------------------
