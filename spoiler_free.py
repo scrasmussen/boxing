@@ -24,6 +24,7 @@ event = 'UFC on ESPN: Chiesa vs. Magny'
 event = 'UFC 257' # watch prelims
 event = 'UFC Fight Night: Thompson vs. Neal' # should watch prelims
 event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
+# rozenstruik vs sakai prelims?? not sure
 event = 'UFC 262' # Prelims: Submissions!
 event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 #                                                home
@@ -51,7 +52,16 @@ ffighter = 'Juan Espino' # heavy weight grappler
 #                          - Jack Slack
 # check out Asian Boxing Raise?
 
-
+# --- Jack Slack ---
+# Paulie Malignaggi: no power in his punches, just lots of skill
+#  - Miguel Cotto vs. Paulie Malignaggi
+# Takanori Gomi's feet would fly all over while punching
+# Miguel Baeza UFC Tampa Leg kick
+# Edson Barboza: leg kicks
+#  - Rafaello Oliveira
+#  - Gilbert Melendez
+# Sanda, previously Sanshou
+#
 # --- Jack Slack: The Fight Primer ---
 # ===Badr Hari===
 #  - used cross hand trap/Dutch hand trap
@@ -85,7 +95,10 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # 4.24.2021 Qileng Aori vs Jeff Molina
 # Charles Jourdain vs Marcelo Rojo, Jourdain is skilled fun fighter
 #        |- check out more of his fights
-
+#
+# Featherweight -> Heavyweight after ten year retirement
+#  - more than double the weight
+#
 # combat sambo, muay thai on ufc
 # invicta fc 39 Pearl Gonzalez vs Leonardo
 # some bellator on DAZN, cbs sports network, hulu?, moving to showtime
