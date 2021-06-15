@@ -17,6 +17,7 @@ event_bool = False
 
 # derrick lewis vs daniel cormier, look at cormier's entries
 # ---------------------------- EVENTS ----------------------------
+# Invicta Fighting Phoenix
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
@@ -48,10 +49,13 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Khaos Williams' # watch 247 prelims with him
 # ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
 #                           # weird intesting stuff
+# Rin Nakai
 # "Good on Arjan Bhullar. I've liked him since he headbutted Juan Adams"
 #                          - Jack Slack
 # check out Asian Boxing Raise?
+# check out Elevation Fight Team
 
+# --- Bert Sugar ---
 # --- Jack Slack ---
 # Paulie Malignaggi: no power in his punches, just lots of skill
 #  - Miguel Cotto vs. Paulie Malignaggi
@@ -61,6 +65,13 @@ ffighter = 'Juan Espino' # heavy weight grappler
 #  - Rafaello Oliveira
 #  - Gilbert Melendez
 # Sanda, previously Sanshou
+# Romanov vs one before Espino
+# Frank Lobman
+# John L. Sullivan Boxer
+# Duke Roufus : Kickboxing coach
+# Kamarudeen Boyefio
+# Naoya Inoue
+# UFC 249: Henry Cejudo vs. Marion Moraes
 #
 # --- Jack Slack: The Fight Primer ---
 # ===Badr Hari===
