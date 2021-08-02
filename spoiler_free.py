@@ -12,7 +12,7 @@ import pandas as pd
 from tabulate import tabulate
 
 event_bool = True
-event_bool = False
+# event_bool = False
 
 
 # derrick lewis vs daniel cormier, look at cormier's entries
@@ -38,9 +38,9 @@ event = 'UFC Fight Night: Brunson vs. Holland' # more of the ill follow you
 # to catch up on, Vettori vs Holland, UFC 260, and this
 event = 'UFC on ESPN: Reyes vs. Procházka'
 event = 'UFC on ESPN: Rodriguez vs. Waterson'
-event = 'UFC 261' # prelims?
-event = 'UFC on ESPN: Whittaker vs. Gastelum'
-event = 'UFC Fight Night: Font vs. Garbrandt'
+event = 'UFC Fight Night: Gane vs. Volkov'
+event = 'UFC 263' # prelims?
+
 
 
 ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
@@ -93,6 +93,13 @@ ffighter = 'Juan Espino' # heavy weight grappler
 #  - undersized light heavyweight masqueradign as a heavyweight
 #  - Bob Foster, Joey Maxim, Archie Moore
 #  vs. Primo Carnera: a giant
+# ===Jose Napoles=== https://t.co/80C7o8944e
+# Kid Gavilan: great fighter. skill and power
+# Jose Napoles: Demon on the inside: see vs Ernie Lopez
+# Gentleman Jim Corbett
+# bolo punch
+# Augusto Urbina and his rematch with Hedgemon Lewis—Napoles used this in a
+#  fashion similar to Roy Jones Jr. in the 1990
 #
 # -------------------------------------
 # Hideo Tokoro vs. Daisuke Nakamura K-1 2008-12-31
@@ -168,6 +175,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
 # ffighter = 'Diego Sanchez'   # UFC 54  08.20.2005
 # ffighter = 'Giant Silva'     # Pride   12.31.2003
+# ffighter = 'Karo Parisyan'   # UFC 09.26.2003 Was good, pain meds ruined him
 # ffighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
 # ffighter= Georges St-Pierre' # UFC 46  01.31.2004
 #                                UCC in  01.25.2002

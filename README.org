@@ -79,6 +79,7 @@ A collection of ideas and history.
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | Canelo Alvarez vs. Callum Smith   | 12.19.2020 |                            |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
+| Gervonta Davis vs. Leo Santa Cruz | 10.31.2020 | WBA titles                 |
 | V. Lomachenko vs. Teofimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
 | Edgar Berlanga vs. Lanell Bellows | 10.17.2020 |                            |
 | Jose Carlos vs. Viktor Postol     | 08.29.2020 |                            |
@@ -159,6 +160,7 @@ A collection of ideas and history.
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
+| Floyd Mayweather vs. C. Baldomir  | 11.04.2006 | Carlos                     |
 | Floyd Mayweather vs. Zab Judah    | 04.08.2006 | Groin & head shot -> brawl |
 | Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
 | Floyd Mayweather vs. S. Mitchell  | 11.19.2005 | Sharmba                    |
@@ -611,6 +613,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC Fight Night 190      | 06.26.2021 | Gane vs. Volkov           |
 | UFC on ESPN 25           | 06.19.2021 | The Korean Zombie vs. Ige |
 | UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai     |
 | UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt        |
