@@ -607,12 +607,15 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 121 fight cards and 40 additional fights
+: I have seen 127 fight cards and 40 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC on ESPN 28           | 07.31.2021 | Hall vs. Strickland       |
+| UFC on ESPN 27           | 07.24.2021 | Sandhagen vs. Dillashaw   |
+| UFC on ESPN 26           | 07.17.2021 | Makhachev vs. Moises      |
 | UFC Fight Night 190      | 06.26.2021 | Gane vs. Volkov           |
 | UFC on ESPN 25           | 06.19.2021 | The Korean Zombie vs. Ige |
 | UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai     |
