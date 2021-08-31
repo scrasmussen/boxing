@@ -62,6 +62,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Murat Gassiev vs. M. Wallisch     | 07.22.2021 | Michael                    |
 | N. Oubaali vs. Nonito Donaire     | 05.29.2021 | Nordine, WBC Bantamweight  |
 | Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight  defense   |
 | Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
@@ -76,10 +77,12 @@ A collection of ideas and history.
 | DaCarree Scott vs. Q. Thompson    | 04.20.2021 | "Mac Truck"                |
 | Joe Smith Jr. vs. Maxim Vlasov    | 04.11.2021 | WBO Light Heavyweight      |
 | Efe Ajagba vs. Brian Howard       | 04.11.2021 |                            |
+| Claressa Shields vs. M. Dicaire   | 04.05.2021 | Marie-Eve                  |
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | Canelo Alvarez vs. Callum Smith   | 12.19.2020 |                            |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
 | Gervonta Davis vs. Leo Santa Cruz | 10.31.2020 | WBA titles                 |
+| Murat Gassiev vs. Nuri Seferi     | 10.31.2020 |                            |
 | V. Lomachenko vs. Teofimo Lopez   | 10.17.2020 | Unification Bout, Vasyl    |
 | Edgar Berlanga vs. Lanell Bellows | 10.17.2020 |                            |
 | Jose Carlos vs. Viktor Postol     | 08.29.2020 |                            |
@@ -607,20 +610,25 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 127 fight cards and 40 additional fights
+: I have seen 132 fight cards and 40 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC on ESPN 30           | 08.28.2021 | Barboza vs. Chikadze      |
+| UFC on ESPN 29           | 08.21.2021 | Cannonier vs. Gastelum    |
+| UFC 265                  | 08.07.2021 | Lewis vs. Gane            |
 | UFC on ESPN 28           | 07.31.2021 | Hall vs. Strickland       |
 | UFC on ESPN 27           | 07.24.2021 | Sandhagen vs. Dillashaw   |
 | UFC on ESPN 26           | 07.17.2021 | Makhachev vs. Moises      |
+| UFC 264                  | 07.10.2021 | Poirier vs. McGregor III  |
 | UFC Fight Night 190      | 06.26.2021 | Gane vs. Volkov           |
 | UFC on ESPN 25           | 06.19.2021 | The Korean Zombie vs. Ige |
+| UFC 263                  | 06.12.2021 | Adesanya vs. Vettori II   |
 | UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai     |
 | UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt        |
-| Invicta FC 44            | 05.21.2021 | Rodriguez vs. Torquato    |
+| Invicta FC               | 05.21.2021 | Rodriguez vs. Torquato    |
 | UFC 262                  | 05.15.2021 | Oliveira vs. Chandler     |
 | UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson    |
 | UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka       |
@@ -1110,7 +1118,6 @@ George Foreman occupied the center with his palms
 Ray Mercer: Erin got picture with?
 :today:
 Usyk
-  - vs Chisora     10.31.2020
   - vs Witherspoon 10.12.2019
   - vs Bellew      11.10.2018
 Joshua
@@ -1149,6 +1156,23 @@ An earlier Larry Holmes fight than [[https://www.badlefthook.com/2020/3/28/21197
 [[https://www.badlefthook.com/2020/4/1/21203417/you-break-it-you-bought-it-giovani-segura-ivan-calderon-boxing-classic-fights][Calderon vs. Segura]]
 [[https://www.badlefthook.com/2020/3/24/21192377/watch-oscar-de-la-hoya-gold-medal-fight-1992-olympics-barcelona-video-free-boxing][Oscar De La Hoya]], olympics
 :end:
+** Find
+*** ESPN+
+Teofimo Lopez vs. Vasyl Lomachenko
+Masayoshi Nakatani vs. Vasyl Lomachenko
+*** Youtube
+Gassiev vs. Wallisch
+*** DAZN
+Kavaliauskas vs Ortiz
+Lara vs. Josh Warrington II 9.4
+Liam Smith vs Anthony Fowler 10.9
+*** Showtime
+Casimero vs. Rigondeaux
+*** PBC
+Gabriel Maestre vs. Mykal Fox on Fox
+
+
+
 ** Boxing
 Watch how hook is thrown, palm in or down?
 :Mike-Tyson:
@@ -1607,6 +1631,9 @@ Flightland: 2013-2017: UFC 167 - UFC 211
 *** Why the fascination with boxing? Time Magazine June 27, 1988
 *** [[https://www.ringtv.com/597268-best-i-faced-kostya-tszyu/][Best I Faced: Kostya Tszyu]]
 *** [[https://hannibalboxing.com/3-must-read-boxing-writers/][Three Must Read Boxing Writers]]
+
+
+
 * To Program
  - [ ] TUI: https://docs.python.org/3/howto/curses.html
  - [ ] https://realpython.com/python-modules-packages/
