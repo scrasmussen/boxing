@@ -56,12 +56,17 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 151 boxing matches
+: I have seen 163 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Filip Hrgovic vs. Marko Radonjic  | 09.10.2021 |                            |
+| Dalton Smith vs. Brian Pelaez     | 09.10.2021 |                            |
+| John Ryder vs. Jozef Jurko        | 09.10.2021 |                            |
+| Abass Baraou vs. Jay Spencer      | 09.10.2021 |                            |
+| John Hedges vs. Frane Radnic      | 09.10.2021 |                            |
 | Josh Warrington vs. Mauricio Lara | 09.04.2021 | II                         |
 | Murat Gassiev vs. M. Wallisch     | 07.22.2021 | Michael                    |
 | N. Oubaali vs. Nonito Donaire     | 05.29.2021 | Nordine, WBC Bantamweight  |
@@ -586,6 +591,8 @@ Cees uses illegal fists and elbows so when Masakatsu submits him, Masakatsu
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
 |------------------------------------+------------|
 *** K.O. from leg kicks
+**** Khalil Rountree Jr vs. Modestas Bukauskas <<09.04.2021>>
+Brutal kick to the knee
 **** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
 Wicked kicks to the inside far thigh cause two knockdowns and k.o. finish!
 Rare inside  kick causes K.O.
@@ -618,6 +625,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC Fight Night 191      | 09.04.2021 | Brunson vs. Till          |
 | UFC on ESPN 30           | 08.28.2021 | Barboza vs. Chikadze      |
 | UFC on ESPN 29           | 08.21.2021 | Cannonier vs. Gastelum    |
 | UFC 265                  | 08.07.2021 | Lewis vs. Gane            |

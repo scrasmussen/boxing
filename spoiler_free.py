@@ -12,11 +12,12 @@ import pandas as pd
 from tabulate import tabulate
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 
 # derrick lewis vs daniel cormier, look at cormier's entries
 # ---------------------------- EVENTS ----------------------------
+# 05.15.2021 DAZN to see Dalton Smith
 # Invicta Fighting Phoenix
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
@@ -417,7 +418,7 @@ fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jermell Charlo'                   #  12.22.2018
-fighter = 'Josh Warrington'                  #  12.22.2018
+ffighter = 'Josh Warrington'                  #  12.22.2018
 fighter = 'Billy Joe Saunders'               #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
