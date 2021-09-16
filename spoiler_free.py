@@ -190,26 +190,34 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Chuck Liddell'   # UFC 17  05.15.1998
 # ffighter = 'Matt Hughes (fighter)'#    09.24.1999  UFC 22, lots of others
 #              Jeet Kune Do Challenge 1  01.01.1998
+# Branko Cikatić does MMA in 1998 (Pride?)
 # ffighter = 'Tito Ortiz'      #         05.30.1997
 # ffighter = 'Randy Couture'   # UFC 13  05.30.1997
 #             bounce people off of fence to get past guard
 # ffighter = 'Alexey Oleynik'  #         11.10.1996
 # __________at_________   : UFC  10  07.12.1996  ------------------
 # ffighter = 'Kazushi Sakuraba'#         07.14.1996
-# ffighter = 'mirko cro cop'   # pride   11.03.2001 ufc 67 02.03.2007
-#    k-1 grand prix '99 final round      12.05.1999 kickboxing since 1996
-# ffighter = 'frank shamrock' # pancrase 12.16.1994, ufc 12.21.1997
-# ffighter = 'ken shamrock'   # pancrase 10.14.1993
-#          all Pancrase and UFC until Pride in 2000
-# ffighter = 'Bas Rutten'     # pancrase 10.14.1993, ufc 01.08.1999
+# ffighter = 'mirko cro cop'   # Pride   11.03.2001 ufc 67 02.03.2007
+#    k-1 Opening Battle                  03.10.1996
+# ffighter = 'frank shamrock' # Pancrase 12.16.1994, ufc 12.21.1997
+# ffighter = 'ken shamrock'   # Pancrase and UFC until Pride in 2000
+# ffighter = 'Bas Rutten'     # Pancrase , ufc 01.08.1999
+# ffighter = 'Branko_Cikatić'
+# ffighter = 'Andy Hug'
+# ffighter = 'Ernesto Hoost'
 # -----------------------------------------------------------------
-#                   CURRENT: 10.14.1993
+#                   CURRENT: 12.08.1993
 # -----------------------------------------------------------------
 #        Glory    : 05.26.2012
 #        Pride    : 10.11.1997
 #        UFC      : 07.12.1996
-#        Pancrase : 12.08.1993
-#    *   K-1      : 03.30.1993  K-1: World Grand Prix 1993 Final
+#        K-1      : 04.30.1994  K-1: World Grand Prix 1994
+#        K-1      : 03.04.1994  K-1: Challenge
+#    *   Pancrase : 12.08.1993
+#        K-1      : 12.19.1993  K-2: Grand Prix
+#        K-1      : 11.15.1993  K-1: Andy's Glove
+#        K-1      : 09.04.1993  K-1: Illusion
+#        K-1      : 06.25.1993  K-1: Sanctuary
 #
 
 # ----------------------------------------------------------------------
@@ -340,6 +348,13 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # GGG vs Daniel Jacobs, DAZN USA YOUTUBE
 # https://www.youtube.com/watch?v=4VfPtgFEXYc
 # Wilfred Benítez vs. Sugar Ray Leonard
+#
+# Josh Warrington vs Lara DAZN event, the other fights
+# https://boxrec.com/en/event/836382
+# Michael Hunter: Heavyweight American
+# Andy Ruiz Jr. : Heavyweight American
+# Pacman
+
 
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
