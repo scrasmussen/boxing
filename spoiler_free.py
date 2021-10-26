@@ -15,6 +15,8 @@ event_bool = True
 event_bool = False
 
 
+# Gene Fullmer : the Mormon Mauler
+#
 # derrick lewis vs daniel cormier, look at cormier's entries
 # ---------------------------- EVENTS ----------------------------
 # 05.15.2021 DAZN to see Dalton Smith
@@ -75,7 +77,7 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # UFC 249: Henry Cejudo vs. Marion Moraes
 #
 # --- Jack Slack: The Fight Primer ---
-# ===Badr Hari===
+# ===Badr Hari==
 #  - used cross hand trap/Dutch hand trap
 #  - Barney Ross: most dangerous punch in boxing?
 #    A: head left, right straight down the middle, response to right hook
@@ -145,7 +147,6 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # | 1997 | October, start watching Pride
 # | 1996 | start watching Sakuraba fights
 #
-# __current__ : UFC 9, 05.17.1996
 # past to watch : UFC The ultimate ultimate
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
@@ -205,19 +206,19 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Branko_Cikatić'
 # ffighter = 'Andy Hug'
 # ffighter = 'Ernesto Hoost'
+# ffighter = 'Peter Aerts'
 # -----------------------------------------------------------------
 #                   CURRENT: 12.08.1993
 # -----------------------------------------------------------------
 #        Glory    : 05.26.2012
-#        Pride    : 10.11.1997
-#        UFC      : 07.12.1996
+#        Pride    : 10.11.1997  Pride 1
+#        UFC      : 07.12.1996  UFC 10
 #        K-1      : 04.30.1994  K-1: World Grand Prix 1994
 #        K-1      : 03.04.1994  K-1: Challenge
-#    *   Pancrase : 12.08.1993
-#        K-1      : 12.19.1993  K-2: Grand Prix
-#        K-1      : 11.15.1993  K-1: Andy's Glove
-#        K-1      : 09.04.1993  K-1: Illusion
-#        K-1      : 06.25.1993  K-1: Sanctuary
+#        Pancrase : 01.19.1994  Pancrash! 1
+#        K-1      : 12.19.1993  K-2: Grand Prix, Hoost, Hug, Satake
+#    *   Pancrase : 12.08.1993  We Are Hybrid Wrestlers 4
+#
 #
 
 # ----------------------------------------------------------------------
@@ -456,7 +457,7 @@ fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
 # - [ ] September 24 – Sho Kimura vs Kosei Tanaka
 # - [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
-fighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
+ffighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'Vergil Ortiz Jr.'                 #  09.15.2018 YT no DAZN til 2019

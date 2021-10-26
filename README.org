@@ -17,10 +17,11 @@ A collection of ideas and history.
 " additional fights")
 #+END_SRC
 *** Kickboxing Matches Seen
-#+NAME: kickboxing-matches-seen
-#+BEGIN_SRC emacs-lisp :var table=kickboxingMatches
-(concat "I have seen " (number-to-string (- (length table) 1) )
- " kickboxing matches")
+#+NAME: kickboxing-report
+#+BEGIN_SRC emacs-lisp :var table1=kickboxingEvents table2=kickboxingMatches
+  (concat "I have seen " (number-to-string (- (length table1) 1) )
+   " kickboxing events and " (number-to-string (- (length table2) 1) )
+   " matches")
 #+END_SRC
 
 ** Boxing Weight Classes
@@ -62,6 +63,15 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Tyson Fury vs. Deontay Wilder     | 10.09.2021 | III, WBC Heavy             |
+| Liam Smith vs. Anothony Fowler    | 10.09.2021 | WBA Super Welter           |
+| Ted Cheeseman vs. Troy Williamson | 10.09.2021 | British Super Welter       |
+| Shannon Courtaney vs. J. Mitchell | 10.09.2021 | Jamie                      |
+| Kieron Conway vs. James Metcalf   | 10.09.2021 |                            |
+| Oleksandr Usyk vs. Anthony Joshua | 09.25.2021 | WBA IBF WBO IBO Heavy      |
+| Maxim Prodan vs. Florian Marku    | 09.25.2021 | IBF International Welter   |
+| Campbell Hatton vs. S. Martinez   | 09.25.2021 | Sonni                      |
+| Callum Smith vs. G.L. Castillo    | 09.25.2021 | Gilbert                    |
 | Oscar Valdez vs. Robson Conceicao | 09.10.2021 | WBC Super Feather          |
 | Gabriel Flores Jr. vs. Luis Lopez | 09.10.2021 |                            |
 | Junto Nakatani vs. Angel Acosta   | 09.10.2021 |                            |
@@ -71,9 +81,13 @@ A collection of ideas and history.
 | Abass Baraou vs. Jay Spencer      | 09.10.2021 |                            |
 | John Hedges vs. Frane Radnic      | 09.10.2021 |                            |
 | Josh Warrington vs. Mauricio Lara | 09.04.2021 | II                         |
+| Katie Taylor vs. Jennifer Han     | 09.04.2021 |                            |
+| Manny Pacquiao vs. Yordenis Ugas  | 08.21.2021 |                            |
 | Murat Gassiev vs. M. Wallisch     | 07.22.2021 | Michael                    |
+| Vasyl Lomachenko vs. M. Nakatani  | 06.26.2021 | Masayoshi                  |
+| Jermall Charlo vs. Juan Montiel   | 06.19.2021 |                            |
 | N. Oubaali vs. Nonito Donaire     | 05.29.2021 | Nordine, WBC Bantamweight  |
-| Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight  defense   |
+| Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight defense    |
 | Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
 | Luis Nery vs. Brandon Figueroa    | 05.15.2021 | WBC/WBA Super Bantamweight |
 | Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
@@ -102,11 +116,13 @@ A collection of ideas and history.
 | Guido Vianello vs. D. Haynesworth | 06.09.2020 | Don                        |
 | Robeisy Ramirez vs. Yeuri Andujar | 06.09.2020 |                            |
 | Quatavious Cash vs. C. Metcalf    | 06.09.2020 | Calvin                     |
-| Tyson Fury vs. Deontay Wilder     | 02.22.2020 |                            |
+| Tyson Fury vs. Deontay Wilder     | 02.22.2020 | II                         |
 | Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                    |
 | Tyson Fury vs. Otto Wallin        | 09.14.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match               |
 | Oleksandr Usyk vs C. Witherspoon  | 10.12.2019 | Chazz                      |
+| Jermell Charlo vs. Jorge Cota     | 06.23.2019 |                            |
+| Gennady Golovkin vs. Steve Rolls  | 06.08.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                            |
 | Jarrett Hurd vs. Julian Williams  | 05.11.2019 |                            |
 | Manny Pacquiao vs. Adrien Broner  | 01.19.2019 | WBA Welterweight           |
@@ -338,10 +354,15 @@ Junier Welterweight: Jose Ramirez and Josh Taylor
 
 ** Playlists
 Find other ones as well
-*** K.O.'s
+*** Matches
+**** K.O.'s
  - Silenced the crowd: Eduard Troyanovsky vs. Julius Indongo
    major upset piston knock-out
  - Knocked out of ring: Eduard Troyanovsky vs. Keita Obara
+
+*** Trainers
+**** Ronnie Shields
+For Charlo
 
 
 ** All-time Pound-for-Pound
@@ -613,6 +634,11 @@ Anthony Petis vs. Michael Chiesa : UFC 226
 
 
 ** fighters
+*** Jose Aldo
+[[https://www.fightprimer.com/advanced-striking-the-king-of-rio][Fight Primer: The King of Rio]]
+Against Pedro Munhoz, Aldo would step in and crowd whenever it seemed like
+  Munhoz was going to commit to a combination attack, then break away with a
+  huge swing.
 *** Lyoto Machida
 moves back to catch the opponent moving forward all the time
 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
@@ -628,6 +654,11 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC Fight Night 196      | 10.23.2021 | Costa vs. Vettori         |
+| UFC Fight Night 195      | 10.16.2021 | Ladd vs. Dumont           |
+| UFC Fight Night 194      | 10.09.2021 | Dern vs. Rodriguez        |
+| UFC Fight Night 193      | 10.02.2021 | Santos vs. Walker         |
+| UFC Fight Night 192      | 09.18.2021 | Smith vs. Spann           |
 | UFC Fight Night 191      | 09.04.2021 | Brunson vs. Till          |
 | UFC on ESPN 30           | 08.28.2021 | Barboza vs. Chikadze      |
 | UFC on ESPN 29           | 08.21.2021 | Cannonier vs. Gastelum    |
@@ -768,6 +799,7 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Fedor Emelianenko vs. T. Johnson     | 23.10.2021 | Beelator 269            |
 | Ben Rothwell vs. Chris Barnett       | 05.22.2021 | UFC Fight Night 188     |
 | Sergey Khrisanov vs. Andrey Novikov  | 05.15.2021 |                         |
 | Juan Espino vs. Alexander Romanov    | 04.17.2021 | UFC on ESPN 22          |
@@ -852,19 +884,31 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 
 
-* Kickboxing Matches
-#+RESULTS: kickboxing-matches-seen
-: I have seen 1 kickboxing matches
+* Kickboxing
+#+RESULTS: kickboxing-report
+: I have seen 1 kickboxing events and 1 matches
 
+** Events
+#+NAME:kickboxingEvents
+|--------------------+------------+-----------------------|
+| *Event*            |     *Date* | *Notes*               |
+|--------------------+------------+-----------------------|
+| K-1 Grand Prix '93 | 04.20.1993 | Tournament, Inaugural |
+|--------------------+------------+-----------------------|
+** Matches
 #+NAME:kickboxingMatches
 |--------------------------------+------------+------------------------------|
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| Andy Hug vs. Ryuji Murakami    | 11.15.1993 | K-1 Andy's Glove             |
+| Andy Hug vs. Masaki Sataake    | 09.04.1993 | K-1 Illusion; Seidokaikan    |
+| Peter Aerts vs. Dino Homsey    | 09.04.1993 | K-1 Illusion                 |
+| Andy Hug vs. Minoru Fujita     | 06.25.1993 | K-1 Sanctuary III            |
 |--------------------------------+------------+------------------------------|
 
-** Notes
-*** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
+*** Notes
+**** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
 Hilarious heavyweight match, Martiis running around huge-slow Lungu
 2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
 
@@ -881,6 +925,9 @@ hit paper, catch as it floats down
 Golovkin's trianer
 ** Angelo Dundee
 Trained Muhammad Ali, Sugar Ray Leonard, George Foreman, etc.
+** Buddy McGirt
+Traided Kovalev
+Timothy Bradley mentioned in a broadcast
 ** Eddie Futch <<<read more>>>
 ** Cus D'Amato
 Trained Mike Tyson
@@ -1025,6 +1072,13 @@ Undisputed: hold's world titles in all of the major sanctioning organizations
  - WBA, WBC, IBF, and WBO
 Unified: holds at least two world champions fromm the major organizations
 
+
+
+* Lists
+** Axe Kick K.O.
+|----------------------------+------------+----------------------------|
+| Andy Hug vs. Minoru Fujita | 06.25.1993 | K-1 Sanctuary III, Round 1 |
+|----------------------------+------------+----------------------------|
 
 
 * Quotes
