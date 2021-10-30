@@ -44,19 +44,17 @@ event = 'UFC on ESPN: Rodriguez vs. Waterson'
 event = 'UFC Fight Night: Gane vs. Volkov'
 event = 'UFC 263' # prelims?
 
-
-
-ffighter = "Shane Burgos" #that bellator guys favorite fighter, Michael Chandler
-ffighter = 'Juan Espino' # heavy weight grappler
-# fighter Sean Strickland, super technical, travels up/down Cali training
-# ffighter = 'Khaos Williams' # watch 247 prelims with him
-# ffighter = 'Gavin Tucker' # vs Jaynes 8/8/20, a banger fun fight, both do
-#                           # weird intesting stuff
-# Rin Nakai
+# --------------------------------------------------------------
+# ------------------------- JACK SLACK -------------------------
+# --------------------------------------------------------------
+fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
+                           # both do weird intesting stuff
+fighter = 'Khaos Williams' # 02.08.2020 watch 247 prelims with him
+fighter = 'Rin Nakai'      # 10.01.2006 Pacrase 167,
+                           # check UFC
+ffighter = 'Arjan Bhullar' # 05.04.2019 vs Juan Adams
 # "Good on Arjan Bhullar. I've liked him since he headbutted Juan Adams"
 #                          - Jack Slack
-# check out Asian Boxing Raise?
-# check out Elevation Fight Team
 
 # --- Bert Sugar ---
 # --- Jack Slack ---
@@ -139,21 +137,18 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # edson bubarso vs benile de el rush, every time hit, edson would run around
 #    ring to walk off
 # vador vs vagita; stumble after win
+#
 
 # --------------------------------------------------------------
 # ----------------------------- MMA ----------------------------
 # --------------------------------------------------------------
-# ________
-# | 1997 | October, start watching Pride
-# | 1996 | start watching Sakuraba fights
-#
-# past to watch : UFC The ultimate ultimate
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#
 
-# more Pettis!
-# ffighter = 'Henry Cejudo'    # UFC FOX 12.13.2014
-# ffighter = 'Jorge Masvidal'  # UFC FOX 04.20.2013, Bellator since 1
+# Submission Underground 2016, July
+# Promotion Polaris 2015, January
+fighter = 'Henry Cejudo'    # 12.13.2014  UFC FOX
+fighter = 'Sean Strickland' # 03.15.2014  UFC 171
+  # super technical, travels up/down Cali training
+fighter = 'Jorge Masvidal'  # 04.20.2013, UFC FOX Bellator since 1
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
 # ffighter = 'T.J. Dillashaw'  # UFC FOX 12.03.2011
@@ -161,16 +156,21 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Donald Cerrone'  # UFC 126 02.05.2011
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
-# ffighter = 'Dustin Poirier'  # UFC 125 01.01.2011 Jack Slack's Adv-Strike2.0
 # ffighter = 'Ben Askren' # Bellator 14  04.15.2010
+
 # UFC 104: title fight, ring cutoff      12.24.2009
 # ffighter = 'Roy Nelson'      # TUF 10  12.05.2009
+fighter = 'Dustin Poirier'     # UFC 125 01.01.2011 Jack Slack's Adv-Strike2.0
+                               #         05.16.2009
+fighter = 'Juan Espino' # heavy grappler 02.21.2009
 # ffighter = 'Shane Carwin'    # UFC 84  05.24.2008
 # ffighter = 'Cain Velasquez'  # UFC 83  04.19.2008
 # ffighter = 'Conor McGregor'  # Pre-UFC 03.08.2008  UFC 04.06.2013
 # ffighter = 'Chan Sung Jung' # Pancrase 12.16.2007, UFC 12.10.2011
 # 'Alexander Gustafsson'       # UFC 105 11.14.2009
 #                         Shooto Finland 11.17.2007
+fighter = "Shane Burgos"       #         11.09.2007
+  # that bellator guys favorite fighter, Michael Chandler
 # ffighter = 'Brock Lesner'    # UFC 81  02.02.2008
 #                               Dynamite 06.02.2007
 # ffighter = 'Frankie Edgar'   # UFC 67  02.03.2007
@@ -181,10 +181,12 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
 # ffighter= Georges St-Pierre' # UFC 46  01.31.2004
 #                                UCC in  01.25.2002
+# --- WEC 2 --- on FP 10.04.2001
 # ffighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
 # ffighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
 # ffighter='Fedor Emelianenko' #Pride 21 06.23.2002
 #         , in Rings from 2000-02.2002   05.21.2000
+
 # ffighter = 'Alistair Overeem'#         10.24.1999
 # ffighter = 'Kevin Randleman' # UFC 19  03.05.1999
 # ffighter = 'Badr Hari'       #         02.17.2002 Kickboxing
@@ -195,6 +197,9 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Tito Ortiz'      #         05.30.1997
 # ffighter = 'Randy Couture'   # UFC 13  05.30.1997
 #             bounce people off of fence to get past guard
+fighter = 'Mark_Kerr_(fighter)'        # 01.19.1997 then UFC 14
+                     #-- was one of the best fighters in the world,
+                     #-- Vale, UFC, Pride, ADCC, HBO The Smashing Machine
 # ffighter = 'Alexey Oleynik'  #         11.10.1996
 # __________at_________   : UFC  10  07.12.1996  ------------------
 # ffighter = 'Kazushi Sakuraba'#         07.14.1996
@@ -207,17 +212,23 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # ffighter = 'Andy Hug'
 # ffighter = 'Ernesto Hoost'
 # ffighter = 'Peter Aerts'
-# -----------------------------------------------------------------
-#                   CURRENT: 12.08.1993
-# -----------------------------------------------------------------
-#        Glory    : 05.26.2012
-#        Pride    : 10.11.1997  Pride 1
-#        UFC      : 07.12.1996  UFC 10
-#        K-1      : 04.30.1994  K-1: World Grand Prix 1994
-#        K-1      : 03.04.1994  K-1: Challenge
-#        Pancrase : 01.19.1994  Pancrash! 1
-#        K-1      : 12.19.1993  K-2: Grand Prix, Hoost, Hug, Satake
-#    *   Pancrase : 12.08.1993  We Are Hybrid Wrestlers 4
+
+# ----------------------------------------------------------------------
+#                          CURRENT: 12.08.1993
+# ----------------------------------------------------------------------
+#        Glory       : 05.26.2012
+#        Invicta     : 04.28.2012
+#        Strikeforce : 10.07.2006
+#        WEC         : 06.30.2001 WEC 1: Prince of Pain
+#        ADCC        :   .  .1998
+#        Pride       : 10.11.1997  Pride 1
+#        UFC         : 07.12.1996  UFC 10
+#        UFC         : 12.16.1995  The Ultimate Ultimate
+#        K-1         : 04.30.1994  K-1: World Grand Prix 1994
+#        Pancrase    : 03.12.1994  Pancrash! 2
+#        K-1         : 03.04.1994  K-1: Challenge
+#        Pancrase    : 01.19.1994  Pancrash! 1
+#    *   K-1         : 12.19.1993  K-2: Grand Prix, Hoost, Hug, Satake
 #
 #
 
@@ -232,6 +243,8 @@ ffighter = 'Juan Espino' # heavy weight grappler
 # perfect record obsession: black
 # vs tsuyoshi kohsaka, vs blagoi ivanov (combat sambo)
 # ----------------------------------------------------------------------
+
+
 
 
 
@@ -305,28 +318,6 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 
 # fedor, couture, velasquez, and nog; monsters: brock lesner, shane carwin
 
-# best pride fights
-#https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time
-
-#
-# Kick boxing
-# --Ernesto Hoost--
-# Branko Cikatić
-#
-# K-1 World Grand Prix
-# https://en.wikipedia.org/wiki/K-1_World_Grand_Prix
-
-
-# --- Watch --
-# Ernesto Hoost (youtube)
-# Tyrone Spong (youtube)
-
-
-# event_bool = False
-# --- Muay Thai Fighters ---
-# Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
-# fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
-# heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
 
 
 # --------------------------------------------------------------
@@ -334,13 +325,22 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # --------------------------------------------------------------
 # Hideo Tokoro, more MMA
 
+# --------------------------------------------------------------
+# ------------------------- KICKBOXING -------------------------
+# --------------------------------------------------------------
+fighter = 'Tyrone Spong' # (youtube) & MMA & boxing  # 2003
 
+# --------------------------------------------------------------
+# ------------------------ MUAY THAI ---------------------------
+# --------------------------------------------------------------
+# Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
+# fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
+# heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
 
-
-# ----------------------------------------------------------------
-# --------------------  CURRENTLY WATCHING  ----------------------
-# ---------------------------- BOXING ----------------------------
-# ----------------------------------------------------------------
+# --------------------------------------------------------------
+# --------------------  CURRENTLY WATCHING  --------------------
+# ---------------------------- BOXING --------------------------
+# --------------------------------------------------------------
 #
 # https://www.theguardian.com/sport/2021/may/27/time-to-find-out-who-cares-box\
 #ing-brain-damage-tris-dixon
@@ -434,7 +434,7 @@ fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] December 22 – Dillian Whyte vs Dereck Chisora II
 fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jermell Charlo'                   #  12.22.2018
-ffighter = 'Josh Warrington'                  #  12.22.2018
+fighter = 'Josh Warrington'                  #  12.22.2018 ! 2009 start
 fighter = 'Billy Joe Saunders'               #  12.22.2018
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
@@ -457,7 +457,7 @@ fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
                                              #           ; Haney on SFL
 # - [ ] September 24 – Sho Kimura vs Kosei Tanaka
 # - [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
-ffighter = 'Gennady Golovkin'                 #  09.15.2018 DAZN
+fighter = 'Gennady Golovkin'                #  09.15.2018 DAZN  # 2006 start
 fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'Vergil Ortiz Jr.'                 #  09.15.2018 YT no DAZN til 2019
@@ -487,6 +487,7 @@ fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 # Undercard: Moruti Mthalane vs Muhammad Waseem for the IBF flyweight world
 #  title; Carlos Canizares vs Bin Lu for the WBA super-straweight world title
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
+fighter = 'Mark Coleman'                     #  11.09.2007
 # ------------------------- 07.14.2018 current -------------------------
 
 # Vergil Ortiz Jr. vs. Juan Carlos Salgado
