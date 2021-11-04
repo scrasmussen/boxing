@@ -16,6 +16,14 @@ A collection of ideas and history.
 " fight cards and "    (number-to-string (- (length table2) 1) )
 " additional fights")
 #+END_SRC
+*** Grappling Matches Seen
+#+NAME: grappling-report
+#+BEGIN_SRC emacs-lisp :var table1=grapplingEvents table2=grapplingMatches
+  (concat "I have seen " (number-to-string (- (length table1) 1) )
+   " grappling events and " (number-to-string (- (length table2) 1) )
+   " matches")
+#+END_SRC
+
 *** Kickboxing Matches Seen
 #+NAME: kickboxing-report
 #+BEGIN_SRC emacs-lisp :var table1=kickboxingEvents table2=kickboxingMatches
@@ -57,12 +65,13 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 163 boxing matches
+: I have seen 183 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Shakur Stevenson vs. J. Herring   | 10.23.2021 | Jamel, WBO Jr. Lightweight |
 | Mikey Garcia vs. Sandor Martin    | 10.16.2021 |                            |
 | Tyson Fury vs. Deontay Wilder     | 10.09.2021 | III, WBC Heavy             |
 | Liam Smith vs. Anothony Fowler    | 10.09.2021 | WBA Super Welter           |
@@ -186,6 +195,7 @@ A collection of ideas and history.
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
 | E. Troyanovsky vs. Keita Obara    | 09.09.2016 | Eduard.                    |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
+| Deontay Wilder vs. Eric Molina    | 06.13.2015 | WBC heavy                  |
 | Mayweather Jr. vs Manny Pacquiao  | 05.02.2015 |                            |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
@@ -649,16 +659,18 @@ moves back to catch the opponent moving forward all the time
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 132 fight cards and 40 additional fights
+: I have seen 139 fight cards and 43 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC 267                  | 10.30.2021 | Blachowicz vs. Teixeira   |
 | UFC Fight Night 196      | 10.23.2021 | Costa vs. Vettori         |
 | UFC Fight Night 195      | 10.16.2021 | Ladd vs. Dumont           |
 | UFC Fight Night 194      | 10.09.2021 | Dern vs. Rodriguez        |
 | UFC Fight Night 193      | 10.02.2021 | Santos vs. Walker         |
+| UFC 266                  | 09.25.2021 | Volkanovski vs. Ortega    |
 | UFC Fight Night 192      | 09.18.2021 | Smith vs. Spann           |
 | UFC Fight Night 191      | 09.04.2021 | Brunson vs. Till          |
 | UFC on ESPN 30           | 08.28.2021 | Barboza vs. Chikadze      |
@@ -671,29 +683,31 @@ moves back to catch the opponent moving forward all the time
 | UFC Fight Night 190      | 06.26.2021 | Gane vs. Volkov           |
 | UFC on ESPN 25           | 06.19.2021 | The Korean Zombie vs. Ige |
 | UFC 263                  | 06.12.2021 | Adesanya vs. Vettori II   |
+| Phoenix Tournament       | 06.11.2021 | Invicta Atomweights       |
 | UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai     |
 | UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt        |
 | Invicta FC               | 05.21.2021 | Rodriguez vs. Torquato    |
 | UFC 262                  | 05.15.2021 | Oliveira vs. Chandler     |
 | UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson    |
 | UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka       |
-| UFC on ESPN 23: Prelims  | 05.01.2021 | Reyes vs. Procházka       |
+| UFC on ESPN 23: Prelims  | 05.01.2021 |                           |
 | ONE on TNT 4             | 04.28.2021 | Nsang vs. Ridder          |
 | UFC 261                  | 04.24.2021 | Usman vs. Masvidal II     |
-| UFC 261: Early Prelims   | 04.24.2021 | Usman vs. Masvidal II     |
+| UFC 261: Early Prelims   | 04.24.2021 |                           |
 | ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman         |
 | UFC on ESPN 22           | 04.17.2021 | Whittaker vs. Gastelum    |
 | ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin        |
 | ONE on TNT               | 04.07.2021 | Rodtang vs. Williams      |
-| UFC 260: Prelims         | 03.27.2021 | Miocic vs. Ngannou II     |
-| UFC 260: Early Prelims   | 03.27.2021 | Miocic vs. Ngannou II     |
+| UFC 260                  | 03.27.2021 | Miocic vs. Ngannou II     |
+| UFC 260: Prelims         | 03.27.2021 |                           |
+| UFC 260: Early Prelims   | 03.27.2021 |                           |
 | UFC on ESPN 21           | 03.20.2021 | Brunson vs. Holland       |
-| UFC on ESPN 21: Prelims  | 03.20.2021 | Brunson vs. Holland       |
+| UFC on ESPN 21: Prelims  | 03.20.2021 |                           |
 | UFC Fight Night 187      | 03.13.2021 | Edwards vs. Muhammad      |
-| UFC Fight Night 187: Pre | 03.13.2021 | Edwards vs. Muhammad      |
+| UFC Fight Night 187: Pre | 03.13.2021 |                           |
 | UFC 259                  | 03.06.2021 | Blachowicz vs. Adesanya   |
-| UFC 259: Prelims         | 03.06.2021 | Blachowicz vs. Adesanya   |
-| UFC 259: Early Prelims   | 03.06.2021 | Blachowicz vs. Adesanya   |
+| UFC 259: Prelims         | 03.06.2021 |                           |
+| UFC 259: Early Prelims   | 03.06.2021 |                           |
 | UFC Fight Night 186      | 02.27.2021 | Rozenstruik vs. Gane      |
 | UFC Fight Night 185      | 02.20.2021 | Blaydes vs. Lewis         |
 | UFC 258                  | 02.13.2021 | Usman vs. Burns           |
@@ -703,16 +717,16 @@ moves back to catch the opponent moving forward all the time
 | UFC Fight Island 7       | 01.16.2021 | Holloway vs. Kattar       |
 | UFC Fight Night 183      | 12.19.2020 | Thompson vs. Neal         |
 | UFC 256                  | 12.12.2020 | Figueiredo vs. Moreno     |
-| UFC 256: Prelims         | 12.12.2020 | Figueiredo vs. Moreno     |
-| UFC 256: Early Prelims   | 12.12.2020 | Figueiredo vs. Moreno     |
+| UFC 256: Prelims         | 12.12.2020 |                           |
+| UFC 256: Early Prelims   | 12.12.2020 |                           |
 | UFC on ESPN 19           | 12.05.2020 | Hermansson vs. Vettori    |
-| UFC on ESPN 19: Prelims  | 12.05.2020 | Hermansson vs. Vettori    |
+| UFC on ESPN 19: Prelims  | 12.05.2020 |                           |
 | UFC on ESPN 18           | 11.28.2020 | Smith vs. Clark           |
-| UFC on ESPN 18: Prelims  | 11.28.2020 | Smith vs. Clark           |
+| UFC on ESPN 18: Prelims  | 11.28.2020 |                           |
 | UFC 255                  | 11.21.2020 | Figueiredo vs. Perez      |
-| UFC 255: Prelims         | 11.21.2020 | Figueiredo vs. Perez      |
+| UFC 255: Prelims         | 11.21.2020 |                           |
 | UFC Fight Night 182      | 11.14.2020 | Felder vs. dos Anjos      |
-| UFC Fight Night 182: Pre | 11.14.2020 | Felder vs. dos Anjos      |
+| UFC Fight Night 182: Pre | 11.14.2020 |                           |
 | UFC on ESPN 17           | 11.07.2020 | Santos vs. Teixeira       |
 | UFC Fight Night 181      | 10.31.2020 | Hall vs. Silva            |
 | UFC 254                  | 10.24.2020 | Khabib vs. Gaethje        |
@@ -728,12 +742,13 @@ moves back to catch the opponent moving forward all the time
 | UFC 252                  | 08.15.2020 | Miocic vs. Cormier III    |
 | UFC Fight Island 1       | 07.16.2020 | Kattar vs. Ige            |
 | UFC 251                  | 07.12.2020 | Usman vs. Masvidal        |
-| UFC 251: Prelims         | 07.12.2020 | Usman vs. Masvidal        |
-| UFC 251: Early Prelims   | 07.12.2020 | Usman vs. Masvidal        |
-| UFC on ESPN 10: Prelims  | 06.13.2020 | Eyes vs Calvillo          |
+| UFC 251: Prelims         | 07.12.2020 |                           |
+| UFC 251: Early Prelims   | 07.12.2020 |                           |
+| UFC on ESPN 10           | 06.13.2020 | Eyes vs Calvillo          |
+| UFC on ESPN 10: Prelims  | 06.13.2020 |                           |
 | UFC 250                  | 06.06.2020 | Nunes vs. Spencer         |
-| UFC 250: Prelims         | 06.06.2020 | Nunes vs. Spencer         |
-| UFC 250: Early Prelims   | 06.06.2020 | Nunes vs. Spencer         |
+| UFC 250: Prelims         | 06.06.2020 |                           |
+| UFC 250: Early Prelims   | 06.06.2020 |                           |
 | UFC on ESPN 9            | 05.30.2020 | Wodley vs. Burns          |
 | UFC on ESPN 8            | 05.16.2020 | Overeem vs. Harris        |
 | UFC Fight Night 171      | 05.13.2020 | Smith vs. Teixeira        |
@@ -741,11 +756,9 @@ moves back to catch the opponent moving forward all the time
 | UFC 248                  | 03.07.2020 | Adesanya vs. Romero       |
 | UFC 247                  | 02.08.2020 | Jones vs. Reyes           |
 | UFC 246                  | 01.18.2020 | McGregor vs. Cowboy       |
-| UFC 246: Prelims         | 01.18.2020 | McGregor vs. Cowboy       |
+| UFC 246: Prelims         | 01.18.2020 |                           |
 | UFC 245                  | 12.14.2019 | Usman vs. Covington       |
-| QUINTET Ultra            | 12.12.2019 |                           |
 | UFC on ESPN 7            | 12.07.2019 | Overeem vs. Rozenstruik   |
-| QUINTET Fight Night 4    | 11.30.2019 |                           |
 | UFC 244                  | 11.02.2019 | Masvidal vs. Diaz         |
 | UFC 243                  | 10.05.2019 | Whittaker vs. Adesaynya   |
 | UFC Fight Night 158      | 09.14.2019 | Cowboy vs. Gaethje        |
@@ -760,17 +773,11 @@ moves back to catch the opponent moving forward all the time
 | UFC Fight Night 152      | 05.18.2019 | dos Anjos vs. Lee         |
 | UFC 237                  | 05.11.2019 | Namajunas vs. Andrade     |
 | UFC 236                  | 04.13.2019 | Holloway vs. Poirier II   |
-| QUINTET Fight Night 3    | 04.07.2019 |                           |
 | UFC 235                  | 03.02.2019 | Jones vs. Smith           |
-| UFC 235: Prelims         | 03.02.2019 | Jones vs. Smith           |
+| UFC 235: Prelims         | 03.02.2019 |                           |
 | UFC 234                  | 02.10.2019 | Adesanya vs. Silva        |
-| QUINTET Fight Night 2    | 02.03.2019 |                           |
-| QUINTET 3                | 10.05.2018 |                           |
 | UFC 229                  | 08.06.2018 | Khabib vs. McGregor       |
-| QUINTET 2                | 07.16.2018 |                           |
 | UFC 226                  | 07.07.2018 | Miocic vs. Cormier        |
-| QUINTET Fight Night 1    | 06.09.2018 |                           |
-| QUINTET 1                | 04.11.2018 |                           |
 | UFC 203                  | 09.10.2016 | Miocic vs. Overeem        |
 | UFC 202                  | 08.20.2016 | Diaz vs. McGregor II      |
 | UFC 201                  | 07.30.2016 | Lawler vs. Woodley        |
@@ -801,7 +808,9 @@ moves back to catch the opponent moving forward all the time
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
-| Fedor Emelianenko vs. T. Johnson     | 23.10.2021 | Beelator 269            |
+| Claressa Shields vs. Abigail Montes  | 10.27.2021 | PFL 10                  |
+| Fedor Emelianenko vs. T. Johnson     | 10.23.2021 | Bellator 269            |
+| Claressa Shields vs. Brittney Elkin  | 06.10.2021 | PFL 4                   |
 | Ben Rothwell vs. Chris Barnett       | 05.22.2021 | UFC Fight Night 188     |
 | Sergey Khrisanov vs. Andrey Novikov  | 05.15.2021 |                         |
 | Juan Espino vs. Alexander Romanov    | 04.17.2021 | UFC on ESPN 22          |
@@ -886,9 +895,45 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 
 
+* Grappling
+#+RESULTS: grappling-report
+: I have seen 11 grappling events and 1 matches
+
+** Events
+#+NAME:grapplingEvents
+|-----------------------+------------+---------|
+| *Event*               |     *Date* | *Notes* |
+|-----------------------+------------+---------|
+| QUINTET Fight Night 7 | 07.13.2021 |         |
+| QUINTET Fight Night 6 | 03.21.2021 |         |
+| QUINTET Fight Night 5 | 10.27.2020 |         |
+| QUINTET Ultra         | 12.12.2019 |         |
+| QUINTET Fight Night 4 | 11.30.2019 |         |
+| QUINTET Fight Night 3 | 04.07.2019 |         |
+| QUINTET Fight Night 2 | 02.03.2019 |         |
+| QUINTET 3             | 10.05.2018 |         |
+| QUINTET 2             | 07.16.2018 |         |
+| QUINTET Fight Night 1 | 06.09.2018 |         |
+| QUINTET 1             | 04.11.2018 |         |
+|-----------------------+------------+---------|
+** Matches
+#+NAME:grapplingMatches
+|----------------------------+------------+-----------|
+| *Fighters*                 |     *Date* | *[[Notes][Notes]]*   |
+|----------------------------+------------+-----------|
+| Davi Ramos vs. Lucas Lepri | 10.29.2015 | ADCC 2015 |
+|----------------------------+------------+-----------|
+
+*** Notes
+**** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
+Hilarious heavyweight match, Martiis running around huge-slow Lungu
+2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
+
+
+
 * Kickboxing
 #+RESULTS: kickboxing-report
-: I have seen 1 kickboxing events and 1 matches
+: I have seen 1 kickboxing events and 5 matches
 
 ** Events
 #+NAME:kickboxingEvents
