@@ -3,48 +3,68 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-event_bool = False
-
+# event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
+# ---------
+# | INDEX |
+# ---------
+# | TODO  |
+# ---------
 # ---------------------------- EVENTS ----------------------------
 # Contemporary:
-#   - 10.31 : ESPN, DAZN, UFC, Showtime? Figueroa vs. Fulton
+#   - Wilder vs Fury III ESPN
+#   - Kubrat Pulev vs Frank Mir
+#   - Parter vs. Spence Jr. ESPN
+#   - 11.13 Holloway vs. Rodriguez, Prelims too
+#   - Zepeda vs Vargas, Caraballo vs Sultan  ESPN
 #
 # 05.15.2021 DAZN to see Dalton Smith
+# watch maincards UFC on ESPN: Holm vs. Aldana
 # Invicta Fighting Phoenix
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
 event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
 event = 'UFC Fight Night: Brunson vs. Holland'
+event = 'UFC 269'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
-# event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in
+# event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
+#
 
 #
 # ------- OLYMPIC BOXING: TOKYO EDITION -------
 #
 # to catch up on, Vettori vs Holland, and this
-event = 'UFC 263' # prelims?
-event = 'UFC 262' # Prelims: Submissions!
-event = 'UFC 260' # prelims?
-event = 'UFC 257' # prelims
-event = 'UFC Fight Night: Thompson vs. Neal' # should watch prelims
-event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
+# event = 'UFC 263' # prelims?
+# event = 'UFC 262' # Prelims: Submissions!
+# event = 'UFC 260' # prelims?
+# event = 'UFC 257' # prelims
+# event = 'UFC Fight Night: Thompson vs. Neal' # should watch prelims
+# event = 'UFC Fight Night: Blaydes vs. Lewis' # should watch prelims
+# -- look into --
+# Chute Boxe Academy: hard training
+# Prince Naseem Hamed
+
+
+
 
 
 # --------------------------------------------------------------
 # ------------------------- JACK SLACK -------------------------
 # --------------------------------------------------------------
+# 2005 Pride Middleweight Grand Prix: best MMA of all time - Jack Slack
+# yoshida vs silva for stomp attempt
 fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
                            # both do weird intesting stuff
-fighter = 'Khaos Williams' # 02.08.2020 watch 247 prelims with him
+fighter = 'Khaos Williams' # 02.08.2020 watch 247 prelims with him,
+                           # check KO all hassen
 fighter = 'Rin Nakai'      # 10.01.2006 Pacrase 167,
                            # check UFC
 fighter = 'Arjan Bhullar' # 05.04.2019 vs Juan Adams
 # "Good on Arjan Bhullar. I've liked him since he headbutted Juan Adams"
 #                          - Jack Slack
-fighter = 'Daniel Cormier' # UFC 230 | 11.03.2018 |
+fighter = 'Daniel Cormier' # 11.03.2018 | UFC 230
 # derrick lewis vs daniel cormier, look at cormier's entries
 ffighter = 'Paulie Malignaggi'
 # Paulie Malignaggi: no power in his punches, just lots of skill
@@ -62,6 +82,7 @@ ffighter = 'Paulie Malignaggi'
 # Kamarudeen Boyefio
 # Naoya Inoue
 # UFC 249: Henry Cejudo vs. Marion Moraes
+# Marlon Vera : good clincher
 #
 # --- Jack Slack: The Fight Primer ---
 # ===Badr Hari==
@@ -130,39 +151,45 @@ fighter = 'Sean Strickland' # 03.15.2014  UFC 171
 fighter = 'Jorge Masvidal'  # 04.20.2013, UFC FOX Bellator since 1
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
-fighter = 'T.J. Dillashaw'  # UFC FOX 12.03.2011
-fighter = 'Tony Ferguson'   # UFC 135 09.24.2011
-fighter = 'Donald Cerrone'  # UFC 126 02.05.2011
+fighter = 'T.J. Dillashaw'  # 12.03.2011 UFC FOX
+fighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
+fighter = 'Donald Cerrone'  # 02.05.2011 UFC 126
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
-fighter = 'Ben Askren' # Bellator 14  04.15.2010
+fighter = 'Ben Askren'      # 04.15.2010 Bellator 14
 # ---------- 2010s -------------
-
-# UFC 104: title fight, ring cutoff      12.24.2009
-fighter = 'Roy Nelson'      # TUF 10  12.05.2009
-fighter = 'Dustin Poirier'     # UFC 125 01.01.2011 Jack Slack's Adv-Strike2.0
-                               #         05.16.2009
-fighter = 'Juan Espino' # heavy grappler 02.21.2009
-fighter = 'Shane Carwin'    # UFC 84  05.24.2008
-fighter = 'Cain Velasquez'  # UFC 83  04.19.2008
-fighter = 'Conor McGregor'  # Pre-UFC 03.08.2008  UFC 04.06.2013
-fighter = 'Chan Sung Jung' # Pancrase 12.16.2007, UFC 12.10.2011
-# 'Alexander Gustafsson'       # UFC 105 11.14.2009
-#                         Shooto Finland 11.17.2007
-fighter = "Shane Burgos"       #         11.09.2007
+ffighter = 'Michihiro Omigawa'
+# 12.24.2009 UFC 104: title fight, ring cutoff
+fighter = 'Roy Nelson'      # 12.05.2009 TUF 10
+fighter = 'Hideki Sekine'   # 09.27.2009 vs Yasuro Urayama
+fighter = 'Dustin Poirier'  # 01.01.2011 UFC 125 Jack Slack's Adv-Strike2.0
+                            # 05.16.2009
+fighter = 'Juan Espino'     # 02.21.2009 heavyweight grappler
+fighter = 'Shane Carwin'    # 05.24.2008 UFC 84
+fighter = 'Cain Velasquez'  # 04.19.2008 UFC 83
+fighter = 'Conor McGregor'  # 03.08.2008 Pre-UFC UFC 04.06.2013
+fighter = 'Chan Sung Jung'  # 12.16.2007 Pancrase, 12.10.2011 UFC
+fighter = 'Alexander Gustafsson'
+                            # 11.14.2009 UFC 105
+                            # 11.17.2007 Shooto Finland
+fighter = "Shane Burgos"    # 11.09.2007
   # that bellator guys favorite fighter, Michael Chandler
 fighter = 'Brock Lesner'    # UFC 81  02.02.2008
 #                               Dynamite 06.02.2007
 fighter = 'Frankie Edgar'   # UFC 67  02.03.2007
 fighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
 fighter = 'Diego Sanchez'   # UFC 54  08.20.2005
+fighter = 'Michihiro Omigawa' # 05.22.2005 PRIDE
 fighter = 'Giant Silva'     # Pride   12.31.2003
 fighter = 'Karo Parisyan'   # UFC 09.26.2003 Was good, pain meds ruined him
+fighter = 'Clay Guida'      # 07.26.2003 Adam Copenhaver
+fighter = 'Forrest Griffin' # 10.27.2001
 fighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
 fighter = 'Georges St-Pierre' # UFC 46  01.31.2004
 #                               UCC in  01.25.2002
 # --- WEC 2 --- on FP 10.04.2001
 fighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
+fighter = 'Frank Mir'      # 07.14.2001 SF 11
 fighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
 fighter='Fedor Emelianenko' #Pride 21 06.23.2002
 #         , in Rings from 2000-02.2002   05.21.2000
@@ -174,7 +201,7 @@ fighter = 'Badr Hari'       #         02.17.2002 Kickboxing
 fighter = 'Chuck Liddell'   # UFC 17  05.15.1998
 fighter = 'Matt Hughes (fighter)'#    09.24.1999  UFC 22, lots of others
 #              Jeet Kune Do Challenge 1  01.01.1998
-# Branko Cikatić does MMA in 1998 (Pride?)
+# Branko Cikatić does mma in 1998 (Pride?)
 fighter = 'Tito Ortiz'      #         05.30.1997
 fighter = 'Randy Couture'   # UFC 13  05.30.1997
 #             bounce people off of fence to get past guard
@@ -282,7 +309,7 @@ fighter = "uriah hall"       #        04.13.2013
 fighter = 'neil magny'       #        02.23.2013 ufc 157
 fighter='robert whittaker (fighter)'# 12.15.2012
 fighter = 'tim elliott' #             05.05.2012 no respect, love it
-fighter = 'cub swanson' # fierce look 11.12.2011
+fighter = 'Cub Swanson' #   11.12.2011  fierce look
 
 # -----------------------  random notes  -----------------------
 # 2nd fastest knockdown
@@ -306,12 +333,13 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # --------------------------------------------------------------
 # -------------------------- GRAPPLING -------------------------
 # --------------------------------------------------------------
-# Hideo Tokoro, more MMA
+# Hideo Tokoro, more mma
 
 # --------------------------------------------------------------
 # ------------------------- KICKBOXING -------------------------
 # --------------------------------------------------------------
-fighter = 'Tyrone Spong' # (youtube) & MMA & boxing  # 2003
+fighter = 'Tyrone Spong' # (youtube) & mma & boxing  # 2003
+# ffighter = 'Filip Verlinden'  # artless: adding kickboxing
 
 # --------------------------------------------------------------
 # ------------------------ MUAY THAI ---------------------------
@@ -354,7 +382,7 @@ fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
 fighter = 'Buster Douglas'
 fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
-ffighter = 'Gene Fullmer'
+fighter = 'Gene Fullmer'
 fighter = 'Pernell Whitaker' # Elite, defensive talent
 fighter = 'Guillermo Rigondeaux' # ducked?
 fighter = 'Aaron Pryor' # two battles with Alexis Arguello

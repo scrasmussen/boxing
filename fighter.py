@@ -3,6 +3,7 @@ from tabulate import tabulate
 import pandas as pd
 import requests
 import re
+import sys
 
 def getUrl(fighter):
     if (fighter == ''):
@@ -24,6 +25,7 @@ def get_record(soup, record_type):
         record_name = 'Mixed martial arts record'
 
     headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
+
     if (headers is None):
         return None
 
@@ -31,6 +33,8 @@ def get_record(soup, record_type):
         h_table = headers.find_next_sibling()
         row = h_table.find_next_sibling()
         row_text = row.get_text()
+        # breakpoint()
+
     if (record_type == 'kickboxing'):
         kickboxing_columns = ['Date','Result','Opponent','Event','Location',
                               'Method','Round','Time','Record']
@@ -40,13 +44,14 @@ def get_record(soup, record_type):
         row = headers.find_next_sibling()
         row_text = row.get_text()
 
-
-
+    # print("ARTLESS")
+    # print(row_text)
     if ('Record' in row_text) and ('Opponent' in row_text):
         table = pd.read_html(row.prettify())[0]
         if (record_type == 'kickboxing'):
             table.columns = kickboxing_columns
             table = table[2:]
+            print(table)
         record = table[columns].copy().dropna()
 
         # fix date
@@ -62,7 +67,7 @@ def get_record(soup, record_type):
 
             new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
             record.loc[:,'Date'] = new_date
-
+            # print(record)
 
 
         if (record_type in ['mma', 'kickboxing']):

@@ -71,6 +71,11 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Teofimo Lopez vs. G. Kamobosos    | 11.27.2021 | George, 4 lighweight       |
+| Chantelle Cameron vs. Mary McGee  | 10.30.2021 | WBC IBF lightwelter        |
+| Jose Zepeda vs. Josue Vargus      | 10.30.2021 | WBC Silver Superlight      |
+| Jamal James vs. Radzhab Butaev    | 10.30.2021 | WBO Welter                 |
+| Jaron Ennis vs. Thomas Dulorme    | 10.30.2021 | Ennis, rising younger      |
 | Shakur Stevenson vs. J. Herring   | 10.23.2021 | Jamel, WBO Jr. Lightweight |
 | Mikey Garcia vs. Sandor Martin    | 10.16.2021 |                            |
 | Tyson Fury vs. Deontay Wilder     | 10.09.2021 | III, WBC Heavy             |
@@ -375,6 +380,10 @@ Find other ones as well
 **** Ronnie Shields
 For Charlo
 
+*** Playlists
+[[https://bleacherreport.com/articles/1264555-ricardo-williams-jr-and-boxings-biggest-prospect-flops-of-all-time][Ricardo Williams Jr. and Boxing's Biggest Prospect Flops of All Time]]
+
+
 
 ** All-time Pound-for-Pound
 [[https://bleacherreport.com/articles/1436191-the-top-50-pound-for-pound-boxers-of-all-time][From Here]]
@@ -565,7 +574,7 @@ Only three time winner of the Lonsdale Belt
 
 * MMA
 ** playlists
-*** to watch
+*** To Watch
 **** Jiri Prochazka
 **** Giga Chikadze
 **** Vieira gassed
@@ -580,16 +589,25 @@ Only three time winner of the Lonsdale Belt
 **** Wanderlei Silva
 **** Chute Boxe Academy
 **** fight pass must-sees reddit
-*** to watch boxing
+*** To Watch boxing
 **** Bob Sapp 2002
 *** To Learn from
 **** bjj fanatics
 **** chewjitsu
 **** mma shredded
 **** Jackson Wink mma
-*** to learn
+*** To Learn
 **** The Greate Gamma
 **** Shoot Wrestling
+*** Comebacks: greatest
+**** Guida vs Santos:
+12.04.2021 UFC on ESPN 31
+Santos punched himself out
+Guida submits BJJ world medalists
+
+*** Events: greatest
+**** 2005 Pride Middleweight Grand Prix
+maybe best MMA of all time - Jack Slack
 *** Fighters
 **** grapplers
 Shutaro Debana: exciting from QUINTET
@@ -634,6 +652,8 @@ Rare inside  kick causes K.O.
 **** Katsuomi Inagaki vs. Joop van de Ven <<10.14.1993>>
 Kick to the knee
 Pancrase: Yes, We Are Hybrid Wrestlers 2
+*** Promotions
+ - Cage Warriors (CW): European  FP
 *** Submissions: the greatest
 Koshi Matsumoto vs. David Garmo - Quintet: Fight Night 2 -final round, match 3
 *** Submissions: from Bottom
@@ -645,15 +665,26 @@ Anthony Petis vs. Michael Chiesa : UFC 226
 
 
 ** fighters
-*** Jose Aldo
+*** Highlighted
+**** Jose Aldo
 [[https://www.fightprimer.com/advanced-striking-the-king-of-rio][Fight Primer: The King of Rio]]
 Against Pedro Munhoz, Aldo would step in and crowd whenever it seemed like
   Munhoz was going to commit to a combination attack, then break away with a
   huge swing.
-*** Lyoto Machida
+**** Lyoto Machida
 moves back to catch the opponent moving forward all the time
 2013 fightland.vice.com/blog/jack-slack-angles-and-feints-with-lyoto-machida
 
+**** Kazushi Sakuraba
+Gracie Hunter, Gracie Killer
+
+**** Hideki "Shrek" Sekine
+
+*** [A-Z]
+**** Dan Hooker
+Mr. Low-low Kick
+**** Germaine de Randamie
+Guillotined Julianna Pena
 
 
 * MMA Events
@@ -665,6 +696,11 @@ moves back to catch the opponent moving forward all the time
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC on ESPN 31           | 12.04.2021 | Font vs. Aldo             |
+| UFC Fight Night 198      | 11.20.2021 | Vieira vs. Tate           |
+| UFC Fight Night 197      | 11.13.2021 | Holloway vs. Rodriguez    |
+| UFC 268                  | 11.06.2021 | Usman vs. Covington II    |
+| UFC 268: Prelims         | 11.06.2021 |                           |
 | UFC 267                  | 10.30.2021 | Blachowicz vs. Teixeira   |
 | UFC Fight Night 196      | 10.23.2021 | Costa vs. Vettori         |
 | UFC Fight Night 195      | 10.16.2021 | Ladd vs. Dumont           |
@@ -697,6 +733,7 @@ moves back to catch the opponent moving forward all the time
 | ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman         |
 | UFC on ESPN 22           | 04.17.2021 | Whittaker vs. Gastelum    |
 | ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin        |
+| UFC on ABC 2             | 04.10.2021 | Vettori vs. Holland       |
 | ONE on TNT               | 04.07.2021 | Rodtang vs. Williams      |
 | UFC 260                  | 03.27.2021 | Miocic vs. Ngannou II     |
 | UFC 260: Prelims         | 03.27.2021 |                           |
