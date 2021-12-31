@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -18,6 +18,7 @@ event_bool = True
 #   - Parter vs. Spence Jr. ESPN
 #   - 11.13 Holloway vs. Rodriguez, Prelims too
 #   - Zepeda vs Vargas, Caraballo vs Sultan  ESPN
+#   - Lomachenko vs Commey ESPN 12.11.2021
 #
 # 05.15.2021 DAZN to see Dalton Smith
 # watch maincards UFC on ESPN: Holm vs. Aldana
@@ -27,6 +28,7 @@ event = 'UFC_on_ESPN:_Kattar_vs._Ige'
 event = 'UFC 141'
 event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
+event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims

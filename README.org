@@ -71,6 +71,8 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Joseph Parker vs. Dereck Chisora  | 12.18.2021 | WBO IC Heavy               |
+| Vasyl Lomachenko vs. R. Commey    | 12.11.2021 | Richard, WBO IC light      |
 | Teofimo Lopez vs. G. Kamobosos    | 11.27.2021 | George, 4 lighweight       |
 | Chantelle Cameron vs. Mary McGee  | 10.30.2021 | WBC IBF lightwelter        |
 | Jose Zepeda vs. Josue Vargus      | 10.30.2021 | WBC Silver Superlight      |
@@ -643,7 +645,11 @@ Cees uses illegal fists and elbows so when Masakatsu submits him, Masakatsu
 | Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
 |------------------------------------+------------|
-*** K.O. from leg kicks
+*** K.O. Kicks
+**** Justin Tafa vs. Harry Hunsucker <2021-12-18 Sat>
+K.O. kick that was blocked with two forearms
+UFC Fight Night 199
+*** K.O. from kicks to the legs
 **** Khalil Rountree Jr vs. Modestas Bukauskas <<09.04.2021>>
 Brutal kick to the knee
 **** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
@@ -696,6 +702,9 @@ Guillotined Julianna Pena
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC Fight Night 199      | 12.18.2021 | Lewis vs. Daukaus         |
+| UFC 269: Prelims         | 12.11.2021 |                           |
+| UFC 269: Early Prelims   | 12.11.2021 |                           |
 | UFC on ESPN 31           | 12.04.2021 | Font vs. Aldo             |
 | UFC Fight Night 198      | 11.20.2021 | Vieira vs. Tate           |
 | UFC Fight Night 197      | 11.13.2021 | Holloway vs. Rodriguez    |
