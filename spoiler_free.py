@@ -33,6 +33,18 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
 #
+# --- To Process ---
+# Viacheslav Borshchev new to UFC, Russian dancer
+
+# Liam Williams vs Eubank Jr.
+# Joel Diaz
+# Arlovski vs. Cruz, Berb Dean
+# Kasunori Kikuno, MMA exhibition?
+# Question mark kick pantheon level ingorance
+# Wilder-Fury 3
+# Victor Henry : skillz, coaches, constant pressure
+#
+
 
 #
 # ------- OLYMPIC BOXING: TOKYO EDITION -------
@@ -55,6 +67,8 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 # --------------------------------------------------------------
 # ------------------------- JACK SLACK -------------------------
 # --------------------------------------------------------------
+# overeem vs Hordijk  03.14.1999
+
 # 2005 Pride Middleweight Grand Prix: best MMA of all time - Jack Slack
 # yoshida vs silva for stomp attempt
 fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
@@ -140,6 +154,15 @@ ffighter = 'Paulie Malignaggi'
 #    ring to walk off
 # vador vs vagita; stumble after win
 # --- end Jack Slack ---
+
+# --- Denver ---
+# Austin Hubbard, Elevation Fight Team
+# Vinc Pichel
+
+# -- Process --
+# UFC: Barboza vs Chikadze
+# Barboza leg kick finish
+#
 
 # --------------------------------------------------------------
 # ----------------------------- MMA ----------------------------
@@ -507,9 +530,12 @@ fighter = 'Keith Thurman'
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
 #   Vergil Ortiz Jr. vs. Juan Carlos Salgado
-
 # YT  = Young Talent
 # SFL = Saturday Fight Live on DAZN
+
+# ------------------------------ CLASSIC -------------------------------
+fighter = 'Marvin Hagler' # 1973-1987
+
 #
 # --Classic--
 # Andre Berto vs. Victor Ortiz
