@@ -65,13 +65,20 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 183 boxing matches
+: I have seen 193 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Gary Russel Jr. vs. Mark Magsayo  | 01.22.2022 | WBC Featherweight          |
+| Joseph Parker vs. Dereck Chisora  | 12.18.2021 | WBO IC Heavy               |
+| Artur Beterbiev vs. Marcus Browne | 12.17.2021 | IBF, WBO Light Heavy       |
+| Marie Dicaire vs. Cynthia Lozano  | 12.17.2021 | IBF Super Welter           |
+| Vasyl Lomachenko vs. R. Commey    | 12.11.2021 | Richard, WBO IC light      |
+| Nonito Donaire vs. R. Gaballo     | 12.11.2021 | Reymart, WBC bantam        |
 | Teofimo Lopez vs. G. Kamobosos    | 11.27.2021 | George, 4 lighweight       |
+| Terence Crawford vs. Shawn Porter | 11.20.2021 | WBO welter                 |
 | Chantelle Cameron vs. Mary McGee  | 10.30.2021 | WBC IBF lightwelter        |
 | Jose Zepeda vs. Josue Vargus      | 10.30.2021 | WBC Silver Superlight      |
 | Jamal James vs. Radzhab Butaev    | 10.30.2021 | WBO Welter                 |
@@ -198,10 +205,11 @@ A collection of ideas and history.
 | Karlos Balderas vs. Thomas Smith  | 04.09.2017 |                            |
 | E. Troyanovsky vs. Julius Indongo | 12.03.2016 | Eduard. Piston knock-out   |
 | Andre Ward vs. Sergey Kovalev     | 11.19.2016 |                            |
-| E. Troyanovsky vs. Keita Obara    | 09.09.2016 | Eduard.                    |
+| E. Troyanovsky vs. Keita Obara    | 09.09.2016 | Eduard                     |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
 | Deontay Wilder vs. Eric Molina    | 06.13.2015 | WBC heavy                  |
 | Mayweather Jr. vs Manny Pacquiao  | 05.02.2015 |                            |
+| Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
@@ -574,6 +582,8 @@ Only three time winner of the Lonsdale Belt
 
 * MMA
 ** playlists
+*** Classic
+**** Ricky Turcios "Dream Big" Speech
 *** To Watch
 **** Jiri Prochazka
 **** Giga Chikadze
@@ -643,7 +653,11 @@ Cees uses illegal fists and elbows so when Masakatsu submits him, Masakatsu
 | Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
 |------------------------------------+------------|
-*** K.O. from leg kicks
+*** K.O. Kicks
+**** Justin Tafa vs. Harry Hunsucker <2021-12-18 Sat>
+K.O. kick that was blocked with two forearms
+UFC Fight Night 199
+*** K.O. from kicks to the legs
 **** Khalil Rountree Jr vs. Modestas Bukauskas <<09.04.2021>>
 Brutal kick to the knee
 **** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
@@ -687,15 +701,27 @@ Mr. Low-low Kick
 Guillotined Julianna Pena
 
 
+** gyms
+*** Elevation Fight Team, Denver
+*** Kings MMA, Huntington Beach
+
+
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 139 fight cards and 43 additional fights
+: I have seen 147 fight cards and 43 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC 270: Prelims         | 01.22.2022 |                           |
+| UFC 270: Early Prelims   | 01.22.2022 |                           |
+| UFC on ESPN 32           | 01.15.2022 | Kattar vs. Chikadze       |
+| UFC Fight Night 199      | 12.18.2021 | Lewis vs. Daukaus         |
+| UFC 269                  | 12.11.2021 | Oliveira vs. Poirier      |
+| UFC 269: Prelims         | 12.11.2021 |                           |
+| UFC 269: Early Prelims   | 12.11.2021 |                           |
 | UFC on ESPN 31           | 12.04.2021 | Font vs. Aldo             |
 | UFC Fight Night 198      | 11.20.2021 | Vieira vs. Tate           |
 | UFC Fight Night 197      | 11.13.2021 | Holloway vs. Rodriguez    |
@@ -845,6 +871,7 @@ Guillotined Julianna Pena
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Isaiah Gutierrez vs. Keeton Gorton   | 01.14.2022 | LFA 121                 |
 | Claressa Shields vs. Abigail Montes  | 10.27.2021 | PFL 10                  |
 | Fedor Emelianenko vs. T. Johnson     | 10.23.2021 | Bellator 269            |
 | Claressa Shields vs. Brittney Elkin  | 06.10.2021 | PFL 4                   |
@@ -1158,6 +1185,17 @@ Unified: holds at least two world champions fromm the major organizations
 
 
 
+** Fight Promotions
+*** Bare Knuckle Fighting Championship (BKFC)
+*** Ultimate Fighting Championship (UFC)
+
+
+** Styles
+*** Dambe, Nigeria
+*** Savate, France
+*** Sumo, Japan
+
+
 * Lists
 ** Teams
 *** Elevation Fight Team
@@ -1166,6 +1204,9 @@ Denver
 |----------------------------+------------+----------------------------|
 | Andy Hug vs. Minoru Fujita | 06.25.1993 | K-1 Sanctuary III, Round 1 |
 |----------------------------+------------+----------------------------|
+** Standing Submission
+*** Isaiah Gutierrez vs. Keeton Gorton
+ 01.14.2022  LFA 121
 ** Best of
 *** [[https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time][Best of Pride Fights]]
 
