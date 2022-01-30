@@ -1,4 +1,15 @@
 * Daily Routine
+** PLAN
+| Exercise      | Time             |
+|---------------+------------------|
+| Roadwork      | 7am              |
+| Skip Rope     | alternating hour |
+| Speed Bag     | alternating hour |
+| Learning      | 5:30             |
+| Shadow Boxing | 6                |
+| Lifting       | 7                |
+
+
 ** Stretching
 *** anckles
 *** legs
