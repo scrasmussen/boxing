@@ -49,6 +49,7 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 # Ronald Winky Wright: master of high guard, very good boxer, career 1990-2012
 
 
+
 #
 # ------- OLYMPIC BOXING: TOKYO EDITION -------
 #
@@ -70,9 +71,21 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 # --------------------------------------------------------------
 # ------------------------- JACK SLACK -------------------------
 # --------------------------------------------------------------
+# 04.10.15 https://www.vice.com/en/contributor/jack-slack?page=32
+#
+# Bruce Lee: boxing of Edwin Haislet, the philosophies of Jiddu Krishnamurti
+#
 # overeem vs Hordijk  03.14.1999
 
 # 2005 Pride Middleweight Grand Prix: best MMA of all time - Jack Slack
+# 2005 Mauricio 'Shogun' Rua and Antonio Rogerio Nogueira, one of the greatest
+#   fights in MMA history
+
+# https://www.vice.com/en/article/nzpaxb/rousimar-palhares-too-dangerous-for-mma
+# Saturday night's grappling clinic between Rousimar Palhares and Jake Shields
+#   was unfortunately undermined by accusations of foul play. We take a look at
+#   both men's history of questionable behavior.
+
 # yoshida vs silva for stomp attempt
 fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
                            # both do weird intesting stuff
@@ -372,6 +385,7 @@ fighter = 'Tyrone Spong' # (youtube) & mma & boxing  # 2003
 # --------------------------------------------------------------
 # ------------------------ MUAY THAI ---------------------------
 # --------------------------------------------------------------
+# Saenchai : a great, great at pull-counter
 # Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
 fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
@@ -467,7 +481,7 @@ fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Errol Spence Jr.'                 #  03.16.2019
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
-fighter = 'Adrian Broner'                    #  01.19.2019
+ffighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] Josh Warrington vs Carl Frampton     #  12.22.2018
 # - [ ] Dillian Whyte vs Dereck Chisora II   #  12.22.2018

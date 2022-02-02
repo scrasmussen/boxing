@@ -157,7 +157,7 @@ A collection of ideas and history.
 | Manny Pacquiao vs. Adrien Broner  | 01.19.2019 | WBA Welterweight           |
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Tony Bellew    | 11.10.2018 |                            |
-| Gennady Golovkin vs. Canelo A.    | 09.15.2018 | Alvarez                    |
+| Gennady Golovkin vs. Canelo A.    | 09.15.2018 | Alvarez, II                |
 | Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
 | Alex Saucedo vs. Lenny Zappavigna | 06.30.2018 |                            |
 | Gilberto Ramirez vs. R.A. Angulo  | 06.30.2018 | Roamer Alexis              |
@@ -1749,6 +1749,7 @@ Park vs. Shim
 =Fight Nights Global= has some kickboxing
 
 ** Podcasts
+[[https://www.bloodyelbow.com/2021/12/30/22860333/the-mma-depressed-us-01-zane-connor-watch-worst-ufc-fights-gsp-shields-ufc-archives-mma-flashback][MMA Depressed Us]]
 SI Boxing with Chris Mannix: high level
 William Hill Boxing: British, good, all about the fights, brief
 Boxing by Sunday Puncher: American, good, super fans, funny
