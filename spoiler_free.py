@@ -43,7 +43,10 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 # Question mark kick pantheon level ingorance
 # Wilder-Fury 3
 # Victor Henry : skillz, coaches, constant pressure
+# Khaosai Galaxy: The Thai Tyson
 #
+# - to process boxing -
+# Ronald Winky Wright: master of high guard, very good boxer, career 1990-2012
 
 
 #

@@ -1,4 +1,9 @@
 #+STARTUP: overview
+* Sort
+Amir Khan
+Artur Beterbiev Boxing style
+
+
 * Boxing and MMA
 A collection of ideas and history.
 
@@ -126,6 +131,7 @@ A collection of ideas and history.
 | Canelo Alvarez vs. Avni Yildirim  | 02.27.2021 |                            |
 | Josh Warrington vs. Mauricio Lara | 02.13.2021 |                            |
 | Canelo Alvarez vs. Callum Smith   | 12.19.2020 |                            |
+| Gennady Golovkin vs. K. Szeremeta | 12.18.2020 | Kamil, IBF IBO mid         |
 | Oleksandr Usyk vs. Derek Chisora  | 10.31.2020 |                            |
 | Gervonta Davis vs. Leo Santa Cruz | 10.31.2020 | WBA titles                 |
 | Murat Gassiev vs. Nuri Seferi     | 10.31.2020 |                            |
@@ -143,6 +149,7 @@ A collection of ideas and history.
 | Tyson Fury vs. Otto Wallin        | 09.14.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match               |
 | Oleksandr Usyk vs C. Witherspoon  | 10.12.2019 | Chazz                      |
+| G. Golovkin vs. S. Derevyanchenko | 10.05.2019 | Gennadiy, Sergiy, two mids |
 | Jermell Charlo vs. Jorge Cota     | 06.23.2019 |                            |
 | Gennady Golovkin vs. Steve Rolls  | 06.08.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 06.01.2019 |                            |
@@ -213,6 +220,7 @@ A collection of ideas and history.
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
+| Floyd Mayweather vs. O.D.L. Hoya  | 05.05.2007 | Oscar De La, WBC l. middle |
 | Floyd Mayweather vs. C. Baldomir  | 11.04.2006 | Carlos                     |
 | Floyd Mayweather vs. Zab Judah    | 04.08.2006 | Groin & head shot -> brawl |
 | Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
@@ -513,8 +521,6 @@ vs Sosa: Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
 
 ** Gennadiy Golovkin
 =DAZN=
-Derevyanchenko 2019
-Rolls 2019
 Canelo II 2017
 Canelo 2017
 Jacobs 2017
@@ -1212,6 +1218,8 @@ Denver
 
 ** Streaming Services
 Asian Boxing Raise
+** Boxing News
+*** [[https://www.boxingnewsonline.net/top-10-oleksandr-usyk-wins/][Top 10 Oleksandr Usyk Wins]]
 
 
 
