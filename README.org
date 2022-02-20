@@ -76,7 +76,15 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Amir Khan vs Kell Brook           | 02.19.2022 |                            |
+| Daniel Jacobs vs. John Ryder      | 02.12.2022 |                            |
+| Claressa Shields vs. Ema Kozin    | 02.05.2022 | WBC, WBA, IBF, WBF mid     |
+| Chris Eubank Jr vs. Liam Williams | 02.05.2022 |                            |
+| Caroline Dubois vs. V. M.         | 02.05.2022 | Vaida Masiokaite           |
+| Carlos Cuadras vs. J. Rodriguez   | 02.05.2022 | Jesse, WBC Super Fly       |
+| Robson Conceicao vs X. Martinez   | 01.29.2022 |                            |
 | Gary Russel Jr. vs. Mark Magsayo  | 01.22.2022 | WBC Featherweight          |
+| Joe Smith Jr. vs. Steve Geffrard  | 01.15.2022 | WBO light heavyweight      |
 | Joseph Parker vs. Dereck Chisora  | 12.18.2021 | WBO IC Heavy               |
 | Artur Beterbiev vs. Marcus Browne | 12.17.2021 | IBF, WBO Light Heavy       |
 | Marie Dicaire vs. Cynthia Lozano  | 12.17.2021 | IBF Super Welter           |
@@ -721,6 +729,8 @@ Guillotined Julianna Pena
 |--------------------------+------------+---------------------------|
 | *Event*                  |     *Date* | *Notes*                   |
 |--------------------------+------------+---------------------------|
+| UFC Fight Night 200      | 02.07.2022 | Hermansson vs. Strickland |
+| UFC Fight Night 200: Pre | 02.07.2022 |                           |
 | UFC 270: Prelims         | 01.22.2022 |                           |
 | UFC 270: Early Prelims   | 01.22.2022 |                           |
 | UFC on ESPN 32           | 01.15.2022 | Kattar vs. Chikadze       |

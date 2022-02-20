@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-event_bool = False
+# event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -29,6 +29,7 @@ event = 'UFC 141'
 event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
 event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
+event = 'UFC 271'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
@@ -36,6 +37,8 @@ event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 # --- To Process ---
 # Viacheslav Borshchev new to UFC, Russian dancer
 
+# Austin Hubbard
+# Zhang Zhilei: Chinese Boxer
 # Liam Williams vs Eubank Jr.
 # Joel Diaz
 # Arlovski vs. Cruz, Berb Dean
