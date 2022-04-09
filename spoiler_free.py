@@ -281,7 +281,7 @@ fighter = 'Peter Aerts'
 #        Pancrase    : 03.12.1994  Pancrash! 2
 #        K-1         : 03.04.1994  K-1: Challenge
 #        Pancrase    : 01.19.1994  Pancrash! 1
-#    *   K-1         : 12.19.1993  K-2: Grand Prix, Hoost, Hug, Satake
+#    *   K-1         : 12.19.1993
 #
 #
 
