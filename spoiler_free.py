@@ -181,7 +181,20 @@ ffighter = 'Paulie Malignaggi'
 # -- Process --
 # UFC: Barboza vs Chikadze
 # Barboza leg kick finish
-#
+# Fabricio Werdum
+# Julio Cesar La Cruz
+# Tishchenko, controversially won gold
+
+# --- boxing for the weekend ---
+# Thursday [D] Diaz Jr. vs Gesta, Indio, CA
+
+# - catchup -
+# Ryan Garcia
+# Lubin vs Fundora
+# Cunningham vs Couviour
+# Spence vs Ugas
+# Marshall vs Hermans
+
 
 # --------------------------------------------------------------
 # ----------------------------- MMA ----------------------------
