@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -29,7 +29,8 @@ event = 'UFC 141'
 event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
 event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
-event = 'UFC 271'
+event = 'UFC 276' # lawler fight good
+event = 'UFC 272'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
@@ -90,6 +91,7 @@ event = 'UFC 271'
 #   both men's history of questionable behavior.
 
 # yoshida vs silva for stomp attempt
+ffighter = 'Parker Porter' # vs Alan Baudot|UFC Fight Night| 02.19.2022
 fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
                            # both do weird intesting stuff
 fighter = 'Khaos Williams' # 02.08.2020 watch 247 prelims with him,
@@ -101,7 +103,7 @@ fighter = 'Arjan Bhullar' # 05.04.2019 vs Juan Adams
 #                          - Jack Slack
 fighter = 'Daniel Cormier' # 11.03.2018 | UFC 230
 # derrick lewis vs daniel cormier, look at cormier's entries
-ffighter = 'Paulie Malignaggi'
+fighter = 'Paulie Malignaggi'
 # Paulie Malignaggi: no power in his punches, just lots of skill
 #  - Miguel Cotto vs. Paulie Malignaggi #   06.10.2006
 # Takanori Gomi's feet would fly all over while punching
@@ -209,13 +211,13 @@ fighter = 'Jorge Masvidal'  # 04.20.2013, UFC FOX Bellator since 1
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
 fighter = 'T.J. Dillashaw'  # 12.03.2011 UFC FOX
-fighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
+ffighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
 fighter = 'Donald Cerrone'  # 02.05.2011 UFC 126
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
 fighter = 'Ben Askren'      # 04.15.2010 Bellator 14
 # ---------- 2010s -------------
-ffighter = 'Michihiro Omigawa'
+fighter = 'Michihiro Omigawa'
 # 12.24.2009 UFC 104: title fight, ring cutoff
 fighter = 'Roy Nelson'      # 12.05.2009 TUF 10
 fighter = 'Hideki Sekine'   # 09.27.2009 vs Yasuro Urayama
@@ -497,7 +499,7 @@ fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Errol Spence Jr.'                 #  03.16.2019
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
-ffighter = 'Adrian Broner'                    #  01.19.2019
+fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] Josh Warrington vs Carl Frampton     #  12.22.2018
 # - [ ] Dillian Whyte vs Dereck Chisora II   #  12.22.2018

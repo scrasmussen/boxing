@@ -76,6 +76,8 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Derek Chisora vs Kubrat Pulev II  | 07.09.2022 |                            |
+| Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
 | Gennadiy Golovkin vs. R. Murata   | 04.09.2022 | Ryota, IBF/WBA middle      |
 | Alexis Rocha vs. Blair Cobbs      | 03.19.2022 |                            |
@@ -737,6 +739,7 @@ Guillotined Julianna Pena
 | *Event*                   |     *Date* | *Notes*                   |
 |---------------------------+------------+---------------------------|
 | UFC Fight Night 201       | 02.19.2022 | Walker vs. Hill           |
+| UFC 271                   | 02.12.2022 | Adesanya vs. Whittaker II |
 | UFC Fight Night 200       | 02.07.2022 | Hermansson vs. Strickland |
 | UFC Fight Night 200: Pre  | 02.07.2022 |                           |
 | UFC 270                   | 01.22.2022 | Ngannou vs. Gane          |
@@ -899,6 +902,7 @@ Guillotined Julianna Pena
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
 | Stephanie Egger vs. Jess-Rose Clark  | 02.19.2022 | UFC Fight Night 201     |
+| D.S. de Andrade vs. Sergey Morzov    | 02.12.2022 | UFC 271: Early Prelims  |
 | Isaiah Gutierrez vs. Keeton Gorton   | 01.14.2022 | LFA 121                 |
 | Claressa Shields vs. Abigail Montes  | 10.27.2021 | PFL 10                  |
 | Fedor Emelianenko vs. T. Johnson     | 10.23.2021 | Bellator 269            |
