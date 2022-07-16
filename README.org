@@ -738,6 +738,7 @@ Guillotined Julianna Pena
 |---------------------------+------------+---------------------------|
 | *Event*                   |     *Date* | *Notes*                   |
 |---------------------------+------------+---------------------------|
+| UFC 272                   | 03.05.2022 | Covington vs. Masvidal    |
 | UFC Fight Night 201       | 02.19.2022 | Walker vs. Hill           |
 | UFC 271                   | 02.12.2022 | Adesanya vs. Whittaker II |
 | UFC Fight Night 200       | 02.07.2022 | Hermansson vs. Strickland |
