@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-event_bool = False
+# event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -13,7 +13,14 @@ event_bool = False
 # ---------
 # ---------------------------- EVENTS ----------------------------
 # Contemporary:
-#   - Wilder vs Fury III ESPN
+#   - Garcia vs. Benavidez Showtime
+#   - Garcia vs. Fortuna DAZN
+#   - Beterbiev vs. Smith Jr.
+#   - Kambosos Fr vs. Haney ESPN
+#   - Valdez vs. Stevenson  ESPN
+#   - Fury vs. Whyte  ESPN
+#   - Magsayo vs. Vargas  Showtime
+#
 #   - Kubrat Pulev vs Frank Mir
 #   - Parter vs. Spence Jr. ESPN
 #   - 11.13 Holloway vs. Rodriguez, Prelims too
@@ -30,7 +37,7 @@ event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
 event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 event = 'UFC 276' # lawler fight good
-event = 'UFC 272'
+event = 'UFC 273'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
