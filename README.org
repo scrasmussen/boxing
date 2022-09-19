@@ -76,9 +76,11 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
 | Derek Chisora vs Kubrat Pulev II  | 07.09.2022 |                            |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
+| Tyson Furry vs. Dillian Whyte     | 04.22.2022 | WBC Heavy                  |
 | Gennadiy Golovkin vs. R. Murata   | 04.09.2022 | Ryota, IBF/WBA middle      |
 | Alexis Rocha vs. Blair Cobbs      | 03.19.2022 |                            |
 | Leigh Wood vs Michael Conlan      | 03.12.2022 |                            |
@@ -641,6 +643,13 @@ Guida submits BJJ world medalists
 *** Events: greatest
 **** 2005 Pride Middleweight Grand Prix
 maybe best MMA of all time - Jack Slack
+*** Favorite Fighters
+Alistair Overeem
+Alexander Volkanovski
+Georges St-Pierre
+Charles Oliveira
+Tony Ferguson
+Diago Sanchez
 *** Fighters
 **** grapplers
 Shutaro Debana: exciting from QUINTET
@@ -676,6 +685,15 @@ Cees uses illegal fists and elbows so when Masakatsu submits him, Masakatsu
 | Aleksei Oleinik vs. Chris Daukaus  | 02.20.2021 |
 | Jai Herbert vs. Francisco Trinaldo | 07.26.2020 |
 |------------------------------------+------------|
+*** Funny
+**** failed starting salute/flying-knee to groin kick
+UFC Fight Night 197
+Rafael Alves vs. Marc Diakiese
+**** Spinaroonie!
+05.22.2021
+UFC Fight Night 188
+Rafael Alves vs. Damir Ismagulov
+
 *** K.O. Kicks
 **** Justin Tafa vs. Harry Hunsucker <2021-12-18 Sat>
 K.O. kick that was blocked with two forearms
@@ -696,6 +714,9 @@ Koshi Matsumoto vs. David Garmo - Quintet: Fight Night 2 -final round, match 3
 *** Submissions: from Bottom
 Shoki Higuchi vs. Yuji Hoshino: Quintet Fight Night 4
 Anthony Petis vs. Michael Chiesa : UFC 226
+*** Submissions: standing
+**** UFC 275
+Pantoja vs Perez
 *** quotes
 "Maybe they should ban calf kicks" - Rivera vs Munhoz II
 
@@ -738,6 +759,10 @@ Guillotined Julianna Pena
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 277                   | 07.30.2022 | Pena vs. Nunes II             |
+| UFC 276                   | 07.02.2022 | Adesanya vs. Cannonier        |
+| UFC 275                   | 06.12.2022 | Teixeria vs. Prochazka        |
+| UFC 274                   | 05.07.2022 | Oliveira vs. Gaethje          |
 | UFC 273                   | 04.09.2022 | Volkanovski vs. Korean Zombie |
 | UFC 272                   | 03.05.2022 | Covington vs. Masvidal        |
 | UFC Fight Night 201       | 02.19.2022 | Walker vs. Hill               |
@@ -903,6 +928,8 @@ Guillotined Julianna Pena
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
+| Brian Battle vs. Takashi Sato        | 08.07.2022 | UFC on ESPN 40          |
 | Curtis Blaydes vs. Chris Daukaus     | 03.26.2022 | UFC on ESPN 33          |
 | Marlon Moraes vs. Song Yadong        | 03.12.2022 | UFC Fight Night 203     |
 | Khalil Rountree Jr. vs. K. Roberson  | 03.12.2022 | UFC Fight Night 203     |
