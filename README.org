@@ -1197,6 +1197,21 @@ Unified: holds at least two world champions fromm the major organizations
 
 
 * Lists
+** Process
+Ebanie Bridges
+David Haye
+Mick Carney British Boxing
+Thomas Hearns
+Adam Booth: British boxing trainer
+Andy Lee
+Emanuel Steward
+Boxing Training
+
+
+** Coaches
+Barry Robinson (boxer)
+Kevin Ross (kickboxer)
+
 ** Teams
 *** Elevation Fight Team
 Denver
@@ -1262,12 +1277,17 @@ Asian Boxing Raise
 
 
 * Literature
+** Books & Series
+*** Series
+Wade Schalles: Legal Pain: Mastering the Art of Pinning
+
 ** Boxing Books
 *** Bunce's Big Fat Short History of British Boxing
 **** 1971
 Henry Cooper should have fought Jimmy Ellis, British Boxing Board of Control
  (BBBofC) didn't allow it and Jimmy ended up getting bludgeoned by Joe Frazier
 Henry Fought Jack Bodell, got kicked in the shins a bunch
+
 ** Boxing Articles
 *** [[https://www.vice.com/en_ca/article/evqqgm/busted-faces-and-broken-fingers-bare-knuckle-boxing-is-back][Busted face and broken fingers: bare-knuckle boxing is back]]
 *** [[https://www.badlefthook.com/2020/3/19/21185798/watsons-favorite-fight-kostya-tszyu-vs-ricky-hatton-classic-boxing-history][Watson’s favorite fight: Kostya Tszyu vs Ricky Hatton]]
