@@ -70,12 +70,14 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 217 boxing matches
+: I have seen 221 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
+| Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
 | Derek Chisora vs Kubrat Pulev II  | 07.09.2022 |                            |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
@@ -754,12 +756,13 @@ Guillotined Julianna Pena
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 158 fight cards and 50 additional fights
+: I have seen 163 fight cards and 53 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 278                   | 08.20.2022 | Usman vs. Edwards II          |
 | UFC 277                   | 07.30.2022 | Pena vs. Nunes II             |
 | UFC 276                   | 07.02.2022 | Adesanya vs. Cannonier        |
 | UFC 275                   | 06.12.2022 | Teixeria vs. Prochazka        |
@@ -931,6 +934,7 @@ Guillotined Julianna Pena
 |--------------------------------------+------------+-------------------------|
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
 | Brian Battle vs. Takashi Sato        | 08.07.2022 | UFC on ESPN 40          |
+| Paddy Pimblett vs. Jordan Leavitt    | 07.23.2022 | UFC Fight Night 208     |
 | Curtis Blaydes vs. Chris Daukaus     | 03.26.2022 | UFC on ESPN 33          |
 | Marlon Moraes vs. Song Yadong        | 03.12.2022 | UFC Fight Night 203     |
 | Khalil Rountree Jr. vs. K. Roberson  | 03.12.2022 | UFC Fight Night 203     |
@@ -1028,25 +1032,26 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Grappling
 #+RESULTS: grappling-report
-: I have seen 11 grappling events and 1 matches
+: I have seen 12 grappling events and 1 matches
 
 ** Events
 #+NAME:grapplingEvents
-|-----------------------+------------+---------|
-| *Event*               |     *Date* | *Notes* |
-|-----------------------+------------+---------|
-| QUINTET Fight Night 7 | 07.13.2021 |         |
-| QUINTET Fight Night 6 | 03.21.2021 |         |
-| QUINTET Fight Night 5 | 10.27.2020 |         |
-| QUINTET Ultra         | 12.12.2019 |         |
-| QUINTET Fight Night 4 | 11.30.2019 |         |
-| QUINTET Fight Night 3 | 04.07.2019 |         |
-| QUINTET Fight Night 2 | 02.03.2019 |         |
-| QUINTET 3             | 10.05.2018 |         |
-| QUINTET 2             | 07.16.2018 |         |
-| QUINTET Fight Night 1 | 06.09.2018 |         |
-| QUINTET 1             | 04.11.2018 |         |
-|-----------------------+------------+---------|
+|-------------------------+------------+---------|
+| *Event*                 |     *Date* | *Notes* |
+|-------------------------+------------+---------|
+| ADCC World Championship | 09.18.2022 |         |
+| QUINTET Fight Night 7   | 07.13.2021 |         |
+| QUINTET Fight Night 6   | 03.21.2021 |         |
+| QUINTET Fight Night 5   | 10.27.2020 |         |
+| QUINTET Ultra           | 12.12.2019 |         |
+| QUINTET Fight Night 4   | 11.30.2019 |         |
+| QUINTET Fight Night 3   | 04.07.2019 |         |
+| QUINTET Fight Night 2   | 02.03.2019 |         |
+| QUINTET 3               | 10.05.2018 |         |
+| QUINTET 2               | 07.16.2018 |         |
+| QUINTET Fight Night 1   | 06.09.2018 |         |
+| QUINTET 1               | 04.11.2018 |         |
+|-------------------------+------------+---------|
 ** Matches
 #+NAME:grapplingMatches
 |----------------------------+------------+-----------|
