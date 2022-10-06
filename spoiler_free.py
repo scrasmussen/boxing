@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -37,7 +37,6 @@ event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
 event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 event = 'UFC 276' # lawler fight good
-event = 'UFC 273'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
@@ -49,15 +48,18 @@ event = 'UFC 273'
 # Zhang Zhilei: Chinese Boxer
 # Liam Williams vs Eubank Jr.
 # Joel Diaz
-# Arlovski vs. Cruz, Berb Dean
-# Kasunori Kikuno, MMA exhibition?
 # Question mark kick pantheon level ingorance
-# Wilder-Fury 3
-# Victor Henry : skillz, coaches, constant pressure
+# Victor Henry: foundation: catch wrestling, skillz, constant pressure, coach
+#
 # Khaosai Galaxy: The Thai Tyson
 #
 # - to process boxing -
 # Ronald Winky Wright: master of high guard, very good boxer, career 1990-2012
+
+# - current -
+# Victor Henry vs. Raoni Barcelos ; UFC 270 prelims
+# Katsunori Kikuno, MMA exhibition vs. Yuichiro Nagashima, vs. Ferguson
+# Arlovski vs. Cruz, Berb Dean, UFC 66
 
 
 
@@ -98,7 +100,7 @@ event = 'UFC 273'
 #   both men's history of questionable behavior.
 
 # yoshida vs silva for stomp attempt
-ffighter = 'Parker Porter' # vs Alan Baudot|UFC Fight Night| 02.19.2022
+fighter = 'Parker Porter' # vs Alan Baudot|UFC Fight Night| 02.19.2022
 fighter = 'Gavin Tucker'   # 08.08.2020 vs Jaynes  a banger fun fight
                            # both do weird intesting stuff
 fighter = 'Khaos Williams' # 02.08.2020 watch 247 prelims with him,
@@ -218,7 +220,7 @@ fighter = 'Jorge Masvidal'  # 04.20.2013, UFC FOX Bellator since 1
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
 fighter = 'T.J. Dillashaw'  # 12.03.2011 UFC FOX
-ffighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
+fighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
 fighter = 'Donald Cerrone'  # 02.05.2011 UFC 126
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
@@ -326,6 +328,7 @@ fighter = 'Peter Aerts'
 # --- young bloods ---
 # --------------------
 fighter = 'loma lookboonmee' # fixed; last fight on espn
+fighter = 'Paddy Pimblett'
 # first thai fighter to sign with ufc, had that one match a few before
 fighter = 'youssef zalal'   #         02.08.2020, lfa 22 09.08.2017
 fighter = 'jimmy crute'     #         07.24.2018
@@ -405,7 +408,7 @@ fighter = 'louis smolka'            #  10.24.2015 ufc fight night
 # ------------------------- KICKBOXING -------------------------
 # --------------------------------------------------------------
 fighter = 'Tyrone Spong' # (youtube) & mma & boxing  # 2003
-# ffighter = 'Filip Verlinden'  # artless: adding kickboxing
+fighter = 'Filip Verlinden'  # artless: adding kickboxing
 
 # --------------------------------------------------------------
 # ------------------------ MUAY THAI ---------------------------
