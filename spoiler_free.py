@@ -225,7 +225,9 @@ fighter = 'Donald Cerrone'  # 02.05.2011 UFC 126
 #   fights with Jamie Varner and Benson Henderson were,
 #   and still are classics of the non-UFC genre.
 fighter = 'Ben Askren'      # 04.15.2010 Bellator 14
+# ------------------------------
 # ---------- 2010s -------------
+# ------------------------------
 fighter = 'Michihiro Omigawa'
 # 12.24.2009 UFC 104: title fight, ring cutoff
 fighter = 'Roy Nelson'      # 12.05.2009 TUF 10
@@ -242,12 +244,15 @@ fighter = 'Alexander Gustafsson'
                             # 11.17.2007 Shooto Finland
 fighter = "Shane Burgos"    # 11.09.2007
   # that bellator guys favorite fighter, Michael Chandler
+fighter = 'Rico Verhoeven'  # 02.17.2008 K-1
 fighter = 'Brock Lesner'    # UFC 81  02.02.2008
-#                               Dynamite 06.02.2007
+#                            Dynamite 06.02.2007
 fighter = 'Frankie Edgar'   # UFC 67  02.03.2007
+fighter = 'Giorgio Petrosyan'#        04.14.2007, K-1
 fighter = 'Anthony Pettis'  # UFC 136 10.08.2011, GFS & WEC from 2007
 fighter = 'Diego Sanchez'   # UFC 54  08.20.2005
 fighter = 'Michihiro Omigawa' # 05.22.2005 PRIDE
+fighter = 'Buakaw Banchamek'# 04.07.2004 K-1, Muay Thai before
 fighter = 'Giant Silva'     # Pride   12.31.2003
 fighter = 'Karo Parisyan'   # UFC 09.26.2003 Was good, pain meds ruined him
 fighter = 'Clay Guida'      # 07.26.2003 Adam Copenhaver
@@ -257,37 +262,41 @@ fighter = 'Georges St-Pierre' # UFC 46  01.31.2004
 #                               UCC in  01.25.2002
 # --- WEC 2 --- on FP 10.04.2001
 fighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
-fighter = 'Frank Mir'      # 07.14.2001 SF 11
-fighter = 'Hideo Tokoro'    # TFC 1   09.29.2000
-fighter='Fedor Emelianenko' #Pride 21 06.23.2002
+fighter = 'Frank Mir'        # 07.14.2001 SF 11
+fighter = 'Hideo Tokoro'     # 09.29.2000 TFC 1
+fighter= 'Fedor Emelianenko' # 06.23.2002 Pride 21
 #         , in Rings from 2000-02.2002   05.21.2000
+fighter = 'Mark Hunt'       # 02.27.2000 K-1, 2004 Pride, 2008 Dream, 2010 UFC
+# ------------------------------
 # ---------- 2000s -------------
-
-fighter = 'Alistair Overeem'#         10.24.1999
-fighter = 'Kevin Randleman' # UFC 19  03.05.1999
-fighter = 'Badr Hari'       #         02.17.2002 Kickboxing
-fighter = 'Chuck Liddell'   # UFC 17  05.15.1998
-fighter = 'Matt Hughes (fighter)'#    09.24.1999  UFC 22, lots of others
-#              Jeet Kune Do Challenge 1  01.01.1998
+# ------------------------------
+fighter = 'Alistair Overeem' # 03.14.1999 Kickboxing, 10.24.1999 MMA
+fighter = 'Kevin Randleman'  # 03.05.1999 UFC 19
+fighter = 'Badr Hari'        # 02.17.2002 Kickboxing
+fighter = 'Chuck Liddell'    # 05.15.1998 UFC 17
+fight='Matt Hughes (fighter)'# 09.24.1999  UFC 22, lots of others
+#    Jeet Kune Do Challenge 1  01.01.1998
 # Branko Cikatić does mma in 1998 (Pride?)
-fighter = 'Tito Ortiz'      #         05.30.1997
-fighter = 'Randy Couture'   # UFC 13  05.30.1997
-#             bounce people off of fence to get past guard
-fighter = 'Mark_Kerr_(fighter)'        # 01.19.1997 then UFC 14
+fighter = 'Tito Ortiz'       # 05.30.1997
+fighter = 'Randy Couture'    # 05.30.1997 UFC 13
+#   bounce people off of fence to get past guard
+fighter = 'Mark_Kerr_(fighter)' # 01.19.1997 then UFC 14 07.27.1997
                      #-- was one of the best fighters in the world,
                      #-- Vale, UFC, Pride, ADCC, HBO The Smashing Machine
-fighter = 'Alexey Oleynik'  #         11.10.1996
-# __________at_________   : UFC  10  07.12.1996  ------------------
-fighter = 'Kazushi Sakuraba'#         07.14.1996
-fighter = 'mirko cro cop'   # Pride   11.03.2001 ufc 67 02.03.2007
-#    k-1 Opening Battle                  03.10.1996
-fighter = 'frank shamrock' # Pancrase 12.16.1994, ufc 12.21.1997
-fighter = 'ken shamrock'   # Pancrase and UFC until Pride in 2000
-fighter = 'Bas Rutten'     # Pancrase , ufc 01.08.1999
-fighter = 'Branko_Cikatić'
-fighter = 'Andy Hug'
-fighter = 'Ernesto Hoost'
-fighter = 'Peter Aerts'
+fighter = 'Alexey Oleynik'   # 11.10.1996
+fighter = 'Kazushi Sakuraba' # 07.14.1996
+fighter = 'Semmy Schilt'     # 05.16.1996 Pancrase: Truth 5,
+                             # UFC & Pride 2001, K-1 2002, Glory 2012
+fighter = 'Mirko Cro Cop'    # Pride 11.03.2001 ufc 67 02.03.2007
+#                             K-1   03.10.1996 opening battle
+fighter = 'Frank Shamrock'   # Pancrase 12.16.1994, ufc 12.21.1997
+fighter = 'Ken Shamrock'     # Pancrase and UFC until Pride in 2000
+fighter = 'Bas Rutten'       # Pancrase , ufc 01.08.1999
+fighter = 'Branko_Cikatić'   # K-1
+fighter = 'Andy Hug'         # K-1 career
+fighter = 'Ernesto Hoost'    # K-1 career
+fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
+# 1996: K-1 starts on UFC
 # ---------- 1990s -------------
 
 # ----------------------------------------------------------------------
@@ -296,16 +305,14 @@ fighter = 'Peter Aerts'
 #        Glory       : 05.26.2012
 #        Invicta     : 04.28.2012
 #        Strikeforce : 10.07.2006
-#        WEC         : 06.30.2001 WEC 1: Prince of Pain
+#        WEC         : 06.30.2001  WEC 1: Prince of Pain
 #        ADCC        :   .  .1998
 #        Pride       : 10.11.1997  Pride 1
-#        UFC         : 07.12.1996  UFC 10
-#        UFC         : 12.16.1995  The Ultimate Ultimate
+#        UFC         : 09.20.1996  UFC 11
 #        K-1         : 04.30.1994  K-1: World Grand Prix 1994
+#        Pancrase    : 03.12.1994  Pancrash! 3
 #        Pancrase    : 03.12.1994  Pancrash! 2
-#        K-1         : 03.04.1994  K-1: Challenge
-#        Pancrase    : 01.19.1994  Pancrash! 1
-#    *   K-1         : 12.19.1993
+#    *   K-1         : 03.04.1994  K-1: Challenge
 #
 #
 
@@ -417,6 +424,7 @@ fighter = 'Filip Verlinden'  # artless: adding kickboxing
 # Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
 fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
+# Ramon Dekkers, exciting Dutchman, watch highlights
 
 # --------------------------------------------------------------
 # --------------------  CURRENTLY WATCHING  --------------------

@@ -238,6 +238,7 @@ A collection of ideas and history.
 | Deontay Wilder vs. Eric Molina    | 06.13.2015 | WBC heavy                  |
 | Mayweather Jr. vs Manny Pacquiao  | 05.02.2015 |                            |
 | Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
+| Gennady Golovkin vs. G. Rosado    | 01.19.2013 | Gabriel                    |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
@@ -920,6 +921,7 @@ Guillotined Julianna Pena
 | UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
 | UFC 3                     | 09.09.1994 | The American Dream            |
 | UFC 2                     | 03.11.1994 | No Way Out                    |
+| Pancrase: Pancrash! 1     | 01.19.1994 |                               |
 | UFC 1                     | 11.12.1993 | The Beginning                 |
 | Pancrase: Yes, We Are     | 12.08.1993 | Hybrid Wrestlers 4            |
 | Pancrase: Yes, We Are     | 11.08.1993 | Hybrid Wrestlers 3            |
@@ -1084,6 +1086,7 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| E. Hoost vs C. Kiatsongrit     | 12.19.1993 | Ernesto, Changpuek           |
 | Andy Hug vs. Ryuji Murakami    | 11.15.1993 | K-1 Andy's Glove             |
 | Andy Hug vs. Masaki Sataake    | 09.04.1993 | K-1 Illusion; Seidokaikan    |
 | Peter Aerts vs. Dino Homsey    | 09.04.1993 | K-1 Illusion                 |
