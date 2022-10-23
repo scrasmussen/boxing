@@ -646,6 +646,43 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
 
 
+* Grappling
+#+RESULTS: grappling-report
+: I have seen 12 grappling events and 1 matches
+
+** Events
+#+NAME:grapplingEvents
+|-------------------------+------------+---------|
+| *Event*                 |     *Date* | *Notes* |
+|-------------------------+------------+---------|
+| ADCC World Championship | 09.18.2022 |         |
+| QUINTET Fight Night 7   | 07.13.2021 |         |
+| QUINTET Fight Night 6   | 03.21.2021 |         |
+| QUINTET Fight Night 5   | 10.27.2020 |         |
+| QUINTET Ultra           | 12.12.2019 |         |
+| QUINTET Fight Night 4   | 11.30.2019 |         |
+| QUINTET Fight Night 3   | 04.07.2019 |         |
+| QUINTET Fight Night 2   | 02.03.2019 |         |
+| QUINTET 3               | 10.05.2018 |         |
+| QUINTET 2               | 07.16.2018 |         |
+| QUINTET Fight Night 1   | 06.09.2018 |         |
+| QUINTET 1               | 04.11.2018 |         |
+|-------------------------+------------+---------|
+** Matches
+#+NAME:grapplingMatches
+|----------------------------+------------+-----------|
+| *Fighters*                 |     *Date* | *[[Notes][Notes]]*   |
+|----------------------------+------------+-----------|
+| Davi Ramos vs. Lucas Lepri | 10.29.2015 | ADCC 2015 |
+|----------------------------+------------+-----------|
+
+*** Notes
+**** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
+Hilarious heavyweight match, Martiis running around huge-slow Lungu
+2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
+
+
+
 * Boxing
 
 :other-great-boxers:
@@ -1057,43 +1094,6 @@ Guillotined Julianna Pena
 ** gyms
 *** Elevation Fight Team, Denver
 *** Kings MMA, Huntington Beach
-
-
-* Grappling
-#+RESULTS: grappling-report
-: I have seen 12 grappling events and 1 matches
-
-** Events
-#+NAME:grapplingEvents
-|-------------------------+------------+---------|
-| *Event*                 |     *Date* | *Notes* |
-|-------------------------+------------+---------|
-| ADCC World Championship | 09.18.2022 |         |
-| QUINTET Fight Night 7   | 07.13.2021 |         |
-| QUINTET Fight Night 6   | 03.21.2021 |         |
-| QUINTET Fight Night 5   | 10.27.2020 |         |
-| QUINTET Ultra           | 12.12.2019 |         |
-| QUINTET Fight Night 4   | 11.30.2019 |         |
-| QUINTET Fight Night 3   | 04.07.2019 |         |
-| QUINTET Fight Night 2   | 02.03.2019 |         |
-| QUINTET 3               | 10.05.2018 |         |
-| QUINTET 2               | 07.16.2018 |         |
-| QUINTET Fight Night 1   | 06.09.2018 |         |
-| QUINTET 1               | 04.11.2018 |         |
-|-------------------------+------------+---------|
-** Matches
-#+NAME:grapplingMatches
-|----------------------------+------------+-----------|
-| *Fighters*                 |     *Date* | *[[Notes][Notes]]*   |
-|----------------------------+------------+-----------|
-| Davi Ramos vs. Lucas Lepri | 10.29.2015 | ADCC 2015 |
-|----------------------------+------------+-----------|
-
-*** Notes
-**** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
-Hilarious heavyweight match, Martiis running around huge-slow Lungu
-2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
-
 
 
 * Trainers
