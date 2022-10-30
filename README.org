@@ -64,12 +64,16 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 221 boxing matches
+: I have seen 228 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Katie Taylor vs. E. Carabajal     | 10.30.2022 | Elizabeth, Undis. Light    |
+| Vasiliy Lomachenko vs. J. Ortiz   | 10.30.2022 | Jamaine                    |
+| Johnny Fisher vs. Dominic Musil   | 10.30.2022 |                            |
+| Gary Cully vs. Jaouad Belmehdi    | 10.30.2022 |                            |
 | Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, Undisputed Mid   |
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
@@ -340,12 +344,13 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 163 fight cards and 53 additional fights
+: I have seen 168 fight cards and 53 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 279                   | 09.10.2022 | Diaz vs. Ferguson             |
 | UFC 278                   | 08.20.2022 | Usman vs. Edwards II          |
 | UFC 277                   | 07.30.2022 | Pena vs. Nunes II             |
 | UFC 276                   | 07.02.2022 | Adesanya vs. Cannonier        |
@@ -503,7 +508,10 @@ Sherrif jumps into the ring and stops the fight
 | UFC 5                     | 04.07.1995 | The Return of the Beast       |
 | UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
 | UFC 3                     | 09.09.1994 | The American Dream            |
+| Pancrase: Road to the     | 05.31.1994 | Championship 1                |
+| Pancrase: Pancrash! 3     | 04.21.1994 |                               |
 | UFC 2                     | 03.11.1994 | No Way Out                    |
+| Pancrase: Pancrash! 2     | 03.12.1994 |                               |
 | Pancrase: Pancrash! 1     | 01.19.1994 |                               |
 | UFC 1                     | 11.12.1993 | The Beginning                 |
 | Pancrase: Yes, We Are     | 12.08.1993 | Hybrid Wrestlers 4            |
@@ -575,15 +583,18 @@ Sherrif jumps into the ring and stops the fight
 ** Notes
 *** Moves
 **** Knock Outs
-| Moraes vs. Sandhagen:               | UFC Fight Night 179 |
-| head over heels                     |          10.11.2020 |
-|                                     |                     |
-| Joaquin Buckley vs. Impa Kasanganay | UFC Fight Night 179 |
-| Tekken move                         |          10.11.2020 |
-|                                     |                     |
-| Mark Hunt Walk-off K.O.s            |                     |
-| UFC Fight Night 85                  |          03.20.2016 |
-|                                     |                     |
+| Irene Aldana vs. Macy Chiasson       |             UFC 279 |
+| First TKO upkick to body from ground |          09.10.2022 |
+|                                      |                     |
+| Moraes vs. Sandhagen:                | UFC Fight Night 179 |
+| head over heels                      |          10.11.2020 |
+|                                      |                     |
+| Joaquin Buckley vs. Impa Kasanganay  | UFC Fight Night 179 |
+| Tekken move                          |          10.11.2020 |
+|                                      |                     |
+| Mark Hunt Walk-off K.O.s             |                     |
+| UFC Fight Night 85                   |          03.20.2016 |
+|                                      |                     |
 
 *** Match Notes
 **** Jai Herbert vs. Francisco Trinaldo <<07.26.2020>>
@@ -618,13 +629,14 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing
 #+RESULTS: kickboxing-report
-: I have seen 1 kickboxing events and 5 matches
+: I have seen 2 kickboxing events and 8 matches
 
 ** Events
 #+NAME:kickboxingEvents
 |--------------------+------------+-----------------------|
 | *Event*            |     *Date* | *Notes*               |
 |--------------------+------------+-----------------------|
+| K-1 Grand Prix '94 | 04.30.1994 |                       |
 | K-1 Grand Prix '93 | 04.20.1993 | Tournament, Inaugural |
 |--------------------+------------+-----------------------|
 ** Matches
@@ -633,6 +645,8 @@ look for Roy Nelson's uppercut to counter the dipping jab
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
+| Ernesto Hoost vs. M. Satake    | 03.04.1994 | Masaaki, K-1 Challenge       |
 | E. Hoost vs C. Kiatsongrit     | 12.19.1993 | Ernesto, Changpuek           |
 | Andy Hug vs. Ryuji Murakami    | 11.15.1993 | K-1 Andy's Glove             |
 | Andy Hug vs. Masaki Sataake    | 09.04.1993 | K-1 Illusion; Seidokaikan    |
@@ -1041,6 +1055,9 @@ Rafael Alves vs. Damir Ismagulov
 3:30 of round three
 
 *** K.O. Kicks
+**** Irene Aldana vs. Macy Chiasson 09.10.2022
+First TKO upkick to body from ground
+UFC 279
 **** Justin Tafa vs. Harry Hunsucker <2021-12-18 Sat>
 K.O. kick that was blocked with two forearms
 UFC Fight Night 199
@@ -1053,6 +1070,9 @@ Rare inside  kick causes K.O.
 **** Katsuomi Inagaki vs. Joop van de Ven <<10.14.1993>>
 Kick to the knee
 Pancrase: Yes, We Are Hybrid Wrestlers 2
+*** Of Note
+**** Split Draw, fighter on octogon before finish
+Sean Woodson vs. Luis Saldana
 *** Promotions
  - Cage Warriors (CW): European  FP
 *** Submissions: the greatest
@@ -1063,7 +1083,7 @@ Anthony Petis vs. Michael Chiesa : UFC 226
 *** Submissions: standing
 **** UFC 275
 Pantoja vs Perez
-*** quotes
+*** Quotes
 "Maybe they should ban calf kicks" - Rivera vs Munhoz II
 
 
@@ -1093,6 +1113,7 @@ Guillotined Julianna Pena
 
 ** gyms
 *** Elevation Fight Team, Denver
+*** Colorado Top Team Wrestling, Mead
 *** Kings MMA, Huntington Beach
 
 
