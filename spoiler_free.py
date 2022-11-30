@@ -12,6 +12,7 @@ event_bool = False
 # | TODO  |
 # ---------
 # ---------------------------- EVENTS ----------------------------
+# Artur Beterbiev Boxing style
 # Contemporary:
 #   - Garcia vs. Benavidez Showtime
 #   - Garcia vs. Fortuna DAZN
@@ -219,6 +220,7 @@ fighter = 'Sean Strickland' # 03.15.2014  UFC 171
 fighter = 'Jorge Masvidal'  # 04.20.2013, UFC FOX Bellator since 1
 # -- Mark Hunt vs Antonio "BigFoot" Silva
 # 'Stephen Thompson (fighter)' # UFC 143 02.04.2012
+fighter = 'Jorina Baars'    # 09.08.2012 K-1 Muay Thai
 fighter = 'T.J. Dillashaw'  # 12.03.2011 UFC FOX
 fighter = 'Tony Ferguson'   # 09.24.2011 UFC 135
 fighter = 'Donald Cerrone'  # 02.05.2011 UFC 126
@@ -309,13 +311,12 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        ADCC        :   .  .1998
 #        Pride       : 10.11.1997  Pride 1
 #        UFC         : 09.20.1996  UFC 11
+#        K-1         : 12.10.1994  Legend
+#        Pancrase    : 10.15.1994  Road to the Championship 5
 #        K-1         : 09.18.1994  Revenge
 #        Pancrase    : 09.01.1994  Road to the Championship 4
 #        Pancrase    : 07.26.1994  Road to the Championship 3
-#        Pancrase    : 07.06.1994  Road to the Championship 2
-#        Pancrase    : 05.31.1994  Road to the Championship 1
-#        K-1         : 04.30.1994  World Grand Prix 1994
-#    *   Pancrase    : 03.12.1994  Pancrash! 3
+#    *   Pancrase    : 07.06.1994  Road to the Championship 2
 #
 #
 
@@ -427,7 +428,7 @@ fighter = 'Filip Verlinden'  # artless: adding kickboxing
 # Rambaa Somdet  : greatest strawweight in MMA, Muay Thai
 fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # heavyweight Gane, muay thai -> boxing, bad when trying to hit hard
-# Ramon Dekkers, exciting Dutchman, watch highlights
+# Ramon Dekkers, exciting Dutchman in Thailand, watch highlights
 
 # --------------------------------------------------------------
 # --------------------  CURRENTLY WATCHING  --------------------
