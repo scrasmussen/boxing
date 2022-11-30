@@ -76,6 +76,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Claressa Shields vs. S. Waters    | 10.16.2022 | Savannah, Undisputed Mid!  |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
@@ -921,6 +922,7 @@ Guillotined Julianna Pena
 | UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
 | UFC 3                     | 09.09.1994 | The American Dream            |
 | UFC 2                     | 03.11.1994 | No Way Out                    |
+| Pancrase: Pancrash! 2     | 03.12.1994 |                               |
 | Pancrase: Pancrash! 1     | 01.19.1994 |                               |
 | UFC 1                     | 11.12.1993 | The Beginning                 |
 | Pancrase: Yes, We Are     | 12.08.1993 | Hybrid Wrestlers 4            |
@@ -1086,6 +1088,7 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
 | E. Hoost vs C. Kiatsongrit     | 12.19.1993 | Ernesto, Changpuek           |
 | Andy Hug vs. Ryuji Murakami    | 11.15.1993 | K-1 Andy's Glove             |
 | Andy Hug vs. Masaki Sataake    | 09.04.1993 | K-1 Illusion; Seidokaikan    |

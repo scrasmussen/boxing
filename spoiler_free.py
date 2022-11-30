@@ -309,10 +309,13 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        ADCC        :   .  .1998
 #        Pride       : 10.11.1997  Pride 1
 #        UFC         : 09.20.1996  UFC 11
-#        K-1         : 04.30.1994  K-1: World Grand Prix 1994
-#        Pancrase    : 03.12.1994  Pancrash! 3
-#        Pancrase    : 03.12.1994  Pancrash! 2
-#    *   K-1         : 03.04.1994  K-1: Challenge
+#        K-1         : 09.18.1994  Revenge
+#        Pancrase    : 09.01.1994  Road to the Championship 4
+#        Pancrase    : 07.26.1994  Road to the Championship 3
+#        Pancrase    : 07.06.1994  Road to the Championship 2
+#        Pancrase    : 05.31.1994  Road to the Championship 1
+#        K-1         : 04.30.1994  World Grand Prix 1994
+#    *   Pancrase    : 03.12.1994  Pancrash! 3
 #
 #
 
