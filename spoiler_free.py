@@ -12,6 +12,8 @@ event_bool = False
 # | TODO  |
 # ---------
 # ---------------------------- EVENTS ----------------------------
+# NOW: 11.30.2022
+#   - Whyte vs Franklin, DAZN
 # Artur Beterbiev Boxing style
 # Contemporary:
 #   - Garcia vs. Benavidez Showtime
