@@ -14,11 +14,20 @@ event_bool = False
 # ---------------------------- EVENTS ----------------------------
 # NOW: 11.30.2022
 #   - Whyte vs Franklin, DAZN
+# 02.25 [SHOW] Matias vs. Ponce
+# 02.11 [SHOW] Vargas vs. Foster
+# - Past -
+# Serrano vs Cruz [DAZN] Baumgardner vs Mekhaled super feather
+# Eubank vs Smith ~ Jan 21 [DAZN] 2 other goood fights
+# Lubin vs Fundora [SBOX]
+# Shields vs Marshall
+# Fundora vs Ocampo 10.08.2022
+#
 # Artur Beterbiev Boxing style
 # Contemporary:
 #   - Garcia vs. Benavidez Showtime
 #   - Garcia vs. Fortuna DAZN
-#   - Beterbiev vs. Smith Jr.
+#   - Beterbiev vs. Smith Jr. ESPN
 #   - Kambosos Fr vs. Haney ESPN
 #   - Valdez vs. Stevenson  ESPN
 #   - Fury vs. Whyte  ESPN
@@ -29,6 +38,15 @@ event_bool = False
 #   - 11.13 Holloway vs. Rodriguez, Prelims too
 #   - Zepeda vs Vargas, Caraballo vs Sultan  ESPN
 #   - Lomachenko vs Commey ESPN 12.11.2021
+fighter = 'Román_González_(boxer)'
+fighter = 'Juan Francisco Estrada'
+fighter = 'Srisaket Sor Rungvisai'
+fighter = 'Melissa St. Vil'
+fighter = 'Caroline Dubois'
+
+#
+# Ricardo Cervantez, dad is Rico from Martinez, CA
+# 3rd in Junior Mens 138 division
 #
 # 05.15.2021 DAZN to see Dalton Smith
 # watch maincards UFC on ESPN: Holm vs. Aldana
@@ -340,7 +358,7 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 # --------------------
 # --- young bloods ---
 # --------------------
-fighter = 'loma lookboonmee' # fixed; last fight on espn
+ffighter = 'Loma Lookboonmee' # fixed; last fight on espn
 fighter = 'Paddy Pimblett'
 # first thai fighter to sign with ufc, had that one match a few before
 fighter = 'youssef zalal'   #         02.08.2020, lfa 22 09.08.2017
@@ -451,6 +469,9 @@ fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # Michael Hunter: Heavyweight American
 # Andy Ruiz Jr. : Heavyweight American
 # Pacman
+# --- Young Bloods ---
+fighter = 'Richard Torrez' # 2020 silver medalist
+fighter = 'Roiman Villa'  # Venezuelan, round 12 2-knockdown comeback
 
 # --- Career Watch ---
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
@@ -500,18 +521,19 @@ show    = 'The Boxing Beat: ESPN'
 #
 
 
-fighter = 'Naoya Inoue'
+fighter = 'Naoya Inoue' # vs Butler ESPN
 fighter = 'Canelo Álvarez'
 fighter = 'Timothy Bradley'
 # listed below 'Terence Crawford', Errol Spence Jr., Teofima Lopez
 # Usyk, Lomachenko, Josh Taylor, Juan Francisco Estrada
 # Michael Hunter: Heavyweight American
-# Andy Ruiz Jr. : Heavyweight American
+fighter='Andy Ruiz Jr.'# vs Ortiz , Fox PPV on youtube?
 # Joe Joyce     : Heavyweight U.K.
 # Dillian Whyte : Heavyweight U.K.
 # Alexander Povetkin: Heavyweight Russia
 # Nonito Donaire vs. Nordine Oubaali
 #
+fighter = 'Sebastian Fundora'                # Tall skinny
 fighter = 'Murat Gassiev'                    #  eventually; on DAZN
 fighter = 'Michael Conlan (boxer)'           #
 fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
@@ -523,6 +545,7 @@ fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Errol Spence Jr.'                 #  03.16.2019
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
+fighter = 'Ryan Garcia'                      #
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] Josh Warrington vs Carl Frampton     #  12.22.2018
@@ -567,6 +590,7 @@ fighter = 'Sergey Kovalev'                   #  08.05.2018
 # devin alexander vs. aundr bird spence      #  08.05.2018
 # 08.04.2018
 #  Kovalev vs. Eleidar Alvarez
+fighter = 'Artur Beterbiev'
 fighter = 'Dmitry Bivol'                   # vs. TBA
 fighter = 'Zab Judah'
 

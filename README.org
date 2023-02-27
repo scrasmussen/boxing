@@ -64,26 +64,46 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 228 boxing matches
+: I have seen 249 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Subriel Matias vs. Jeremias Ponce | 02.25.2023 | IBF Super Fly              |
+| John Ramirez vs. Luis Padilla     | 02.23.2023 | Continental Super Fly      |
+| Luis Nery vs. Azat Hovhannisyan   | 02.25.2023 |                            |
+| M. Lara vs. Leigh Wood            | 02.18.2023 | Mauricio WBA Feather       |
+| Dalton Smith vs. Billy Allington  | 02.18.2023 | British Super Light        |
+| Gary Cully vs. Wilfredo Flores    | 02.18.2023 | Inter-Cont Light           |
+| Adam Azim vs. Santos Reyes        | 02.11.2023 | Continental Super Light    |
+| Amanda Serrano vs. Erika Cruz     | 02.04.2023 | Unified Feather            |
+| A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | Unified Super Feather      |
+| Emanuel Navarrete vs. Liam Wilson | 02.03.2023 | WBO Super Feather          |
+| Arnold Barboza Jr. vs. J. Pedraza | 02.03.2023 | Jose, WBO Inter Sup. Light |
+| Richard Torrez Jr. vs. J. Bryant  | 02.03.2023 | James                      |
+| Gervonta Davis vs. Hector Garcia  | 01.07.2023 | WBA World Light            |
+| Rashidi Ellis vs. Roiman Villa    | 01.07.2023 |                            |
+| Terence Crawford vs. D. Avanesyan | 12.10.2022 | WBO Welter                 |
+| Dmitry Bivol vs. Gilberto Ramirez | 11.05.2022 | WBA Light Heavy            |
 | Katie Taylor vs. E. Carabajal     | 10.30.2022 | Elizabeth, Undis. Light    |
 | Vasiliy Lomachenko vs. J. Ortiz   | 10.30.2022 | Jamaine                    |
 | Johnny Fisher vs. Dominic Musil   | 10.30.2022 |                            |
 | Gary Cully vs. Jaouad Belmehdi    | 10.30.2022 |                            |
+| Jose Zepeda vs. Jojo Diaz Jr.     | 10.29.2022 |                            |
 | Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, Undisputed Mid   |
+| M. Mayer vs. Alycia Baumgardner   | 10.15.2022 | Mikaela, Undis S. Feather  |
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
 | Derek Chisora vs Kubrat Pulev II  | 07.09.2022 |                            |
+| Artur Beterbiev vs. Joe Smith Jr. | 06.18.2022 | WBO, WBC, IBF Light Heavy  |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
 | Tyson Furry vs. Dillian Whyte     | 04.22.2022 | WBC Heavy                  |
 | Gennadiy Golovkin vs. R. Murata   | 04.09.2022 | Ryota, IBF/WBA middle      |
+| Sebastian Fundora vs. E. Lubin    | 04.09.2022 | Erickson WBC S. Welter     |
 | Alexis Rocha vs. Blair Cobbs      | 03.19.2022 |                            |
 | Leigh Wood vs Michael Conlan      | 03.12.2022 |                            |
 | Josh Taylor vs. Jack Catterall    | 02.26.2022 | WBA/WBC/IBF/WBO light-welt |
@@ -242,6 +262,7 @@ A collection of ideas and history.
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
+| Floyd Mayweather vs. Ricky Hatton | 12.08.2007 | WBC welter                 |
 | Floyd Mayweather vs. O.D.L. Hoya  | 05.05.2007 | Oscar De La, WBC l. middle |
 | Floyd Mayweather vs. C. Baldomir  | 11.04.2006 | Carlos                     |
 | Floyd Mayweather vs. Zab Judah    | 04.08.2006 | Groin & head shot -> brawl |
@@ -344,12 +365,15 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 168 fight cards and 53 additional fights
+: I have seen 171 fight cards and 56 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 282                   | 12.10.2022 | Blachowicz vs. Ankalaev       |
+| UFC 281                   | 11.12.2022 | Adesanya vs. Pereira          |
+| UFC 280                   | 10.22.2022 | Oliveira vs. Makhachev        |
 | UFC 279                   | 09.10.2022 | Diaz vs. Ferguson             |
 | UFC 278                   | 08.20.2022 | Usman vs. Edwards II          |
 | UFC 277                   | 07.30.2022 | Pena vs. Nunes II             |
@@ -526,6 +550,8 @@ Sherrif jumps into the ring and stops the fight
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
+| Nong-O vs. Liam Harrison             | 08.27.2022 | One on Prime Video 1    |
+| Panpayak Jitmuangnon vs. S. Michael  | 08.27.2022 | One on Prime Video 1    |
 | Brian Battle vs. Takashi Sato        | 08.07.2022 | UFC on ESPN 40          |
 | Paddy Pimblett vs. Jordan Leavitt    | 07.23.2022 | UFC Fight Night 208     |
 | Curtis Blaydes vs. Chris Daukaus     | 03.26.2022 | UFC on ESPN 33          |
@@ -542,6 +568,7 @@ Sherrif jumps into the ring and stops the fight
 | Juan Espino vs. Alexander Romanov    | 04.17.2021 | UFC on ESPN 22          |
 | Anthony Pettis vs. Clay Collard      | 04.23.2021 | PFL 1                   |
 | Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
+| Pitbull Freire vs. Pedro Carvalho    | 11.12.2020 | Bellator 252            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
 | Juan Espino Dieppa vs. Jeff Hughes   | 09.27.2020 | UFC 253: Early Prelims  |
@@ -629,7 +656,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing
 #+RESULTS: kickboxing-report
-: I have seen 2 kickboxing events and 8 matches
+: I have seen 2 kickboxing events and 9 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -644,6 +671,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------------------+------------+------------------------------|
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
+| Badr Hari vs. Alistair Overeem | 10.08.2022 | Glory: Collision 4           |
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
 | Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
 | Ernesto Hoost vs. M. Satake    | 03.04.1994 | Masaaki, K-1 Challenge       |
@@ -1062,6 +1090,9 @@ UFC 279
 K.O. kick that was blocked with two forearms
 UFC Fight Night 199
 *** K.O. from kicks to the legs
+**** Nong-O Gaiyanghadao vs. Liam Harrison 08.27.2022
+K.O. from kicks to the side of front knee
+One on Prime Video 1
 **** Khalil Rountree Jr vs. Modestas Bukauskas <<09.04.2021>>
 Brutal kick to the knee
 **** Rico Verhoeven vs. Anderson Silva <<09.09.2016>>
