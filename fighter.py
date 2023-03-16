@@ -10,7 +10,7 @@ def getUrl(fighter):
         print("No Fighter Selected")
         exit()
     url = 'https://en.wikipedia.org/wiki/'
-    url += fighter.title()
+    url += fighter.title().replace('(Boxer)','(boxer)')
     return url
 
 def get_record(soup, record_type):

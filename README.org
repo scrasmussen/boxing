@@ -70,18 +70,25 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Brandon Figueroa vs. Mark Magsayo | 03.04.2023 | WBC Interm Feather         |
+| Jarrett Hurd vs. Jose Resendiz    | 03.04.2023 |                            |
+| Amilcar Vidal Jr. vs. E. Garcia   | 03.04.2023 | Elijah WBC Latino Middle   |
 | Subriel Matias vs. Jeremias Ponce | 02.25.2023 | IBF Super Fly              |
 | John Ramirez vs. Luis Padilla     | 02.23.2023 | Continental Super Fly      |
 | Luis Nery vs. Azat Hovhannisyan   | 02.25.2023 |                            |
 | M. Lara vs. Leigh Wood            | 02.18.2023 | Mauricio WBA Feather       |
 | Dalton Smith vs. Billy Allington  | 02.18.2023 | British Super Light        |
 | Gary Cully vs. Wilfredo Flores    | 02.18.2023 | Inter-Cont Light           |
+| Rey Vargas vs. O'Shaquie Foster   | 02.11.2023 | WBC Super Feather          |
 | Adam Azim vs. Santos Reyes        | 02.11.2023 | Continental Super Light    |
 | Amanda Serrano vs. Erika Cruz     | 02.04.2023 | Unified Feather            |
 | A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | Unified Super Feather      |
 | Emanuel Navarrete vs. Liam Wilson | 02.03.2023 | WBO Super Feather          |
 | Arnold Barboza Jr. vs. J. Pedraza | 02.03.2023 | Jose, WBO Inter Sup. Light |
 | Richard Torrez Jr. vs. J. Bryant  | 02.03.2023 | James                      |
+| Atif Oberlton vs. Artem Brusov    | 01.20.2023 |                            |
+| Sean Hemphill vs. David Stevens   | 01.20.2023 |                            |
+| Julian Gonzalez vs. R. Morales    | 01.20.2023 | Rosalindo                  |
 | Gervonta Davis vs. Hector Garcia  | 01.07.2023 | WBA World Light            |
 | Rashidi Ellis vs. Roiman Villa    | 01.07.2023 |                            |
 | Terence Crawford vs. D. Avanesyan | 12.10.2022 | WBO Welter                 |
@@ -258,7 +265,12 @@ A collection of ideas and history.
 | Deontay Wilder vs. Eric Molina    | 06.13.2015 | WBC heavy                  |
 | Mayweather Jr. vs Manny Pacquiao  | 05.02.2015 |                            |
 | Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
+| Floyd Mayweather vs. R. Guerrero  | 05.04.2013 | Robert                     |
 | Gennady Golovkin vs. G. Rosado    | 01.19.2013 | Gabriel                    |
+| Floyd Mayweather vs. Miguel Cotto | 05.05.2012 | WBA Super light middle     |
+| Floyd Mayweather vs. Victor Ortiz | 09.17.2011 | WBC welter                 |
+| Floyd Mayweather vs. Shane Mosley | 05.01.2010 |                            |
+| Floyd Mayweather vs. J.M. Marquez | 09.19.2009 | Juan Manuel                |
 | Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
@@ -861,6 +873,42 @@ tall and loved to fight inside?
 *** Wilfredo Gomez: devastating punching power
 *** Salvador Sanchez
 
+
+
+** Styles
+*** Country
+ - Mexican - highly offensive, constantly moving forward, a lot of body
+   shots. Machismo and old school warrior honor are the attitudes most Mexican
+   boxers have. ex: Alfredo Angulo, Erik Morales, Jorge Arce
+ - American - very classic boxing. Lots of jabs, lateral movements, reliance
+   more on speed than power. Very slick and tactical. Relies on "the sweet
+   science". ex: Sugar Ray Leonard, Floyd Mayweather, Zab Judah, Bernard
+   Hopkins
+ - Cuban - kinda of like the American style. But much more technical, more
+   defensive. They tend to sit back, have a save game plan, and just wait for
+   opportunity to counter. Generally much more fluid than Americans. ex:
+   Rigondeaux, Erislandy Lara
+ - European - very rigid, simple, jab-jab-cross style. Not particularly
+   offensive, nor defensive. The stereotypical view is that this style is
+   sleep inducing. ex: Klitschko brothers, Felix Sturm
+ - Soviet - my note, similar to Cuban style since Cuban coaches originally
+   came from Soviet style
+
+*** Fight Style
+ - Swarmer
+  - Mike Tyson, Joe Frazier, Jake LaMotta, Rocky Marciano, Battling Nelson
+ - Slugger
+  - Foreman, Sonny Liston, Stanley Ketchel, Max Baer,
+ - Out-boxer
+  - Ali, Mayweater, Jack Blackburn, George Dixon, Joe Walcutt
+ - Boxer-puncher: combination, good agressors and counter-punchers
+  - Pacquiao, Sugar Ray Robinson, De La Hoya, Joe Louis, Alexis Arguello
+ - Peek-a-boo
+  - Bobo Olson first known champ with this style
+ Sub-styles
+  - counterpuncher
+  - switch-hitter
+Note: see [[https://en.wikipedia.org/wiki/Boxing_styles_and_technique][wiki]] for more examples of fighters in each style
 
 
 ** Andre Ward
@@ -1600,7 +1648,7 @@ Groves vs. Smith
 - [X] May 12 – Vasyl Lomachenko vs Jorge Linares
 - [X] June 30 – Alex Saucedo vs Lenny Zappavigna
 - [ ] July 28 – Dereck Chisora vs Carlos Takam   [DAZN]
-- [ ] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
+- [X] September 15 – Canelo Alvarez vs Gennady Golovkin II [DAZN]
 - [ ] September 24 – Sho Kimura vs Kosei Tanaka
 - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 - [ ] December 22 – Josh Warrington vs Carl Frampton
