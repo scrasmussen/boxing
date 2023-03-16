@@ -12,10 +12,22 @@ event_bool = False
 # | TODO  |
 # ---------
 # ---------------------------- EVENTS ----------------------------
+# Murat Gassiev vs. Mike Balogun         | 03.03.2023 |
 # NOW: 11.30.2022
 #   - Whyte vs Franklin, DAZN
 # 02.25 [SHOW] Matias vs. Ponce
 # 02.11 [SHOW] Vargas vs. Foster
+# Naoya Inoue vs. Butler | ESPN | 12.13.2022 |
+# Murat Gassiev vs. Carlouse Welch       | 08.26.2022 |
+# --- boxing for the weekend ---
+# Thursday [D] Diaz Jr. vs Gesta, Indio, CA
+# - catchup -
+# Cunningham vs Couviour
+# Spence vs Ugas
+# Marshall vs Hermans
+
+
+
 # - Past -
 # Serrano vs Cruz [DAZN] Baumgardner vs Mekhaled super feather
 # Eubank vs Smith ~ Jan 21 [DAZN] 2 other goood fights
@@ -34,6 +46,7 @@ event_bool = False
 # Mexican Style" I think of fighters like Juan Manuel Marquez, Erik Morales,
 #   Marco Antonio Barerra, Finito Lopez
 #
+#
 # Artur Beterbiev Boxing style
 # Contemporary:
 #   - Garcia vs. Benavidez Showtime
@@ -50,7 +63,6 @@ event_bool = False
 #   - Zepeda vs Vargas, Caraballo vs Sultan  ESPN
 #   - Lomachenko vs Commey ESPN 12.11.2021
 fighter = 'Román_González_(boxer)'
-fighter = 'Juan Francisco Estrada'
 fighter = 'Srisaket Sor Rungvisai'
 fighter = 'Melissa St. Vil'
 fighter = 'Caroline Dubois'
@@ -158,7 +170,6 @@ fighter = 'Paulie Malignaggi'
 # John L. Sullivan Boxer
 # Duke Roufus : Kickboxing coach
 # Kamarudeen Boyefio
-# Naoya Inoue
 # UFC 249: Henry Cejudo vs. Marion Moraes
 # Marlon Vera : good clincher
 #
@@ -228,16 +239,6 @@ fighter = 'Paulie Malignaggi'
 # Julio Cesar La Cruz
 # Tishchenko, controversially won gold
 
-# --- boxing for the weekend ---
-# Thursday [D] Diaz Jr. vs Gesta, Indio, CA
-
-# - catchup -
-# Ryan Garcia
-# Lubin vs Fundora
-# Cunningham vs Couviour
-# Spence vs Ugas
-# Marshall vs Hermans
-
 
 # --------------------------------------------------------------
 # ----------------------------- MMA ----------------------------
@@ -275,7 +276,7 @@ fighter = 'Chan Sung Jung'  # 12.16.2007 Pancrase, 12.10.2011 UFC
 fighter = 'Alexander Gustafsson'
                             # 11.14.2009 UFC 105
                             # 11.17.2007 Shooto Finland
-fighter = "Shane Burgos"    # 11.09.2007
+nfighter = "Shane Burgos"    # 11.09.2007
   # that bellator guys favorite fighter, Michael Chandler
 fighter = 'Rico Verhoeven'  # 02.17.2008 K-1
 fighter = 'Brock Lesner'    # UFC 81  02.02.2008
@@ -478,24 +479,36 @@ fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # Josh Warrington vs Lara DAZN event, the other fights
 # https://boxrec.com/en/event/836382
 # Michael Hunter: Heavyweight American
-# Andy Ruiz Jr. : Heavyweight American
 # Pacman
-# --- Young Bloods ---
+# Young Bloods: Figueroa
 fighter = 'Atif Oberlton' # boxer and fashion designer
 fighter = 'Richard Torrez' # 2020 silver medalist
 fighter = 'Roiman Villa'  # Venezuelan, round 12 2-knockdown comeback
-fighter = 'Brandon Figueroa' # Fulton 2021, Castro 2022 to catchup
-# --- Current ---
-fighter = 'Terence Crawford'
 
-# --- Career Watch ---
+# ---------------------------
+# ------ Career Watch -------
+# ---------------------------
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
+#          Dmitry Bivol      |     1 | Jorge Olivera       | 12.23.2016 |
+fighter = 'Floyd Mayweather Jr.' #|45|                     | 09.14.2013 |
+#          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
+#          Oleksandr Usyk    |     1 | Felipe Romero       | 09.11.2013 |
+#          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
+#          Errol Spence Jr.  |     1 | Jonathan Garcia     | 11.09.2012 |
+#          Naoya Inoue       |     1 | Crison Omayao       | 10.02.2012 |
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
-fighter = 'Floyd Mayweather Jr.' #|45|
+#          Terence Crawford  |     1 | Brian Cummings      | 03.14.2008 |
+#          Gennady Golovkin  |     1 | Gabor Balogh        | 05.06.2006 |
+#          Canelo Álvarez    |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Andre Ward'     # |     1 | Chris Molina        | 12.18.2004 |
+fighter = 'Timothy Bradley'# |     1 | Francisco Martinez  | 08.20.2004 |
+fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
+fighter = 'Naseem Hamed'   # |     1 | Ricky Beard         | 02.14.1992 |
+fighter = 'Lennox Lewis'   # |     1 | Al Malcolm          | 06.27.1989 |
 fighter = 'Bernard Hopkins'# |     1 | Clinton Mitchell    | 10.11.1988 |
 fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
+
 
 # ------------------------------ CLASSIC -------------------------------
 fighter = 'Archie Moore'   # The (Old) Mongoose, Jack Slack likes
@@ -542,17 +555,12 @@ show    = 'The Boxing Beat: ESPN'
 #                 Jose Pedraza vs Julian Rodriguez
 #
 
-fighter = 'Naoya Inoue' # vs Butler ESPN
-fighter = 'Canelo Álvarez'
-fighter = 'Timothy Bradley'
-# listed below 'Terence Crawford', Errol Spence Jr., Teofima Lopez
-# Usyk,  Juan Francisco Estrada
 # Michael Hunter: Heavyweight American
-fighter='Andy Ruiz Jr.'# vs Ortiz , Fox PPV on youtube?
 # Nonito Donaire vs. Nordine Oubaali
 #
-fighter = 'Sebastian Fundora'                # Tall skinny
-fighter = 'Murat Gassiev'                    #  eventually; on DAZN
+# vs. Mike Balogun         | 03.03.2023 |
+# vs. Carlouse Welch       | 08.26.2022 |
+fighter = 'Teófimo López'                    #  11.27.2021 George Kambosos Jr.
 fighter = 'Michael Conlan (boxer)'           #
 fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
@@ -561,19 +569,20 @@ fighter = 'Gary Russell Jr.'                 #  05.18.2019
 # Ortiz Jr. vs Herrera                       #  05.04.2019 DAZN, SFL
 fighter = 'Amir Khan (boxer)'                #  04.20.2019 vs Crawford, EPSN
 fighter = 'Errol Spence Jr.'                 #  03.16.2019
+fighter = 'David Benavidez'                  #  03.16.2019 J'Leon Love
 fighter = 'Leo Santa Cruz'                   #  02.16.2019
 fighter = 'Gervonta Davis'                   #  02.09.2019 # fun, powerful
-fighter = 'Ryan Garcia'                      #
 fighter = 'Adrian Broner'                    #  01.19.2019
 fighter = 'Badou Jack'                       #  01.19.2019
 # - [ ] Josh Warrington vs Carl Frampton     #  12.22.2018
-pfighter = 'Jermall Charlo'                   #  12.22.2018
+fighter = 'Jermall Charlo'                   #  12.22.2018
 fighter = 'Jermell Charlo'                   #  12.22.2018
 fighter = 'Josh Warrington'                  #  12.22.2018 Carl Frampton
 # vs. Lee Selby | 05.19.2018
 fighter = 'Billy Joe Saunders'               #  12.22.2018
 # vs. Chris Eubank Jr. | 11.29.2014
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
+fighter = 'Canelo Álvarez'                   #  12.15.2018 Rocky Fielding
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
@@ -589,6 +598,7 @@ fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
 fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Daniel Dubois (boxer)'            #  10.06.2018
 fighter = 'Artur Beterbiev'                  #  10.06.2018, start 06.08.2013
+
 fighter = 'Jorge Linares'                    #  09.29.2018
 fighter = 'Jerwin Ancajas'                   #  09.29.2018
 fighter = 'Devin Haney'                      #  09.28.2018 2019 on DAZN, YT
@@ -601,14 +611,16 @@ fighter = 'Canelo Álvarez'                   #  09.15.2018 DAZN
 fighter = 'Rom%C3%A1n_Gonz%C3%A1lez_(boxer)' #  09.15.2018  # chocolatito
 fighter = 'Vergil Ortiz Jr.'                 #  09.15.2018 YT no DAZN til 2019
 fighter = 'Jaime Munguía'                    #  09.15.2018 Brandon Cook
-fighter = 'José Ramírez (boxer)'             #  09.14.2018
-fighter = 'Amir Khan (boxer)'                #  09.08.2018 vs Samual Vargas
-# 06.24.2016 Shawn Porter                    #  03.04.2017 vs Danny Garcia
+fighter = 'José Ramírez (boxer)'             #  09.14.2018 Antonio Orozco
+fighter = 'Amir Khan (boxer)'                #  09.08.2018 Samual Vargas
+fighter = 'Juan Francisco Estrada'           #  09.08.2018 Felipe Orucuta
+# 06.24.2016 Shawn Porter                    #  03.04.2017 Danny Garcia
 fighter = 'Shawn Porter'                     #  09.08.2018
 fighter = 'Lewis Ritson'                     #  09.08.2018
-fighter = 'Ryan García'                      #  09.01.2018 YT Morales
+fighter = 'Ryan Garcia'                      #  09.01.2018 YT Carlos Morales
 fighter = 'Carl Frampton'                    #  08.18.2018 Jackson
 fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 7.2019 ESPN
+fighter = 'Joseph Diaz'                      #  08.11.2018 Jesús Rojas
 fighter = 'Sergey Kovalev'                   #  08.05.2018
 # devin alexander vs. aundr bird spence      #  08.05.2018
 fighter = 'Dmitry Bivol'                     #  08.04.2018, start 11.28.2014
@@ -616,7 +628,9 @@ fighter = 'Dmitry Bivol'                     #  08.04.2018, start 11.28.2014
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
 #   Vergil Ortiz Jr. vs. Juan Carlos Salgado
+fighter = 'Sebastian Fundora'                #  08.24.2018 Antonio Urista
 fighter = 'Mikey Garcia'                     #  07.28.2018 Robert Easter Jr.
+
 fighter = 'Dereck Chisora'                   #  07.28.2018 Carlos Takam [DAZN]
 # - [ ] Dillian Whyte vs Dereck Chisora II   #  07.28.2018
 # vs. Dillian Whyte     | 12.10.2016
@@ -641,12 +655,27 @@ fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 # Undercard: Moruti Mthalane vs Muhammad Waseem for the IBF flyweight world
 #  title; Carlos Canizares vs Bin Lu for the WBA super-straweight world title
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN in future?
+fighter = 'Daniel Roman (boxer)'             #  06.16.2018 Moises Flores
 fighter = 'Chris Eubank Jr' # vs Groves      #  02.17.2018   # 09.28.2018
-fighter = 'Joe Joyce (boxer)'                #  10.20.2017
+fighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
+# Gervonta Davis vs Francisco Fonseca         | 08.26.2017
+# Mikey Garcia vs. Adrien Broner              | 07.29.2017
 fighter = 'Keith Thurman'                    #  03.04.2017 # Danny Garcia
+# Artur Beterbiev vs. Isidro Ranoni Prieto    | 12.23.2016
 fighter = 'Joseph Parker'                    #  12.10.2016 Ruiz Jr.
+fighter ='Andy Ruiz Jr.'                     #  12.10.2016 Joseph Parker
+# vs. Ortiz 09.04.2022
+fighter = 'Brandon Figueroa'                 #  10.08.2016 Raymond Chacon
+# vs. Fulton 2021, Castro 2022 to catchup
+fighter = 'Yordenis Ugás'                    #  09.27.2016 Bryant Perrella
 fighter = 'Viktor Postol'                    #  07.23.2016 Terence Crawford
-# ------------------------- 07.14.2018 current -------------------------
+fighter = 'Murat Gassiev'                    #  09.21.2011  Roman Mirzoev
+
+# ----------------------------------
+# ------- 07.14.2018 current -------
+# ----------------------------------
+
+
 
 # --------------------------------------------------------------
 #  INDEX
