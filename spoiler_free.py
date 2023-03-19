@@ -12,9 +12,21 @@ event_bool = False
 # | TODO  |
 # ---------
 # ---------------------------- EVENTS ----------------------------
-# Murat Gassiev vs. Mike Balogun         | 03.03.2023 |
+# 05.20.2023 Devin Haney vs. Vasiliy Lomachenko
+# 04.22.2023 Gervonta "Tank" Davis vs Ryan Garcia
+# 03.18.2023 5 Ramirez vs 24 Rosado
+# 03.11.2023 Pacheco vs Cullen, Daranyi vs Navarrete DAZN
+#            Yoka vs Takam ESPN
+# 03.03.2023 Murat Gassiev vs. Mike Balogun
+# 01.22.2023 Russell vs. Magsayo SHOW
 # NOW: 11.30.2022
 #   - Whyte vs Franklin, DAZN
+ffighter = 'Tony Yoka'
+fighter = 'Adam Azim' # Ed Harrison | 12.02.2020
+fighter = 'Viddal Riley' # 02.11.2023 Anees Taj
+                         # 11.12.2022 Ross McGuigan
+# DAZN
+
 # 02.25 [SHOW] Matias vs. Ponce
 # 02.11 [SHOW] Vargas vs. Foster
 # Naoya Inoue vs. Butler | ESPN | 12.13.2022 |
@@ -35,7 +47,7 @@ event_bool = False
 # Shields vs Marshall
 # Fundora vs Ocampo 10.08.2022
 #
-# Watch: Lomachenko, Ward, Mayweather, Juan Manuel Marquez
+# Watch: Lomachenko, Ward, Mayweather,
 #
 # Mike Tyson, Larry Holmes, Evander Holyfield, Lennox Lewis, George Foreman
 #   Roy Jones Jr., Bernard Hopkins, Joe Frazier
@@ -490,7 +502,7 @@ fighter = 'Roiman Villa'  # Venezuelan, round 12 2-knockdown comeback
 # ---------------------------
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 #          Dmitry Bivol      |     1 | Jorge Olivera       | 12.23.2016 |
-fighter = 'Floyd Mayweather Jr.' #|45|                     | 09.14.2013 |
+fighter = 'Floyd Mayweather Jr.'#|45 |                     | 09.14.2013 |
 #          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
 #          Oleksandr Usyk    |     1 | Felipe Romero       | 09.11.2013 |
 #          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
@@ -503,11 +515,26 @@ fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
 #          Canelo Álvarez    |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Andre Ward'     # |     1 | Chris Molina        | 12.18.2004 |
 fighter = 'Timothy Bradley'# |     1 | Francisco Martinez  | 08.20.2004 |
+fighter = 'Miguel Cotto' #   |     1 | Jason Doucet        | 02.23.2001 |
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
+fighter = 'Juan Manuel Marquez'#| 20 | Cedric Mingosey     | 02.03.1997 |
+fighter = 'Marco Antonio Barrera'#|35| Daniel C. Jimenez   | 03.31.1995 |
+fighter = 'Manny Pacquiao' # |     1 | Edmund E. Ignacio   | 01.22.1995 |
+fighter = 'Pongsaklek Wonjongkam'#|1 | Bernardo J. Davalos | 12.21.1994 |
+fighter = 'Winky Wright'   # |    26 | Julio Cesar Vasquez | 08.21.1994 |
+fighter = 'Shane Mosley'   # |     1 | Greg Puente         | 02.11.1993 |
+fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
 fighter = 'Naseem Hamed'   # |     1 | Ricky Beard         | 02.14.1992 |
+fighter = 'Ricardo López (boxer)'#|27| Hideyuki Ohasi      | 10.25.1990 |
 fighter = 'Lennox Lewis'   # |     1 | Al Malcolm          | 06.27.1989 |
+fighter = 'Roy Jones Jr.' #  |     1 | Ricky Randall       | 05.06.1989 |
+fighter = 'James Toney'    # |     1 | Stephen Lee         | 10.26.1988 |
 fighter = 'Bernard Hopkins'# |     1 | Clinton Mitchell    | 10.11.1988 |
 fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
+fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
+fighter = 'Pernell Whitaker'#|     1 | Farrain Comeaux     | 11.15.1984 |
+
+
 
 
 # ------------------------------ CLASSIC -------------------------------
@@ -523,7 +550,10 @@ fighter = 'Marvin Hagler' # 1973-1987
 # -- other historical --
 fighter = 'Jess Willard'  # tofix
 fighter = 'Zab Judah'     # 1996-2013, 17-19
-# Jack Johnson
+fighter = 'Jack Johnson'
+# -- 90s --
+fighter = 'Felix Trinidad'
+
 # -- Classic Bouts --
 # Andre Berto vs. Victor Ortiz
 # GGG vs. Daniel Jacobs 3.18.2017

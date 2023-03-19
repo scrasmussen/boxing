@@ -11,6 +11,9 @@ def getUrl(fighter):
         exit()
     url = 'https://en.wikipedia.org/wiki/'
     url += fighter.title().replace('(Boxer)','(boxer)')
+    if (fighter == 'Manny Pacquiao'):
+        url = url.removesuffix(fighter)
+        url += 'Boxing career of Manny Pacquiao'
     return url
 
 def get_record(soup, record_type):
