@@ -64,15 +64,18 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 249 boxing matches
+: I have seen 270 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Diego Pacheco vs. Jack Cullen     | 03.11.2023 |                            |
+| Carlos Takam vs. Tony Yoka        | 03.11.2023 |                            |
 | Brandon Figueroa vs. Mark Magsayo | 03.04.2023 | WBC Interm Feather         |
 | Jarrett Hurd vs. Jose Resendiz    | 03.04.2023 |                            |
 | Amilcar Vidal Jr. vs. E. Garcia   | 03.04.2023 | Elijah WBC Latino Middle   |
+| Murat Gassiev vs. Mike Balogun    | 03.03.2023 |                            |
 | Subriel Matias vs. Jeremias Ponce | 02.25.2023 | IBF Super Fly              |
 | John Ramirez vs. Luis Padilla     | 02.23.2023 | Continental Super Fly      |
 | Luis Nery vs. Azat Hovhannisyan   | 02.25.2023 |                            |
@@ -104,7 +107,7 @@ A collection of ideas and history.
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
-| Derek Chisora vs Kubrat Pulev II  | 07.09.2022 |                            |
+| Derek Chisora vs. Kubrat Pulev II | 07.09.2022 |                            |
 | Artur Beterbiev vs. Joe Smith Jr. | 06.18.2022 | WBO, WBC, IBF Light Heavy  |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
@@ -112,17 +115,17 @@ A collection of ideas and history.
 | Gennadiy Golovkin vs. R. Murata   | 04.09.2022 | Ryota, IBF/WBA middle      |
 | Sebastian Fundora vs. E. Lubin    | 04.09.2022 | Erickson WBC S. Welter     |
 | Alexis Rocha vs. Blair Cobbs      | 03.19.2022 |                            |
-| Leigh Wood vs Michael Conlan      | 03.12.2022 |                            |
+| Leigh Wood vs. Michael Conlan     | 03.12.2022 |                            |
 | Josh Taylor vs. Jack Catterall    | 02.26.2022 | WBA/WBC/IBF/WBO light-welt |
 | Nick Campbell vs. Jay McFarlane   | 02.26.2022 | Scottish Heavyweight       |
-| Amir Khan vs Kell Brook           | 02.19.2022 |                            |
+| Amir Khan vs. Kell Brook          | 02.19.2022 |                            |
 | Daniel Jacobs vs. John Ryder      | 02.12.2022 |                            |
 | Claressa Shields vs. Ema Kozin    | 02.05.2022 | WBC, WBA, IBF, WBF mid     |
 | Chris Eubank Jr vs. Liam Williams | 02.05.2022 |                            |
 | Caroline Dubois vs. V. M.         | 02.05.2022 | Vaida Masiokaite           |
 | Carlos Cuadras vs. J. Rodriguez   | 02.05.2022 | Jesse, WBC Super Fly       |
 | Chris Jenkins vs. Julius Indongo  | 02.05.2022 |                            |
-| Robson Conceicao vs X. Martinez   | 01.29.2022 |                            |
+| Robson Conceicao vs. X. Martinez  | 01.29.2022 |                            |
 | Gary Russel Jr. vs. Mark Magsayo  | 01.22.2022 | WBC Featherweight          |
 | Joe Smith Jr. vs. Steve Geffrard  | 01.15.2022 | WBO light heavyweight      |
 | Joseph Parker vs. Dereck Chisora  | 12.18.2021 | WBO IC Heavy               |
@@ -196,7 +199,7 @@ A collection of ideas and history.
 | Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                    |
 | Tyson Fury vs. Otto Wallin        | 09.14.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match               |
-| Oleksandr Usyk vs C. Witherspoon  | 10.12.2019 | Chazz                      |
+| Oleksandr Usyk vs. C. Witherspoon | 10.12.2019 | Chazz                      |
 | G. Golovkin vs. S. Derevyanchenko | 10.05.2019 | Gennadiy, Sergiy, two mids |
 | Jermell Charlo vs. Jorge Cota     | 06.23.2019 |                            |
 | Gennady Golovkin vs. Steve Rolls  | 06.08.2019 |                            |
@@ -227,7 +230,7 @@ A collection of ideas and history.
 | Adonis Stevenson vs. Badou Jack   | 05.19.2018 |                            |
 | Vasiliy Lomachenko vs. J. Linares | 05.12.2018 | Fantastic Fight, Jorge     |
 | Sadam Ali vs. Jamie Munguía       | 05.12.2018 | How good will M. be?       |
-| Rey Vargas vs Azat Hovhannisyan   | 05.12.2018 | H. only throws 3's! ;)     |
+| Rey Vargas vs. Azat Hovhannisyan  | 05.12.2018 | H. only throws 3's! ;)     |
 | Devin Haney vs. Mason Menard      | 05.11.2018 |                            |
 | Gennady Golovkin vs. Martirosyan  | 05.05.2018 | Vanes                      |
 | Tony Bellew vs. David Haye II     | 05.05.2018 | KO cause walking stance    |
@@ -263,7 +266,8 @@ A collection of ideas and history.
 | E. Troyanovsky vs. Keita Obara    | 09.09.2016 | Eduard                     |
 | Errol Spence Jr. vs. Phil Greco   | 06.20.2015 |                            |
 | Deontay Wilder vs. Eric Molina    | 06.13.2015 | WBC heavy                  |
-| Mayweather Jr. vs Manny Pacquiao  | 05.02.2015 |                            |
+| Mayweather Jr. vs. Manny Pacquiao | 05.02.2015 |                            |
+| Floyd Mayweather vs. C. Alvarez   | 09.14.2013 | WBA S. WBC lightmid        |
 | Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
 | Floyd Mayweather vs. R. Guerrero  | 05.04.2013 | Robert                     |
 | Gennady Golovkin vs. G. Rosado    | 01.19.2013 | Gabriel                    |
@@ -271,7 +275,7 @@ A collection of ideas and history.
 | Floyd Mayweather vs. Victor Ortiz | 09.17.2011 | WBC welter                 |
 | Floyd Mayweather vs. Shane Mosley | 05.01.2010 |                            |
 | Floyd Mayweather vs. J.M. Marquez | 09.19.2009 | Juan Manuel                |
-| Manny Pacquaio vs Ricky Hatton    | 05.02.2009 |                            |
+| Manny Pacquaio vs. Ricky Hatton   | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
 | Floyd Mayweather vs. Ricky Hatton | 12.08.2007 | WBC welter                 |
@@ -283,7 +287,9 @@ A collection of ideas and history.
 | Floyd Mayweather vs. Arturo Gatti | 06.25.2005 |                            |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
 | Zab Judah vs. Cosme Rivera        | 05.14.2005 |                            |
+| Andre Ward vs. Kenny Kost         | 02.10.2005 |                            |
 | Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
+| Andre Ward vs. Chris Molina       | 12.18.2004 |                            |
 | Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
 | Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
 | Zab Judah vs. Jaime Rangel        | 12.13.2003 |                            |
@@ -329,7 +335,7 @@ A collection of ideas and history.
 | Buster Douglas vs. Greg Page      | 01.17.1986 |                            |
 | Milton McCrory vs. Donald Curry   | 12.06.1985 |                            |
 | Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | "The War"                  |
-| Carlos Zarate vs Alfonso Zamora   | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
+| Carlos Zarate vs. Alfonso Zamora  | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
 | Muhammed Ali vs. George Foreman   | 10.30.1974 |                            |
 | Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                            |
 | Rocky Marciano vs. Don Cockell    | 05.16.1955 | Tough as Nails: [[5.16.1955][ff.]]        |

@@ -21,7 +21,7 @@ event_bool = False
 # 01.22.2023 Russell vs. Magsayo SHOW
 # NOW: 11.30.2022
 #   - Whyte vs Franklin, DAZN
-ffighter = 'Tony Yoka'
+fighter = 'Tony Yoka'
 fighter = 'Adam Azim' # Ed Harrison | 12.02.2020
 fighter = 'Viddal Riley' # 02.11.2023 Anees Taj
                          # 11.12.2022 Ross McGuigan
@@ -533,6 +533,7 @@ fighter = 'Bernard Hopkins'# |     1 | Clinton Mitchell    | 10.11.1988 |
 fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
 fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
 fighter = 'Pernell Whitaker'#|     1 | Farrain Comeaux     | 11.15.1984 |
+         # Elite, defensive talent
 
 
 
@@ -543,7 +544,6 @@ fighter = 'Buster Douglas'
 fighter = 'Roy Jones Jr.'
 fighter = 'Charley Burley'
 fighter = 'Gene Fullmer'
-fighter = 'Pernell Whitaker' # Elite, defensive talent
 fighter = 'Guillermo Rigondeaux' # ducked?
 fighter = 'Aaron Pryor' # two battles with Alexis Arguello
 fighter = 'Marvin Hagler' # 1973-1987
@@ -611,6 +611,8 @@ fighter = 'Josh Warrington'                  #  12.22.2018 Carl Frampton
 # vs. Lee Selby | 05.19.2018
 fighter = 'Billy Joe Saunders'               #  12.22.2018
 # vs. Chris Eubank Jr. | 11.29.2014
+fighter = 'Diego Pacheco (boxer)'            #  12.22.2018 Luis Gonzalez
+# Exciting tall fighter, learn his style!
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Canelo Álvarez'                   #  12.15.2018 Rocky Fielding
 fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
@@ -699,7 +701,9 @@ fighter = 'Brandon Figueroa'                 #  10.08.2016 Raymond Chacon
 # vs. Fulton 2021, Castro 2022 to catchup
 fighter = 'Yordenis Ugás'                    #  09.27.2016 Bryant Perrella
 fighter = 'Viktor Postol'                    #  07.23.2016 Terence Crawford
-fighter = 'Murat Gassiev'                    #  09.21.2011  Roman Mirzoev
+fighter = 'Carlos Takam'                     #  05.21.2016 Joseph Parker
+# vs. Povetkin 10.24.2014
+fighter = 'Murat Gassiev'                    #  09.21.2011 Roman Mirzoev
 
 # ----------------------------------
 # ------- 07.14.2018 current -------

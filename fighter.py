@@ -35,6 +35,8 @@ def get_record(soup, record_type):
     if (record_type in ['mma', 'boxing']):
         h_table = headers.find_next_sibling()
         row = h_table.find_next_sibling()
+        if row.name == 'div':
+            row = row.find_next_sibling()
         row_text = row.get_text()
         # breakpoint()
 
