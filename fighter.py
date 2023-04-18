@@ -49,19 +49,20 @@ def get_record(soup, record_type):
         row = headers.find_next_sibling()
         row_text = row.get_text()
 
-    # print("ARTLESS")
-    # print(row_text)
+    if ('Record' not in row_text) or ('Opponent' not in row_text):
+        row = row.find_next_sibling()
+        row_text = row.get_text()
+
     if ('Record' in row_text) and ('Opponent' in row_text):
         table = pd.read_html(row.prettify())[0]
         if (record_type == 'kickboxing'):
             table.columns = kickboxing_columns
             table = table[2:]
-            print(table)
         record = table[columns].copy().dropna()
 
         # fix date
         if (record_type != 'kickboxing'):
-            new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
+            new_date = pd.to_datetime(record['Date'], errors='coerce').dt.strftime('%m.%d.%Y')
             record.loc[:,'Date'] = new_date
         else:
             drop_index = record[record.Event == record.Date].index
