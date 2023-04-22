@@ -12,6 +12,11 @@ event_bool = False
 # | TODO  |
 # ---------
 # how to watch boxing in 2023: the ring
+# --------------------------- TRAINING ---------------------------
+# Salvador Sanchez
+# Alexis Arguello
+# Roberto Duran
+# Tommy Hearns
 # ---------------------------- EVENTS ----------------------------
 # 05.20.2023 Devin Haney vs. Vasiliy Lomachenko
 # 04.22.2023 Gervonta "Tank" Davis vs Ryan Garcia
@@ -561,6 +566,13 @@ fighter = 'George Foreman' # |     1 | Donald Walheim      | 06.23.1969 |
 fighter = 'Joe Frazier'    # |     1 | Woody Goss          | 08.16.1965 |
 fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 #------------------------------------------------------------------------
+# add these Mexican Boxers
+# Salvador Sanchez
+# Alexis Arguello
+# Roberto Duran
+# Ricardo Lopez
+# Julio Cesar Chavez
+# Ruben Oliveira
 
 #-----------------------------
 #----- Full Career Watch -----
