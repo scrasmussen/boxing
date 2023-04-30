@@ -70,6 +70,7 @@ A collection of ideas and history.
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| William Zepeda vs. Jaime Arboleda | 04.29.2023 |                            |
 | Joy Joyce vs. Zhilei Zhang        | 04.15.2023 | WBO int. heavy             |
 | Mikaela Meyers vs. Lucy Wildheart | 04.15.2023 |                            |
 | Moses Itauma vs. K. Dovbyshchenko | 04.15.2023 | Kostiantyn                 |
@@ -295,6 +296,7 @@ A collection of ideas and history.
 | Mayweather Jr. vs. Manny Pacquiao | 05.02.2015 |                            |
 | Floyd Mayweather vs. M. Maidana   | 09.13.2014 | Marcus, II                 |
 | Floyd Mayweather vs. M. Maidana   | 05.03.2014 | Marcus, WBA, WBC welter    |
+| Vasiliy Lomachenko vs. J. Ramirez | 10.12.2013 | Jose                       |
 | Floyd Mayweather vs. C. Alvarez   | 09.14.2013 | WBA S. WBC lightmid        |
 | Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
 | Floyd Mayweather vs. R. Guerrero  | 05.04.2013 | Robert                     |

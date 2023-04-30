@@ -7,6 +7,58 @@ event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
+# | HATCH |
+# ---------
+# Jack Dempsey and his Championship Fighting
+# Salvador Sanchez
+# Alexis Arguello
+# Andre Ward
+# Vasiliy Lomachenko
+# Eder Jofre
+# Seniesa Estrada
+# Rocky Marciano
+#  vs Joe Louis
+#  vs Ezzard Charles
+# Ryan Garcia
+# Tony Bellew
+# Andre Berto
+# Earnie Shavers
+# Sugar Ray Robinson
+# Marvin Hagler
+# Harold Johnson (boxer)
+# Tommy Dix
+# Robson Conceicao
+# Montell Griffin
+# Paul Williams (boxer)
+# James Toney
+# Joe Joyce
+# Daniel Dubois
+# Shane McGuigan
+# Jorge Linares vs Luke Campbell 2019
+# Kell Brook
+#
+# =contemporary=
+# Jesse 'Bam' Rodriguez vs Gonzalez
+#
+# =Trainer=
+# Don Turner
+# Emanuel Steward: Kronk Gym
+# Eddie Futch
+# James Ali Bashi: Usyk's former trainer
+#
+# =MMA/Kickboxing=
+# Bas Rutten, liver rupture kick
+#
+# =Writers=
+# A.J. Liebling
+# Tris Dixon
+# Rachel Charles: promoter, daughter and ex-wife of drummers
+# Jerry Izenberg
+# Montell "Ice" Griffin: The Ice Life
+#
+#
+#
+# ---------
 # | INDEX |
 # ---------
 # | TODO  |
@@ -698,7 +750,7 @@ fighter = 'Shakur Stevenson'                 #  08.18.2018 YT post 7.2019 ESPN
 fighter = 'Joseph Diaz'                      #  08.11.2018 Jesús Rojas
 fighter = 'Sergey Kovalev'                   #  08.05.2018
 # devin alexander vs. aundr bird spence      #  08.05.2018
-ffighter = 'Dmitry Bivol'                     #  08.04.2018, start 11.28.2014
+fighter = 'Dmitry Bivol'                     #  08.04.2018, start 11.28.2014
 # Kovalev vs. Eleidar Alvarez
 # April-June 2018 on DAZN:
 #   Buatsi vs. Cuevas, Munguia vs. Ali, Okolie vs. Watkins
