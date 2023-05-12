@@ -102,6 +102,8 @@ fighter = 'Zhilei Zhang' # ---
 # Eubank vs Smith ~ Jan 21 [DAZN] 2 other goood fights
 # Lubin vs Fundora [SBOX]
 # Fundora vs Ocampo 10.08.2022
+# Frazer Clarke
+# Karriss Artingstall 05.27.2023, update wiki, Okolie vs. Billam-Smith under
 #
 # Mike Tyson, Larry Holmes, Evander Holyfield, Lennox Lewis, George Foreman
 #   Roy Jones Jr., Bernard Hopkins, Joe Frazier
@@ -137,8 +139,7 @@ fighter = 'Zhilei Zhang' # ---
 #   - Lomachenko vs Commey ESPN 12.11.2021
 fighter = 'Román_González_(boxer)'
 fighter = 'Srisaket Sor Rungvisai'
-fighter = 'Melissa St. Vil'
-fighter = 'Caroline Dubois'
+
 
 #
 # Ricardo Cervantez, dad is Rico from Martinez, CA
@@ -568,6 +569,7 @@ fighter = 'Brandun Lee'    # | Diego Luque        | 01.07.2023 |
 # ------ Career Watch -------
 # ---------------------------
 #------------------------------------------------------------------------
+fighter='Caroline Dubois (boxer)'# |1| Vaida Masiokaite    | 02.05.2022 |
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 #          Dmitry Bivol      |     1 | Jorge Olivera       | 12.23.2016 |
 #          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
@@ -580,6 +582,7 @@ fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
 #          Terence Crawford  |     1 | Brian Cummings      | 03.14.2008 |
+fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 #          Canelo Álvarez    |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Andre Ward'     # |     3 | Roy Ashworth        | 04.07.2005 |
@@ -618,6 +621,12 @@ fighter = 'George Foreman' # |     1 | Donald Walheim      | 06.23.1969 |
 fighter = 'Joe Frazier'    # |     1 | Woody Goss          | 08.16.1965 |
 fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 #------------------------------------------------------------------------
+# add these Female Boxers
+# Claressa Shields
+# Alycia Baumgardner
+# Katie Taylor
+# Caroline Dubois (boxer)
+
 # add these Mexican Boxers
 # Salvador Sanchez
 # Alexis Arguello
@@ -625,6 +634,16 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 # Ricardo Lopez
 # Julio Cesar Chavez
 # Ruben Oliveira
+
+# add these great boxers
+# Emile Griffith
+#
+# Misc Boxers
+# Michael Bentt
+# man who would punch behind-the-back
+#
+# The Sweet Science: A.J. Liebling
+# Archie Moore vs Johnson
 
 #-----------------------------
 #----- Full Career Watch -----
@@ -758,6 +777,8 @@ fighter = 'Dmitry Bivol'                     #  08.04.2018, start 11.28.2014
 fighter = 'Sebastian Fundora'                #  08.24.2018 Antonio Urista
 fighter = 'Mikey Garcia'                     #  07.28.2018 Robert Easter Jr.
 
+
+
 fighter = 'Dereck Chisora'                   #  07.28.2018 Carlos Takam [DAZN]
 # - [ ] Dillian Whyte vs Dereck Chisora II   #  07.28.2018
 # vs. Dillian Whyte     | 12.10.2016
@@ -788,6 +809,8 @@ fighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
 # Gervonta Davis vs Francisco Fonseca         | 08.26.2017
 fighter = 'Savannah Marshall'                #  08.26.2017 Sydney LeBlanc
 # Mikey Garcia vs. Adrien Broner              | 07.29.2017
+fighter = 'Lawrence Okolie'                  #  03.25.2017 | Geoffrey Cave
+   # was 20 before watching the Olympics and deciding he wanted to do that
 fighter = 'Keith Thurman'                    #  03.04.2017 # Danny Garcia
 # Artur Beterbiev vs. Isidro Ranoni Prieto    | 12.23.2016
 fighter = 'Joseph Parker'                    #  12.10.2016 Ruiz Jr.
