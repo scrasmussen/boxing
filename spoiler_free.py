@@ -40,6 +40,9 @@ event_bool = False
 # =contemporary=
 # Jesse 'Bam' Rodriguez vs Gonzalez
 #
+# Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
+# Calzaghe, and then Naseem Hamed
+#
 # =Trainer=
 # Don Turner
 # Emanuel Steward: Kronk Gym
@@ -56,6 +59,7 @@ event_bool = False
 # Jerry Izenberg
 # Montell "Ice" Griffin: The Ice Life
 #
+# Fader vs Big Foot Silva
 #
 #
 # ---------
@@ -366,7 +370,7 @@ fighter = 'Karo Parisyan'   # UFC 09.26.2003 Was good, pain meds ruined him
 fighter = 'Clay Guida'      # 07.26.2003 Adam Copenhaver
 fighter = 'Forrest Griffin' # 10.27.2001
 fighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
-fighter = 'Georges St-Pierre' # UFC 46  01.31.2004
+ffighter = 'Georges St-Pierre' # UFC 46  01.31.2004
 #                               UCC in  01.25.2002
 # --- WEC 2 --- on FP 10.04.2001
 fighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
@@ -611,6 +615,7 @@ fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
 fighter = 'Pernell Whitaker'#|     1 | Farrain Comeaux     | 11.15.1984 |
          # Elite, defensive talent
 fighter = 'Julio César Chávez'#|  33 | Jerry Lewis         | 10.23.1982 |
+fighter = 'Larry Holmes'   # |    28 | Ken Nortan          | 06.11.1982 |
 fighter = 'Thomas Hearns'  # |     1 | Jerome Hill         | 11.25.1977 |
 fighter = 'Sugar Ray Leonard'#|    1 | Luis Vega           | 02.05.1977 |
 fighter = 'Aaron Pryor'    # |     1 | Larry Smith         | 11.12.1976 |
@@ -621,6 +626,7 @@ fighter = 'George Foreman' # |     1 | Donald Walheim      | 06.23.1969 |
 fighter = 'Joe Frazier'    # |     1 | Woody Goss          | 08.16.1965 |
 fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 #------------------------------------------------------------------------
+
 # add these Female Boxers
 # Claressa Shields
 # Alycia Baumgardner
@@ -628,7 +634,7 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 # Caroline Dubois (boxer)
 
 # add these Mexican Boxers
-# Salvador Sanchez
+ffighter = 'Salvador Sánchez'
 # Alexis Arguello
 # Roberto Duran
 # Ricardo Lopez
@@ -729,7 +735,9 @@ fighter = 'Diego Pacheco (boxer)'            #  12.22.2018 Luis Gonzalez
 # Exciting tall fighter, learn his style!
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Canelo Álvarez'                   #  12.15.2018 Rocky Fielding
-fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
+ffighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
+
+
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
 fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube

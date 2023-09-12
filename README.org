@@ -64,13 +64,36 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 301 boxing matches
+: I have seen 326 boxing matches
+
+Carty vs McFarlane
+Agyarko vs Dennis
+Hogan vs Metcalf
+Cully vs Felix Jr.
+Katie Taylor vs Chantelle Cameron
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Inoue vs. Fulton                  |            |                            |
+| Usyk vs. Dubois                   |            |                            |
+| Billiam-Smith vs. Okolie          |            |                            |
+| Lopez vs. Conlan                  |            |                            |
+| Wood vs. Lara II                  |            |                            |
+| Gardina vs. Rachomov plus card    |            |                            |
+| Shields vs Cornejo                |            |                            |
+| Ramirez                           |            |                            |
+| ADD ABOVE                         |            |                            |
+| Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle undis sup light  |
+| Gary Cully vs. Jose Felix Jr.     | 05.20.2023 |                            |
+| Dennis Hogan vs. James Metcalf    | 05.20.2023 |                            |
+| Caoimhin Agyarko vs. Grant Dennis | 05.20.2023 |                            |
+| Thomas Carty vs. Jay McFarlane    | 05.20.2023 |                            |
+| Rolando Romero vs. Ismael Barroso | 05.13.2023 | WBA Junior Welter          |
+| Nawid Zaman vs. Miguel M. M.      | 05.13.2023 | Mendoza Melquiades         |
 | William Zepeda vs. Jaime Arboleda | 04.29.2023 |                            |
+| Gervonta Davis vs. Ryan Garcia    | 04.22.2023 |                            |
 | Joy Joyce vs. Zhilei Zhang        | 04.15.2023 | WBO int. heavy             |
 | Mikaela Meyers vs. Lucy Wildheart | 04.15.2023 |                            |
 | Moses Itauma vs. K. Dovbyshchenko | 04.15.2023 | Kostiantyn                 |
@@ -220,6 +243,7 @@ A collection of ideas and history.
 | Robeisy Ramirez vs. Yeuri Andujar | 06.09.2020 |                            |
 | Quatavious Cash vs. C. Metcalf    | 06.09.2020 | Calvin                     |
 | Tyson Fury vs. Deontay Wilder     | 02.22.2020 | II                         |
+| Ryan Garcia vs. Romero Duno       | 11.02.2019 | Silver Light               |
 | Josh Warrington vs. S. Takoucht   | 10.12.2019 | Sofiane                    |
 | Tyson Fury vs. Otto Wallin        | 09.14.2019 |                            |
 | Anthony Joshua vs. Andy Ruiz Jr.  | 12.07.2019 | Second Match               |
@@ -365,8 +389,13 @@ A collection of ideas and history.
 | Buster Douglas vs. Greg Page      | 01.17.1986 |                            |
 | Milton McCrory vs. Donald Curry   | 12.06.1985 |                            |
 | Marvin Hagler vs. Tomy Hearns     | 04.15.1985 | *"The War"*                |
+| Larry Holmes vs. Gerry Cooney     | 06.11.1982 | WBC Heavy                  |
+| Gerry Cooney vs. Ken Norton       | 05.11.1981 |                            |
+| Gerry Cooney vs. Ron Lyle         | 10.24.1980 |                            |
 | Thomas Hearns vs. Pipino Cuevas   | 08.02.1980 | WBA welter                 |
 | Sugar Ray Leonard vs R. Duran     | 06.20.1980 | Roberto, WBC welter        |
+| Gerry Cooney vs. Jimmy Young      | 05.25.1980 |                            |
+| Salvador Sánchez vs. Danny Lopez  | 02.02.1980 | WBC Feather                |
 | Carlos Zarate vs. Alfonso Zamora  | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
 | Muhammed Ali vs. George Foreman   | 10.30.1974 |                            |
 | Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                            |
@@ -419,7 +448,7 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 171 fight cards and 56 additional fights
+: I have seen 171 fight cards and 57 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
@@ -658,6 +687,7 @@ Sherrif jumps into the ring and stops the fight
 | Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]             |
 | Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                  |
 | Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003    |
+| Georges St-Pierre vs. Ivan Menjivar  | 01.25.2002 | UCC 7                   |
 | Ken Shamrock vs. Bas Rutten          | 03.10.1995 | Pacrase [[03.10.1995][ff.]]             |
 |--------------------------------------+------------+-------------------------|
 
@@ -708,9 +738,9 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 
 
-* Kickboxing
+* Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 2 kickboxing events and 9 matches
+: I have seen 2 kickboxing events and 11 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -725,6 +755,8 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------------------+------------+------------------------------|
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
+| Akram Hamidi vs. Jamhod        | 06.23.2023 | ONE Lumpinee 22              |
+| Thongpoon vs. Yangdam          | 06.23.2023 | ONE Lumpinee 22              |
 | Badr Hari vs. Alistair Overeem | 10.08.2022 | Glory: Collision 4           |
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
 | Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
@@ -744,13 +776,14 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 
 * Grappling
 #+RESULTS: grappling-report
-: I have seen 12 grappling events and 1 matches
+: I have seen 13 grappling events and 1 matches
 
 ** Events
 #+NAME:grapplingEvents
 |-------------------------+------------+---------|
 | *Event*                 |     *Date* | *Notes* |
 |-------------------------+------------+---------|
+| QUINTET 4               | 09.10.2023 |         |
 | ADCC World Championship | 09.18.2022 |         |
 | QUINTET Fight Night 7   | 07.13.2021 |         |
 | QUINTET Fight Night 6   | 03.21.2021 |         |
