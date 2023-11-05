@@ -64,7 +64,7 @@ A collection of ideas and history.
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 326 boxing matches
+: I have seen 327 boxing matches
 
 Carty vs McFarlane
 Agyarko vs Dennis
@@ -449,12 +449,19 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 171 fight cards and 57 additional fights
+: I have seen 178 fight cards and 57 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 289                   | 06.10.2023 | Nunes vs. Aldana              |
+| UFC 288                   | 05.06.2023 | Sterling vs. Cejudo           |
+| UFC 287                   | 04.08.2023 | Pereira vs. Adesanya II       |
+| UFC 286                   | 03.18.2023 | Edwards vs. Usman III         |
+| UFC 285                   | 03.04.2023 | Jones vs. Gane                |
+| UFC 284                   | 02.12.2023 | Makhachev vs. Volkanovski     |
+| UFC 283                   | 01.21.2023 | Teixeira vs. Hill             |
 | UFC 282                   | 12.10.2022 | Blachowicz vs. Ankalaev       |
 | UFC 281                   | 11.12.2022 | Adesanya vs. Pereira          |
 | UFC 280                   | 10.22.2022 | Oliveira vs. Makhachev        |
