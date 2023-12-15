@@ -455,6 +455,7 @@ Sherrif jumps into the ring and stops the fight
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 290                   | 07.08.2023 | Volkanovski vs. Rodriguez     |
 | UFC 289                   | 06.10.2023 | Nunes vs. Aldana              |
 | UFC 288                   | 05.06.2023 | Sterling vs. Cejudo           |
 | UFC 287                   | 04.08.2023 | Pereira vs. Adesanya II       |
