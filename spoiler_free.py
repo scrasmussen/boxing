@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-event_bool = False
+# event_bool = False
 
 # Gene Fullmer : the Mormon Mauler
 # ---------
@@ -370,7 +370,7 @@ fighter = 'Karo Parisyan'   # UFC 09.26.2003 Was good, pain meds ruined him
 fighter = 'Clay Guida'      # 07.26.2003 Adam Copenhaver
 fighter = 'Forrest Griffin' # 10.27.2001
 fighter = 'Lyoto Machida'   # UFC 67  02.03.2007, 2003 before
-ffighter = 'Georges St-Pierre' # UFC 46  01.31.2004
+fighter = 'Georges St-Pierre' # UFC 46  01.31.2004
 #                               UCC in  01.25.2002
 # --- WEC 2 --- on FP 10.04.2001
 fighter = 'Antônio Rodrigo Nogueira'# 07.29.2001 Pride 15, later UFC 73 2001
@@ -422,12 +422,12 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        ADCC        :   .  .1998
 #        Pride       : 10.11.1997  Pride 1
 #        UFC         : 09.20.1996  UFC 11
+#        K-1         : 1995 Five Events
+#        Pancrase    : 1995 Eyes of Beast 1-7 & Neo-Blood Tournament
+#        Pancrase    : 12.1[6-7].1994 King of Pancrase
 #        K-1         : 12.10.1994  Legend
 #        Pancrase    : 10.15.1994  Road to the Championship 5
-#        K-1         : 09.18.1994  Revenge
-#        Pancrase    : 09.01.1994  Road to the Championship 4
-#        Pancrase    : 07.26.1994  Road to the Championship 3
-#    *   Pancrase    : 07.06.1994  Road to the Championship 2
+#    *   K-1         : 09.18.1994  Revenge
 #
 #
 
@@ -449,9 +449,9 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 # --------------------
 # --- young bloods ---
 # --------------------
-fighter = 'Loma Lookboonmee' # fixed; last fight on espn
-fighter = 'Paddy Pimblett'
+fighter = 'Loma Lookboonmee'
 # first thai fighter to sign with ufc, had that one match a few before
+fighter = 'Paddy Pimblett'
 fighter = 'youssef zalal'   #         02.08.2020, lfa 22 09.08.2017
 fighter = 'jimmy crute'     #         07.24.2018
 fighter = 'antonina shevchenko' #     06.26.2018
@@ -634,7 +634,7 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 # Caroline Dubois (boxer)
 
 # add these Mexican Boxers
-ffighter = 'Salvador Sánchez'
+fighter = 'Salvador Sánchez'
 # Alexis Arguello
 # Roberto Duran
 # Ricardo Lopez
@@ -684,6 +684,13 @@ fighter = 'Jack Johnson'
 show = 'The Boxing Beat: ESPN'
 # https://www.theguardian.com/sport/2021/may/27/\
 # time-to-find-out-who-cares-boxing-brain-damage-tris-dixon
+
+# -- notes added 2024
+# FINISH WATCHING When We Were Kings
+# WEC 47: Bowles vs. Cruz
+# Ken Norton: great heavy weight boxer in 70s
+# mma fighter: Beneil Dariush
+# Pereira as kickboxer
 
 # -- from 2021
 # Watch Vasiliy Lomachenko vs. Teofima Lopez again
@@ -735,7 +742,7 @@ fighter = 'Diego Pacheco (boxer)'            #  12.22.2018 Luis Gonzalez
 # Exciting tall fighter, learn his style!
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Canelo Álvarez'                   #  12.15.2018 Rocky Fielding
-ffighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
+fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 
 
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
@@ -749,7 +756,7 @@ fighter = 'Josh Taylor (boxer)'              #  11.03.2018 Ryan Martin
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
 fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
-fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
+ffighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Daniel Dubois (boxer)'            #  10.06.2018
 fighter = 'Artur Beterbiev'                  #  10.06.2018, start 06.08.2013
 
@@ -858,6 +865,7 @@ fighter = 'Murat Gassiev'                    #  09.21.2011 Roman Mirzoev
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 
+event = "https://www.tapology.com/fightcenter/events/66965-k-1-revenge-94"
 
 fighter_name = fighter
 # allows easy access to fighters near the top

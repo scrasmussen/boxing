@@ -449,12 +449,17 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 178 fight cards and 57 additional fights
+: I have seen 181 fight cards and 58 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 295                   | 11.11.2023 | Prochazka vs. Pereira         |
+| UFC 294                   | 10.21.2023 | Makhachev vs. Volkanovski II  |
+| UFC 293                   | 09.10.2023 | Adesanya vs. Strickland       |
+| UFC 292                   | 08.19.2023 | Sterling vs. O'Malley         |
+| UFC 291                   | 07.29.2023 | Poirier vs. Gaethje II        |
 | UFC 290                   | 07.08.2023 | Volkanovski vs. Rodriguez     |
 | UFC 289                   | 06.10.2023 | Nunes vs. Aldana              |
 | UFC 288                   | 05.06.2023 | Sterling vs. Cejudo           |
@@ -624,6 +629,9 @@ Sherrif jumps into the ring and stops the fight
 | UFC 5                     | 04.07.1995 | The Return of the Beast       |
 | UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
 | UFC 3                     | 09.09.1994 | The American Dream            |
+| Pancrase: Road to the     | 05.13.1995 | Championship 4                |
+| Pancrase: Road to the     | 07.26.1994 | Championship 3                |
+| Pancrase: Road to the     | 07.06.1994 | Championship 2                |
 | Pancrase: Road to the     | 05.31.1994 | Championship 1                |
 | Pancrase: Pancrash! 3     | 04.21.1994 |                               |
 | UFC 2                     | 03.11.1994 | No Way Out                    |
@@ -641,6 +649,7 @@ Sherrif jumps into the ring and stops the fight
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Chris Weidman vs. Brad Tavares       | 08.19.2023 | UFC 292: Prelims        |
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
 | Nong-O vs. Liam Harrison             | 08.27.2022 | One on Prime Video 1    |
 | Panpayak Jitmuangnon vs. S. Michael  | 08.27.2022 | One on Prime Video 1    |
@@ -1470,8 +1479,10 @@ Adam Booth: British boxing trainer
 Andy Lee
 Emanuel Steward
 Boxing Training
-
-
+*** add somewhere: Ken Shamrock vs. Bas Rutten cool spin
+03.10.1995
+Eyes of the Beast 2
+Very cool spin to get into kneebar
 ** Coaches
 Barry Robinson (boxer)
 Kevin Ross (kickboxer)
@@ -1485,15 +1496,22 @@ Denver
 | Andy Hug vs. Minoru Fujita | 06.25.1993 | K-1 Sanctuary III, Round 1 |
 |----------------------------+------------+----------------------------|
 ** Standing Submission
-*** Isaiah Gutierrez vs. Keeton Gorton
- 01.14.2022  LFA 121
+|------------------------------------+------------+---------|
+| Isaiah Gutierrez vs. Keeton Gorton | 01.14.2022 | LFA 121 |
+|------------------------------------+------------+---------|
 ** Best of
 *** [[https://bleacherreport.com/articles/1767697-the-9-best-pride-fights-of-all-time][Best of Pride Fights]]
-
-** Streaming Services
-Asian Boxing Raise
 ** Boxing News
 *** [[https://www.boxingnewsonline.net/top-10-oleksandr-usyk-wins/][Top 10 Oleksandr Usyk Wins]]
+
+
+** Weird Events
+*** Japanese Ref doing odd things to help fighters
+Very big Heimlick-ish movement
+|-----------+------------+----------------------------|
+| Pancrase  | 07.26.1994 | Road to the Championship 3 |
+| Pancrease |            | another earlier event      |
+|-----------+------------+----------------------------|
 
 
 
