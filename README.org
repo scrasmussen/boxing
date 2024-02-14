@@ -12,10 +12,12 @@ A collection of ideas and history.
 *** MMA Events Seen
 #+NAME: mma-events-seen
 #+BEGIN_SRC emacs-lisp :var table1=mmaEvents table2=mmaFights
-(concat "I have seen " (number-to-string (- (length table1) 1) )
+(concat "I have seen " (number-to-string (- (length table1) 2) )
 " fight cards and "    (number-to-string (- (length table2) 1) )
 " additional fights")
 #+END_SRC
+
+Note: -1 for the header and -1 for the canceled event
 *** Grappling Matches Seen
 #+NAME: grappling-report
 #+BEGIN_SRC emacs-lisp :var table1=grapplingEvents table2=grapplingMatches
@@ -76,15 +78,14 @@ Katie Taylor vs Chantelle Cameron
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
-| Inoue vs. Fulton                  |            |                            |
-| Usyk vs. Dubois                   |            |                            |
-| Billiam-Smith vs. Okolie          |            |                            |
-| Lopez vs. Conlan                  |            |                            |
-| Wood vs. Lara II                  |            |                            |
-| Gardina vs. Rachomov plus card    |            |                            |
-| Shields vs Cornejo                |            |                            |
-| Ramirez                           |            |                            |
-| ADD ABOVE                         |            |                            |
+| Zhilei Zhang vs. joe Joyce        | 09.23.2023 | WBO interm Heavy           |
+| Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
+| Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
+| Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
+| Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
+| Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
+| Chris Billiam-Smith vs. L. Okolie | 05.27.2023 | Lawrence, WBO cruiser      |
+| John Ramirez vs. Fernando Diaz    | 05.27.2023 |                            |
 | Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle undis sup light  |
 | Gary Cully vs. Jose Felix Jr.     | 05.20.2023 |                            |
 | Dennis Hogan vs. James Metcalf    | 05.20.2023 |                            |
@@ -94,6 +95,11 @@ Katie Taylor vs Chantelle Cameron
 | Nawid Zaman vs. Miguel M. M.      | 05.13.2023 | Mendoza Melquiades         |
 | William Zepeda vs. Jaime Arboleda | 04.29.2023 |                            |
 | Gervonta Davis vs. Ryan Garcia    | 04.22.2023 |                            |
+| Joe Gardina vs. S. Rachomov       | 04.22.2023 | Shavkatdzhon. IBF sup. f.  |
+| Sandy Ryan vs. Marie-Pier Houle   | 04.22.2023 | WBO welter                 |
+| Gavin Gwynne vs. Craig Woodruff   | 04.22.2023 | British Light              |
+| Zelfa Barrett vs. Jason Sanchez   | 04.22.2023 | WBA Con. Sup. Feather      |
+| Jordan Thompson vs. Luke Watkins  | 04.22.2023 | IBF Euro cruiser           |
 | Joy Joyce vs. Zhilei Zhang        | 04.15.2023 | WBO int. heavy             |
 | Mikaela Meyers vs. Lucy Wildheart | 04.15.2023 |                            |
 | Moses Itauma vs. K. Dovbyshchenko | 04.15.2023 | Kostiantyn                 |
@@ -449,12 +455,15 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 181 fight cards and 58 additional fights
+: I have seen 191 fight cards and 59 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC Fight Night 236       | 02.10.2024 | Hermansson vs. Pyfer          |
+| UFC Fight Night 236: Pre  | 02.10.2024 | Hermansson vs. Pyfer          |
+| UFC 296                   | 12.16.2023 | Edwards vs. Covington         |
 | UFC 295                   | 11.11.2023 | Prochazka vs. Pereira         |
 | UFC 294                   | 10.21.2023 | Makhachev vs. Volkanovski II  |
 | UFC 293                   | 09.10.2023 | Adesanya vs. Strickland       |
@@ -608,6 +617,8 @@ Sherrif jumps into the ring and stops the fight
 | UFC 235                   | 03.02.2019 | Jones vs. Smith               |
 | UFC 235: Prelims          | 03.02.2019 |                               |
 | UFC 234                   | 02.10.2019 | Adesanya vs. Silva            |
+| UFC 233: Canceled         | 01.26.2019 | Cejudo vs. Dillasha           |
+| UFC 232                   | 12.29.2018 | Jones vs. Gustafsson II       |
 | UFC 229                   | 08.06.2018 | Khabib vs. McGregor           |
 | UFC 226                   | 07.07.2018 | Miocic vs. Cormier            |
 | UFC 203                   | 09.10.2016 | Miocic vs. Overeem            |
@@ -705,6 +716,7 @@ Sherrif jumps into the ring and stops the fight
 | Todd Duffee vs Tim Hague             | 08.29.2009 | UFC 102 [[08.29.2009][ff.]]             |
 | Lyoto Machida vs. Sam Hoger          | 02.03.2007 | UFC 67                  |
 | Giant Silva vs. Heath Herring        | 12.31.2003 | Pride Shockwave 2003    |
+| Alistair Overeem vs. Chuck Liddell   | 08.10.2003 | PRIDE 2003 GP Q-Final   |
 | Georges St-Pierre vs. Ivan Menjivar  | 01.25.2002 | UCC 7                   |
 | Ken Shamrock vs. Bas Rutten          | 03.10.1995 | Pacrase [[03.10.1995][ff.]]             |
 |--------------------------------------+------------+-------------------------|
@@ -765,6 +777,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------+------------+-----------------------|
 | *Event*            |     *Date* | *Notes*               |
 |--------------------+------------+-----------------------|
+| K-1 Revenge        | 09.18.1994 |                       |
 | K-1 Grand Prix '94 | 04.30.1994 |                       |
 | K-1 Grand Prix '93 | 04.20.1993 | Tournament, Inaugural |
 |--------------------+------------+-----------------------|

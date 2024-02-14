@@ -5,7 +5,68 @@ import fightEvent as fe
 event_bool = True
 # event_bool = False
 
+# --------
+# | 2024 |
+# --------
+# Joshua vs. Ngannou
+# Shields vs. Kelsey DeSantis 02.24.2024 | PFL
+
 # Gene Fullmer : the Mormon Mauler
+#
+# Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
+# Calzaghe, and then Naseem Hamed
+#
+# --------
+# | 2023 |
+# --------
+# At 06.10.2023
+# Sunny Edwards vs Andres Camposa [DAZN]
+# Josh Taylor vs Tiofima Lopez [ESPN]
+# Jaime Munguia vs. Sergiy Derevyanchenko [DAZN]
+# --- Best Of ---
+# | Callum Smith vs. Artur Beterbiev  | 01.13.2024 |
+# | Nayoa Inoue vs. Marlon Tapales    | 12.26.2023 |
+# | Anthony Joshua vs. Otto Wallin    | 12.23.2023 |
+# | Deontay Wilder vs. Joseph Parker  | 12.23.2023 |
+# | Tyson Fury vs. Francis Ngannou    | 10.28.2023 |
+# | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | [X]
+# | Nayoa Inoue vs. Stephen Fulton    | 07.25.2023 |
+# | Terence Crawford vs. Errol Spence | 07.29.2023 |
+# | Claressa Shields vs. Maricela Cornejo | 06.03.2023 |
+# | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 |
+
+# --------------- top fights plus a few ------------------
+# --------------------------------------------------------
+# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 |
+# | Devil Haney vs. Regis Prograis          | 12.09.2023 |
+# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 |
+# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 |
+# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | DAZN probs
+# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 |
+# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | DAZN *
+# | Devil Haney vs. Vasiliy Lomachenko      | 05.20.2023 |
+# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 |
+# | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 |
+# | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 |
+# | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 |
+# --------------------------------------------------------
+# --- Young Bloodz ---
+# Moses Itauma, Abdullah Mason, Ben Whittaker, Curmel Moton, Elijah Garcia
+# --------------------
+# Book: Tales of Pugilism
+
+# just random fights
+# | Emanuel Navarrete vs. Robson Conceição           | 11.16.2023 |
+# | Robeisy Ramirez vs. Satoshi Shimizu         | 07.25.2023 |
+# | Sunny Edwards vs. Andres Campos          | 06.10.2023 |
+# | Robeisy Ramirez vs. Isaac Dogboe            | 04.01.2023 |
+# |  Anthony Yard vs. Jorge Silva             | 09.23.2023 |
+#fighter = 'Robeisy Ramirez'
+#fighter = 'Sunny Edwards'
+
+
+#
+#
 # ---------
 # | HATCH |
 # ---------
@@ -39,9 +100,6 @@ event_bool = True
 #
 # =contemporary=
 # Jesse 'Bam' Rodriguez vs Gonzalez
-#
-# Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
-# Calzaghe, and then Naseem Hamed
 #
 # =Trainer=
 # Don Turner
@@ -96,7 +154,6 @@ fighter = 'Viddal Riley' # 02.11.2023 | Anees Taj
 # 04.02.2022 Marshall vs Hermans [SKY]
 fighter = 'Hannah Rankin' # 09.25.2022 | Terri Harper
         # one-woman symphony: The Ring article
-fighter = 'Zhilei Zhang' # ---
 
 
 # - pay attention for: Pacheco
@@ -413,8 +470,9 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 # ---------- 1990s -------------
 
 # ----------------------------------------------------------------------
-#                          CURRENT: 12.08.1993
+#                          CURRENT: 10.15.1994
 # ----------------------------------------------------------------------
+#
 #        Glory       : 05.26.2012
 #        Invicta     : 04.28.2012
 #        Strikeforce : 10.07.2006
@@ -426,11 +484,8 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        Pancrase    : 1995 Eyes of Beast 1-7 & Neo-Blood Tournament
 #        Pancrase    : 12.1[6-7].1994 King of Pancrase
 #        K-1         : 12.10.1994  Legend
-#        Pancrase    : 10.15.1994  Road to the Championship 5
-#    *   K-1         : 09.18.1994  Revenge
+#    *   Pancrase    : 10.15.1994  Road to the Championship 5
 #
-#
-
 # ----------------------------------------------------------------------
 #                         fedor emelianenko
 # ----------------------------------------------------------------------
@@ -559,6 +614,7 @@ fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # Michael Hunter: Heavyweight American
 # Pacman
 # Young Bloods: Figueroa
+fighter = 'Francis Ngannou'
 fighter = 'Galal Yafai'    # British gold metalist
 fighter = 'Atif Oberlton'  # fashion designer as well
 fighter = 'Richard Torrez' # 2020 silver medalist
@@ -567,6 +623,7 @@ fighter = 'John Hedges'    # U.K. long hingy fighter
 fighter = 'Jaron Ennis'    # | Karen Chukhadzhian | 01.07.2023 |
                            # | Custio Clayton     | 05.14.2022 |
 fighter = 'Brandun Lee'    # | Diego Luque        | 01.07.2023 |
+fighter = 'John Ramirez'   # | Ronal Batista      | 10.12.2023 | DAZN
 
 
 # ---------------------------
@@ -574,12 +631,14 @@ fighter = 'Brandun Lee'    # | Diego Luque        | 01.07.2023 |
 # ---------------------------
 #------------------------------------------------------------------------
 fighter='Caroline Dubois (boxer)'# |1| Vaida Masiokaite    | 02.05.2022 |
+fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 #          Dmitry Bivol      |     1 | Jorge Olivera       | 12.23.2016 |
 #          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
 #          Oleksandr Usyk    |     1 | Felipe Romero       | 09.11.2013 |
 #          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
 #          Errol Spence Jr.  |     1 | Jonathan Garcia     | 11.09.2012 |
+
 #          Naoya Inoue       |     1 | Crison Omayao       | 10.02.2012 |
 fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
 # Cuban big threat who was avoided
@@ -628,10 +687,19 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 #------------------------------------------------------------------------
 
 # add these Female Boxers
-# Claressa Shields
-# Alycia Baumgardner
+fighter = 'Claressa Shields'
+# fighter = 'Alycia Baumgardner' # Maricela Cornejo      | 06.03.2023 |
 # Katie Taylor
-# Caroline Dubois (boxer)
+# fighter = 'Caroline Dubois (boxer)'
+# | Caroline Dubois (boxer) vs. Magali Rodriguez           | 09.30.2023 |
+# | Caroline Dubois (boxer) vs. Yanina del Carmen  Lescano | 06.16.2023 |
+#                                     FIX THIS WIKI??
+# | Caroline Dubois (boxer) vs. Feriche Mashaury           | 02.11.2023 |
+# | Caroline Dubois (boxer) vs. Sofia Rodriguez            | 12.17.2022 |
+# | Caroline Dubois (boxer) vs. Milena Koleva              | 10.15.2022 |
+# | Caroline Dubois (boxer) vs. Happy Daudi                | 07.30.2022 |
+# | Caroline Dubois (boxer) vs. Martina Horgasz            | 03.26.2022 |
+
 
 # add these Mexican Boxers
 fighter = 'Salvador Sánchez'
@@ -712,6 +780,7 @@ show = 'The Boxing Beat: ESPN'
 fighter = 'Tony Yoka'
 # 'Moses Itauma' #
 # 'Andrew Cain'
+fighter = 'Leigh Wood (boxer)' # 10.07.2023 Josh Warrington
 # ------------
 # --- Past ---
 # ------------
@@ -756,7 +825,7 @@ fighter = 'Josh Taylor (boxer)'              #  11.03.2018 Ryan Martin
 fighter = 'Daniel Jacobs (boxer)'            #  10.27.2018 Survived cancer
                                              #           ; Chavez Jr. on SFL
 fighter = 'Terence Crawford'                 #  10.13.2018 ESPN
-ffighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
+fighter = 'Naoya Inoue'                      #  10.07.2018 DAZN
 fighter = 'Daniel Dubois (boxer)'            #  10.06.2018
 fighter = 'Artur Beterbiev'                  #  10.06.2018, start 06.08.2013
 
@@ -865,7 +934,7 @@ fighter = 'Murat Gassiev'                    #  09.21.2011 Roman Mirzoev
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 
-event = "https://www.tapology.com/fightcenter/events/66965-k-1-revenge-94"
+event = "https://www.tapology.com/fightcenter/events/6919-k-1-legend-94"
 
 fighter_name = fighter
 # allows easy access to fighters near the top
