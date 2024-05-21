@@ -66,18 +66,13 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 327 boxing matches
-
-Carty vs McFarlane
-Agyarko vs Dennis
-Hogan vs Metcalf
-Cully vs Felix Jr.
-Katie Taylor vs Chantelle Cameron
+: I have seen 332 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
 | Zhilei Zhang vs. joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
