@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from io import StringIO
 from tabulate import tabulate
 import pandas as pd
 import requests
@@ -54,7 +55,7 @@ def get_record(soup, record_type):
         row_text = row.get_text()
 
     if ('Record' in row_text) and ('Opponent' in row_text):
-        table = pd.read_html(row.prettify())[0]
+        table = pd.read_html(StringIO(row.prettify()))[0]
         if (record_type == 'kickboxing'):
             table.columns = kickboxing_columns
             table = table[2:]
@@ -90,7 +91,7 @@ def get_record(soup, record_type):
                 width = max_len - max_opponent
                 e = record.Event.replace("(.{"+str(width)+"})", "\\1-\n",
                                          regex=True)
-                e = e.replace("\s+-\n|-\n\s+","\n",regex=True)
+                e = e.replace(r"\s+-\n|-\n\s+","\n",regex=True)
                 record.Event = e.replace("-$","",regex=True)
 
         return record
