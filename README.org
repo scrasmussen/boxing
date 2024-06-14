@@ -81,6 +81,7 @@ Note: -1 for the header and -1 for the canceled event
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
 | Chris Billiam-Smith vs. L. Okolie | 05.27.2023 | Lawrence, WBO cruiser      |
 | John Ramirez vs. Fernando Diaz    | 05.27.2023 |                            |
+| D. Haney vs. Vasiliy Lomachenko   | 05.20.2023 | Devin                      |
 | Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle undis sup light  |
 | Gary Cully vs. Jose Felix Jr.     | 05.20.2023 |                            |
 | Dennis Hogan vs. James Metcalf    | 05.20.2023 |                            |
@@ -133,6 +134,7 @@ Note: -1 for the header and -1 for the canceled event
 | Emanuel Navarrete vs. Liam Wilson | 02.03.2023 | WBO Super Feather          |
 | Arnold Barboza Jr. vs. J. Pedraza | 02.03.2023 | Jose, WBO Inter Sup Light  |
 | Richard Torrez Jr. vs. J. Bryant  | 02.03.2023 | James                      |
+| Artur Beterbiev vs. Anthony Yarde | 01.28.2023 | WBO, WBC, IBF light heavy  |
 | Moses Itauma vs. Marcel Bode      | 01.28.2023 |                            |
 | Atif Oberlton vs. Artem Brusov    | 01.20.2023 |                            |
 | Sean Hemphill vs. David Stevens   | 01.20.2023 |                            |

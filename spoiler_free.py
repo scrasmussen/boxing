@@ -3,7 +3,7 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-# event_bool = False
+event_bool = False
 
 # --------
 # | 2024 |
@@ -35,21 +35,22 @@ event_bool = True
 # | Claressa Shields vs. Maricela Cornejo | 06.03.2023 |
 # | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 |
 
-# --------------- top fights plus a few ------------------
-# --------------------------------------------------------
-# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 |
-# | Devil Haney vs. Regis Prograis          | 12.09.2023 |
-# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 |
-# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 |
+# --------------- top fights plus a few ------------------------
+# --------------------------------------------------------------
+# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [ ] |
+# | Devil Haney vs. Regis Prograis          | 12.09.2023 | [ ] |
+# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] |
+# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] |
 # | Leigh Wood vs. Josh Warrington          | 10.07.2023 | DAZN probs
-# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 |
+# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [ ] |
 # | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | DAZN *
-# | Devil Haney vs. Vasiliy Lomachenko      | 05.20.2023 |
-# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 |
-# | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 |
-# | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 |
-# | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 |
-# --------------------------------------------------------
+# | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
+# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [ ] |
+# | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 | [-] |
+# | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
+# | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
+# --------------------------------------------------------------
+# - catch up Sergey Kovalev vs Yarde, Robin Sirwan Safar     | 05.18.2024 |
 # --- Young Bloodz ---
 # Moses Itauma, Abdullah Mason, Ben Whittaker, Curmel Moton, Elijah Garcia
 # --------------------
