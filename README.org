@@ -66,14 +66,14 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 332 boxing matches
+: I have seen 334 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
-| Zhilei Zhang vs. joe Joyce        | 09.23.2023 | WBO interm Heavy           |
+| Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
 | Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
@@ -91,7 +91,7 @@ Note: -1 for the header and -1 for the canceled event
 | Nawid Zaman vs. Miguel M. M.      | 05.13.2023 | Mendoza Melquiades         |
 | William Zepeda vs. Jaime Arboleda | 04.29.2023 |                            |
 | Gervonta Davis vs. Ryan Garcia    | 04.22.2023 |                            |
-| Joe Gardina vs. S. Rachomov       | 04.22.2023 | Shavkatdzhon. IBF sup. f.  |
+| Joe Cordina vs. S. Rakhimov       | 04.22.2023 | Shavkatdzhon. IBF sup. f.  |
 | Sandy Ryan vs. Marie-Pier Houle   | 04.22.2023 | WBO welter                 |
 | Gavin Gwynne vs. Craig Woodruff   | 04.22.2023 | British Light              |
 | Zelfa Barrett vs. Jason Sanchez   | 04.22.2023 | WBA Con. Sup. Feather      |
@@ -452,7 +452,7 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 191 fight cards and 59 additional fights
+: I have seen 192 fight cards and 59 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
@@ -460,6 +460,7 @@ Sherrif jumps into the ring and stops the fight
 |---------------------------+------------+-------------------------------|
 | UFC Fight Night 236       | 02.10.2024 | Hermansson vs. Pyfer          |
 | UFC Fight Night 236: Pre  | 02.10.2024 | Hermansson vs. Pyfer          |
+| UFC 297                   | 01.20.2024 | Strickland vs. du Plessis     |
 | UFC 296                   | 12.16.2023 | Edwards vs. Covington         |
 | UFC 295                   | 11.11.2023 | Prochazka vs. Pereira         |
 | UFC 294                   | 10.21.2023 | Makhachev vs. Volkanovski II  |
@@ -767,7 +768,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 2 kickboxing events and 11 matches
+: I have seen 3 kickboxing events and 12 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -785,6 +786,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------------------+------------+------------------------------|
 | Akram Hamidi vs. Jamhod        | 06.23.2023 | ONE Lumpinee 22              |
 | Thongpoon vs. Yangdam          | 06.23.2023 | ONE Lumpinee 22              |
+| Yuki Yoza vs. Taio Asahisa     | 03.12.2023 | K-1 World GP 2023            |
 | Badr Hari vs. Alistair Overeem | 10.08.2022 | Glory: Collision 4           |
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
 | Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |

@@ -6,7 +6,7 @@ import requests
 import re
 import sys
 
-def getUrl(fighter):
+def getUrl(fighter, debug=False):
     if (fighter == ''):
         print("No Fighter Selected")
         exit()
@@ -15,9 +15,11 @@ def getUrl(fighter):
     if (fighter == 'Manny Pacquiao'):
         url = url.removesuffix(fighter)
         url += 'Boxing career of Manny Pacquiao'
+    if (debug):
+        print("url =", url)
     return url
 
-def get_record(soup, record_type):
+def get_record(soup, record_type, debug=False):
     if (record_type == 'boxing'):
         columns = ['No.', 'Opponent', 'Date']
         record_name = 'Professional boxing record'
@@ -29,6 +31,15 @@ def get_record(soup, record_type):
         record_name = 'Mixed martial arts record'
 
     headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
+
+    if (headers is None):
+        if (record_type == 'boxing'):
+            columns = ['No.', 'Opponent', 'Date']
+            record_name = 'Match records'
+            headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
+
+    if debug:
+        print("headers =", headers)
 
     if (headers is None):
         return None
@@ -63,7 +74,10 @@ def get_record(soup, record_type):
 
         # fix date
         if (record_type != 'kickboxing'):
-            new_date = pd.to_datetime(record['Date'], errors='coerce').dt.strftime('%m.%d.%Y')
+            try:
+                new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
+            except:
+                new_date = pd.to_datetime(record['Date'], format='%d %b %Y').dt.strftime('%m.%d.%Y')
             record.loc[:,'Date'] = new_date
         else:
             drop_index = record[record.Event == record.Date].index
@@ -109,8 +123,7 @@ class Fighter:
 
     def __init__(self, name):
         self.name = name.replace('_',' ').title()
-
-        req = requests.get(getUrl(name)).text
+        req = requests.get(getUrl(name.replace(' ', '_'))).text
         soup = BeautifulSoup(req, 'lxml')
 
         self.mma_record = get_record(soup, 'mma')

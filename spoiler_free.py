@@ -23,17 +23,21 @@ event_bool = False
 # Sunny Edwards vs Andres Camposa [DAZN]
 # Josh Taylor vs Tiofima Lopez [ESPN]
 # Jaime Munguia vs. Sergiy Derevyanchenko [DAZN]
+# - catch-up -
+# Zhilei Zhang vs. Deontay Wilder     | 06.01.2024 |
+# Deontay Wilder vs.  Joseph Parker   | 12.23.2023 |
+
 # --- Best Of ---
-# | Callum Smith vs. Artur Beterbiev  | 01.13.2024 |
-# | Nayoa Inoue vs. Marlon Tapales    | 12.26.2023 |
-# | Anthony Joshua vs. Otto Wallin    | 12.23.2023 |
-# | Deontay Wilder vs. Joseph Parker  | 12.23.2023 |
-# | Tyson Fury vs. Francis Ngannou    | 10.28.2023 |
-# | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | [X]
-# | Nayoa Inoue vs. Stephen Fulton    | 07.25.2023 |
-# | Terence Crawford vs. Errol Spence | 07.29.2023 |
-# | Claressa Shields vs. Maricela Cornejo | 06.03.2023 |
-# | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 |
+# | Callum Smith vs. Artur Beterbiev            | 01.13.2024 | [ ] |
+# | Nayoa Inoue vs. Marlon Tapales              | 12.26.2023 | [ ] |
+# | Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] |
+# | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] |
+# | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
+# | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
+# | Nayoa Inoue vs. Stephen Fulton              | 07.25.2023 | [ ] |
+# | Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
+# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [ ] |
+# | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
 
 # --------------- top fights plus a few ------------------------
 # --------------------------------------------------------------
@@ -43,9 +47,9 @@ event_bool = False
 # | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] |
 # | Leigh Wood vs. Josh Warrington          | 10.07.2023 | DAZN probs
 # | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [ ] |
-# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | DAZN *
+# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | DAZN| *
 # | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
-# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [ ] |
+# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [x] |
 # | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 | [-] |
 # | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
 # | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
