@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 334 boxing matches
+: I have seen 337 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -75,7 +75,9 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
 | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
+| Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
+| J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy,             |
 | Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
@@ -154,6 +156,7 @@ Note: -1 for the header and -1 for the canceled event
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
 | Aurek Anderson vs. C. Villanueva  | 09.15.2022 | Carlos; Mendez Gym orig.   |
+| Oleksandr Usyk vs. Anthony Joshua | 08.20.2022 | WBA IBF WBO IBO Heavy      |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
 | Derek Chisora vs. Kubrat Pulev II | 07.09.2022 |                            |
 | Artur Beterbiev vs. Joe Smith Jr. | 06.18.2022 | WBO, WBC, IBF Light Heavy  |
@@ -452,12 +455,14 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 192 fight cards and 59 additional fights
+: I have seen 194 fight cards and 59 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 299                   | 03.09.2024 | O'Malley vs. Vera II          |
+| UFC 298                   | 02.17.2024 | Volkanovski vs. Topuria       |
 | UFC Fight Night 236       | 02.10.2024 | Hermansson vs. Pyfer          |
 | UFC Fight Night 236: Pre  | 02.10.2024 | Hermansson vs. Pyfer          |
 | UFC 297                   | 01.20.2024 | Strickland vs. du Plessis     |
