@@ -77,7 +77,9 @@ def get_record(soup, record_type, debug=False):
             try:
                 new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
             except:
-                new_date = pd.to_datetime(record['Date'], format='%d %b %Y').dt.strftime('%m.%d.%Y')
+                new_date = pd.to_datetime(record['Date'], format='mixed').dt.strftime('%m.%d.%Y')
+                # new_date = pd.to_datetime(record['Date'], format='%d %b %Y').dt.strftime('%m.%d.%Y')
+
             record.loc[:,'Date'] = new_date
         else:
             drop_index = record[record.Event == record.Date].index
@@ -96,7 +98,7 @@ def get_record(soup, record_type, debug=False):
             # shorten event name
             shorten_lambda = lambda x: x[0:x.find(':')] \
                 if (x.find(':')>0) else x
-            record.loc[:,'Event'] = record[['Event']].applymap(shorten_lambda)
+            record.loc[:,'Event'] = record[['Event']].map(shorten_lambda)
 
             max_len = 54
             max_opponent = record.Opponent.str.len().max()
