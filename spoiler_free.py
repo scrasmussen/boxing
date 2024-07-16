@@ -5,27 +5,96 @@ import fightEvent as fe
 event_bool = True
 event_bool = False
 
-# --------
-# | 2024 |
-# --------
-# Joshua vs. Ngannou
-# Shields vs. Kelsey DeSantis 02.24.2024 | PFL
-
-# Gene Fullmer : the Mormon Mauler
 #
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
 # Calzaghe, and then Naseem Hamed
 #
+#
+
+# --- Careers ---
+# | Nayoa Inoue |
+# | |
+
+# --------
+# | 2024 |
+# --------
+# - catch-up -
+# Zhilei Zhang vs. Joseph Parker      | 06.01.2024 |
+# Dmitry Bivol vs. Malik Zinad        | 06.01.2024 |
+# Sergey Kovalev vs.R. S. Safar       | 05.18.2024 | Yarde 2019, Pulev2022
+# Emanuel Navarrete vs. D. Berinchyk  | 05.18.2024 |
+# Nina Hughes vs. Cherneka Johnson    | 05.12.2024 |
+# Canelo Alvarez vs. Jaime Munguía    | 05.04.2024 |
+# Prince Patel vs. Ryad Merhy         | 04.13.2024 |
+# Jared Anderson vs. Ryad Merhy       | 04.13.2024 |
+# Anthony Joshua vs. Francis Ngannou  | 03.08.2024 |
+# Zhilei Zhang vs. Deontay Wilder     | 03.08.2024 |
+# Shields vs. Kelsey DeSantis         | 02.24.2024 | PFL
+
+
+# *Hatton Documentary*
+# September 21, 2023 "Boxing and PEDs in 2023" article in Boxing News
+
 # --------
 # | 2023 |
 # --------
-# At 06.10.2023
-# Sunny Edwards vs Andres Camposa [DAZN]
-# Josh Taylor vs Tiofima Lopez [ESPN]
-# Jaime Munguia vs. Sergiy Derevyanchenko [DAZN]
-# - catch-up -
-# Zhilei Zhang vs. Deontay Wilder     | 06.01.2024 |
-# Deontay Wilder vs.  Joseph Parker   | 12.23.2023 |
+#
+# Callum Smith vs. Artur Beterbiev        | 01.13.2024 | [ ] | **
+# Nayoa Inoue vs. Marlon Tapales          | 12.26.2023 | [ ] | **
+# Dmitry Bivol vs. Lyndon Arthur          | 12.23.2023 | [ ] |
+# Anthony Joshua vs. Otto Wallin          | 12.23.2023 | [ ] | **
+# Deontay Wilder vs. Joseph Parker        | 12.23.2023 | [ ] | **
+# Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [ ] | **
+# Devil Haney vs. Regis Prograis          | 12.09.2023 | [ ] | **
+# Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] | **
+# Lani Daniels vs. Desley Robinson        | 12.02.2023 | [ ] | heavy?
+# Emanuel Navarrete vs. Robson Conceição  | 11.16.2023 | [ ] |
+# Tyson Fury vs. Francis Ngannou          | 10.28.2023 | [ ] | **
+# Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] | **
+
+
+ffighter = ''
+
+#          | 10..2023 | [ ] |
+
+# Tim Tszyu vs. Brian Mendoza                 | 10.14.2023 | [ ] |
+# Leigh Wood vs. Josh Warrington              | 10.07.2023 | [ ] | ** DAZN probs
+# Gilberto Ramirez vs. Joe Smith Jnr.         | 10.07.2023 | [ ] | G. moving to cruiser
+# Emma Dolan vs. Nicola Hopewell              | 10.07.2023 | [ ] |
+# Terri Harper vs. Cecilia Braekhus           | 10.07.2023 | [ ] |
+# Canelo Alvarez vs. Jermell Charlo           | 09.30.2023 | [ ] |
+# Jordan Thompson vs. Jai Opetaia             | 09.30.2023 | [ ] |
+# Sandy Ryan vs. Jessica McCaskill            | 09.23.2023 | [ ] |
+# Kenshiro Teraji vs. Hekkie Budler           | 09.18.2023 | [ ] | Japan vs. South Africa
+# Jay McFarlane vs. Mohammad Saleem           | 09.08.2023 | [ ] | Scottish heavy
+# Lyndon Arthur vs. Braian Nahuel Suarez      | 09.01.2023 | [ ] |
+# Ricky Burns vs. Willie Limond               | 09.01.2023 | [ ] | two Scottish legends
+# Oleksandr Usyk vs. Daniel Dubois            | 08.26.2023 | [-] | for "the punch"
+# Jared Anderson vs. Andriy Rudenko           | 08.26.2023 | [ ] |
+# Lani Daniels vs. Razel Mohammed             | 08.26.2023 | [ ] | heavy
+# Prince Patel vs. Andriy Rudenko             | 08.26.2023 | [ ] |
+# Dennis McCann vs. Ionut Baluta              | 08.18.2023 | [ ] | put show on background, DAZN?
+# Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
+# Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
+# George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
+# Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [ ] | Cuban vs. Bulgerian, heavy, ESPN
+# Nigel Collins vs. Jaron Ennis               | 07.08.2023 | [ ] |
+# Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [ ] | *
+# Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [ ] |
+# Jared Anderson vs. Charles Martin           | 07.01.2023 | [ ] |
+# Prince Patel vs. Charles Martin             | 07.01.2023 | [ ] |
+# Miranda Reyes vs. Joshua Franco             | 06.24.2023 | [ ] |
+# Regis Prograis vs. Danielito Zorrilla       | 06.24.2023 | [ ] |
+# Tim Tszyu vs. Ocampo                        | 06.17.2023 | [ ] |
+# Sunny Edwards vs Andres Camposa [DAZN]      | 06.10.2023 | [ ] | *
+# Nina Hughes vs. Katie Healy                 | 06.10.2023 | [ ] |
+# Lani Daniels vs. Alrie Meleisea             | 05.27.2023 | [ ] | IBF inagural heavyweight
+# Canelo Alvarez vs. John Ryder               | 05.06.2023 | [ ] |
+# Prince Patel vs. George Arias               | 04.08.2023 | [ ] |
+# Jared Anderson vs. George Arias             | 04.08.2023 | [ ] |
+# === FUTURE ===
+# Deontay Wilder vs. Joseph Parker    | 12.23.2023 |
+# Anthony Joshoa vs. Otto Wallin      | 12.23.2023 |
 
 # --- Best Of ---
 # | Callum Smith vs. Artur Beterbiev            | 01.13.2024 | [ ] |
@@ -34,9 +103,9 @@ event_bool = False
 # | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] |
 # | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
 # | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
-# | Nayoa Inoue vs. Stephen Fulton              | 07.25.2023 | [ ] |
+# | Nayoa Inoue vs. Stephen Fulton              | 07.25.2023 | [-] |
 # | Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
-# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [ ] |
+# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [-] |
 # | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
 
 # --------------- top fights plus a few ------------------------
@@ -46,15 +115,17 @@ event_bool = False
 # | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] |
 # | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] |
 # | Leigh Wood vs. Josh Warrington          | 10.07.2023 | DAZN probs
-# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [ ] |
-# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | DAZN| *
+# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [X] |
+# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | [X] |
 # | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
 # | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [x] |
 # | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 | [-] |
 # | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
 # | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
 # --------------------------------------------------------------
-# - catch up Sergey Kovalev vs Yarde, Robin Sirwan Safar     | 05.18.2024 |
+# | Anthony Joshua vs. Robert Helenius      | 08.12.2023 | [X] |
+# --------------------------------------------------------------
+# Robelis Despaigne vs. Katuma Mulumba| 06.03.2022 |
 # --- Young Bloodz ---
 # Moses Itauma, Abdullah Mason, Ben Whittaker, Curmel Moton, Elijah Garcia
 # --------------------
@@ -66,8 +137,11 @@ event_bool = False
 # | Sunny Edwards vs. Andres Campos          | 06.10.2023 |
 # | Robeisy Ramirez vs. Isaac Dogboe            | 04.01.2023 |
 # |  Anthony Yard vs. Jorge Silva             | 09.23.2023 |
-#fighter = 'Robeisy Ramirez'
-#fighter = 'Sunny Edwards'
+# fighter = 'Robeisy Ramirez'
+
+# catch-up as it happens
+# Sunny Edwards vs Andres Camposa [DAZN] | 06.10.2023 | [ ] |
+
 
 
 #
@@ -205,6 +279,7 @@ fighter = 'Hannah Rankin' # 09.25.2022 | Terri Harper
 #   - Lomachenko vs Commey ESPN 12.11.2021
 fighter = 'Román_González_(boxer)'
 fighter = 'Srisaket Sor Rungvisai'
+fighter = 'Max Holloway'
 
 
 #
@@ -221,6 +296,7 @@ event = 'UFC Fight Night: Brunson vs. Holland'
 event = 'UFC 269'
 event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
 event = 'UFC 276' # lawler fight good
+event = 'UFC 300'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
@@ -384,6 +460,10 @@ fighter = 'Paulie Malignaggi'
 # ----------------------------- MMA ----------------------------
 # --------------------------------------------------------------
 
+# Newer
+fighter = 'Robelis Despaigne' # vs Katuma Mulumba 06.03.2022
+
+fighter = 'Kazuto Ioka'
 # Submission Underground 2016, July
 # Promotion Polaris 2015, January
 fighter = 'Henry Cejudo'    # 12.13.2014  UFC FOX
@@ -619,6 +699,7 @@ fighter = 'Rafael Fiziev' #  kicks Hard, Muay Thai background so...
 # Michael Hunter: Heavyweight American
 # Pacman
 # Young Bloods: Figueroa
+fighter = 'Emanuel Navarrete' # long arms, unorthodox, fun
 fighter = 'Francis Ngannou'
 fighter = 'Galal Yafai'    # British gold metalist
 fighter = 'Atif Oberlton'  # fashion designer as well
@@ -635,10 +716,20 @@ fighter = 'John Ramirez'   # | Ronal Batista      | 10.12.2023 | DAZN
 # ------ Career Watch -------
 # ---------------------------
 #------------------------------------------------------------------------
-fighter='Caroline Dubois (boxer)'# |1| Vaida Masiokaite    | 02.05.2022 |
+fighter='Caroline Dubois (boxer)'
+# |9| Miranda Reyes             | 02.03.2024 | [ ] |
+# |8| Magali Rodriguez          | 09.30.2023 | [ ] |
+# |7| Yanina del Carmen Lescano | 07.16.2023 | [ ] |
+# |6| Feriche Mashaury          | 02.11.2023 | [ ] |
+# |5| Sofia Rodriguez           | 12.17.2022 | [ ] |
+# |4| Milena Koleva             | 10.16.2022 | [ ] |
+# |3| Happy Daudi               | 07.30.2022 | [ ] |
+# |2| Martina Horgasz           | 03.26.2022 | [ ] |
+# |1| Vaida Masiokaite          | 02.05.2022 | [X] |
+
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
-#          Dmitry Bivol      |     1 | Jorge Olivera       | 12.23.2016 |
+fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
 #          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
 #          Oleksandr Usyk    |     1 | Felipe Romero       | 09.11.2013 |
 #          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
@@ -693,7 +784,7 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 
 # add these Female Boxers
 fighter = 'Claressa Shields'
-# fighter = 'Alycia Baumgardner' # Maricela Cornejo      | 06.03.2023 |
+fighter = 'Alycia Baumgardner' # Maricela Cornejo      | 06.03.2023 |
 # Katie Taylor
 # fighter = 'Caroline Dubois (boxer)'
 # | Caroline Dubois (boxer) vs. Magali Rodriguez           | 09.30.2023 |
@@ -897,6 +988,7 @@ fighter = 'Chris Eubank Jr' # vs Groves      #  02.17.2018   # 09.28.2018
 fighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
 # Gervonta Davis vs Francisco Fonseca         | 08.26.2017
 fighter = 'Savannah Marshall'                #  08.26.2017 Sydney LeBlanc
+fighter = 'Franchón Crews-Dezurn'
 # Mikey Garcia vs. Adrien Broner              | 07.29.2017
 fighter = 'Lawrence Okolie'                  #  03.25.2017 | Geoffrey Cave
    # was 20 before watching the Olympics and deciding he wanted to do that
@@ -939,7 +1031,7 @@ fighter = 'Murat Gassiev'                    #  09.21.2011 Roman Mirzoev
 # --------------------------------------------------------------
 # --------------------------------------------------------------
 
-event = "https://www.tapology.com/fightcenter/events/6919-k-1-legend-94"
+# event = "https://www.tapology.com/fightcenter/events/6919-k-1-legend-94"
 
 fighter_name = fighter
 # allows easy access to fighters near the top
