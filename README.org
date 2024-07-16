@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 337 boxing matches
+: I have seen 343 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -77,7 +77,8 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
-| J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy,             |
+| J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy              |
+| Josh Taylor vs. Teofima Lopez     | 06.10.2023 | WBO light welter           |
 | Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
@@ -102,10 +103,12 @@ Note: -1 for the header and -1 for the canceled event
 | Mikaela Meyers vs. Lucy Wildheart | 04.15.2023 |                            |
 | Moses Itauma vs. K. Dovbyshchenko | 04.15.2023 | Kostiantyn                 |
 | Sam Noas vs. Karthik Kumar        | 04.15.2023 |                            |
+| Prince Patel vs. Goodluck Mrema   | 04.15.2023 |                            |
 | Shakur Stevenson vs. S. Yoshino   | 04.08.2023 | Shuichiro                  |
 | Jesse Rodriguez vs. C. Gonzalez   | 04.08.2023 | Cristen, WBO fly           |
 | S. Fundora vs. Brian Mendoza      | 04.08.2023 | Sebastian, WBC int-Sup-Wel |
 | Brandun Lee vs. Pedro Campa       | 04.08.2023 |                            |
+| Jared Anderson vs. George Arias   | 04.08.2023 |                            |
 | Anthony Joshua vs. J. Frankline   | 04.01.2023 | Jermaine                   |
 | Fabio Wardley vs. Michael Coffie  | 04.01.2023 | WBA Cont Heavy             |
 | Galal Yafai vs. Moises Calleros   | 04.01.2023 |                            |
@@ -155,6 +158,7 @@ Note: -1 for the header and -1 for the canceled event
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
+| C. Alvarez vs. Gennady Golovkin   | 09.17.2022 | Canelo                     |
 | Aurek Anderson vs. C. Villanueva  | 09.15.2022 | Carlos; Mendez Gym orig.   |
 | Oleksandr Usyk vs. Anthony Joshua | 08.20.2022 | WBA IBF WBO IBO Heavy      |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
@@ -162,6 +166,7 @@ Note: -1 for the header and -1 for the canceled event
 | Artur Beterbiev vs. Joe Smith Jr. | 06.18.2022 | WBO, WBC, IBF Light Heavy  |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Andrew Cain vs. Luis Moreno       | 05.20.2022 |                            |
+| Dmitry Bivol vs. Canelo Alvarez   | 05.07.2022 |                            |
 | Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
 | Tyson Furry vs. Dillian Whyte     | 04.22.2022 | WBC Heavy                  |
 | Andrew Cain vs. Pablo Ariel Gomez | 04.16.2022 |                            |
@@ -188,6 +193,7 @@ Note: -1 for the header and -1 for the canceled event
 | Nonito Donaire vs. R. Gaballo     | 12.11.2021 | Reymart, WBC bantam        |
 | Teofimo Lopez vs. G. Kamobosos    | 11.27.2021 | George, 4 lighweight       |
 | Terence Crawford vs. Shawn Porter | 11.20.2021 | WBO welter                 |
+| Canelo Alvarez vs. Caleb Plant    | 11.06.2021 |                            |
 | Chantelle Cameron vs. Mary McGee  | 10.30.2021 | WBC IBF lightwelter        |
 | Jose Zepeda vs. Josue Vargus      | 10.30.2021 | WBC Silver Superlight      |
 | Jamal James vs. Radzhab Butaev    | 10.30.2021 | WBO Welter                 |
@@ -663,6 +669,7 @@ Sherrif jumps into the ring and stops the fight
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Robelis Despaigne vs. Josh Parisian  | 03.09.2024 | UFC 299: Early Prelims  |
 | Chris Weidman vs. Brad Tavares       | 08.19.2023 | UFC 292: Prelims        |
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
 | Nong-O vs. Liam Harrison             | 08.27.2022 | One on Prime Video 1    |
