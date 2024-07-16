@@ -9,7 +9,6 @@ event_bool = False
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
 # Calzaghe, and then Naseem Hamed
 #
-#
 
 # --- Careers ---
 # | Nayoa Inoue |
@@ -19,44 +18,69 @@ event_bool = False
 # | 2024 |
 # --------
 # - catch-up -
+# Shakur Stevenson vs. A. Harutyunyan | 07.06.2024 |
 # Zhilei Zhang vs. Joseph Parker      | 06.01.2024 |
 # Dmitry Bivol vs. Malik Zinad        | 06.01.2024 |
-# Sergey Kovalev vs.R. S. Safar       | 05.18.2024 | Yarde 2019, Pulev2022
+# Sergey Kovalev vs. R. S. Safar      | 05.18.2024 | Yarde 2019, Pulev2022
 # Emanuel Navarrete vs. D. Berinchyk  | 05.18.2024 |
+# Moses Itauma vs. Ilja Mezencev      | 05.18.2024 |
 # Nina Hughes vs. Cherneka Johnson    | 05.12.2024 |
+# Naoya Inoue vs. Luis Nery           | 05.06.2024 |
 # Canelo Alvarez vs. Jaime Munguía    | 05.04.2024 |
+# Joey Dawejko vs. Walter Burns       | 04.27.2024 |
+# Ryan Garcia vs. Devin Haney         | 04.20.2024 |
 # Prince Patel vs. Ryad Merhy         | 04.13.2024 |
 # Jared Anderson vs. Ryad Merhy       | 04.13.2024 |
+# Fabio Wardley vs. Frazer Clarke     | 03.31.2024 |
+# Moses Itauma vs. Dan Garber         | 03.22.2024 |
 # Anthony Joshua vs. Francis Ngannou  | 03.08.2024 |
 # Zhilei Zhang vs. Deontay Wilder     | 03.08.2024 |
 # Shields vs. Kelsey DeSantis         | 02.24.2024 | PFL
-
+# Adam Azim vs. Enock Poulsen         | 02.03.2024 |
+# Joey Dawejko vs. Malik Titus        | 01.13.2024 |
+# Karriss Artingstall v.L.d.S.Furtado | 01.20.2024 |
+# Callum Smith vs. Artur Beterbiev    | 01.13.2024 | **
 
 # *Hatton Documentary*
+# December  21, 2023 "Homicide Hank" article in Boxing News
+# December  21, 2023 "I took a huge chunk out of his neck" article in Boxing News
+# December  21, 2023 "Murdered in Manhattan" article in Boxing News
+# November   9, 2023 "The Bloodiest of Battles" article in Boxing News
+# November   2, 2023 "Don't You Quit" article in Boxing News
+# November   2, 2023 "The Fall" article in Boxing News
 # September 21, 2023 "Boxing and PEDs in 2023" article in Boxing News
 
 # --------
 # | 2023 |
 # --------
 #
-# Callum Smith vs. Artur Beterbiev        | 01.13.2024 | [ ] | **
-# Nayoa Inoue vs. Marlon Tapales          | 12.26.2023 | [ ] | **
-# Dmitry Bivol vs. Lyndon Arthur          | 12.23.2023 | [ ] |
-# Anthony Joshua vs. Otto Wallin          | 12.23.2023 | [ ] | **
-# Deontay Wilder vs. Joseph Parker        | 12.23.2023 | [ ] | **
-# Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [ ] | **
-# Devil Haney vs. Regis Prograis          | 12.09.2023 | [ ] | **
-# Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] | **
-# Lani Daniels vs. Desley Robinson        | 12.02.2023 | [ ] | heavy?
-# Emanuel Navarrete vs. Robson Conceição  | 11.16.2023 | [ ] |
-# Tyson Fury vs. Francis Ngannou          | 10.28.2023 | [ ] | **
-# Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] | **
-
-
-ffighter = ''
-
-#          | 10..2023 | [ ] |
-
+# Nayoa Inoue vs. Marlon Tapales              | 12.26.2023 | [ ] | **
+# Dmitry Bivol vs. Lyndon Arthur              | 12.23.2023 | [ ] |
+# Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] | **
+# Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] | **
+# Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | **
+# Devil Haney vs. Regis Prograis              | 12.09.2023 | [ ] | **
+# Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [ ] | **
+# Chris Billiam-Smith vs. Mateusx Masternak   | 12.09.2023 | [ ] |
+# Matt Windle vs. Craig Derbyshire            | 12.09.2023 | [ ] |
+# Joey Dawejko vs. Jesse Bryan                | 12.09.2023 | [ ] |
+# Ryan Garcia vs. Oscar Duarte                | 12.02.2023 | [ ] |
+# Lani Daniels vs. Desley Robinson            | 12.02.2023 | [ ] | heavy?
+# Lauren Parker vs. Giueseppina Di Stefano    | 12.02.2023 | [ ] |
+# Moses Itauma vs. Michal Boloz               | 12.01.2023 | [ ] |
+# Gary Cully vs. Reece Mould                  | 11.25.2023 | [ ] |
+# Jermall Charlo vs. José Benavidez Jr.       | 11.25.2023 | [ ] |
+# Katie Taylor vs. Chantelle Cameron          | 11.25.2023 | [ ] |
+# Nick Ball vs. Isaac Dogboe                  | 11.18.2023 | [ ] | * Whole Manchester Show
+# Emanuel Navarrete vs. Robson Conceição      | 11.16.2023 | [ ] |
+# Shakur Stevenson vs. Edwin De Los Santos    | 11.16.2023 | [ ] |
+# Harlem Eubank vs. Timo Schwarzkopf          | 11.10.2023 | [ ] |
+# Adam Azim vs. Franck Petitjean              | 11.10.2023 | [ ] |
+# Joe Cordina vs. Edward Vazquez              | 11.04.2023 | [ ] |
+# Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] | **
+# Eduardo Hernandez vs. O'Shaquie Foster      | 10.28.2023 | [ ] | **
+# Fabio Wardley vs. David Adeleye             | 10.28.2023 | [ ] |
+# Moses Itauma vs. István Bernáth             | 10.28.2023 | [ ] |
 # Tim Tszyu vs. Brian Mendoza                 | 10.14.2023 | [ ] |
 # Leigh Wood vs. Josh Warrington              | 10.07.2023 | [ ] | ** DAZN probs
 # Gilberto Ramirez vs. Joe Smith Jnr.         | 10.07.2023 | [ ] | G. moving to cruiser
@@ -65,6 +89,7 @@ ffighter = ''
 # Canelo Alvarez vs. Jermell Charlo           | 09.30.2023 | [ ] |
 # Jordan Thompson vs. Jai Opetaia             | 09.30.2023 | [ ] |
 # Sandy Ryan vs. Jessica McCaskill            | 09.23.2023 | [ ] |
+# Moses Itauma vs. Amine Boucetta             | 09.23.2023 | [ ] |
 # Kenshiro Teraji vs. Hekkie Budler           | 09.18.2023 | [ ] | Japan vs. South Africa
 # Jay McFarlane vs. Mohammad Saleem           | 09.08.2023 | [ ] | Scottish heavy
 # Lyndon Arthur vs. Braian Nahuel Suarez      | 09.01.2023 | [ ] |
@@ -75,6 +100,7 @@ ffighter = ''
 # Prince Patel vs. Andriy Rudenko             | 08.26.2023 | [ ] |
 # Dennis McCann vs. Ionut Baluta              | 08.18.2023 | [ ] | put show on background, DAZN?
 # Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
+# Moses Itauma vs. Kevin Nicolas Espindola    | 07.29.2023 | [ ] |
 # Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
 # George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
 # Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [ ] | Cuban vs. Bulgerian, heavy, ESPN
@@ -90,6 +116,7 @@ ffighter = ''
 # Nina Hughes vs. Katie Healy                 | 06.10.2023 | [ ] |
 # Lani Daniels vs. Alrie Meleisea             | 05.27.2023 | [ ] | IBF inagural heavyweight
 # Canelo Alvarez vs. John Ryder               | 05.06.2023 | [ ] |
+# Moses Itauma vs. Kostiantyn Dovbyshchenko   | 04.15.2023 | [ ] |
 # Prince Patel vs. George Arias               | 04.08.2023 | [ ] |
 # Jared Anderson vs. George Arias             | 04.08.2023 | [ ] |
 # === FUTURE ===
@@ -785,7 +812,7 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 # add these Female Boxers
 fighter = 'Claressa Shields'
 fighter = 'Alycia Baumgardner' # Maricela Cornejo      | 06.03.2023 |
-# Katie Taylor
+fighter = 'Katie Taylor'
 # fighter = 'Caroline Dubois (boxer)'
 # | Caroline Dubois (boxer) vs. Magali Rodriguez           | 09.30.2023 |
 # | Caroline Dubois (boxer) vs. Yanina del Carmen  Lescano | 06.16.2023 |
