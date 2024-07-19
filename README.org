@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 343 boxing matches
+: I have seen 348 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -92,6 +92,7 @@ Note: -1 for the header and -1 for the canceled event
 | Thomas Carty vs. Jay McFarlane    | 05.20.2023 |                            |
 | Rolando Romero vs. Ismael Barroso | 05.13.2023 | WBA Junior Welter          |
 | Nawid Zaman vs. Miguel M. M.      | 05.13.2023 | Mendoza Melquiades         |
+| Canelo Alvarez vs. John Ryder     | 05.06.2023 | super middle titles        |
 | William Zepeda vs. Jaime Arboleda | 04.29.2023 |                            |
 | Gervonta Davis vs. Ryan Garcia    | 04.22.2023 |                            |
 | Joe Cordina vs. S. Rakhimov       | 04.22.2023 | Shavkatdzhon. IBF sup. f.  |
@@ -99,16 +100,20 @@ Note: -1 for the header and -1 for the canceled event
 | Gavin Gwynne vs. Craig Woodruff   | 04.22.2023 | British Light              |
 | Zelfa Barrett vs. Jason Sanchez   | 04.22.2023 | WBA Con. Sup. Feather      |
 | Jordan Thompson vs. Luke Watkins  | 04.22.2023 | IBF Euro cruiser           |
+| Ginjiro Shigeoka vs. R. M. Cuarto | 04.16.2023 | IBF minimum                |
+| Yudai Shigeoka vs. W. Méndez      | 04.16.2023 | Wilfredo                   |
 | Joy Joyce vs. Zhilei Zhang        | 04.15.2023 | WBO int. heavy             |
 | Mikaela Meyers vs. Lucy Wildheart | 04.15.2023 |                            |
 | Moses Itauma vs. K. Dovbyshchenko | 04.15.2023 | Kostiantyn                 |
 | Sam Noas vs. Karthik Kumar        | 04.15.2023 |                            |
 | Prince Patel vs. Goodluck Mrema   | 04.15.2023 |                            |
 | Shakur Stevenson vs. S. Yoshino   | 04.08.2023 | Shuichiro                  |
+| Kenshiro Teraji vs. A. Olascuaga  | 04.08.2023 | Anthony, WBC, WBA lightfly |
 | Jesse Rodriguez vs. C. Gonzalez   | 04.08.2023 | Cristen, WBO fly           |
 | S. Fundora vs. Brian Mendoza      | 04.08.2023 | Sebastian, WBC int-Sup-Wel |
 | Brandun Lee vs. Pedro Campa       | 04.08.2023 |                            |
 | Jared Anderson vs. George Arias   | 04.08.2023 |                            |
+| Takuma Inoue vs. Liborio Solís    | 04.08.2023 | WBA bantam                 |
 | Anthony Joshua vs. J. Frankline   | 04.01.2023 | Jermaine                   |
 | Fabio Wardley vs. Michael Coffie  | 04.01.2023 | WBA Cont Heavy             |
 | Galal Yafai vs. Moises Calleros   | 04.01.2023 |                            |
