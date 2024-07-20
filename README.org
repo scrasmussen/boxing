@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 348 boxing matches
+: I have seen 354 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -77,13 +77,18 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
+| Regis Prograis vs. D. Zorrilla    | 06.24.2023 | Danielito                  |
+| Tim Tszyu vs. Carlos Ocampo       | 06.17.2023 | WBO interim jr. middle     |
 | J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy              |
 | Josh Taylor vs. Teofima Lopez     | 06.10.2023 | WBO light welter           |
+| Sunny Edwards vs Andres Camposa   | 06.10.2023 | IBF fly                    |
+| Nina Hughes vs. Katie Healy       | 06.10.2023 | WBA bantam                 |
 | Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
 | Chris Billiam-Smith vs. L. Okolie | 05.27.2023 | Lawrence, WBO cruiser      |
 | John Ramirez vs. Fernando Diaz    | 05.27.2023 |                            |
+| Kosei Tanaka vs. Pablo Carrillo   | 05.21.2023 |                            |
 | D. Haney vs. Vasiliy Lomachenko   | 05.20.2023 | Devin                      |
 | Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle undis sup light  |
 | Gary Cully vs. Jose Felix Jr.     | 05.20.2023 |                            |
@@ -151,6 +156,7 @@ Note: -1 for the header and -1 for the canceled event
 | Julian Gonzalez vs. R. Morales    | 01.20.2023 | Rosalindo                  |
 | Gervonta Davis vs. Hector Garcia  | 01.07.2023 | WBA World Light            |
 | Rashidi Ellis vs. Roiman Villa    | 01.07.2023 |                            |
+| Kazuto Ioka vs. Joshua Franco     | 12.31.2023 |                            |
 | Terence Crawford vs. D. Avanesyan | 12.10.2022 | WBO Welter                 |
 | Dmitry Bivol vs. Gilberto Ramirez | 11.05.2022 | WBA Light Heavy            |
 | Katie Taylor vs. E. Carabajal     | 10.30.2022 | Elizabeth, Undis. Light    |

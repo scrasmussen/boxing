@@ -64,7 +64,6 @@ ffighter = ''
 # Joey Dawejko vs. Walter Burns       | 04.27.2024 |
 # Lewis Wood vs. Levi Smith           | 04.27.2024 |
 # Ryan Garcia vs. Devin Haney         | 04.20.2024 | 4.18 Boxing News article
-# Prince Patel vs. Ryad Merhy         | 04.13.2024 |
 # Jared Anderson vs. Ryad Merhy       | 04.13.2024 |
 # Zelfa Barrett vs. Jordan Gill       | 04.13.2024 | whole show
 # Rhiannon Dixon vs. Karen Carabajal  | 04.13.2024 | Barrett undercard
@@ -85,6 +84,7 @@ ffighter = ''
 # Shields vs. Kelsey DeSantis         | 02.24.2024 | PFL
 # Junto Nakatani vs. A. Santiago      | 02.24.2024 |
 # Kosei Tanaka vs. Christian Bacasegua| 02.24.2024 |
+# Takuma Inoue vs. Jerwin Ancajas     | 02.24.2024 |
 # Hamzah Sheeraz vs. Liam Williams    | 02.10.2024 | whole show
 # Jamaine Ortiz vs. Teofimo Lopez     | 02.08.2024 |
 # Keyshawn Davis vs. José Pedraza     | 02.08.2024 |
@@ -133,6 +133,7 @@ ffighter = ''
 # Dmitry Bivol vs. Lyndon Arthur              | 12.23.2023 | [ ] |
 # Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] | **
 # Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] | **
+# Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2024 | [ ] |
 # Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | **
 # Devil Haney vs. Regis Prograis              | 12.09.2023 | [ ] | **
 # Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [ ] | **
@@ -173,36 +174,35 @@ ffighter = ''
 # Lyndon Arthur vs. Braian Nahuel Suarez      | 09.01.2023 | [ ] |
 # Ricky Burns vs. Willie Limond               | 09.01.2023 | [ ] | two Scottish legends
 # Oleksandr Usyk vs. Daniel Dubois            | 08.26.2023 | [-] | for "the punch"
-# Jared Anderson vs. Andriy Rudenko           | 08.26.2023 | [ ] |
 # Lani Daniels vs. Razel Mohammed             | 08.26.2023 | [ ] | heavy
-# Prince Patel vs. Andriy Rudenko             | 08.26.2023 | [ ] |
+# Jared Anderson vs. Andriy Rudenko           | 08.26.2023 | [ ] |
 # Dennis McCann vs. Ionut Baluta              | 08.18.2023 | [ ] | put show on background, DAZN?
-# Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
+# Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] | **
 # Moses Itauma vs. Kevin Nicolas Espindola    | 07.29.2023 | [ ] |
-# Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
+# Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] | **
 # George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
 # Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [ ] | Cuban vs. Bulgerian, heavy, ESPN
+# Prince Patel vs. Ramadhani Kumbele          | 07.09.2023 | [ ] |
 # Nigel Collins vs. Jaron Ennis               | 07.08.2023 | [ ] |
 # Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [ ] | *
 # Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [ ] |
 # Jared Anderson vs. Charles Martin           | 07.01.2023 | [ ] |
-# Prince Patel vs. Charles Martin             | 07.01.2023 | [ ] |
-# Miranda Reyes vs. Joshua Franco             | 06.24.2023 | [ ] |
-# Regis Prograis vs. Danielito Zorrilla       | 06.24.2023 | [ ] |
-# Kazuto Ioka vs. Joshua Franco               | 06.24.2023 | [ ] |
-# Tim Tszyu vs. Ocampo                        | 06.17.2023 | [ ] |
-# Sunny Edwards vs Andres Camposa [DAZN]      | 06.10.2023 | [ ] | *
-# Nina Hughes vs. Katie Healy                 | 06.10.2023 | [ ] |
-# Lawrence Okolie vs. Chris Billam-Smith      | 05.27.2023 | [ ] |
+# Kazuto Ioka vs. Joshua Franco II            | 06.24.2023 | [ ] |
+# Regis Prograis vs. Danielito Zorrilla       | 06.24.2023 | [X] |
+# Tim Tszyu vs. Ocampo                        | 06.17.2023 | [X] |
+# Sunny Edwards vs Andres Camposa [DAZN]      | 06.10.2023 | [X] | *
+# Nina Hughes vs. Katie Healy                 | 06.10.2023 | [X] |
+# Lawrence Okolie vs. Chris Billam-Smith      | 05.27.2023 | [X] |
 # Lani Daniels vs. Alrie Meleisea             | 05.27.2023 | [-] | IBF inagural heavyweight
-# Kosei Tanaka vs. Pablo Carrillo             | 05.21.2023 | [ ] |
-# Canelo Alvarez vs. John Ryder               | 05.06.2023 | [ ] |
-# Ginjiro Shigeoka vs. Rene Mark Cuarto       | 04.16.2023 | [ ] |
-# Yudai Shigeoka vs. Wilfredo Méndez          | 04.16.2023 | [ ] |
+# Kosei Tanaka vs. Pablo Carrillo             | 05.21.2023 | [X] |
+# Canelo Alvarez vs. John Ryder               | 05.06.2023 | [X] |
+# Ginjiro Shigeoka vs. Rene Mark Cuarto       | 04.16.2023 | [X] |
+# Yudai Shigeoka vs. Wilfredo Méndez          | 04.16.2023 | [X] |
 # Moses Itauma vs. Kostiantyn Dovbyshchenko   | 04.15.2023 | [X] |
 # Prince Patel vs. Goodluck Mrema             | 04.15.2023 | [X] |
-# Kenshiro Teraji vs. Anthony Olascuaga       | 04.08.2023 | [ ] |
+# Kenshiro Teraji vs. Anthony Olascuaga       | 04.08.2023 | [X] | *
 # Jared Anderson vs. George Arias             | 04.08.2023 | [X] |
+ffighter = ''
 
 
 # --- Best Of ---
@@ -232,8 +232,9 @@ ffighter = ''
 # | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
 # | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
 # --------------------------------------------------------------
-# | Anthony Joshua vs. Robert Helenius      | 08.12.2023 | [X] |
-# --------------------------------------------------------------
+
+
+
 # Robelis Despaigne vs. Katuma Mulumba| 06.03.2022 |
 # --- Young Bloodz ---
 # Moses Itauma, Abdullah Mason, Ben Whittaker, Curmel Moton, Elijah Garcia
@@ -824,7 +825,7 @@ fighter = 'John Ramirez'   # | Ronal Batista      | 10.12.2023 | DAZN
 # Japanese Boxers
 #          Naoya Inoue
 fighter = 'Kazuto Ioka'
-fighter = 'Kenshiro Teraji'
+fighter = 'Kenshiro Teraji' # fun fighter, 04.08.2023 fight great
 fighter = 'Kosei Tanaka'
 fighter = 'Ginjiro Shigeoka'
 fighter = 'Yudai Shigeoka'
