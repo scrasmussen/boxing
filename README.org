@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 354 boxing matches
+: I have seen 358 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -77,7 +77,11 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
+| S. Marshall vs. F. Crews-Dezurn   | 07.01.2023 | Savannah;Franchon;u.s.mid. |
+| Dalton Smith vs. Sam Maxwell      | 07.01.2023 | Brit super-light           |
+| Jared Anderson vs. Charles Martin | 07.01.2023 |                            |
 | Regis Prograis vs. D. Zorrilla    | 06.24.2023 | Danielito                  |
+| Kazuto Ioka vs. Joshua Franco II  | 06.24.2023 | WBO super fly              |
 | Tim Tszyu vs. Carlos Ocampo       | 06.17.2023 | WBO interim jr. middle     |
 | J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy              |
 | Josh Taylor vs. Teofima Lopez     | 06.10.2023 | WBO light welter           |
