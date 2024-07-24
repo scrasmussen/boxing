@@ -19,99 +19,51 @@ def getUrl(fighter, debug=False):
         print("url =", url)
     return url
 
+def find_table_after_header(soup, header_id):
+    divs = soup.find_all('div', class_='mw-heading mw-heading2')
+
+    for div in divs:
+        header = div.find('h2', id=header_id)
+        if header is None:
+            continue
+
+        tables = div.find_next_sibling('table', class_='wikitable', style=lambda s: s and 'text-align:center' in s)
+
+        if not None:
+            return tables
+
+    return None
+
 def get_record(soup, record_type, debug=False):
     if (record_type == 'boxing'):
         columns = ['No.', 'Opponent', 'Date']
-        record_name = 'Professional boxing record'
+        record_name = 'Professional_boxing_record'
     if (record_type == 'kickboxing'):
         columns = ['Opponent', 'Event', 'Date']
-        record_name = 'Kickboxing record'
+        record_name = 'Kickboxing_record'
     if (record_type == 'mma'):
         columns = ['Opponent', 'Event', 'Date']
-        record_name = 'Mixed martial arts record'
+        record_name = 'Mixed_martial_arts_record'
 
-    headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
-
-    if (headers is None):
-        if (record_type == 'boxing'):
-            columns = ['No.', 'Opponent', 'Date']
-            record_name = 'Match records'
-            headers = soup.select_one('h2:-soup-contains("'+record_name+'")')
-
-    if debug:
-        print("headers =", headers)
-
-    if (headers is None):
+    table = find_table_after_header(soup, record_name)
+    if table is None:
+        if debug:
+            print('table is None for record_name', record_name)
         return None
 
-    if (record_type in ['mma', 'boxing']):
-        h_table = headers.find_next_sibling()
-        row = h_table.find_next_sibling()
-        if row.name == 'div':
-            row = row.find_next_sibling()
-        row_text = row.get_text()
-        # breakpoint()
+    headers = [header.get_text(strip=True) for header in table.find_all('th')]
 
-    if (record_type == 'kickboxing'):
-        kickboxing_columns = ['Date','Result','Opponent','Event','Location',
-                              'Method','Round','Time','Record']
-        h_table = headers.find_next_sibling()
+    rows = []
+    for row in table.find_all('tr')[1:]:  # Skip the header row
+        cols = row.find_all('td')
+        cols = [col.get_text(strip=True) for col in cols]
+        rows.append(cols)
 
-        # working for Badr Hari, maybe others?
-        row = headers.find_next_sibling()
-        row_text = row.get_text()
+    record = pd.DataFrame(rows, columns=headers)
+    record = record[columns]
+    record.loc[:,'Date'] = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
 
-    if ('Record' not in row_text) or ('Opponent' not in row_text):
-        row = row.find_next_sibling()
-        row_text = row.get_text()
-
-    if ('Record' in row_text) and ('Opponent' in row_text):
-        table = pd.read_html(StringIO(row.prettify()))[0]
-        if (record_type == 'kickboxing'):
-            table.columns = kickboxing_columns
-            table = table[2:]
-        record = table[columns].copy().dropna()
-
-        # fix date
-        if (record_type != 'kickboxing'):
-            try:
-                new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
-            except:
-                new_date = pd.to_datetime(record['Date'], format='mixed').dt.strftime('%m.%d.%Y')
-                # new_date = pd.to_datetime(record['Date'], format='%d %b %Y').dt.strftime('%m.%d.%Y')
-
-            record.loc[:,'Date'] = new_date
-        else:
-            drop_index = record[record.Event == record.Date].index
-            record.drop(drop_index, inplace=True)
-            # --- HACK --- to fix, kickboxing and MMA records in same table
-            drop_index = record[record.Date == 'Date'].index
-            record.drop(drop_index, inplace=True)
-
-            new_date = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
-            record.loc[:,'Date'] = new_date
-            # print(record)
-
-
-        if (record_type in ['mma', 'kickboxing']):
-            record.insert(0, '', list(range(len(record.index),0,-1)))
-            # shorten event name
-            shorten_lambda = lambda x: x[0:x.find(':')] \
-                if (x.find(':')>0) else x
-            record.loc[:,'Event'] = record[['Event']].map(shorten_lambda)
-
-            max_len = 54
-            max_opponent = record.Opponent.str.len().max()
-            max_event = record.Event.str.len().max()
-            if (max_len < max_opponent + max_event):
-                width = max_len - max_opponent
-                e = record.Event.replace("(.{"+str(width)+"})", "\\1-\n",
-                                         regex=True)
-                e = e.replace(r"\s+-\n|-\n\s+","\n",regex=True)
-                record.Event = e.replace("-$","",regex=True)
-
-        return record
-    return None
+    return record
 
 class Fighter:
     def print_name(self):
