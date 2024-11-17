@@ -9,6 +9,7 @@ event_bool = False
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
 # Calzaghe, and then Naseem Hamed
 #
+# Four Kings (USA Showtime, UK Amazon)
 #
 
 # --- Careers ---
@@ -22,8 +23,10 @@ event_bool = False
 ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
 ffighter = ''
 
-
-# Nathan Heaney vs. Brad Pauls II     | 07.22.2023 |
+# Adam Azim vs. Ohara Davies [?]      | 10.12.2024 |
+# Inoue vs. Tsutsumi                  | 10.xx.2024 | ESPN
+# Alycia Baumgardner vs. D. Persoon   | 09.27.2024 |
+# Nathan Heaney vs. Brad Pauls II     | 07.22.2024 |
 # DAZN Prize Fighter Semis            | 07.15.2024 | Osaka, Japan
 # Jaron Ennis vs. Roiman Villa        | 07.08.2023 |
 # Kazuto Ioka vs. Fernando Martínez   | 07.07.2024 |
@@ -34,9 +37,9 @@ ffighter = ''
 # Jordan Reynolds vs. Joel Bartell    | 07.06.2024 | whole show ***** Greenwich
 # Maisey Courtney vs. J. Zapotoczna   | 07.06.2024 | Jasmina
 # Teofimo Lopez vs. Steve Claggett    | 06.29.2024 |
-# Juan F. Estrada vs. Jesse Rodriguez | 06.22.2024 | * whole show
-# Sunny Edwards vs. Adrian Curiel     | 06.22.2024 | undercard
-# Ramla Ali vs. Yamileth Mercado      | 06.22.2024 | undercard
+# Juan F. Estrada vs. Jesse Rodriguez | 06.29.2024 | * whole show
+# Sunny Edwards vs. Adrian Curiel     | 06.29.2024 | undercard
+# Ramla Ali vs. Yamileth Mercado      | 06.29.2024 | undercard
 # Emma Dolan vs. Shannon Ryan         | 06.22.2024 | 06.20 preview article
 # Quaise Khademi vs. Ryan Farrag      | 06.22.2024 | *****
 # Gervonta Davis vs. Frank Martin     | 06.15.2024 | * whole show
@@ -71,7 +74,7 @@ ffighter = ''
 # Yudai Shigeoka vs. Melvin Jerusalem | 03.31.2024 |
 # Fabio Wardley vs. Frazer Clarke     | 03.31.2024 | * whole show
 # Oscar Valdez vs. Liam Wilson        | 03.31.2024 |
-# Sebastian Fundora vs. Tim Tszyu     | 03.31.2024 |
+# Sebastian Fundora vs. Tim Tszyu     | 03.31.2024 | [A]
 # Moses Itauma vs. Dan Garber         | 03.22.2024 |
 # Dalton Smith vs. Jose Zepeda        | 03.22.2024 |
 # William Zepeda vs. Maxi Hughes      | 03.16.2024 |
@@ -148,6 +151,7 @@ ffighter = ''
 # Jermall Charlo vs. José Benavidez Jr.       | 11.25.2023 | [ ] |
 # Katie Taylor vs. Chantelle Cameron          | 11.25.2023 | [ ] |
 # Nick Ball vs. Isaac Dogboe                  | 11.18.2023 | [ ] | * Whole Manchester Show
+# Bakhodir Jalolov vs. Chris Thompson         | 11.17.2023 | [ ] |
 # Emanuel Navarrete vs. Robson Conceição      | 11.16.2023 | [ ] |
 # Shakur Stevenson vs. Edwin De Los Santos    | 11.16.2023 | [ ] |
 # Harlem Eubank vs. Timo Schwarzkopf          | 11.10.2023 | [ ] |
@@ -176,18 +180,20 @@ ffighter = ''
 # Oleksandr Usyk vs. Daniel Dubois            | 08.26.2023 | [-] | for "the punch"
 # Lani Daniels vs. Razel Mohammed             | 08.26.2023 | [ ] | heavy
 # Jared Anderson vs. Andriy Rudenko           | 08.26.2023 | [ ] |
+# Bakhodir Jalolov vs. Onorede Ehwareme       | 08.26.2023 | [ ] |
 # Dennis McCann vs. Ionut Baluta              | 08.18.2023 | [ ] | put show on background, DAZN?
+# José Benavidez Jr. vs. Sladan Janjanin      | 08.12.2013 | [ ] |
 # Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] | **
 # Moses Itauma vs. Kevin Nicolas Espindola    | 07.29.2023 | [ ] |
 # Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] | **
 # George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
 # Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [ ] | Cuban vs. Bulgerian, heavy, ESPN
 # Prince Patel vs. Ramadhani Kumbele          | 07.09.2023 | [ ] |
-# Nigel Collins vs. Jaron Ennis               | 07.08.2023 | [ ] |
-# Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [ ] | *
-# Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [ ] |
-# Jared Anderson vs. Charles Martin           | 07.01.2023 | [ ] |
-# Kazuto Ioka vs. Joshua Franco II            | 06.24.2023 | [ ] |
+# Roiman Villa vs. Jaron Ennis                | 07.08.2023 | [ ] |
+# Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [X] | *
+# Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [X] |
+# Jared Anderson vs. Charles Martin           | 07.01.2023 | [X] |
+# Kazuto Ioka vs. Joshua Franco II            | 06.24.2023 | [X] |
 # Regis Prograis vs. Danielito Zorrilla       | 06.24.2023 | [X] |
 # Tim Tszyu vs. Ocampo                        | 06.17.2023 | [X] |
 # Sunny Edwards vs Andres Camposa [DAZN]      | 06.10.2023 | [X] | *
@@ -238,15 +244,16 @@ ffighter = ''
 # Robelis Despaigne vs. Katuma Mulumba| 06.03.2022 |
 # --- Young Bloodz ---
 # Moses Itauma, Abdullah Mason, Ben Whittaker, Curmel Moton, Elijah Garcia
+# Bakhodir Jalolov, Jared Anderson
 # --------------------
 # Book: Tales of Pugilism
 
 # just random fights
-# | Emanuel Navarrete vs. Robson Conceição           | 11.16.2023 |
-# | Robeisy Ramirez vs. Satoshi Shimizu         | 07.25.2023 |
+# | Emanuel Navarrete vs. Robson Conceição   | 11.16.2023 |
+# | Robeisy Ramirez vs. Satoshi Shimizu      | 07.25.2023 |
 # | Sunny Edwards vs. Andres Campos          | 06.10.2023 |
-# | Robeisy Ramirez vs. Isaac Dogboe            | 04.01.2023 |
-# |  Anthony Yard vs. Jorge Silva             | 09.23.2023 |
+# | Robeisy Ramirez vs. Isaac Dogboe         | 04.01.2023 |
+# |  Anthony Yard vs. Jorge Silva            | 09.23.2023 |
 # fighter = 'Robeisy Ramirez'
 
 # catch-up as it happens

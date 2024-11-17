@@ -66,12 +66,17 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 358 boxing matches
+: I have seen 363 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Mike Tyson vs. Jake Paul          | 11.15.2024 |                            |
+| Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Unified Super Light*      |
+| Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
+| Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Unified Light Heavy*      |
+| Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
 | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
