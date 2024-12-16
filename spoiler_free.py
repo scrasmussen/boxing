@@ -26,6 +26,7 @@ ffighter = ''
 # Adam Azim vs. Ohara Davies [?]      | 10.12.2024 |
 # Inoue vs. Tsutsumi                  | 10.xx.2024 | ESPN
 # Alycia Baumgardner vs. D. Persoon   | 09.27.2024 |
+# Terence Crawford vs. Israil Madrimov| 08.03.2024 |
 # Nathan Heaney vs. Brad Pauls II     | 07.22.2024 |
 # DAZN Prize Fighter Semis            | 07.15.2024 | Osaka, Japan
 # Jaron Ennis vs. Roiman Villa        | 07.08.2023 |
@@ -136,7 +137,7 @@ ffighter = ''
 # Dmitry Bivol vs. Lyndon Arthur              | 12.23.2023 | [ ] |
 # Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] | **
 # Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] | **
-# Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2024 | [ ] |
+# Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2023 | [ ] |
 # Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | **
 # Devil Haney vs. Regis Prograis              | 12.09.2023 | [ ] | **
 # Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [ ] | **
@@ -183,7 +184,7 @@ ffighter = ''
 # Bakhodir Jalolov vs. Onorede Ehwareme       | 08.26.2023 | [ ] |
 # Dennis McCann vs. Ionut Baluta              | 08.18.2023 | [ ] | put show on background, DAZN?
 # José Benavidez Jr. vs. Sladan Janjanin      | 08.12.2013 | [ ] |
-# Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] | **
+# Terence Crawford vs. Errol Spence           | 07.29.2023 | [X] | **
 # Moses Itauma vs. Kevin Nicolas Espindola    | 07.29.2023 | [ ] |
 # Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] | **
 # George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
@@ -219,9 +220,9 @@ ffighter = ''
 # | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
 # | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
 # | Naoya Inoue vs. Stephen Fulton              | 07.25.2023 | [-] |
-# | Terence Crawford vs. Errol Spence           | 07.29.2023 | [ ] |
-# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [-] |
+# | Terence Crawford vs. Errol Spence           | 07.29.2023 | [X] |
 # | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
+# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [-] |
 
 # --------------- top fights plus a few ------------------------
 # --------------------------------------------------------------
@@ -229,7 +230,7 @@ ffighter = ''
 # | Devil Haney vs. Regis Prograis          | 12.09.2023 | [ ] |
 # | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] |
 # | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] |
-# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | DAZN probs
+# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | [ ] |
 # | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [X] |
 # | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | [X] |
 # | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
