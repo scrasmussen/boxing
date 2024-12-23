@@ -649,6 +649,7 @@ Sherrif jumps into the ring and stops the fight
 | UFC 234                   | 02.10.2019 | Adesanya vs. Silva            |
 | UFC 233: Canceled         | 01.26.2019 | Cejudo vs. Dillasha           |
 | UFC 232                   | 12.29.2018 | Jones vs. Gustafsson II       |
+| UFC 231                   | 12.08.2018 | Holloway vs. Ortega           |
 | UFC 229                   | 08.06.2018 | Khabib vs. McGregor           |
 | UFC 226                   | 07.07.2018 | Miocic vs. Cormier            |
 | UFC 203                   | 09.10.2016 | Miocic vs. Overeem            |
