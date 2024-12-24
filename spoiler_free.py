@@ -16,20 +16,56 @@ event_bool = False
 # | Naoya Inoue | 1 |
 
 # --------
+# | 2025 |
+# --------
+# Upcoming Great Fights
+# Inoue vs Goodman
+# David Benavidez vs David Morrell
+# Artur Beterbiev vs Dmitry Bivol 2
+
+
+# --------
 # | 2024 |
 # --------
+# fight of the year contenders
+# Bivol vs. Beterbiev
+# Serhii Bohachuk vs. Vergil Ortiz Jr. around 08.10.2024
+# Kenshiro Teraji vs. Carlos Canizales aroun 01.20.2024
+# Raymond Ford vs. Nick Ball
+# Ford vs. Kholmatov
+# Zhang vs. Wilder
+# Haney vs Garcia
+# Frazer Clarke vs Fabio Wardley
+# Cheavon Clarke vs. Leonardo Mosquea
+# Abel Ramos vs. Mario Barrios
+# Alexis Rocha vs. Raul Curiel
+# Anthony Joshua vs. Daniel Dubois
+# Anthony Joshua vs. Francis Ngannou
+# Opetaia vs. Breidis 2
+# Ioka vs. Martinez
+# Takie vs. Higa
+# Chisora vs Joyce
+# Dubois vs Hrgovic
+
+
 # - catch-up -
 
 ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
 ffighter = ''
 
+
+# Kubrat Pulev vs. Mahmoud Charr      | 12.07.2024 |
+# Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
+# Jaron Ennis vs. Karen Chukhadzhian  | 11.09.2024 |
 # Adam Azim vs. Ohara Davies [?]      | 10.12.2024 |
 # Inoue vs. Tsutsumi                  | 10.xx.2024 | ESPN
 # Alycia Baumgardner vs. D. Persoon   | 09.27.2024 |
+# Daniel Dubois vs. Anthony Joshua    | 09.21.2024 |
+# Josh Warrington vs. Anthony Cacace  | 09.21.2024 |
 # Terence Crawford vs. Israil Madrimov| 08.03.2024 |
 # Nathan Heaney vs. Brad Pauls II     | 07.22.2024 |
 # DAZN Prize Fighter Semis            | 07.15.2024 | Osaka, Japan
-# Jaron Ennis vs. Roiman Villa        | 07.08.2023 |
+# Jaron Ennis vs. David Avanesyan     | 07.13.2024 |
 # Kazuto Ioka vs. Fernando Martínez   | 07.07.2024 |
 # Shakur Stevenson vs. A. Harutyunyan | 07.06.2024 |
 # Keyshawn Davis vs. Miguel Madueno   | 07.06.2024 |
@@ -46,7 +82,7 @@ ffighter = ''
 # Gervonta Davis vs. Frank Martin     | 06.15.2024 | * whole show
 # Chris Billam-Smith vs. R. Riakporhe | 06.15.2024 |
 # Matchroom vs. Queensberry Promotions| 06.01.2024 | Saudi Arabia
-# Zhilei Zhang vs. Joseph Parker      | 06.01.2024 | whole show *****
+# Zhilei Zhang vs. Deontay Wilder     | 06.01.2024 | whole show *****
 # Dmitry Bivol vs. Malik Zinad        | 06.01.2024 |
 # Filip Hrgovic vs. Daniel Dubois     | 06.01.2024 |
 # Angelo Dragone vs. Jake Tinklin     | 06.01.2024 |
@@ -58,7 +94,7 @@ ffighter = ''
 # Emanuel Navarrete vs. D. Berinchyk  | 05.18.2024 |
 # Moses Itauma vs. Ilja Mezencev      | 05.18.2024 |
 # Anthony Cacace vs. Joe Cordina      | 05.18.2024 |
-# Vasily Lomachenko vs. G. Kambosos Jr| 05.12.2024 |
+# Vasily Lomachenko vs. G. Kambosos   | 05.12.2024 |
 # Nina Hughes vs. Cherneka Johnson    | 05.12.2024 |
 # Lauren Price Jessica McCaskill      | 05.11.2024 |
 # Naoya Inoue vs. Luis Nery           | 05.06.2024 | * whole show
@@ -67,7 +103,7 @@ ffighter = ''
 # Ryosuke Nishida vs. E. Rodríguez    | 05.04.2024 |
 # Joey Dawejko vs. Walter Burns       | 04.27.2024 |
 # Lewis Wood vs. Levi Smith           | 04.27.2024 |
-# Ryan Garcia vs. Devin Haney         | 04.20.2024 | 4.18 Boxing News article
+# Ryan Garcia vs. Devin Haney         | 04.20.2024 | ** 4.18 Boxing News article
 # Jared Anderson vs. Ryad Merhy       | 04.13.2024 |
 # Zelfa Barrett vs. Jordan Gill       | 04.13.2024 | whole show
 # Rhiannon Dixon vs. Karen Carabajal  | 04.13.2024 | Barrett undercard
@@ -76,12 +112,13 @@ ffighter = ''
 # Fabio Wardley vs. Frazer Clarke     | 03.31.2024 | * whole show
 # Oscar Valdez vs. Liam Wilson        | 03.31.2024 |
 # Sebastian Fundora vs. Tim Tszyu     | 03.31.2024 | [A]
+# Kubrat Pulev vs. Ihor Shevadzutskyi | 03.30.2024 |
 # Moses Itauma vs. Dan Garber         | 03.22.2024 |
 # Dalton Smith vs. Jose Zepeda        | 03.22.2024 |
 # William Zepeda vs. Maxi Hughes      | 03.16.2024 |
 # Nathan Heaney vs. Brad Pauls        | 03.15.2024 | whole show
 # Anthony Joshua vs. Francis Ngannou  | 03.08.2024 | undercared *****
-# Zhilei Zhang vs. Deontay Wilder     | 03.08.2024 |
+# Zhilei Zhang vs. Joseph Parker      | 03.08.2024 | whole show?*****
 # Otabek Kholmatov vs. Raymond Ford   | 03.02.2024 | *
 # Takuma Inoue vs. Jerwin Ancajas     | 02.24.2024 | whole show, 02.22.2024 preview article
 # Connor Bulter vs. Jay Harris        | 02.24.2024 |
@@ -137,10 +174,12 @@ ffighter = ''
 # Dmitry Bivol vs. Lyndon Arthur              | 12.23.2023 | [ ] |
 # Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] | **
 # Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] | **
+# Daniel Dubois vs. Jarrell Miller            | 12.23.2023 | [ ] |
+# Kubrat Pulev vs. Andrzej Wawrzyk            | 12.14.2023 | [ ] |
 # Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2023 | [ ] |
 # Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | **
 # Devil Haney vs. Regis Prograis              | 12.09.2023 | [ ] | **
-# Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [ ] | **
+# Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [X] | **
 # Chris Billiam-Smith vs. Mateusx Masternak   | 12.09.2023 | [ ] |
 # Matt Windle vs. Craig Derbyshire            | 12.09.2023 | [ ] |
 # Joey Dawejko vs. Jesse Bryan                | 12.09.2023 | [ ] |
@@ -159,11 +198,11 @@ ffighter = ''
 # Adam Azim vs. Franck Petitjean              | 11.10.2023 | [ ] |
 # Joe Cordina vs. Edward Vazquez              | 11.04.2023 | [ ] |
 # Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] | **
-# Eduardo Hernandez vs. O'Shaquie Foster      | 10.28.2023 | [ ] | **
+# Eduardo Hernandez vs. O'Shaquie Foster      | 10.28.2023 | [X] | **
 # Fabio Wardley vs. David Adeleye             | 10.28.2023 | [ ] |
 # Moses Itauma vs. István Bernáth             | 10.28.2023 | [ ] |
 # Tim Tszyu vs. Brian Mendoza                 | 10.14.2023 | [ ] |
-# Leigh Wood vs. Josh Warrington              | 10.07.2023 | [ ] | ** DAZN probs
+# Leigh Wood vs. Josh Warrington              | 10.07.2023 | [X] | **
 # Gilberto Ramirez vs. Joe Smith Jnr.         | 10.07.2023 | [ ] | G. moving to cruiser
 # Emma Dolan vs. Nicola Hopewell              | 10.07.2023 | [ ] |
 # Terri Harper vs. Cecilia Braekhus           | 10.07.2023 | [ ] |
@@ -188,9 +227,9 @@ ffighter = ''
 # Moses Itauma vs. Kevin Nicolas Espindola    | 07.29.2023 | [ ] |
 # Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] | **
 # George Kambosos vs. Maxi Hughes             | 07.15.2023 | [ ] | ESPN, main
-# Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [ ] | Cuban vs. Bulgerian, heavy, ESPN
-# Prince Patel vs. Ramadhani Kumbele          | 07.09.2023 | [ ] |
-# Roiman Villa vs. Jaron Ennis                | 07.08.2023 | [ ] |
+# Keyshawn Davis vs. Francesco Patera         | 07.15.2023 | [X] |
+# Prince Patel vs. Ramadhani Kumbele          | 07.09.2023 | [-] | Can't find
+# Roiman Villa vs. Jaron Ennis                | 07.08.2023 | [X] | Ennis has long rear hooks
 # Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [X] | *
 # Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [X] |
 # Jared Anderson vs. Charles Martin           | 07.01.2023 | [X] |
@@ -211,6 +250,7 @@ ffighter = ''
 # Jared Anderson vs. George Arias             | 04.08.2023 | [X] |
 ffighter = ''
 
+# Kubrat Pulev vs. Anthony Joshua       | 12.12.2020 |
 
 # --- Best Of ---
 # | Callum Smith vs. Artur Beterbiev            | 01.13.2024 | [ ] |
@@ -278,7 +318,6 @@ ffighter = ''
 #  vs Joe Louis
 #  vs Ezzard Charles
 # Ryan Garcia
-# Tony Bellew
 # Andre Berto
 # Earnie Shavers
 # Sugar Ray Robinson
@@ -854,12 +893,13 @@ fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
 #          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
 #          Errol Spence Jr.  |     1 | Jonathan Garcia     | 11.09.2012 |
 fighter = 'Naoya Inoue'    # |     1 | Crison Omayao       | 10.02.2012 |
-
+#---
 fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
 # Cuban big threat who was avoided
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
 #          Terence Crawford  |     1 | Brian Cummings      | 03.14.2008 |
+fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 #          Canelo Álvarez    |     1 | Abraham Gonzalez    | 10.29.2005 |
@@ -867,6 +907,7 @@ fighter = 'Amir Khan (boxer)'#|    1 | David Bailey        | 07.16.2005 |
 fighter = 'Andre Ward'     # |     3 | Roy Ashworth        | 04.07.2005 |
 fighter = 'Timothy Bradley'# |     1 | Francisco Martinez  | 08.20.2004 |
 fighter = 'Miguel Cotto'   # |     1 | Jason Doucet        | 02.23.2001 |
+#---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
 fighter = 'Juan Manuel Marquez'#| 20 | Cedric Mingosey     | 02.03.1997 |
 fighter = 'Vitali Klitschko' # |   1 | Tony Bradham        | 11.16.1996 |
