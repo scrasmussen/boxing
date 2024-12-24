@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 369 boxing matches
+: I have seen 370 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -78,8 +78,9 @@ Note: -1 for the header and -1 for the canceled event
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Unified Light Heavy*      |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
-| Robeisy Ramirez vs. R. Espinoza   | 12.09.2023 | Rafael, WBO Junior Light   |
-| Eduardo Hernandez vs. O. Foster   | 10.28.2023 | O'Shaquie, foyc            |
+| Devil Haney vs. Regis Prograis    | 12.09.2023 | WBC junior welter          |
+| Robeisy Ramirez vs. R. Espinoza   | 12.09.2023 | Rafael, WBO junior light   |
+| Eduardo Hernandez vs. O. Foster   | 10.28.2023 | O'Shaquie, FOYC            |
 | Leigh Wood vs. Josh Warrington    | 10.07.2023 | WBA feather                |
 | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |

@@ -177,8 +177,8 @@ ffighter = ''
 # Daniel Dubois vs. Jarrell Miller            | 12.23.2023 | [ ] |
 # Kubrat Pulev vs. Andrzej Wawrzyk            | 12.14.2023 | [ ] |
 # Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2023 | [ ] |
-# Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | **
-# Devil Haney vs. Regis Prograis              | 12.09.2023 | [ ] | **
+# Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | ** DAZN
+# Devil Haney vs. Regis Prograis              | 12.09.2023 | [X] | ** DAZN
 # Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [X] | **
 # Chris Billiam-Smith vs. Mateusx Masternak   | 12.09.2023 | [ ] |
 # Matt Windle vs. Craig Derbyshire            | 12.09.2023 | [ ] |
