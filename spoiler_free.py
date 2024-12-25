@@ -27,31 +27,35 @@ event_bool = False
 # --------
 # | 2024 |
 # --------
-# fight of the year contenders
-# Bivol vs. Beterbiev
-# Serhii Bohachuk vs. Vergil Ortiz Jr. around 08.10.2024
-# Kenshiro Teraji vs. Carlos Canizales aroun 01.20.2024
-# Raymond Ford vs. Nick Ball
-# Ford vs. Kholmatov
-# Zhang vs. Wilder
-# Haney vs Garcia
-# Frazer Clarke vs Fabio Wardley
-# Cheavon Clarke vs. Leonardo Mosquea
-# Abel Ramos vs. Mario Barrios
-# Alexis Rocha vs. Raul Curiel
-# Anthony Joshua vs. Daniel Dubois
-# Anthony Joshua vs. Francis Ngannou
-# Opetaia vs. Breidis 2
-# Ioka vs. Martinez
-# Takie vs. Higa
-# Chisora vs Joyce
-# Dubois vs Hrgovic
+# fight of the year contenders and noteworthy
+
 
 
 # - catch-up -
 
-ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
-ffighter = ''
+# ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
+# |--------------------------------------+------------+-----|
+# | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] |
+# | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [ ] |
+# | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [ ] |
+# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [ ] |
+# | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [ ] |
+# | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [ ] |
+# | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [ ] |
+# | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [ ] |
+# | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [ ] |
+# | Kazuto Ioka vs. Fernando Martínez    | 07.07.2024 | [ ] |
+# | Zhilei Zhang vs. Deontay Wilder      | 06.01.2024 | [ ] |
+# | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [ ] |
+# | Raymond Ford vs. Nick Ball           | 06.01.2024 | [ ] |
+# | Jai Opetaia vs. Mairis Breidis       | 05.18.2024 | [ ] |
+# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [ ] |
+# | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [ ] |
+# | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [ ] |
+# | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [ ] |
+# | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [ ] |
+# | Callum Smith vs. Artur Beterbiev     | 01.13.2024 | [ ] |
+# |--------------------------------------+------------+-----|
 
 
 # Kubrat Pulev vs. Mahmoud Charr      | 12.07.2024 |
@@ -170,14 +174,14 @@ ffighter = ''
 # --------
 #
 # Kazuto Ioka vs. Josber Perez                | 12.31.2023 | [ ] |
-# Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [ ] | **
+# Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [X] | **
 # Dmitry Bivol vs. Lyndon Arthur              | 12.23.2023 | [ ] |
-# Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] | **
-# Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] | **
+# Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [X] | **
+# Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [X] | **
 # Daniel Dubois vs. Jarrell Miller            | 12.23.2023 | [ ] |
 # Kubrat Pulev vs. Andrzej Wawrzyk            | 12.14.2023 | [ ] |
 # Prince Patel vs. Aliu Bemidele Lasisi       | 12.19.2023 | [ ] |
-# Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [ ] | ** DAZN
+# Sunny Edwards vs. Jesse Rodriguez           | 12.16.2023 | [X] | ** DAZN
 # Devil Haney vs. Regis Prograis              | 12.09.2023 | [X] | ** DAZN
 # Robeisy Ramirez vs. Rafael Espinoza         | 12.09.2023 | [X] | **
 # Chris Billiam-Smith vs. Mateusx Masternak   | 12.09.2023 | [ ] |
@@ -248,15 +252,14 @@ ffighter = ''
 # Prince Patel vs. Goodluck Mrema             | 04.15.2023 | [X] |
 # Kenshiro Teraji vs. Anthony Olascuaga       | 04.08.2023 | [X] | *
 # Jared Anderson vs. George Arias             | 04.08.2023 | [X] |
-ffighter = ''
+# ffighter = ''
 
 # Kubrat Pulev vs. Anthony Joshua       | 12.12.2020 |
 
 # --- Best Of ---
-# | Callum Smith vs. Artur Beterbiev            | 01.13.2024 | [ ] |
-# | Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [ ] |
-# | Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [ ] |
-# | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [ ] |
+# | Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [X] |
+# | Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [X] |
+# | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [X] |
 # | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
 # | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
 # | Naoya Inoue vs. Stephen Fulton              | 07.25.2023 | [-] |
@@ -266,11 +269,11 @@ ffighter = ''
 
 # --------------- top fights plus a few ------------------------
 # --------------------------------------------------------------
-# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [ ] |
-# | Devil Haney vs. Regis Prograis          | 12.09.2023 | [ ] |
-# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [ ] |
-# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [ ] |
-# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | [ ] |
+# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [X] |
+# | Devil Haney vs. Regis Prograis          | 12.09.2023 | [X] |
+# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [X] |
+# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [X] |
+# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | [X] |
 # | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [X] |
 # | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | [X] |
 # | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |

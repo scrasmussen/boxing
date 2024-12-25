@@ -66,27 +66,32 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 370 boxing matches
+: I have seen 375 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Mike Tyson vs. Jake Paul          | 11.15.2024 |                            |
-| Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Unified Super Light*      |
+| Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Unified Super Light* FOYC |
 | Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
-| Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Unified Light Heavy*      |
+| Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Unified Light Heavy* FOYC |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
+| Naoya Inoue vs. Marlon Tapales    | 12.26.2023 | *Unified Junior Feather*   |
+| Deontay Wilder vs. Joseph Parker  | 12.23.2023 | FOYC                       |
+| Anthony Joshua vs. Otto Wallin    | 12.23.2023 |                            |
+| Sunny Edwards vs. Jesse Rodriguez | 12.16.2023 | FOYC WBO IBF fly           |
 | Devil Haney vs. Regis Prograis    | 12.09.2023 | WBC junior welter          |
 | Robeisy Ramirez vs. R. Espinoza   | 12.09.2023 | Rafael, WBO junior light   |
 | Eduardo Hernandez vs. O. Foster   | 10.28.2023 | O'Shaquie, FOYC            |
-| Leigh Wood vs. Josh Warrington    | 10.07.2023 | WBA feather                |
+| Leigh Wood vs. Josh Warrington    | 10.07.2023 | WBA feather, FOYC          |
 | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
+| Anthony Joshua vs. R. Helenius    | 08.12.2023 | Robert                     |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Terence Crawford vs. Errol Spence | 07.29.2023 | *Unified Welter*           |
-| Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather        |
+| Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather FYOC   |
 | Keyshawn Davis vs. F. Patera      | 07.15.2023 | Francesco                  |
 | Roiman Villa vs. Jaron Ennis      | 07.08.2023 |                            |
 | S. Marshall vs. F. Crews-Dezurn   | 07.01.2023 | Savannah;Franchon;u.s.mid. |
