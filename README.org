@@ -73,12 +73,12 @@ Note: -1 for the header and -1 for the canceled event
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Mike Tyson vs. Jake Paul          | 11.15.2024 |                            |
-| Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Unified Super Light* FOYC |
+| Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Undispu Super Light* FOYC |
 | Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
-| Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Unified Light Heavy* FOYC |
+| Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
-| Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Unified Heavy Weight*     |
-| Naoya Inoue vs. Marlon Tapales    | 12.26.2023 | *Unified Junior Feather*   |
+| Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Undisputed Heavy Weight*  |
+| Naoya Inoue vs. Marlon Tapales    | 12.26.2023 | *Undisputed Jr. Feather*   |
 | Deontay Wilder vs. Joseph Parker  | 12.23.2023 | FOYC                       |
 | Anthony Joshua vs. Otto Wallin    | 12.23.2023 |                            |
 | Sunny Edwards vs. Jesse Rodriguez | 12.16.2023 | FOYC WBO IBF fly           |
@@ -90,7 +90,7 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Anthony Joshua vs. R. Helenius    | 08.12.2023 | Robert                     |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
-| Terence Crawford vs. Errol Spence | 07.29.2023 | *Unified Welter*           |
+| Terence Crawford vs. Errol Spence | 07.29.2023 | *Undisputed Welter*        |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather FYOC   |
 | Keyshawn Davis vs. F. Patera      | 07.15.2023 | Francesco                  |
 | Roiman Villa vs. Jaron Ennis      | 07.08.2023 |                            |
@@ -104,14 +104,14 @@ Note: -1 for the header and -1 for the canceled event
 | Josh Taylor vs. Teofima Lopez     | 06.10.2023 | WBO light welter           |
 | Sunny Edwards vs Andres Camposa   | 06.10.2023 | IBF fly                    |
 | Nina Hughes vs. Katie Healy       | 06.10.2023 | WBA bantam                 |
-| Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela, Undisputed+ mid  |
+| Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela *Undisputed+ Mid* |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
 | Chris Billiam-Smith vs. L. Okolie | 05.27.2023 | Lawrence, WBO cruiser      |
 | John Ramirez vs. Fernando Diaz    | 05.27.2023 |                            |
 | Kosei Tanaka vs. Pablo Carrillo   | 05.21.2023 |                            |
 | D. Haney vs. Vasiliy Lomachenko   | 05.20.2023 | Devin                      |
-| Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle undis sup light  |
+| Katie Taylor vs. C. Cameron       | 05.20.2023 | Chantelle *Und Sup Light*  |
 | Gary Cully vs. Jose Felix Jr.     | 05.20.2023 |                            |
 | Dennis Hogan vs. James Metcalf    | 05.20.2023 |                            |
 | Caoimhin Agyarko vs. Grant Dennis | 05.20.2023 |                            |
@@ -165,8 +165,8 @@ Note: -1 for the header and -1 for the canceled event
 | Gary Cully vs. Wilfredo Flores    | 02.18.2023 | Intercont Light            |
 | Rey Vargas vs. O'Shaquie Foster   | 02.11.2023 | WBC Super Feather          |
 | Adam Azim vs. Santos Reyes        | 02.11.2023 | Continental Super Light    |
-| Amanda Serrano vs. Erika Cruz     | 02.04.2023 | Unified Feather            |
-| A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | Unified Super Feather      |
+| Amanda Serrano vs. Erika Cruz     | 02.04.2023 | *Undisputed Feather*       |
+| A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | *Undisputed Super Feather* |
 | Emanuel Navarrete vs. Liam Wilson | 02.03.2023 | WBO Super Feather          |
 | Arnold Barboza Jr. vs. J. Pedraza | 02.03.2023 | Jose, WBO Inter Sup Light  |
 | Richard Torrez Jr. vs. J. Bryant  | 02.03.2023 | James                      |
@@ -180,13 +180,13 @@ Note: -1 for the header and -1 for the canceled event
 | Kazuto Ioka vs. Joshua Franco     | 12.31.2023 |                            |
 | Terence Crawford vs. D. Avanesyan | 12.10.2022 | WBO Welter                 |
 | Dmitry Bivol vs. Gilberto Ramirez | 11.05.2022 | WBA Light Heavy            |
-| Katie Taylor vs. E. Carabajal     | 10.30.2022 | Elizabeth, Undis. Light    |
+| Katie Taylor vs. E. Carabajal     | 10.30.2022 | Elizabeth, *Undis. Light*  |
 | Vasiliy Lomachenko vs. J. Ortiz   | 10.30.2022 | Jamaine                    |
 | Johnny Fisher vs. Dominic Musil   | 10.30.2022 |                            |
 | Gary Cully vs. Jaouad Belmehdi    | 10.30.2022 |                            |
 | Jose Zepeda vs. Jojo Diaz Jr.     | 10.29.2022 |                            |
-| Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, Undisputed Mid   |
-| M. Mayer vs. Alycia Baumgardner   | 10.15.2022 | Mikaela, Undis S Feather   |
+| Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, *Undisputed Mid* |
+| M. Mayer vs. Alycia Baumgardner   | 10.15.2022 | Mikaela, *Undis S Feather* |
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
 | Shakur Stevenson vs. R. Conceicao | 09.23.2022 |                            |
@@ -199,7 +199,7 @@ Note: -1 for the header and -1 for the canceled event
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
 | Andrew Cain vs. Luis Moreno       | 05.20.2022 |                            |
 | Dmitry Bivol vs. Canelo Alvarez   | 05.07.2022 |                            |
-| Katie Taylor vs. Amanda Serrano   | 04.30.2022 | Light Undisputed           |
+| Katie Taylor vs. Amanda Serrano   | 04.30.2022 | *Undisputed Light*         |
 | Tyson Furry vs. Dillian Whyte     | 04.22.2022 | WBC Heavy                  |
 | Andrew Cain vs. Pablo Ariel Gomez | 04.16.2022 |                            |
 | Gennadiy Golovkin vs. R. Murata   | 04.09.2022 | Ryota, IBF/WBA middle      |
@@ -257,7 +257,7 @@ Note: -1 for the header and -1 for the canceled event
 | Jermall Charlo vs. Juan Montiel   | 06.19.2021 |                            |
 | N. Oubaali vs. Nonito Donaire     | 05.29.2021 | Nordine, WBC Bantamweight  |
 | Devin Haney vs. Jorge Linares     | 05.29.2021 | WBC lightweight defense    |
-| Jose Ramirez vs. Josh Taylor      | 05.22.2021 | Unification! light welter  |
+| Jose Ramirez vs. Josh Taylor      | 05.22.2021 | *Undisputed Light Welter*  |
 | Luis Nery vs. Brandon Figueroa    | 05.15.2021 | WBC/WBA Super Bantamweight |
 | Christopher Lovejoy vs. M. Charr  | 05.15.2021 | Lovejoy! Mahmoud           |
 | David Cardenas vs. Anthony Crespo | 05.15.2021 |                            |
@@ -301,7 +301,7 @@ Note: -1 for the header and -1 for the canceled event
 | Joshua Buatsi vs. Renold Quinlan  | 12.22.2018 | Knock down on seperation   |
 | Oleksandr Usyk vs. Tony Bellew    | 11.10.2018 |                            |
 | Gennady Golovkin vs. Canelo A.    | 09.15.2018 | Alvarez, II                |
-| Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | Undisputed Cruiserweight   |
+| Oleksandr Usyk vs. Murat Gassiev  | 07.21.2018 | *Undisputed Cruiserweight* |
 | Alex Saucedo vs. Lenny Zappavigna | 06.30.2018 |                            |
 | Gilberto Ramirez vs. R.A. Angulo  | 06.30.2018 | Roamer Alexis              |
 | Josh Taylor vs. Viktor Postol     | 06.23.2018 |                            |
