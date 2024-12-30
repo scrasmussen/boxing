@@ -66,18 +66,23 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 375 boxing matches
+: I have seen 380 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Oleksandr Usyk vs. Tyson Furry II | 12.21.2024 | *Undisputed Heavy Weight*  |
 | Mike Tyson vs. Jake Paul          | 11.15.2024 |                            |
 | Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Undispu Super Light* FOYC |
 | Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Undisputed Heavy Weight*  |
+| Zhilei Zhang vs. Joseph Parker    | 03.08.2024 | WBO interim heavy          |
+| Raymond Ford vs. Otabek Kholmatov | 03.02.2024 | FOYC WBA feather           |
+| Kenshiro Teraji vs. C. Cañizales  | 01.23.2024 | Carlos, WBC WBA jr. fly    |
+| Callum Smith vs. Artur Beterbiev  | 01.13.2024 | light heavy                |
 | Naoya Inoue vs. Marlon Tapales    | 12.26.2023 | *Undisputed Jr. Feather*   |
 | Deontay Wilder vs. Joseph Parker  | 12.23.2023 | FOYC                       |
 | Anthony Joshua vs. Otto Wallin    | 12.23.2023 |                            |
@@ -939,13 +944,8 @@ Earnie Shavers: one of the hardest hitting punchers
 Thomas Hearns
 :end:
 :contemporary:
-Tyson Fury
-Anthony Joshua
-Sergey Kovalev
 RomanGonzalez # chocolatito, aggressive and great footwork
 Deontay Wilder
-Vasyl Lomachenko
-essentially contemporary: Wladimir Klitschko
 Errol Spence Jr., one of the best pound for pound
 Terence Crawford
 Junier Welterweight: Jose Ramirez and Josh Taylor

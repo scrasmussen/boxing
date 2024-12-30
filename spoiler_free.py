@@ -27,13 +27,8 @@ event_bool = False
 # --------
 # | 2024 |
 # --------
-# fight of the year contenders and noteworthy
-
-
-
-# - catch-up -
-
 # ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
+# fight of the year contenders and noteworthy
 # |--------------------------------------+------------+-----|
 # | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] |
 # | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [ ] |
@@ -52,10 +47,40 @@ event_bool = False
 # | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [ ] |
 # | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [ ] |
 # | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [ ] |
-# | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [ ] |
-# | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [ ] |
-# | Callum Smith vs. Artur Beterbiev     | 01.13.2024 | [ ] |
+# | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [X] |
+# | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [X] |
 # |--------------------------------------+------------+-----|
+
+# Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
+# Kenshiro Teraji vs. C. Rosales      | 10.13.2024 |
+# Josh Warrington vs. Anthony Cacace  | 09.21.2024 |
+# Terence Crawford vs. Israil Madrimov| 08.03.2024 |
+# Jordan Reynolds vs. Joel Bartell    | 07.06.2024 | whole show ***** Greenwich
+# Juan F. Estrada vs. Jesse Rodriguez | 06.29.2024 | * whole show
+# Sunny Edwards vs. Adrian Curiel     | 06.29.2024 | undercard
+# Quaise Khademi vs. Ryan Farrag      | 06.22.2024 | *****
+# Gervonta Davis vs. Frank Martin     | 06.15.2024 | * whole show
+# Chris Billam-Smith vs. R. Riakporhe | 06.15.2024 |
+# Matchroom vs. Queensberry Promotions| 06.01.2024 | Saudi Arabia
+# Zhilei Zhang vs. Deontay Wilder     | 06.01.2024 | whole show *****
+# Josh Taylor vs. Jack Catterall      | 05.25.2024 | ***** whole card
+# Sergey Kovalev vs. R. S. Safar      | 05.18.2024 | Yarde 2019, Pulev2022
+# Moses Itauma vs. Ilja Mezencev      | 05.18.2024 |
+# Naoya Inoue vs. Luis Nery           | 05.06.2024 | * whole show
+# Canelo Alvarez vs. Jaime Munguía    | 05.04.2024 |
+# Lewis Wood vs. Levi Smith           | 04.27.2024 |
+# Zelfa Barrett vs. Jordan Gill       | 04.13.2024 | whole show
+# Fabio Wardley vs. Frazer Clarke     | 03.31.2024 | * whole show
+# Moses Itauma vs. Dan Garber         | 03.22.2024 |
+# Nathan Heaney vs. Brad Pauls        | 03.15.2024 | whole show
+# Anthony Joshua vs. Francis Ngannou  | 03.08.2024 | undercared *****
+# Adam Azim vs. Enock Poulsen         | 02.03.2024 |
+# Lewis Crocker vs. Jose Felis        | 01.27.2024 | Belfast, Whole Show
+# Kenshiro Teraji vs. Hekkie Budler   | 09.18.2023 |
+
+# - catch-up -
+
+# ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
 
 
 # Kubrat Pulev vs. Mahmoud Charr      | 12.07.2024 |
@@ -137,10 +162,8 @@ event_bool = False
 # Joshua Buatsi vs. Dan Azeez         | 02.03.2024 |
 # Lewis Crocker vs. Jose Felis        | 01.27.2024 | Belfast, Whole Show
 # John Ryder vs. Jaime Munguía        | 01.27.2024 |
-# Kenshiro Teraji vs. Carlos Cañizales| 01.23.2024 |
 # Karriss Artingstall v.L.d.S.Furtado | 01.20.2024 |
 # Mikaela Mayer vs. Natasha Jonas     | 01.20.2024 |
-# Callum Smith vs. Artur Beterbiev    | 01.13.2024 | **
 # Joey Dawejko vs. Malik Titus        | 01.13.2024 |
 # Christian Mbilli vs. Rohan Murdock  | 01.13.2024 |
 # Yuko Kuroki vs. Eri Matsuda         | 01.12.2024 |
@@ -436,7 +459,6 @@ fighter = 'Hannah Rankin' # 09.25.2022 | Terri Harper
 #   - Parter vs. Spence Jr. ESPN
 #   - 11.13 Holloway vs. Rodriguez, Prelims too
 #   - Zepeda vs Vargas, Caraballo vs Sultan  ESPN
-#   - Lomachenko vs Commey ESPN 12.11.2021
 fighter = 'Román_González_(boxer)'
 fighter = 'Srisaket Sor Rungvisai'
 fighter = 'Max Holloway'
@@ -891,8 +913,8 @@ fighter ='Caroline Dubois (boxer)'#|2| Martina Horgasz     | 03.26.2022 |
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
-#          Vasyl Lomachenko  |     1 | José Luis Ramírez   | 10.12.2013 |
-#          Oleksandr Usyk    |     1 | Felipe Romero       | 09.11.2013 |
+fighter = 'Vasyl Lomachenko'#|     1 | José Luis Ramírez   | 10.12.2013 |
+fighter = 'Oleksandr Usyk' # |     1 | Felipe Romero       | 09.11.2013 |
 #          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
 #          Errol Spence Jr.  |     1 | Jonathan Garcia     | 11.09.2012 |
 fighter = 'Naoya Inoue'    # |     1 | Crison Omayao       | 10.02.2012 |
@@ -1071,12 +1093,10 @@ fighter = 'Diego Pacheco (boxer)'            #  12.22.2018 Luis Gonzalez
 # Exciting tall fighter, learn his style!
 fighter = 'Sadam Ali'                        #  12.15.2018 beat by Munguia
 fighter = 'Canelo Álvarez'                   #  12.15.2018 Rocky Fielding
-fighter = 'Vasyl Lomachenko'                 #  12.08.2018 ESPN, Crolla Youtube
 
 
 # - [ ] December 1 – Deontay Wilder vs Tyson Fury [Showtime]
 fighter = 'Jarrett Hurd'                     #  12.01.2018 PBC
-fighter = 'Oleksandr Usyk'                   #  11.10.2018 Bellew, DAZN Youtube
 fighter = 'Maciej Sulecki'                   #  11.10.2018
 fighter = 'Josh Kelly (boxer)'               #  11.10.2018 Walter Castillo
 fighter = 'Sullivan Barrera'                 #  11.03.2018
