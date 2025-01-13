@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 380 boxing matches
+: I have seen 382 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -78,7 +78,9 @@ Note: -1 for the header and -1 for the canceled event
 | Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
+| Zhilei Zhang vs. Deontay Wilder   | 06.01.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Undisputed Heavy Weight*  |
+| Anthony Joshua vs. F. Ngannou     | 03.08.2024 | Francis                    |
 | Zhilei Zhang vs. Joseph Parker    | 03.08.2024 | WBO interim heavy          |
 | Raymond Ford vs. Otabek Kholmatov | 03.02.2024 | FOYC WBA feather           |
 | Kenshiro Teraji vs. C. Cañizales  | 01.23.2024 | Carlos, WBC WBA jr. fly    |
@@ -498,12 +500,14 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 194 fight cards and 59 additional fights
+: I have seen 197 fight cards and 61 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 301                   | 05.04.2024 | Pantoja vs. Erceg             |
+| UFC 300                   | 04.13.2024 | Pereria vs. Hill              |
 | UFC 299                   | 03.09.2024 | O'Malley vs. Vera II          |
 | UFC 298                   | 02.17.2024 | Volkanovski vs. Topuria       |
 | UFC Fight Night 236       | 02.10.2024 | Hermansson vs. Pyfer          |
@@ -707,6 +711,7 @@ Sherrif jumps into the ring and stops the fight
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Francis Ngannou vs. Renan Ferreira   | 10.18.2024 | PFL Super Fights        |
 | Robelis Despaigne vs. Josh Parisian  | 03.09.2024 | UFC 299: Early Prelims  |
 | Chris Weidman vs. Brad Tavares       | 08.19.2023 | UFC 292: Prelims        |
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
