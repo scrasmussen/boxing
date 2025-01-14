@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 382 boxing matches
+: I have seen 384 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -80,6 +80,8 @@ Note: -1 for the header and -1 for the canceled event
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Zhilei Zhang vs. Deontay Wilder   | 06.01.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Undisputed Heavy Weight*  |
+| Ryan Garcia vs. Devin Haney       | 04.20.2024 | no contest from Garcia PEs |
+| Fabio Wardley vs. Frazer Clarke   | 03.31.2024 | FOYC                       |
 | Anthony Joshua vs. F. Ngannou     | 03.08.2024 | Francis                    |
 | Zhilei Zhang vs. Joseph Parker    | 03.08.2024 | WBO interim heavy          |
 | Raymond Ford vs. Otabek Kholmatov | 03.02.2024 | FOYC WBA feather           |
@@ -114,7 +116,7 @@ Note: -1 for the header and -1 for the canceled event
 | Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela *Undisputed+ Mid* |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
-| Chris Billiam-Smith vs. L. Okolie | 05.27.2023 | Lawrence, WBO cruiser      |
+| Chris Billam-Smith vs. L. Okolie  | 05.27.2023 | Lawrence, WBO cruiser      |
 | John Ramirez vs. Fernando Diaz    | 05.27.2023 |                            |
 | Kosei Tanaka vs. Pablo Carrillo   | 05.21.2023 |                            |
 | D. Haney vs. Vasiliy Lomachenko   | 05.20.2023 | Devin                      |
