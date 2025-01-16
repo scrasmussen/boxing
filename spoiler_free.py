@@ -14,15 +14,20 @@ event_bool = False
 
 # --- Careers ---
 # | Naoya Inoue | 1 |
+# |       |  | [ ] |
 
 # --------
 # | 2025 |
 # --------
-# Upcoming Great Fights
-# Inoue vs Goodman
-# David Benavidez vs David Morrell
-# Artur Beterbiev vs Dmitry Bivol 2
-
+# |--------------------------------------+------------+-----|
+# | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] |
+# | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [ ] |
+# | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] |
+# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] |
+# | Naoya Inoue vs. Ye Joon Kim          | 01.24.2025 | [ ] |
+# | Caroline Dubois vs. Jessica Camara   | 01.11.2025 | [ ] |
+# | Hayato Tsutsumi vs. Rene Alvarado    | 12.31.2024 | [ ] |
+# |--------------------------------------+------------+-----|
 
 # --------
 # | 2024 |
@@ -30,26 +35,27 @@ event_bool = False
 # ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
 # fight of the year contenders and noteworthy
 # |--------------------------------------+------------+-----|
-# | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] |
-# | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [ ] |
-# | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [ ] |
-# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [ ] |
-# | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [ ] |
-# | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [ ] |
-# | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [ ] |
-# | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [ ] |
-# | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [ ] |
-# | Kazuto Ioka vs. Fernando Martínez    | 07.07.2024 | [ ] |
-# | Zhilei Zhang vs. Deontay Wilder      | 06.01.2024 | [ ] |
-# | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [ ] |
-# | Raymond Ford vs. Nick Ball           | 06.01.2024 | [ ] |
-# | Jai Opetaia vs. Mairis Breidis       | 05.18.2024 | [ ] |
-# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [ ] |
-# | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [ ] |
-# | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [ ] |
+# | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] | [D]
+# | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [ ] | [D]
+# | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [ ] | [N]
+# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [ ] | [D]
+# | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [ ] | [Y]
+# | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [X] |
+# | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [ ] | [E]
+# | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [ ] | [D]
+# | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [ ] | [D]
+# | Kazuto Ioka vs. Fernando Martínez    | 07.07.2024 | [X] |
+# | Zhilei Zhang vs. Deontay Wilder      | 06.01.2024 | [X] |
+# | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [X] |
+# | Raymond Ford vs. Nick Ball           | 06.01.2024 | [X] |
+# | Jai Opetaia vs. Mairis Breidis       | 05.18.2024 | [X] |
+# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [X] |
+# | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [X] |
+# | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [X] |
 # | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [X] |
 # | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [X] |
 # |--------------------------------------+------------+-----|
+#   Savannah Marshall MMA Debut, PFL Europe on DAZN 06.08.2024
 
 # Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
 # Kenshiro Teraji vs. C. Rosales      | 10.13.2024 |
@@ -95,7 +101,6 @@ event_bool = False
 # Nathan Heaney vs. Brad Pauls II     | 07.22.2024 |
 # DAZN Prize Fighter Semis            | 07.15.2024 | Osaka, Japan
 # Jaron Ennis vs. David Avanesyan     | 07.13.2024 |
-# Kazuto Ioka vs. Fernando Martínez   | 07.07.2024 |
 # Shakur Stevenson vs. A. Harutyunyan | 07.06.2024 |
 # Keyshawn Davis vs. Miguel Madueno   | 07.06.2024 |
 # Abdullah Mason vs. Luis Lebron      | 07.06.2024 |
@@ -896,7 +901,7 @@ fighter = 'John Ramirez'   # | Ronal Batista      | 10.12.2023 | DAZN
 
 # Japanese Boxers
 #          Naoya Inoue
-fighter = 'Kazuto Ioka'
+#          Kazuto Ioka
 fighter = 'Kenshiro Teraji' # fun fighter, 04.08.2023 fight great
 fighter = 'Kosei Tanaka'
 fighter = 'Ginjiro Shigeoka'
@@ -922,6 +927,7 @@ fighter = 'Naoya Inoue'    # |     1 | Crison Omayao       | 10.02.2012 |
 fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
 # Cuban big threat who was avoided
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
+fighter = 'Kazuto Ioka' # | 1 | Thongthailek Sor Tanapinyo | 04.12.2009 |
 fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
 #          Terence Crawford  |     1 | Brian Cummings      | 03.14.2008 |
 fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
