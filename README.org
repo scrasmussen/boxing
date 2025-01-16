@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 384 boxing matches
+: I have seen 388 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -78,8 +78,13 @@ Note: -1 for the header and -1 for the canceled event
 | Mario Barrios vs. Abel Ramos      | 11.15.2024 |                            |
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
+| Anthony Joshua vs. Daniel Dubois  | 09.21.2024 |                            |
+| Kazuto Ioka vs. Fernando Martínez | 07.07.2024 | WBA IBF super-fly          |
 | Zhilei Zhang vs. Deontay Wilder   | 06.01.2024 |                            |
+| Daniel Dubois vs. Filip Hrgović   | 06.01.2024 |                            |
+| Raymond Ford vs. Nick Ball        | 06.01.2024 |                            |
 | Oleksandr Usyk vs. Tyson Fury     | 05.18.2024 | *Undisputed Heavy Weight*  |
+| Jai Opetaia vs. Mairis Breidis II | 05.18.2024 | IBF cruiser                |
 | Ryan Garcia vs. Devin Haney       | 04.20.2024 | no contest from Garcia PEs |
 | Fabio Wardley vs. Frazer Clarke   | 03.31.2024 | FOYC                       |
 | Anthony Joshua vs. F. Ngannou     | 03.08.2024 | Francis                    |
@@ -714,6 +719,7 @@ Sherrif jumps into the ring and stops the fight
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
 | Francis Ngannou vs. Renan Ferreira   | 10.18.2024 | PFL Super Fights        |
+| Savannah Marshall vs. Mirela Vargas  | 06.08.2024 | PFL Europe 2            |
 | Robelis Despaigne vs. Josh Parisian  | 03.09.2024 | UFC 299: Early Prelims  |
 | Chris Weidman vs. Brad Tavares       | 08.19.2023 | UFC 292: Prelims        |
 | Loma Lookboonmee vs. Denise Gomes    | 09.17.2022 | UFC Fight Night 210     |
