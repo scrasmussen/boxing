@@ -16,12 +16,20 @@ event_bool = False
 # | 2025 |
 # --------
 # |--------------------------------------+------------+-----|
-# | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] |
-# | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [ ] |
-# | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] |
-# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] |
-# | Naoya Inoue vs. Ye Joon Kim          | 01.24.2025 | [ ] |
-# | Caroline Dubois vs. Jessica Camara   | 01.11.2025 | [ ] |
+# | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
+# | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
+# | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [ ] | [D] Belfast
+# | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [ ] | [E]
+# | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] | [D] *****
+# | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [ ] | [E]
+# | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [ ] | [TNT]
+# | Claressa Shields vs. Danielle Perkins| 02.01.2025 | [ ] | [D]
+# | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] | [A] **
+# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] | [S]
+# | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [ ] | [D]
+# | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [ ] | [D]
+# | Naoya Inoue vs. Ye Joon Kim          | 01.24.2025 | [ ] | [E] *
+# | Caroline Dubois vs. Jessica Camara   | 01.11.2025 | [ ] | [S] *
 # | Hayato Tsutsumi vs. Rene Alvarado    | 12.31.2024 | [ ] |
 # |--------------------------------------+------------+-----|
 
