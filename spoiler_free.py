@@ -12,10 +12,6 @@ event_bool = False
 # Four Kings (USA Showtime, UK Amazon)
 #
 
-# --- Careers ---
-# | Naoya Inoue | 1 |
-# |       |  | [ ] |
-
 # --------
 # | 2025 |
 # --------
@@ -43,7 +39,7 @@ event_bool = False
 # | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [X] |
 # | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [ ] | [E]
 # | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [ ] | [D]
-# | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [ ] | [D]
+# | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [X] |
 # | Kazuto Ioka vs. Fernando Martínez    | 07.07.2024 | [X] |
 # | Zhilei Zhang vs. Deontay Wilder      | 06.01.2024 | [X] |
 # | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [X] |
@@ -55,7 +51,7 @@ event_bool = False
 # | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [X] |
 # | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [X] |
 # |--------------------------------------+------------+-----|
-#   Savannah Marshall MMA Debut, PFL Europe on DAZN 06.08.2024
+
 
 # Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
 # Kenshiro Teraji vs. C. Rosales      | 10.13.2024 |
@@ -913,6 +909,7 @@ fighter = 'Ryosuke Nishida'
 # ---------------------------
 # ------ Career Watch -------
 # ---------------------------
+# ------ Career Watch -------
 #------------------------------------------------------------------------
 fighter ='Caroline Dubois (boxer)'#|2| Martina Horgasz     | 03.26.2022 |
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
@@ -953,16 +950,17 @@ fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
 fighter = 'Naseem Hamed'   # |     1 | Ricky Beard         | 02.14.1992 |
 fighter = 'Ricardo López (boxer)'#|27| Hideyuki Ohasi      | 10.25.1990 |
 fighter = 'Felix Trinidad' # |     1 | Angel Romero        | 03.10.1990 |
+#---
 fighter = 'Lennox Lewis'   # |     1 | Al Malcolm          | 06.27.1989 |
 fighter = 'Roy Jones Jr.'  # |     1 | Ricky Randall       | 05.06.1989 |
 fighter = 'James Toney'    # |     1 | Stephen Lee         | 10.26.1988 |
 fighter = 'Bernard Hopkins'# |     1 | Clinton Mitchell    | 10.11.1988 |
 fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
+fighter = 'Pernell Whitaker'#|     2 | Danny Avery         | 01.20.1985 | defensive talent
 fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
-fighter = 'Pernell Whitaker'#|     1 | Farrain Comeaux     | 11.15.1984 |
-         # Elite, defensive talent
 fighter = 'Julio César Chávez'#|  33 | Jerry Lewis         | 10.23.1982 |
 fighter = 'Larry Holmes'   # |    28 | Ken Nortan          | 06.11.1982 |
+#---
 fighter = 'Thomas Hearns'  # |     1 | Jerome Hill         | 11.25.1977 |
 fighter = 'Sugar Ray Leonard'#|    1 | Luis Vega           | 02.05.1977 |
 fighter = 'Aaron Pryor'    # |     1 | Larry Smith         | 11.12.1976 |
