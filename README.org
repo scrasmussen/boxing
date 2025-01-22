@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 391 boxing matches
+: I have seen 394 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -117,9 +117,9 @@ Note: -1 for the header and -1 for the canceled event
 | Tim Tszyu vs. Carlos Ocampo       | 06.17.2023 | WBO interim jr. middle     |
 | J. Munguia vs. S. Derevyanchenko  | 06.10.2023 | Jamie, Sergiy              |
 | Josh Taylor vs. Teofima Lopez     | 06.10.2023 | WBO light welter           |
-| Sunny Edwards vs Andres Camposa   | 06.10.2023 | IBF fly                    |
+| Sunny Edwards vs. Andres Camposa  | 06.10.2023 | IBF fly                    |
 | Nina Hughes vs. Katie Healy       | 06.10.2023 | WBA bantam                 |
-| Claressa Shields vs M. Cornejo    | 06.03.2023 | Maricela *Undisputed+ Mid* |
+| Claressa Shields vs. M. Cornejo   | 06.03.2023 | Maricela *Undisputed+ Mid* |
 | Wood vs. Lara II                  | 05.27.2023 | Leigh, Mauricio            |
 | Luiz A. Lopez vs. Michael Conlan  | 05.27.2023 | IBF feather                |
 | Chris Billam-Smith vs. L. Okolie  | 05.27.2023 | Lawrence, WBO cruiser      |
@@ -180,6 +180,7 @@ Note: -1 for the header and -1 for the canceled event
 | Gary Cully vs. Wilfredo Flores    | 02.18.2023 | Intercont Light            |
 | Rey Vargas vs. O'Shaquie Foster   | 02.11.2023 | WBC Super Feather          |
 | Adam Azim vs. Santos Reyes        | 02.11.2023 | Continental Super Light    |
+| Caroline Dubois vs. S. Rodriguez  | 12.17.2022 | Sofia                      |
 | Amanda Serrano vs. Erika Cruz     | 02.04.2023 | *Undisputed Feather*       |
 | A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | *Undisputed Super Feather* |
 | Emanuel Navarrete vs. Liam Wilson | 02.03.2023 | WBO Super Feather          |
@@ -200,6 +201,7 @@ Note: -1 for the header and -1 for the canceled event
 | Johnny Fisher vs. Dominic Musil   | 10.30.2022 |                            |
 | Gary Cully vs. Jaouad Belmehdi    | 10.30.2022 |                            |
 | Jose Zepeda vs. Jojo Diaz Jr.     | 10.29.2022 |                            |
+| Caroline Dubois vs. Milena Koleva | 10.16.2022 |                            |
 | Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, *Undisputed Mid* |
 | M. Mayer vs. Alycia Baumgardner   | 10.15.2022 | Mikaela, *Undis S Feather* |
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
@@ -209,6 +211,7 @@ Note: -1 for the header and -1 for the canceled event
 | Aurek Anderson vs. C. Villanueva  | 09.15.2022 | Carlos; Mendez Gym orig.   |
 | Oleksandr Usyk vs. Anthony Joshua | 08.20.2022 | WBA IBF WBO IBO Heavy      |
 | Danny Garcia vs. J Benavidez Jr.  | 07.30.2022 | Jose                       |
+| Caroline Dubois vs. Happy Daudi   | 07.30.2022 |                            |
 | Derek Chisora vs. Kubrat Pulev II | 07.09.2022 |                            |
 | Artur Beterbiev vs. Joe Smith Jr. | 06.18.2022 | WBO, WBC, IBF Light Heavy  |
 | Nonito Donaire vs. Naoya Inoue    | 06.07.2022 | WBC, WBA, IBF Bantam       |
@@ -454,7 +457,7 @@ Note: -1 for the header and -1 for the canceled event
 | Gerry Cooney vs. Ken Norton       | 05.11.1981 |                            |
 | Gerry Cooney vs. Ron Lyle         | 10.24.1980 |                            |
 | Thomas Hearns vs. Pipino Cuevas   | 08.02.1980 | WBA welter                 |
-| Sugar Ray Leonard vs R. Duran     | 06.20.1980 | Roberto, WBC welter        |
+| Sugar Ray Leonard vs. R. Duran    | 06.20.1980 | Roberto, WBC welter        |
 | Gerry Cooney vs. Jimmy Young      | 05.25.1980 |                            |
 | Salvador Sánchez vs. Danny Lopez  | 02.02.1980 | WBC Feather                |
 | Carlos Zarate vs. Alfonso Zamora  | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
