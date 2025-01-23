@@ -66,12 +66,13 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 394 boxing matches
+: I have seen 400 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Caroline Dubois vs. J. Camara     | 01.11.2025 | Jessica, WBC IBO light     |
 | Oleksandr Usyk vs. Tyson Furry II | 12.21.2024 | *Undisputed Heavy Weight*  |
 | Mike Tyson vs. Jake Paul          | 11.15.2024 |                            |
 | Katie Taylor vs. Amanda Serrano   | 11.15.2024 | *Undispu Super Light* FOYC |
@@ -79,6 +80,7 @@ Note: -1 for the header and -1 for the canceled event
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Anthony Joshua vs. Daniel Dubois  | 09.21.2024 |                            |
+| Caroline Dubois vs. Maira Moneo   | 08.03.2024 | WBC IBO light              |
 | Dereck Chisora vs. Joe Joyce      | 07.27.2024 |                            |
 | Kazuto Ioka vs. Fernando Martínez | 07.07.2024 | WBA IBF super-fly          |
 | Zhilei Zhang vs. Deontay Wilder   | 06.01.2024 |                            |
@@ -91,6 +93,7 @@ Note: -1 for the header and -1 for the canceled event
 | Anthony Joshua vs. F. Ngannou     | 03.08.2024 | Francis                    |
 | Zhilei Zhang vs. Joseph Parker    | 03.08.2024 | WBO interim heavy          |
 | Raymond Ford vs. Otabek Kholmatov | 03.02.2024 | FOYC WBA feather           |
+| Caroline Dubois vs. Miranda Reyes | 02.03.2024 | IBO light                  |
 | Kenshiro Teraji vs. C. Cañizales  | 01.23.2024 | Carlos, WBC WBA jr. fly    |
 | Callum Smith vs. Artur Beterbiev  | 01.13.2024 | light heavy                |
 | Naoya Inoue vs. Marlon Tapales    | 12.26.2023 | *Undisputed Jr. Feather*   |
@@ -101,12 +104,14 @@ Note: -1 for the header and -1 for the canceled event
 | Robeisy Ramirez vs. R. Espinoza   | 12.09.2023 | Rafael, WBO junior light   |
 | Eduardo Hernandez vs. O. Foster   | 10.28.2023 | O'Shaquie, FOYC            |
 | Leigh Wood vs. Josh Warrington    | 10.07.2023 | WBA feather, FOYC          |
+| Caroline Dubois vs. M. Rodriguez  | 09.30.2023 | Magali, IBO light          |
 | Zhilei Zhang vs. Joe Joyce        | 09.23.2023 | WBO interm Heavy           |
 | Oleksandr Usyk vs. Daniel Dubois  | 08.26.2023 | WBA,IBF WBO,IBO,Ring Heavy |
 | Anthony Joshua vs. R. Helenius    | 08.12.2023 | Robert                     |
 | Emanuel Navarrete vs. O. Valdez   | 08.12.2023 | Oscar, WBO sup. feather    |
 | Terence Crawford vs. Errol Spence | 07.29.2023 | *Undisputed Welter*        |
 | Naoya Inoue vs. Stephen Fulton    | 07.25.2023 | WBO WBC jr. feather FYOC   |
+| Caroline Dubois vs. Y. Lescano    | 07.16.2023 | Yanina del Carmen          |
 | Keyshawn Davis vs. F. Patera      | 07.15.2023 | Francesco                  |
 | Roiman Villa vs. Jaron Ennis      | 07.08.2023 |                            |
 | S. Marshall vs. F. Crews-Dezurn   | 07.01.2023 | Savannah;Franchon;u.s.mid. |
@@ -180,6 +185,7 @@ Note: -1 for the header and -1 for the canceled event
 | Gary Cully vs. Wilfredo Flores    | 02.18.2023 | Intercont Light            |
 | Rey Vargas vs. O'Shaquie Foster   | 02.11.2023 | WBC Super Feather          |
 | Adam Azim vs. Santos Reyes        | 02.11.2023 | Continental Super Light    |
+| Caroline Dubois vs. F. Mashaury   | 02.11.2023 | Feriche                    |
 | Caroline Dubois vs. S. Rodriguez  | 12.17.2022 | Sofia                      |
 | Amanda Serrano vs. Erika Cruz     | 02.04.2023 | *Undisputed Feather*       |
 | A. Baumgardner vs. E. Mekhaled    | 02.04.2023 | *Undisputed Super Feather* |

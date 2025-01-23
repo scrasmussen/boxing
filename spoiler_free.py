@@ -29,7 +29,7 @@ event_bool = False
 # | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [ ] | [D]
 # | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [ ] | [D]
 # | Naoya Inoue vs. Ye Joon Kim          | 01.24.2025 | [ ] | [E] *
-# | Caroline Dubois vs. Jessica Camara   | 01.11.2025 | [ ] | [S] *
+# | Caroline Dubois vs. Jessica Camara   | 01.11.2025 | [X] |
 # | Hayato Tsutsumi vs. Rene Alvarado    | 12.31.2024 | [ ] |
 # |--------------------------------------+------------+-----|
 
@@ -919,7 +919,7 @@ fighter = 'Ryosuke Nishida'
 # ---------------------------
 # ------ Career Watch -------
 #------------------------------------------------------------------------
-fighter ='Caroline Dubois (boxer)'#|2| Martina Horgasz     | 03.26.2022 |
+fighter='Caroline Dubois (boxer)'#|12| T.B.D.              | 03.07.2025 |
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
 fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
