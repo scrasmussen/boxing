@@ -66,7 +66,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 400 boxing matches
+: I have seen 401 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -208,7 +208,7 @@ Note: -1 for the header and -1 for the canceled event
 | Gary Cully vs. Jaouad Belmehdi    | 10.30.2022 |                            |
 | Jose Zepeda vs. Jojo Diaz Jr.     | 10.29.2022 |                            |
 | Caroline Dubois vs. Milena Koleva | 10.16.2022 |                            |
-| Clarissa Shields vs. S. Marshall  | 10.15.2022 | Savannah, *Undisputed Mid* |
+| Claressa Shields vs. S. Marshall  | 10.15.2022 | Savannah, *Undisputed Mid* |
 | M. Mayer vs. Alycia Baumgardner   | 10.15.2022 | Mikaela, *Undis S Feather* |
 | Deontay Wilder vs. R. Helenius    | 10.15.2022 | Robert                     |
 | Joe Joyce vs. Joseph Parker       | 09.24.2022 |                            |
@@ -466,6 +466,7 @@ Note: -1 for the header and -1 for the canceled event
 | Sugar Ray Leonard vs. R. Duran    | 06.20.1980 | Roberto, WBC welter        |
 | Gerry Cooney vs. Jimmy Young      | 05.25.1980 |                            |
 | Salvador Sánchez vs. Danny Lopez  | 02.02.1980 | WBC Feather                |
+| Larry Holmes vs. Ken Norton       | 06.09.1978 | WBC heavy                  |
 | Carlos Zarate vs. Alfonso Zamora  | 04.23.1977 | [[04.23.1977][ff.]] Knock-out Kings        |
 | Muhammed Ali vs. George Foreman   | 10.30.1974 |                            |
 | Muhammed Ali vs. Jurgen Blin      | 12.26.1971 |                            |

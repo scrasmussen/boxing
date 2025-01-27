@@ -60,7 +60,6 @@ event_bool = False
 # | Kenshiro Teraji vs. Carlos Cañizales | 01.23.2024 | [X] |
 # |--------------------------------------+------------+-----|
 
-
 # Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
 # Kenshiro Teraji vs. C. Rosales      | 10.13.2024 |
 # Josh Warrington vs. Anthony Cacace  | 09.21.2024 |
@@ -967,8 +966,8 @@ fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
 fighter = 'Pernell Whitaker'#|     2 | Danny Avery         | 01.20.1985 | defensive talent
 fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
 fighter = 'Julio César Chávez'#|  33 | Jerry Lewis         | 10.23.1982 |
-fighter = 'Larry Holmes'   # |    28 | Ken Nortan          | 06.11.1982 |
 #---
+fighter = 'Larry Holmes'   # |    29 | Alfredo Evangelista | 11.10.1978 |
 fighter = 'Thomas Hearns'  # |     1 | Jerome Hill         | 11.25.1977 |
 fighter = 'Sugar Ray Leonard'#|    1 | Luis Vega           | 02.05.1977 |
 fighter = 'Aaron Pryor'    # |     1 | Larry Smith         | 11.12.1976 |
@@ -984,16 +983,6 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 fighter = 'Claressa Shields'
 fighter = 'Alycia Baumgardner' # Maricela Cornejo      | 06.03.2023 |
 fighter = 'Katie Taylor'
-# fighter = 'Caroline Dubois (boxer)'
-# | Caroline Dubois (boxer) vs. Magali Rodriguez           | 09.30.2023 |
-# | Caroline Dubois (boxer) vs. Yanina del Carmen  Lescano | 06.16.2023 |
-#                                     FIX THIS WIKI??
-# | Caroline Dubois (boxer) vs. Feriche Mashaury           | 02.11.2023 |
-# | Caroline Dubois (boxer) vs. Sofia Rodriguez            | 12.17.2022 |
-# | Caroline Dubois (boxer) vs. Milena Koleva              | 10.15.2022 |
-# | Caroline Dubois (boxer) vs. Happy Daudi                | 07.30.2022 |
-# | Caroline Dubois (boxer) vs. Martina Horgasz            | 03.26.2022 |
-
 
 # add these Mexican Boxers
 fighter = 'Salvador Sánchez'
