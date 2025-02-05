@@ -80,6 +80,8 @@ Note: -1 for the header and -1 for the canceled event
 | Dmitry Bivol vs. Artur Beterbiev  | 10.12.2024 | *Undisp Light Heavy* FOYC  |
 | Ben Whittaker vs. Liam Cameron    | 10.12.2024 |                            |
 | Anthony Joshua vs. Daniel Dubois  | 09.21.2024 |                            |
+| Yoshiki Takei vs. Daigo Higa      | 09.12.2024 | WBO bantam                 |
+| Serhii Bohachuk vs. V. Ortiz Jr.  | 08.10.2024 | Vergil                     |
 | Caroline Dubois vs. Maira Moneo   | 08.03.2024 | WBC IBO light              |
 | Dereck Chisora vs. Joe Joyce      | 07.27.2024 |                            |
 | Kazuto Ioka vs. Fernando Martínez | 07.07.2024 | WBA IBF super-fly          |
