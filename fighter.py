@@ -61,8 +61,7 @@ def get_record(soup, record_type, debug=False):
 
     record = pd.DataFrame(rows, columns=headers)
     record = record[columns]
-    record.loc[:,'Date'] = pd.to_datetime(record['Date']).dt.strftime('%m.%d.%Y')
-
+    record.loc[:,'Date'] = pd.to_datetime(record['Date'], format='mixed').dt.strftime('%m.%d.%Y')
     return record
 
 class Fighter:

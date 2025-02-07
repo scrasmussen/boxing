@@ -40,13 +40,13 @@ event_bool = False
 # fight of the year contenders and noteworthy
 # |--------------------------------------+------------+-----|
 # | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] | [D]
-# | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [ ] | [D]
-# | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [ ] | [N]
-# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [ ] | [D]
-# | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [ ] | [Y]
+# | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [X] |
+# | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [X] |
+# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [-] | [D]
+# | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [X] |
 # | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [X] |
-# | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [ ] | [E]
-# | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [ ] | [D]
+# | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [X] |
+# | Serhii Bohachuk vs. Vergil Ortiz Jr. | 08.10.2024 | [X] |
 # | Dereck Chisora vs. Joe Joyce         | 07.27.2024 | [X] |
 # | Kazuto Ioka vs. Fernando Martínez    | 07.07.2024 | [X] |
 # | Zhilei Zhang vs. Deontay Wilder      | 06.01.2024 | [X] |
@@ -924,8 +924,8 @@ fighter = 'Anthony Joshua' # |     1 | Emanuele Leo        | 10.05.2013 |
 fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
 fighter = 'Vasyl Lomachenko'#|     1 | José Luis Ramírez   | 10.12.2013 |
 fighter = 'Oleksandr Usyk' # |     1 | Felipe Romero       | 09.11.2013 |
-#          Artur Beterbiev   |     1 | Christian Cruz      | 06.08.2013 |
-#          Errol Spence Jr.  |     1 | Jonathan Garcia     | 11.09.2012 |
+fighter = 'Artur Beterbiev'# |     1 | Christian Cruz      | 06.08.2013 |
+fighter = 'Errol Spence Jr.'#|     1 | Jonathan Garcia     | 11.09.2012 |
 fighter = 'Naoya Inoue'    # |     1 | Crison Omayao       | 10.02.2012 |
 #---
 fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
@@ -933,11 +933,11 @@ fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Kazuto Ioka' # | 1 | Thongthailek Sor Tanapinyo | 04.12.2009 |
 fighter = 'Tyson Fury'     # |     1 | Béla Gyöngyösi      | 12.06.2008 |
-#          Terence Crawford  |     1 | Brian Cummings      | 03.14.2008 |
+fighter = 'Terence Crawford'#|     1 | Brian Cummings      | 03.14.2008 |
 fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
-#          Canelo Álvarez    |     1 | Abraham Gonzalez    | 10.29.2005 |
+fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Amir Khan (boxer)'#|    1 | David Bailey        | 07.16.2005 |
 fighter = 'Andre Ward'     # |     3 | Roy Ashworth        | 04.07.2005 |
 fighter = 'Timothy Bradley'# |     1 | Francisco Martinez  | 08.20.2004 |
@@ -954,7 +954,7 @@ fighter = 'Pongsaklek Wonjongkam'#|1 | Bernardo J. Davalos | 12.21.1994 |
 fighter = 'Winky Wright'   # |    26 | Julio Cesar Vasquez | 08.21.1994 |
 fighter = 'Shane Mosley'   # |     1 | Greg Puente         | 02.11.1993 |
 fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
-fighter = 'Naseem Hamed'   # |     1 | Ricky Beard         | 02.14.1992 |
+fighter = 'Naseem Hamed'   # |     2 | Shaun Norman        | 04.25.1992 |
 fighter = 'Ricardo López (boxer)'#|27| Hideyuki Ohasi      | 10.25.1990 |
 fighter = 'Felix Trinidad' # |     1 | Angel Romero        | 03.10.1990 |
 #---
