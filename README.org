@@ -66,12 +66,13 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 406 boxing matches
+: I have seen 416 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Naoya Inoue vs. Ye Joon Kim       | 01.24.2025 | *Undisputed Super Bantam*  |
 | Caroline Dubois vs. J. Camara     | 01.11.2025 | Jessica, WBC IBO light     |
 | Oleksandr Usyk vs. Tyson Furry II | 12.21.2024 | *Undisputed Heavy Weight*  |
 | Alexis Rocha vs. Raul Curiel      | 12.14.2024 |                            |
@@ -85,6 +86,7 @@ Note: -1 for the header and -1 for the canceled event
 | Yoshiki Takei vs. Daigo Higa      | 09.12.2024 | WBO bantam                 |
 | Serhii Bohachuk vs. V. Ortiz Jr.  | 08.10.2024 | Vergil                     |
 | Caroline Dubois vs. Maira Moneo   | 08.03.2024 | WBC IBO light              |
+| Claressa Shields vs. V. L.-J.     | 07.27.2024 | Vanessa Lepage-Joanisse HW |
 | Dereck Chisora vs. Joe Joyce      | 07.27.2024 |                            |
 | Kazuto Ioka vs. Fernando Martínez | 07.07.2024 | WBA IBF super-fly          |
 | Zhilei Zhang vs. Deontay Wilder   | 06.01.2024 |                            |
@@ -397,6 +399,8 @@ Note: -1 for the header and -1 for the canceled event
 | Artur Beterbiev vs. C. Cruz       | 07.08.2013 | Christian                  |
 | Floyd Mayweather vs. R. Guerrero  | 05.04.2013 | Robert                     |
 | Gennady Golovkin vs. G. Rosado    | 01.19.2013 | Gabriel                    |
+| Errol Spence Jr. vs. J. Garcia    | 11.09.2012 | Jonathan                   |
+| Naoya Inoue vs. Crison Omayao     | 10.02.2012 |                            |
 | Floyd Mayweather vs. Miguel Cotto | 05.05.2012 | WBA Super light middle     |
 | Floyd Mayweather vs. Victor Ortiz | 09.17.2011 | WBC welter                 |
 | Floyd Mayweather vs. Shane Mosley | 05.01.2010 |                            |
@@ -404,6 +408,7 @@ Note: -1 for the header and -1 for the canceled event
 | Manny Pacquaio vs. Ricky Hatton   | 05.02.2009 |                            |
 | Deontay Wilder vs. Shannon Gray   | 03.06.2009 |                            |
 | Deontay Wilder vs. Ethan Cox      | 11.15.2008 | Wilder Pro-Debut           |
+| Tyson Fury vs. Béla Gyöngyösi     | 12.06.2008 |                            |
 | Floyd Mayweather vs. Ricky Hatton | 12.08.2007 | WBC welter                 |
 | Floyd Mayweather vs. O.D.L. Hoya  | 05.05.2007 | Oscar De La, WBC l. middle |
 | Floyd Mayweather vs. C. Baldomir  | 11.04.2006 | Carlos                     |
@@ -413,9 +418,12 @@ Note: -1 for the header and -1 for the canceled event
 | Floyd Mayweather vs. Arturo Gatti | 06.25.2005 |                            |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
 | Zab Judah vs. Cosme Rivera        | 05.14.2005 |                            |
+| Andre Ward vs. Roy Ashworth       | 04.07.2005 |                            |
 | Andre Ward vs. Kenny Kost         | 02.10.2005 |                            |
 | Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
 | Andre Ward vs. Chris Molina       | 12.18.2004 |                            |
+| Miguel Cotto vs. Randall Bailey   | 12.11.2004 | WBO jr. welter             |
+| Miguel Cotto vs. Kelson Pinto     | 09.11.2004 | WBO jr. welter             |
 | Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
 | Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
 | Zab Judah vs. Jaime Rangel        | 12.13.2003 |                            |
@@ -451,6 +459,8 @@ Note: -1 for the header and -1 for the canceled event
 | Floyd Mayweather vs. E. Ayala     | 02.01.1997 | Edgar                      |
 | Floyd Mayweather vs. J. Cooper    | 01.18.1997 | Jerry                      |
 | Floyd Mayweather vs. R. Sanders   | 11.30.1996 | Reggie                     |
+| Vitali Klitschko vs. Tony Bradham | 11.16.1996 |                            |
+| Wladimir Klitschko vs. F. Meza    | 11.16.1996 | Fabian                     |
 | Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                    |
 | Lennox Lewis vs. Oliver McCall    | 09.24.1994 |                            |
 | Oscar De La Hoya vs. P. Alexander | 01.03.1993 | Paris                      |
