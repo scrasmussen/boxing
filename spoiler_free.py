@@ -29,20 +29,16 @@ event_bool = False
 # | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] | [S]
 # | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [ ] | [D]
 # | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [ ] | [D]
-# | Hayato Tsutsumi vs. Rene Alvarado    | 12.31.2024 | [ ] |
 # |--------------------------------------+------------+-----|
-# boxrec only
-fighter = 'Atif Oberlton'  # Joaquin Berroa Lugo 01.17.2025 fashion designer
-fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 
 
 # --------
 # | 2024 |
 # --------
-# ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
+# fighter = 'Claressa Shields' # 07.27 read "First in Class" article
 # fight of the year contenders and noteworthy
 # |--------------------------------------+------------+-----|
-# | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [ ] | [D]
+# | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [X] |
 # | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [X] |
 # | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [X] |
 # | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [-] | [D]
@@ -56,7 +52,7 @@ fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 # | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [X] |
 # | Raymond Ford vs. Nick Ball           | 06.01.2024 | [X] |
 # | Jai Opetaia vs. Mairis Breidis       | 05.18.2024 | [X] |
-# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [X] | 4.18 Boxing News article
+# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [X] | 4.18 BoxingNews art.
 # | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [X] |
 # | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [X] |
 # | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [X] |
@@ -91,10 +87,7 @@ fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 # Kenshiro Teraji vs. Hekkie Budler   | 09.18.2023 |
 
 # - catch-up -
-
-# ffighter = 'Claressa Shields' # 07.27 read "First in Class" article
-
-
+# fighter = 'Claressa Shields' # 07.27 read "First in Class" article
 # Kubrat Pulev vs. Mahmoud Charr      | 12.07.2024 |
 # Sunny Edwards vs. Galal Yafai       | 11.30.2024 |
 # Jaron Ennis vs. Karen Chukhadzhian  | 11.09.2024 |
@@ -195,7 +188,7 @@ fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 # January    4, 2024 "Best of Lists" article in Boxing News
 # *Hatton Documentary*
 # December  21, 2023 "Homicide Hank" article in Boxing News
-# December  21, 2023 "I took a huge chunk out of his neck" article in Boxing News
+# December  21, 2023 "I took a huge chunk out of his neck" article in BoxingNews
 # December  21, 2023 "Murdered in Manhattan" article in Boxing News
 # November   9, 2023 "The Bloodiest of Battles" article in Boxing News
 # November   2, 2023 "Don't You Quit" article in Boxing News
@@ -205,6 +198,31 @@ fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 # --------
 # | 2023 |
 # --------
+# ------------------------------------------------------------------
+# | Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [X] |
+# | Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [X] |
+# | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [X] |
+# | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
+# | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
+# | Naoya Inoue vs. Stephen Fulton              | 07.25.2023 | [-] |
+# | Terence Crawford vs. Errol Spence           | 07.29.2023 | [X] |
+# | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
+# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [-] |
+# ------------------------------------------------------------------
+# --------------------------------------------------------------
+# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [X] |
+# | Devil Haney vs. Regis Prograis          | 12.09.2023 | [X] |
+# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [X] |
+# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [X] |
+# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | [X] |
+# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [X] |
+# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | [X] |
+# | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
+# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [x] |
+# | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 | [-] |
+# | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
+# | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
+# --------------------------------------------------------------
 #
 # Kazuto Ioka vs. Josber Perez                | 12.31.2023 | [ ] |
 # Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [X] | **
@@ -288,34 +306,6 @@ fighter = 'John Ramirez'   # Ephraim Bui 12.24.24
 # ffighter = ''
 
 # Kubrat Pulev vs. Anthony Joshua       | 12.12.2020 |
-
-# --- Best Of ---
-# | Naoya Inoue vs. Marlon Tapales              | 12.26.2023 | [X] |
-# | Anthony Joshua vs. Otto Wallin              | 12.23.2023 | [X] |
-# | Deontay Wilder vs. Joseph Parker            | 12.23.2023 | [X] |
-# | Tyson Fury vs. Francis Ngannou              | 10.28.2023 | [ ] |
-# | Zhilei Zhang vs. Joe Joyce                  | 09.23.2023 | [X] |
-# | Naoya Inoue vs. Stephen Fulton              | 07.25.2023 | [-] |
-# | Terence Crawford vs. Errol Spence           | 07.29.2023 | [X] |
-# | Alycia Baumgardner vs. Christina Linardatou | 07.15.2023 | [ ] |
-# | Claressa Shields vs. Maricela Cornejo       | 06.03.2023 | [-] |
-
-# --------------- top fights plus a few ------------------------
-# --------------------------------------------------------------
-# | Sunny Edwards vs. Jesse Rodriguez       | 12.16.2023 | [X] |
-# | Devil Haney vs. Regis Prograis          | 12.09.2023 | [X] |
-# | Robeisy Ramirez vs. Rafael Espinoza     | 12.09.2023 | [X] |
-# | Eduardo Hernandez vs. O'Shaquie Foster  | 10.28.2023 | [X] |
-# | Leigh Wood vs. Josh Warrington          | 10.07.2023 | [X] |
-# | Emanuel Navarrete vs. Óscar Valdez      | 08.12.2023 | [X] |
-# | Jamie Munguia vs. Sergiy Derevyanchenko | 06.10.2023 | [X] |
-# | Devin Haney vs. Vasiliy Lomachenko      | 05.20.2023 | [-] |
-# | Shavkatdzhon Rakhimov vs. Joe Cordina   | 04.22.2023 | [x] |
-# | Azat Hovhannisyan vs. Luis Nery         | 02.18.2023 | [-] |
-# | Emanuel Navarrete vs. Liam Wilson       | 02.03.2023 | [-] |
-# | Artur Beterbiev vs. Anthony Yarde       | 01.28.2023 | [X] |
-# --------------------------------------------------------------
-
 
 
 # Robelis Despaigne vs. Katuma Mulumba| 06.03.2022 |
@@ -989,9 +979,6 @@ fighter = 'Muhammad Ali'   # |     1 | Tunney Hunsaker     | 10.29.1960 |
 fighter = 'Emile Griffith' # |    17 | Gaspar Ortega       | 02.12.1960 |
 #------------------------------------------------------------------------
 
-# WBO Heavyweight
-
-
 #------------------------------
 #----- Full Career Watch ------
 #------------------------------
@@ -1064,9 +1051,14 @@ show = 'The Boxing Beat: ESPN'
 # FINISH WATCHING When We Were Kings
 
 
-# ------------------
-# --- Up-to-date ---
-# ------------------
+# ---------------------------
+# ----- Current 02.2025 -----
+# ---------------------------
+fighter = 'Hayato Tsutsumi'
+fighter = 'John Ramirez'
+fighter = 'Atif Oberlton'  # fashion designer
+
+# before, need to catch up
 fighter = 'Tony Yoka'
 # 'Moses Itauma' #
 # 'Andrew Cain'
