@@ -67,6 +67,7 @@ def get_record(soup, record_type, debug=False):
 class Fighter:
     def print_name(self):
         print(tabulate([[self.name]], tablefmt='psql'))
+
     def print_records(self):
         records = [self.mma_record, self.boxing_record, self.kickboxing_record]
         for record in records:
@@ -74,7 +75,13 @@ class Fighter:
                 print(tabulate(record,headers='keys',tablefmt='psql',
                                showindex=False))
 
+    def replace_b_with_boxer(self, name):
+        if name.endswith("(b)"):
+            return name[:-3] + "(boxer)"
+        return name
+
     def __init__(self, name):
+        name = self.replace_b_with_boxer(name)
         self.name = name.replace('_',' ').title()
         req = requests.get(getUrl(name.replace(' ', '_'))).text
         soup = BeautifulSoup(req, 'lxml')

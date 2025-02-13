@@ -26,9 +26,9 @@ event_bool = False
 # | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [ ] | [TNT]
 # | Claressa Shields vs. Danielle Perkins| 02.01.2025 | [ ] | [D]
 # | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] | [A] **
-# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] | [S]
-# | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [ ] | [D]
-# | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [ ] | [D]
+# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] |
+# | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [X] |
+# | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [X] |
 # |--------------------------------------+------------+-----|
 
 
@@ -41,7 +41,7 @@ event_bool = False
 # | Cheavon Clarke vs. Leonardo Mosquea  | 12.14.2024 | [X] |
 # | Alexis Rocha vs. Raul Curiel         | 12.14.2024 | [X] |
 # | Abel Ramos vs. Mario Barrios         | 11.15.2024 | [X] |
-# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [-] | [D]
+# | Artur Beterbiev vs. Dmitry Bivol     | 10.12.2024 | [X] |
 # | Fabio Wardley vs. Frazer Clarke      | 10.12.2024 | [X] |
 # | Daniel Dubois vs. Anthony Joshua     | 09.21.2024 | [X] |
 # | Yoshiki Takei vs. Daigo Higa         | 09.12.2024 | [X] |
@@ -52,7 +52,7 @@ event_bool = False
 # | Daniel Dubois vs. Filip Hrgović      | 06.01.2024 | [X] |
 # | Raymond Ford vs. Nick Ball           | 06.01.2024 | [X] |
 # | Jai Opetaia vs. Mairis Breidis       | 05.18.2024 | [X] |
-# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [X] | 4.18 BoxingNews art.
+# | Ryan Garcia vs. Devin Haney          | 04.20.2024 | [X] |
 # | Fabio Wardley vs. Frazer Clarke      | 03.31.2024 | [X] |
 # | Anthony Joshua vs. Francis Ngannou   | 03.08.2024 | [X] |
 # | Raymond Ford vs. Otabek Kholmatov    | 03.02.2024 | [X] |
@@ -286,7 +286,6 @@ event_bool = False
 # Prince Patel vs. Ramadhani Kumbele          | 07.09.2023 | [-] | Can't find
 # Roiman Villa vs. Jaron Ennis                | 07.08.2023 | [X] | Ennis has long rear hooks
 # Savannah Marshall vs. Franchon Crews-Dezurn | 07.01.2023 | [X] | *
-# Dalton Smith vs. Sam Maxwell                | 07.01.2023 | [X] |
 # Jared Anderson vs. Charles Martin           | 07.01.2023 | [X] |
 # Kazuto Ioka vs. Joshua Franco II            | 06.24.2023 | [X] |
 # Regis Prograis vs. Danielito Zorrilla       | 06.24.2023 | [X] |
@@ -452,7 +451,6 @@ fighter = 'Max Holloway'
 # Ricardo Cervantez, dad is Rico from Martinez, CA
 # 3rd in Junior Mens 138 division
 #
-# 05.15.2021 DAZN to see Dalton Smith
 # watch maincards UFC on ESPN: Holm vs. Aldana
 # Invicta Fighting Phoenix
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
@@ -879,33 +877,35 @@ fighter = 'Ryosuke Nishida'
 # Serrano vs Cruz [DAZN] Baumgardner vs Mekhaled super feather
 
 
-
 # ---------------------------
 # ------ Career Watch -------
 #------------------------------------------------------------------------
-fighter='Caroline Dubois (boxer)'#|12| T.B.D.              | 03.07.2025 |
+fighter='Caroline Dubois (b)'#|   12 | T.B.D.              |            |
+fighter = 'Nishant Dev'    # |     2 | T.B.D.              |            |
+fighter='Diego Pacheco (b)'# |    24 | T.B.D.              |            |
 fighter = 'Brandun Lee'    # |    29 |  Juan Anacona       | 07.27.2024 | [D]
 fighter = 'Richard Torrez' # |     1 | Allen Melson        | 03.04.2022 |
 fighter = 'Galal Yafai'    # |     1 | Carlos Vado Bautista| 02.27.2022 |
 fighter = 'Keyshawn Davis' # |     1 | Lester Brown        | 02.27.2021 |
 fighter = 'Adam Azim'      # |     1 | Ed Harrison         | 12.02.2020 |
 #---
+fighter ='Dalton Smith (b)'# |     1 | Luka Leskovic       | 05.10.2019 |
 fighter = 'Hamzah Sheeraz' # |     1 | Duane Green         | 09.16.2017 |
-fighter = 'Savannah Marshall'#|    1 | Sydney LeBlanc      | 08.26.2017 |
+fighter ='Savannah Marshall'#|     1 | Sydney LeBlanc      | 08.26.2017 |
 fighter = 'Mikaela Mayer'  # |     1 | Widnelly Figueroa   | 08.05.2017 |
-fighter = 'Chantelle Cameron'#|    1 | Karina Kopinska     | 05.26.2017 |
+fighter ='Chantelle Cameron'#|     1 | Karina Kopinska     | 05.26.2017 |
 fighter = 'Shakur Stevenson'#|     1 | Edgar Brito         | 04.22.2017 |
-fighter='Jesse Rodriguez (boxer)'#|1 | Mauricio Cruz       | 03.10.2017 |
-fighter = 'Alycia Baumgardner' #|  1 | Britain Hart        | 03.04.2017 |
+fighter='Jesse Rodriguez (b)'#|    1 | Mauricio Cruz       | 03.10.2017 |
+fighter='Alycia Baumgardner'#|     1 | Britain Hart        | 03.04.2017 |
 fighter = 'Dmitry Bivol'   # |     1 | Jorge Olivera       | 12.23.2016 |
 fighter = 'Katie Taylor'   # |     1 | Karina Kopińska     | 11.26.2016 |
 fighter = 'Claressa Shields'#|     1 | FranchónCrews-Dezurn| 11.19.2016 |
-fighter ='Franchón Crews-Dezurn'#| 1 | Claressa Shields    | 11.19.2016 |
+fighter='Franchón Crews-Dezurn'#|  1 | Claressa Shields    | 11.19.2016 |
 fighter = 'Teofimo Lopez'  # |     1 | Ishwar Siqueiros    | 11.05.2016 |
 fighter = 'Ryan Garcia'    # |     1 | Edgar Mez           | 06.09.2016 |
 fighter = 'Jaron Ennis'    # |     1 | Cory Muldrew        | 04.30.2016 |
 fighter = 'Devin Haney'    # |     1 | Gonzalo Lopez       | 12.11.2015 |
-fighter = 'Brandon Figueroa' # |   1 | Hector Gutierrez    | 05.09.2015 |
+fighter ='Brandon Figueroa'# |     1 | Hector Gutierrez    | 05.09.2015 |
 fighter = 'Junto Nakatani' # |     1 | Junichi Itoga       | 04.26.2015 |
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
 fighter = 'Kenshiro Teraji'# |     1 | Heri Amol           | 08.03.2014 |
@@ -918,43 +918,43 @@ fighter = 'Gervonta Davis' # |     1 | Desi Williams       | 02.22.2013 |
 fighter = 'Naoya Inoue'    # |     2 | Ngaoprajan Chuwatana| 01.05.2013 |
 fighter = 'Errol Spence Jr.'#|     2 | Richard Andrews     | 12.15.2012 |
 fighter = 'Joseph Parker' #  |     1 | Dean Garmonsway     | 07.05.2012 |
-fighter = 'Emanuel Navarrete' # |  1 | Misael Ramirez      | 02.18.2012 |
+fighter ='Emanuel Navarrete'#|     1 | Misael Ramirez      | 02.18.2012 |
 fighter = 'Murat Gassiev'  # |     1 | Roman Mirzoev       | 09.21.2011 |
 fighter = 'Seniesa Estrada'# |     1 | Maria Ruiz          | 05.13.2011 |
 #---
-fighter = 'Guillermo Rigondeaux'#| 1 | Juan Noriega        | 05.22.2009 |
+fighter='Guillermo Rigondeaux'#|   1 | Juan Noriega        | 05.22.2009 |
 # Cuban big threat who was avoided
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Kazuto Ioka' # | 1 | Thongthailek Sor Tanapinyo | 04.12.2009 |
 fighter = 'Tyson Fury'     # |     2 | Marcel Zeller       | 01.17.2009 |
 fighter = 'Amanda Serrano' # |     1 | Jackie Trivilino    | 03.20.2009 |
 fighter = 'Shawn Porter'   # |     1 | Norman Johnson      | 10.03.2008 |
-fighter = 'Timothy Bradley' #|    22 |Junior Witter        | 05.10.2008 |
+fighter = 'Timothy Bradley'# |    22 |Junior Witter        | 05.10.2008 |
 fighter = 'Terence Crawford'#|     1 | Brian Cummings      | 03.14.2008 |
 fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
-fighter = 'Amir Khan (boxer)'#|    1 | David Bailey        | 07.16.2005 |
+fighter ='Amir Khan (boxer)'#|     1 | David Bailey        | 07.16.2005 |
 fighter = 'Andre Ward'     # |     4 | Ben Aragon          | 06.18.2005 |
 fighter = 'Miguel Cotto'   # |    23 | DeMarcus Corley     | 02.26.2005 |
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
-fighter = 'Juan Manuel Marquez'#| 20 | Cedric Mingosey     | 02.03.1997 |
-fighter = 'Vitali Klitschko' # |   2 | Frantisek Sumina    | 11.30.1996 |
-fighter = 'Wladimir Klitschko'#|   2 | Exum Speight        | 11.30.1996 |
+fighter='Juan Manuel Marquez'#|   20 | Cedric Mingosey     | 02.03.1997 |
+fighter = 'Vitali Klitschko'#|     2 | Frantisek Sumina    | 11.30.1996 |
+fighter='Wladimir Klitschko'#|     2 | Exum Speight        | 11.30.1996 |
 fighter = 'Zab Judah'      # |     1 | Michael Johnson     | 09.20.1996 |
-fighter = 'Marco Antonio Barrera'#|35| Daniel C. Jimenez   | 03.31.1995 |
+fighter='Marco Antonio Barrera'#| 35 | Daniel C. Jimenez   | 03.31.1995 |
 fighter = 'Manny Pacquiao' # |     1 | Edmund E. Ignacio   | 01.22.1995 |
-fighter = 'Pongsaklek Wonjongkam'#|1 | Bernardo J. Davalos | 12.21.1994 |
+fighter='Pongsaklek Wonjongkam'#|  1 | Bernardo J. Davalos | 12.21.1994 |
 fighter = 'Winky Wright'   # |    26 | Julio Cesar Vasquez | 08.21.1994 |
 # A mini-Classic 01.23.2025 article  | Carbajal-Gonzalez I | 03.13.1993|
 fighter = 'Shane Mosley'   # |     1 | Greg Puente         | 02.11.1993 |
 fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
 fighter = 'Naseem Hamed'   # |     2 | Shaun Norman        | 04.25.1992 |
 fighter = 'Arturo Gatti'   # |     1 | Jose Gonzales       | 06.10.1991 |
-fighter = 'Ricardo López (boxer)'#|27| Hideyuki Ohasi      | 10.25.1990 |
+fighter='Ricardo López (b)'# |    27 | Hideyuki Ohasi      | 10.25.1990 |
 fighter = 'Felix Trinidad' # |     1 | Angel Romero        | 03.10.1990 |
 #---
 fighter = 'Lennox Lewis'   # |     1 | Al Malcolm          | 06.27.1989 |
@@ -963,12 +963,12 @@ fighter = 'James Toney'    # |     1 | Stephen Lee         | 10.26.1988 |
 fighter = 'Bernard Hopkins'# |     1 | Clinton Mitchell    | 10.11.1988 |
 fighter = 'Mike Tyson'     # |     1 | Hector Mercedes     | 03.06.1985 |
 fighter = 'Pernell Whitaker'#|     2 | Danny Avery         | 01.20.1985 | defensive talent
-fighter = 'Evander Holyfield'#|    1 |                     | 11.15.1984 |
-fighter = 'Julio César Chávez'#|  33 | Jerry Lewis         | 10.23.1982 |
+fighter ='Evander Holyfield'#|     1 |                     | 11.15.1984 |
+fighter='Julio César Chávez'#|    33 | Jerry Lewis         | 10.23.1982 |
 #---
 fighter = 'Larry Holmes'   # |    29 | Alfredo Evangelista | 11.10.1978 |
 fighter = 'Thomas Hearns'  # |     1 | Jerome Hill         | 11.25.1977 |
-fighter = 'Sugar Ray Leonard'#|    1 | Luis Vega           | 02.05.1977 |
+fighter ='Sugar Ray Leonard'#|     1 | Luis Vega           | 02.05.1977 |
 fighter = 'Aaron Pryor'    # |     1 | Larry Smith         | 11.12.1976 |
 # two battles with Alexis Arguello
 fighter = 'Marvin Hagler'  # |     1 | Terry Ryan          | 05.18.1973 |
