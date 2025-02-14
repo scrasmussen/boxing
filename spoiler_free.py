@@ -17,16 +17,17 @@ event_bool = False
 # | 2025 |
 # --------
 # |--------------------------------------+------------+-----|
+# | Delicious Orie vs.                   | 04.05.2025 | [ ] | [D]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [ ] | [D] Belfast
 # | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [ ] | [E]
 # | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] | [D] *****
 # | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [ ] | [E]
-# | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [ ] | [TNT]
-# | Claressa Shields vs. Danielle Perkins| 02.01.2025 | [ ] | [D]
+# | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [X] |
+# | Claressa Shields vs. Danielle Perkins| 02.01.2025 | [X] |
 # | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] | [A] **
-# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [ ] |
+# | Adam Azim vs. Sergey Lipinets        | 02.01.2025 | [X] |
 # | Diego Pacheco vs. Steve Nelson       | 01.25.2025 | [X] |
 # | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [X] |
 # |--------------------------------------+------------+-----|
@@ -876,14 +877,16 @@ fighter = 'Yudai Shigeoka'
 fighter = 'Ryosuke Nishida'
 # Serrano vs Cruz [DAZN] Baumgardner vs Mekhaled super feather
 
-
 # ---------------------------
 # ------ Career Watch -------
 #------------------------------------------------------------------------
 fighter='Caroline Dubois (b)'#|   12 | T.B.D.              |            |
 fighter = 'Nishant Dev'    # |     2 | T.B.D.              |            |
 fighter='Diego Pacheco (b)'# |    24 | T.B.D.              |            |
+fighter = 'Skakan Pitters' # |    23 | T.B.D.              |            |
+fighter = 'Delicious Orie' # |     1 | T.B.D.              | 04.05.2025 | [D]
 fighter = 'Brandun Lee'    # |    29 |  Juan Anacona       | 07.27.2024 | [D]
+fighter = 'Taz Nadeem'     # |     1 | Sergey Bannov       | 04.24.2024 |
 fighter = 'Richard Torrez' # |     1 | Allen Melson        | 03.04.2022 |
 fighter = 'Galal Yafai'    # |     1 | Carlos Vado Bautista| 02.27.2022 |
 fighter = 'Keyshawn Davis' # |     1 | Lester Brown        | 02.27.2021 |
@@ -936,14 +939,14 @@ fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
-fighter ='Amir Khan (boxer)'#|     1 | David Bailey        | 07.16.2005 |
-fighter = 'Andre Ward'     # |     4 | Ben Aragon          | 06.18.2005 |
-fighter = 'Miguel Cotto'   # |    23 | DeMarcus Corley     | 02.26.2005 |
+fighter = 'Amir Khan (b)'  # |     2 | Baz Carey           | 09.10.2005 |
+fighter = 'Andre Ward'     # |     5 | Christopher Holt    | 08.18.2005 |
+fighter = 'Miguel Cotto'   # |    24 | Muhammad Abdullaev  | 06.11.2005 |
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
 fighter='Juan Manuel Marquez'#|   20 | Cedric Mingosey     | 02.03.1997 |
-fighter = 'Vitali Klitschko'#|     2 | Frantisek Sumina    | 11.30.1996 |
-fighter='Wladimir Klitschko'#|     2 | Exum Speight        | 11.30.1996 |
+fighter = 'Vitali Klitschko'#|     3 | Brian Sargent       | 12.21.1996 |
+fighter='Wladimir Klitschko'#|     3 | Bill Corrigan       | 12.21.1996 |
 fighter = 'Zab Judah'      # |     1 | Michael Johnson     | 09.20.1996 |
 fighter='Marco Antonio Barrera'#| 35 | Daniel C. Jimenez   | 03.31.1995 |
 fighter = 'Manny Pacquiao' # |     1 | Edmund E. Ignacio   | 01.22.1995 |
