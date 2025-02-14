@@ -70,12 +70,18 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 425 boxing matches
+: I have seen 436 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Derek Chisora vs. Otto Wallin     | 02.08.2025 | FOYC                       |
+| Shakan Pitters vs. B. Karami      | 02.08.2025 | Bahadur                    |
+| Taz Nadeem vs. Jaskirat Singh     | 02.08.2025 |                            |
+| Claressa Shields vs. D. Perkins   | 02.01.2025 | Danielle *Undis Heavy 3rd* |
+| Brandon Moore vs. Skylar Lacy     | 02.01.2025 |                            |
+| Adam Azim vs. Sergey Lipinets     | 02.01.2025 |                            |
 | Dalton Smith vs. Walid Ouizza     | 01.25.2025 | Euro super light           |
 | Diego Pacheco vs. Steve Nelson    | 01.25.2025 |                            |
 | Nishant Dev vs. Alton Wiggins     | 01.25.2025 |                            |
@@ -428,10 +434,13 @@ Note: -1 for the header and -1 for the canceled event
 | Floyd Mayweather vs. Zab Judah    | 04.08.2006 | Groin & head shot -> brawl |
 | Zab Judah vs. Carlos Baldomir     | 01.07.2006 |                            |
 | Floyd Mayweather vs. S. Mitchell  | 11.19.2005 | Sharmba                    |
+| Amir Khan vs. David Bailey        | 07.16.2005 |                            |
 | Floyd Mayweather vs. Arturo Gatti | 06.25.2005 |                            |
+| Andre Ward vs. Ben Aragon         | 06.18.2005 |                            |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
 | Zab Judah vs. Cosme Rivera        | 05.14.2005 |                            |
 | Andre Ward vs. Roy Ashworth       | 04.07.2005 |                            |
+| Miguel Cotto vs. DeMarcus Corley  | 02.26.2005 |                            |
 | Andre Ward vs. Kenny Kost         | 02.10.2005 |                            |
 | Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
 | Andre Ward vs. Chris Molina       | 12.18.2004 |                            |
@@ -472,6 +481,8 @@ Note: -1 for the header and -1 for the canceled event
 | Floyd Mayweather vs. E. Ayala     | 02.01.1997 | Edgar                      |
 | Floyd Mayweather vs. J. Cooper    | 01.18.1997 | Jerry                      |
 | Floyd Mayweather vs. R. Sanders   | 11.30.1996 | Reggie                     |
+| Vitali Klitschko vs. F. Sumina    | 11.30.1996 | Frantisek                  |
+| Wladimir Klitschko vs. E. Speight | 11.30.1996 | Exum                       |
 | Vitali Klitschko vs. Tony Bradham | 11.16.1996 |                            |
 | Wladimir Klitschko vs. F. Meza    | 11.16.1996 | Fabian                     |
 | Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                    |
