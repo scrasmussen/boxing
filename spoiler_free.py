@@ -17,13 +17,15 @@ event_bool = False
 # | 2025 |
 # --------
 # |--------------------------------------+------------+-----|
+# | Torrez Jr. vs. Vianello              | 04.05.2025 | [ ] | [E]
 # | Delicious Orie vs.                   | 04.05.2025 | [ ] | [D]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [ ] | [D] Belfast
 # | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [ ] | [E]
 # | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] | [D] *****
-# | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [ ] | [E]
+# | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [X] |
+# | Jack Catterall vs. Arnold Barboza Jr.| 02.15.2025 | [X] |
 # | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [X] |
 # | Claressa Shields vs. Danielle Perkins| 02.01.2025 | [X] |
 # | David Benavidez vs. David Morrell    | 02.01.2025 | [ ] | [A] **
@@ -883,15 +885,19 @@ fighter = 'Ryosuke Nishida'
 fighter='Caroline Dubois (b)'#|   12 | T.B.D.              |            |
 fighter = 'Nishant Dev'    # |     2 | T.B.D.              |            |
 fighter='Diego Pacheco (b)'# |    24 | T.B.D.              |            |
+fighter='Juan Manuel López Jr.'#|  2 | T.B.D.              |            |
 fighter = 'Skakan Pitters' # |    23 | T.B.D.              |            |
+fighter = 'Rohan Polanco'  # |    16 | T.B.D.              |            |
 fighter = 'Delicious Orie' # |     1 | T.B.D.              | 04.05.2025 | [D]
 fighter = 'Brandun Lee'    # |    29 |  Juan Anacona       | 07.27.2024 | [D]
 fighter = 'Taz Nadeem'     # |     1 | Sergey Bannov       | 04.24.2024 |
 fighter = 'Richard Torrez' # |     1 | Allen Melson        | 03.04.2022 |
 fighter = 'Galal Yafai'    # |     1 | Carlos Vado Bautista| 02.27.2022 |
+fighter = 'Abdullah Mason' # |     1 | Jaylan Phillips     | 11.05.2021 |
 fighter = 'Keyshawn Davis' # |     1 | Lester Brown        | 02.27.2021 |
 fighter = 'Adam Azim'      # |     1 | Ed Harrison         | 12.02.2020 |
 #---
+fighter='Jared Anderson (b)'#|     1 | Daniel Infante      | 10.26.2019 |
 fighter ='Dalton Smith (b)'# |     1 | Luka Leskovic       | 05.10.2019 |
 fighter = 'Hamzah Sheeraz' # |     1 | Duane Green         | 09.16.2017 |
 fighter ='Savannah Marshall'#|     1 | Sydney LeBlanc      | 08.26.2017 |
@@ -938,10 +944,10 @@ fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
+fighter = 'Amir Khan (b)'  # |     3 | Steve Gethin        | 11.05.2005 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
-fighter = 'Amir Khan (b)'  # |     2 | Baz Carey           | 09.10.2005 |
-fighter = 'Andre Ward'     # |     5 | Christopher Holt    | 08.18.2005 |
-fighter = 'Miguel Cotto'   # |    24 | Muhammad Abdullaev  | 06.11.2005 |
+fighter = 'Andre Ward'     # |     6 | Glenn LaPlante      | 10.01.2005 |
+fighter = 'Miguel Cotto'   # |    25 | Ricardo Torres      | 09.24.2005 |
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
 fighter='Juan Manuel Marquez'#|   20 | Cedric Mingosey     | 02.03.1997 |
@@ -955,7 +961,7 @@ fighter = 'Winky Wright'   # |    26 | Julio Cesar Vasquez | 08.21.1994 |
 # A mini-Classic 01.23.2025 article  | Carbajal-Gonzalez I | 03.13.1993|
 fighter = 'Shane Mosley'   # |     1 | Greg Puente         | 02.11.1993 |
 fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
-fighter = 'Naseem Hamed'   # |     2 | Shaun Norman        | 04.25.1992 |
+fighter = 'Naseem Hamed'   # |     3 | Andrew Bloomer      | 05.23.1992 |
 fighter = 'Arturo Gatti'   # |     1 | Jose Gonzales       | 06.10.1991 |
 fighter='Ricardo López (b)'# |    27 | Hideyuki Ohasi      | 10.25.1990 |
 fighter = 'Felix Trinidad' # |     1 | Angel Romero        | 03.10.1990 |
