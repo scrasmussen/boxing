@@ -944,10 +944,24 @@ fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
+fighter = 'Oscar De La Hoya'#|    42 | Ricardo Mayorga     | 05.06.2006 |
+fighter = 'Miguel Cotto'   # |    26 | Gianluca Branco     | 03.04.2006 |
 fighter = 'Amir Khan (b)'  # |     3 | Steve Gethin        | 11.05.2005 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Andre Ward'     # |     6 | Glenn LaPlante      | 10.01.2005 |
-fighter = 'Miguel Cotto'   # |    25 | Ricardo Torres      | 09.24.2005 |
+fighter = 'Bernard Hopkins'# |    51 | Jermain Taylor      | 07.16.2005 |
+fighter = 'Ricky Hatton'   # |    39 | Kostya Tszyu        | 06.04.2005 |
+fighter = 'Winky Wright'   # |    52 | Félix Trinidad      | 05.14.2005 |
+fighter='Juan Manuel Marquez'#|   47 | Victor Polo         | 05.07.2005 |
+fighter = 'Shane Mosley'   # |    45 | David Estrada       | 04.23.2005 |
+fighter='Marco Antonio Barrera'#| 65 | Mzonke Fana         | 04.09.2005 |
+fighter = 'Manny Pacquiao' # |    44 | Érik Morales        | 03.19.2005 |
+fighter = 'Bernard Hopkins'# |    50 | Howard Eastman      | 02.19.2005 |
+fighter = 'Zab Judah'      # |    36 | Cory Spinks         | 02.05.2005 |
+fighter = 'Winky Wright'   # |    51 | Shane Mosley        | 11.20.2004 |
+fighter = 'Bernard Hopkins'# |    49 | Oscar De La Hoya    | 09.18.2004 |
+fighter = 'Winky Wright'   # |    50 | Shane Mosley        | 03.13.2004 |
+#---
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
 fighter='Juan Manuel Marquez'#|   20 | Cedric Mingosey     | 02.03.1997 |
@@ -958,7 +972,7 @@ fighter='Marco Antonio Barrera'#| 35 | Daniel C. Jimenez   | 03.31.1995 |
 fighter = 'Manny Pacquiao' # |     1 | Edmund E. Ignacio   | 01.22.1995 |
 fighter='Pongsaklek Wonjongkam'#|  1 | Bernardo J. Davalos | 12.21.1994 |
 fighter = 'Winky Wright'   # |    26 | Julio Cesar Vasquez | 08.21.1994 |
-# A mini-Classic 01.23.2025 article  | Carbajal-Gonzalez I | 03.13.1993|
+# A mini-Classic 01.23.2025 article  | Carbajal-Gonzalez I | 03.13.1993 |
 fighter = 'Shane Mosley'   # |     1 | Greg Puente         | 02.11.1993 |
 fighter = 'Oscar De La Hoya'#|     4 | Curtis Strong       | 02.06.1993 |
 fighter = 'Naseem Hamed'   # |     3 | Andrew Bloomer      | 05.23.1992 |
