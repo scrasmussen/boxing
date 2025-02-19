@@ -972,8 +972,7 @@ fighter = 'Zab Judah'      # |    36 | Cory Spinks         | 02.05.2005 |
 fighter = 'Winky Wright'   # |    51 | Shane Mosley        | 11.20.2004 |
 # |    44 | Érik Morales             | 03.19.2005 |
 # |    43 | Narongrit Pirang         | 12.11.2004 |
-# |    42 | Juan Manuel Márquez      | 05.08.2004 |
-fighter = 'Manny Pacquiao' # |    41 | MarcoAntonioBarrera | 11.15.2003 | [D]
+ffighter = 'Manny Pacquiao' # |    42 | Juan Manuel Márquez | 05.08.2004 |
 #---
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
