@@ -12,7 +12,7 @@ def getUrl(fighter, debug=False):
         exit()
     url = 'https://en.wikipedia.org/wiki/'
     url += fighter.title().replace('(Boxer)','(boxer)')
-    if (fighter == 'Manny Pacquiao'):
+    if (fighter == 'Manny_Pacquiao'):
         url = url.removesuffix(fighter)
         url += 'Boxing career of Manny Pacquiao'
     if (debug):
