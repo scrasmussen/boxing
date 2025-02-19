@@ -914,6 +914,7 @@ fighter = 'Teofimo Lopez'  # |     1 | Ishwar Siqueiros    | 11.05.2016 |
 fighter = 'Ryan Garcia'    # |     1 | Edgar Mez           | 06.09.2016 |
 fighter = 'Jaron Ennis'    # |     1 | Cory Muldrew        | 04.30.2016 |
 fighter = 'Devin Haney'    # |     1 | Gonzalo Lopez       | 12.11.2015 |
+fighter = 'Josh Taylor (b)'# |     1 | Archie Weah         | 07.18.2015 |
 fighter ='Brandon Figueroa'# |     1 | Hector Gutierrez    | 05.09.2015 |
 fighter = 'Junto Nakatani' # |     1 | Junichi Itoga       | 04.26.2015 |
 fighter = 'Zhilei Zhang'   # |     1 | Curtis Lee Tate     | 08.08.2014 |
@@ -933,23 +934,33 @@ fighter = 'Seniesa Estrada'# |     1 | Maria Ruiz          | 05.13.2011 |
 #---
 fighter='Guillermo Rigondeaux'#|   1 | Juan Noriega        | 05.22.2009 |
 # Cuban big threat who was avoided
+fighter = 'Ricky Hatton'   # |    47 | Manny Pacquiao      | 05.02.2009 | [D]
 fighter = 'Deontay Wilder' # |     4 | Joseph Rabotte      | 04.24.2009 |
 fighter = 'Kazuto Ioka' # | 1 | Thongthailek Sor Tanapinyo | 04.12.2009 |
-fighter = 'Tyson Fury'     # |     2 | Marcel Zeller       | 01.17.2009 |
 fighter = 'Amanda Serrano' # |     1 | Jackie Trivilino    | 03.20.2009 |
+fighter = 'Canelo Álvarez' # |    26 | Euri González       | 02.21.2009 | [D]
+fighter = 'Shane Mosley'   # |    52 | Antonio Margarito   | 01.24.2009 | [D]
+fighter = 'Tyson Fury'     # |     2 | Marcel Zeller       | 01.17.2009 |
+fighter = 'Ricky Hatton'   # |    46 | Paulie Malignaggi   | 11.22.2008 | [D]
+fighter = 'Bernard Hopkins'# |    56 | Kelly Pavlik        | 10.18.2008 | [D]
 fighter = 'Shawn Porter'   # |     1 | Norman Johnson      | 10.03.2008 |
+fighter = 'Ricky Hatton'   # |    45 | Juan Lazcano        | 05.24.2008 | [D]
 fighter = 'Timothy Bradley'# |    22 |Junior Witter        | 05.10.2008 |
+fighter = 'Bernard Hopkins'# |    55 | Joe Calzaghe        | 04.19.2008 | [D]
 fighter = 'Terence Crawford'#|     1 | Brian Cummings      | 03.14.2008 |
+fighter = 'Miguel Cotto'   # |    31 | Shane Mosley        | 11.10.2007 | [D]
 fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
-fighter = 'Oscar De La Hoya'#|    42 | Ricardo Mayorga     | 05.06.2006 |
+fighter = 'Oscar De La Hoya'#|    42 | Ricardo Mayorga     | 05.06.2006 | [D]
 fighter = 'Miguel Cotto'   # |    26 | Gianluca Branco     | 03.04.2006 |
+fighter = 'Shane Mosley'   # |    47 | Fernando Vargas     | 02.25.2006 | [D]
 fighter = 'Amir Khan (b)'  # |     3 | Steve Gethin        | 11.05.2005 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter = 'Andre Ward'     # |     6 | Glenn LaPlante      | 10.01.2005 |
-fighter = 'Bernard Hopkins'# |    51 | Jermain Taylor      | 07.16.2005 |
+fighter = 'Bernard Hopkins'# |    51 | Jermain Taylor      | 07.16.2005 | [D]
+fighter='Román González (b)'#|     1 | Ramon Urbina        | 07.01.2005 |
 fighter = 'Ricky Hatton'   # |    39 | Kostya Tszyu        | 06.04.2005 |
 fighter = 'Winky Wright'   # |    52 | Félix Trinidad      | 05.14.2005 |
 fighter='Juan Manuel Marquez'#|   47 | Victor Polo         | 05.07.2005 |
@@ -959,8 +970,10 @@ fighter = 'Manny Pacquiao' # |    44 | Érik Morales        | 03.19.2005 |
 fighter = 'Bernard Hopkins'# |    50 | Howard Eastman      | 02.19.2005 |
 fighter = 'Zab Judah'      # |    36 | Cory Spinks         | 02.05.2005 |
 fighter = 'Winky Wright'   # |    51 | Shane Mosley        | 11.20.2004 |
-fighter = 'Bernard Hopkins'# |    49 | Oscar De La Hoya    | 09.18.2004 |
-fighter = 'Winky Wright'   # |    50 | Shane Mosley        | 03.13.2004 |
+# |    44 | Érik Morales             | 03.19.2005 |
+# |    43 | Narongrit Pirang         | 12.11.2004 |
+# |    42 | Juan Manuel Márquez      | 05.08.2004 |
+fighter = 'Manny Pacquiao' # |    41 | MarcoAntonioBarrera | 11.15.2003 | [D]
 #---
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |

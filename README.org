@@ -68,9 +68,10 @@ Note: -1 for the header and -1 for the canceled event
 | 265 | heavyweight       |
 |-----+-------------------|
 
+
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 447 boxing matches
+: I have seen 449 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -455,8 +456,10 @@ Note: -1 for the header and -1 for the canceled event
 | Floyd Mayweather vs. H. Bruseles  | 01.22.2005 | Henry                      |
 | Andre Ward vs. Chris Molina       | 12.18.2004 |                            |
 | Miguel Cotto vs. Randall Bailey   | 12.11.2004 | WBO jr. welter             |
+| Bernard Hopkins vs. O. De La Hoya | 09.18.2004 | Oscar, *Undisputed Middle* |
 | Miguel Cotto vs. Kelson Pinto     | 09.11.2004 | WBO jr. welter             |
 | Floyd Mayweather vs. D. Corley    | 05.22.2004 | DeMarcus                   |
+| Shane Mosley vs. Winky Wright     | 03.13.2004 | *Undisputed light middle*  |
 | Bermane Stiverne vs. G. Garcia    | 00.00.2004 | George, pre-Olympic match  |
 | Zab Judah vs. Jaime Rangel        | 12.13.2003 |                            |
 | Floyd Mayweather vs. P. N'dou     | 11.01.2003 | [[11.1.2003][ff.]]                        |
@@ -968,7 +971,6 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 
 
 * Boxing
-
 :other-great-boxers:
 Ezzard Charles:
  - slick defense and prescision
@@ -1018,19 +1020,12 @@ Sonny Liston
 Earnie Shavers: one of the hardest hitting punchers
 Thomas Hearns
 :end:
-:contemporary:
-RomanGonzalez # chocolatito, aggressive and great footwork
-Deontay Wilder
-Errol Spence Jr., one of the best pound for pound
-Terence Crawford
-Junier Welterweight: Jose Ramirez and Josh Taylor
-                     - Apinun Khongsong
-:end:
-
 ** Playlists
 Find other ones as well
 *** Matches
 **** K.O.'s
+ - Bernard Hopkins vs. Oscar De La Hoya, 09.18.2004
+   Livershot K.O.
  - Silenced the crowd: Eduard Troyanovsky vs. Julius Indongo
    major upset piston knock-out
  - Bryan gets knocked down, sits up and thinks he's standing
@@ -1187,29 +1182,16 @@ WBA 'super'/ IBF / WBO light heavyweight championship vs Sergey Kovalev, 17
 *** articles
 [[http://fightland.vice.com/blog/andre-ward-old-school-science-new-school-thinking][old school science, new school thinking]]
 
-
 ** Bernard Hopkins
    vs Joe Calzaghe?
      - Roach tell him to throw more combos, something Hopkins doesnt really do
 
-
-** Canelo Alvarez
-vs Trout    2013, DAZN SFL
-vs Kirkland 2015, DAZN SFL
-vs GGG      2017, DAZN SFL
-
-
-
 ** Floyd Mayweather
-as well as Pacquiao and McGregor
-DAZN: has De La Hoya, Hatton J. Marquez, Mosley, V. Ortiz, Cotto, Guerrero,
-      Canelo, Maidana (2007-2014)
 In mitt work, after combo will get hit in shoulder
   Floyd's foot position will indicate next punch thrown
 After throwing a few punches, he'll start feinting/hesistating once you start
   flinching, this gives him a few deep breathes for next combo
 vs Sosa: Round 6, 0:56 left. Perfect example of Floyd's defence and reflexes.
-
 
 ** Gennadiy Golovkin
 =DAZN=
@@ -1219,63 +1201,45 @@ Jacobs 2017
 Brook 2016
 Lemieux 2015
 
-
 ** Lennox Lewis
-
 
 ** Mike Tyson
 angle shift : Especially Tyson's
 a main method for reducing hit ability while advancing:
  - head movement (see Mike Tyson; Julio Cesar Chavez)
 
-
 ** Mikey Garcia
 The one you show when you want to show someone what a boxer should look like
 vs Zlatičanin, [to be seen] of the year canidate
 vs. J. Vargas 2020 [DAZN]
 
-
-** Muhammed Ali
-| TODO: add more |            |
-
-
 ** Oscar De La Hoya
 Last round he goes hard. - Foreman.  Look out for this
 vs Gatti (2001) DAZN, Saturday Fight Live
-
 
 ** Pacquiao
 to fill in, lots of his latest
 [[https://www.unibet.co.uk/blog/more-sports/boxing/pacquiao-v-thurman-styles-make-fights-and-this-can-be-a-clash-for-the-ages-1.1217838][Pacquiao vs Thurman]]: need to watch Pacquiao's latest
 Pacquiao's footwork
-=DAZN=
-Barrera 2003
-Hatton 2009
-Barrer 2 2007
-
-
-
-** Tyson Fury
-Footwork
-
 
 ** ----Boxing Promotions----
-|--------------------------------+--------------------|
-| *Promotion*                    | *Network*          |
-|--------------------------------+--------------------|
-| Premier Boxing Champions (PBC) | Fox, FS1, Showtime |
-| Top Rank                       | ESPN               |
-| Golden Boy Promotions          | DAZN, was ESPN     |
-| Matchroom Sports               | DAZN               |
-
+|--------------------------------+-----------|
+| *Promotion*                    | *Network* |
+|--------------------------------+-----------|
+| Premier Boxing Champions (PBC) | Amazon    |
+| Top Rank                       | ESPN      |
+| Golden Boy Promotions          | DAZN      |
+| Matchroom Sports               | DAZN      |
+|--------------------------------+-----------|
 
 ** <<Boxers Continued>>
+** Tyson Fury
+Footwork
 ** Ken Buchanan
 Retired Scottish boxer, former undisputed world lighweight champion
 Duran refused to honor two contracts to fight rematches with Buchanan
 ** Henry Cooper
 Only three time winner of the Lonsdale Belt
-
 
 
 * MMA
