@@ -21,9 +21,9 @@ event_bool = False
 # | Delicious Orie vs.                   | 04.05.2025 | [ ] | [D]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
-# | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [ ] | [D] Belfast
-# | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [ ] | [E]
-# | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [ ] | [D] *****
+# | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [X] | [D] Belfast
+# | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [X] |
+# | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [X] |
 # | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [X] |
 # | Jack Catterall vs. Arnold Barboza Jr.| 02.15.2025 | [X] |
 # | Derek Chisora vs. Otto Wallin        | 02.08.2025 | [X] |
@@ -956,23 +956,26 @@ fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 fighter = 'Oscar De La Hoya'#|    42 | Ricardo Mayorga     | 05.06.2006 | [D]
 fighter = 'Miguel Cotto'   # |    26 | Gianluca Branco     | 03.04.2006 |
 fighter = 'Shane Mosley'   # |    47 | Fernando Vargas     | 02.25.2006 | [D]
+fighter = 'Amir Khan (b)'  # |     4 | Daniel Thorpe       | 12.10.2005 |
+fighter = 'Canelo Álvarez' # |     2 | Pablo Alvarado      | 11.26.2005 |
+fighter = 'Ricky Hatton'   # |    40 | Carlos Maussa       | 11.26.2005 |
 fighter = 'Amir Khan (b)'  # |     3 | Steve Gethin        | 11.05.2005 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
+fighter='Román González (b)'#|     4 | Eddy Castro         | 10.15.2005 |
 fighter = 'Andre Ward'     # |     6 | Glenn LaPlante      | 10.01.2005 |
+fighter='Román González (b)'#|     3 | David Centeno       | 09.30.2005 |
+fighter = 'Shane Mosley'   # |    46 | José Luis Cruz      | 09.17.2005 |
+fighter='Marco Antonio Barrera'#| 66 | Robbie Peden        | 09.17.2005 |
+fighter = 'Manny Pacquiao' # |    45 | Héctor Velázquez    | 09.10.2005 |
+fighter='Román González (b)'#|     2 | Nicolas Mercado     | 08.19.2005 |
 fighter = 'Bernard Hopkins'# |    51 | Jermain Taylor      | 07.16.2005 | [D]
 fighter='Román González (b)'#|     1 | Ramon Urbina        | 07.01.2005 |
 fighter = 'Ricky Hatton'   # |    39 | Kostya Tszyu        | 06.04.2005 |
+fighter = 'Zab Judah'      # |    37 | Cosme Rivera        | 05.14.2005 |
 fighter = 'Winky Wright'   # |    52 | Félix Trinidad      | 05.14.2005 |
 fighter='Juan Manuel Marquez'#|   47 | Victor Polo         | 05.07.2005 |
 fighter = 'Shane Mosley'   # |    45 | David Estrada       | 04.23.2005 |
-fighter='Marco Antonio Barrera'#| 65 | Mzonke Fana         | 04.09.2005 |
 fighter = 'Manny Pacquiao' # |    44 | Érik Morales        | 03.19.2005 |
-fighter = 'Bernard Hopkins'# |    50 | Howard Eastman      | 02.19.2005 |
-fighter = 'Zab Judah'      # |    36 | Cory Spinks         | 02.05.2005 |
-fighter = 'Winky Wright'   # |    51 | Shane Mosley        | 11.20.2004 |
-# |    44 | Érik Morales             | 03.19.2005 |
-# |    43 | Narongrit Pirang         | 12.11.2004 |
-ffighter = 'Manny Pacquiao' # |    42 | Juan Manuel Márquez | 05.08.2004 |
 #---
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |
