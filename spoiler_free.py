@@ -952,13 +952,27 @@ fighter = 'Miguel Cotto'   # |    31 | Shane Mosley        | 11.10.2007 | [D]
 fighter = 'Tony Bellew'    # |     1 | Jamie Ambler        | 10.06.2007 |
 fighter = 'Melissa St. Vil'# |     1 | Olivia Fonseca      | 03.30.2007 |
 fighter = 'Derek Chisora'  # |     1 | István Kecskés      | 02.17.2007 |
+fighter = 'Winky Wright'   # |    54 | Jermain Taylor      | 06.17.2006 |
+fighter = 'Bernard Hopkins'# |    53 | Antonio Tarver      | 06.10.2006 |
+fighter='Marco Antonio Barrera'#| 67 | Rocky Juarez        | 05.20.2006 |
+fighter = 'Ricky Hatton'   # |    41 | Luis Collazo        | 05.13.2006 |
 fighter = 'Gennady Golovkin'#|     1 | Gabor Balogh        | 05.06.2006 |
 fighter = 'Oscar De La Hoya'#|    42 | Ricardo Mayorga     | 05.06.2006 | [D]
 fighter = 'Miguel Cotto'   # |    26 | Gianluca Branco     | 03.04.2006 |
+fighter='Juan Manuel Marquez'#|   48 | Chris John          | 03.04.2006 |
 fighter = 'Shane Mosley'   # |    47 | Fernando Vargas     | 02.25.2006 | [D]
+fighter = 'Andre Ward'     # |     8 | Kendall Gould       | 02.23.2006 |
+fighter = 'Amir Khan (b)'  # |     5 | Vitali Martynov     | 01.28.2006 |
+fighter = 'Manny Pacquiao' # |    46 | Érik Morales        | 01.21.2006 |
+fighter='Román González (b)'#|     5 | Roberto Meza        | 01.20.2006 |
+fighter = 'Canelo Álvarez' # |     3 | Miguel Vázquez      | 01.20.2006 |
+fighter = 'Zab Judah'      # |    38 | Carlos Baldomir     | 01.07.2006 |
+#---
+fighter = 'Winky Wright'   # |    53 | Sam Soliman         | 12.10.2005 |
 fighter = 'Amir Khan (b)'  # |     4 | Daniel Thorpe       | 12.10.2005 |
 fighter = 'Canelo Álvarez' # |     2 | Pablo Alvarado      | 11.26.2005 |
 fighter = 'Ricky Hatton'   # |    40 | Carlos Maussa       | 11.26.2005 |
+fighter = 'Andre Ward'     # |     7 | Darnell Boone       | 11.19.2005 |
 fighter = 'Amir Khan (b)'  # |     3 | Steve Gethin        | 11.05.2005 |
 fighter = 'Canelo Álvarez' # |     1 | Abraham Gonzalez    | 10.29.2005 |
 fighter='Román González (b)'#|     4 | Eddy Castro         | 10.15.2005 |
@@ -974,8 +988,6 @@ fighter = 'Ricky Hatton'   # |    39 | Kostya Tszyu        | 06.04.2005 |
 fighter = 'Zab Judah'      # |    37 | Cosme Rivera        | 05.14.2005 |
 fighter = 'Winky Wright'   # |    52 | Félix Trinidad      | 05.14.2005 |
 fighter='Juan Manuel Marquez'#|   47 | Victor Polo         | 05.07.2005 |
-fighter = 'Shane Mosley'   # |    45 | David Estrada       | 04.23.2005 |
-fighter = 'Manny Pacquiao' # |    44 | Érik Morales        | 03.19.2005 |
 #---
 #---
 fighter = 'Ricky Hatton'   # |     1 | Colin McAuley       | 09.11.1997 |

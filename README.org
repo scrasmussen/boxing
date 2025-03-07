@@ -71,7 +71,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 464 boxing matches
+: I have seen 466 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -458,8 +458,10 @@ Note: -1 for the header and -1 for the canceled event
 | Miguel Cotto vs. M. Abdullaev     | 06.11.2005 | Muhammad, WBO light welter |
 | Kostya Tszyu vs. Ricky Hatton     | 06.04.2005 |                            |
 | Zab Judah vs. Cosme Rivera        | 05.14.2005 |                            |
+| Shane Mosley vs. David Estrada    | 04.23.2005 |                            |
 | Marco Antonio Barrera vs. M. Fana | 04.09.2005 | Mzonke                     |
 | Andre Ward vs. Roy Ashworth       | 04.07.2005 |                            |
+| Manny Pacquiao vs. Érik Morales   | 03.19.2005 | FOYC                       |
 | Miguel Cotto vs. DeMarcus Corley  | 02.26.2005 |                            |
 | Bernard Hopkins vs. H. Eastman    | 02.19.2005 | Howard                     |
 | Andre Ward vs. Kenny Kost         | 02.10.2005 |                            |
