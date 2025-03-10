@@ -589,12 +589,14 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 197 fight cards and 61 additional fights
+: I have seen 199 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 303                   | 06.29.2024 | Pereira vs. Procházka II      |
+| UFC 302                   | 06.01.2024 | Makhachev vs. Poirier         |
 | UFC 301                   | 05.04.2024 | Pantoja vs. Erceg             |
 | UFC 300                   | 04.13.2024 | Pereria vs. Hill              |
 | UFC 299                   | 03.09.2024 | O'Malley vs. Vera II          |

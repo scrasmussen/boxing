@@ -3,7 +3,8 @@ import fighter as ft
 import fightEvent as fe
 
 event_bool = True
-event_bool = False
+# event_bool = False
+event = 'UFC 303'
 
 #
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
@@ -57,8 +58,8 @@ event_bool = False
 # | UFC 306 | 09.14.2024 | [ ] |
 # | UFC 305 | 08.18.2024 | [ ] |
 # | UFC 304 | 07.27.2024 | [ ] |
-# | UFC 303 | 06.29.2024 | [ ] |
-# | UFC 302 | 06.01.2024 | [ ] |
+# | UFC 303 | 06.29.2024 | [X] |
+# | UFC 302 | 06.01.2024 | [X] |
 # |---------+------------+-----|
 
 # ------------
@@ -492,13 +493,13 @@ fighter = 'Max Holloway'
 # watch maincards UFC on ESPN: Holm vs. Aldana
 # Invicta Fighting Phoenix
 # event = 'UFC on ESPN: Blaydes vs. Volkov'
-event = 'UFC_on_ESPN:_Kattar_vs._Ige'
-event = 'UFC 141'
-event = 'UFC Fight Night: Brunson vs. Holland'
-event = 'UFC 269'
-event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
-event = 'UFC 276' # lawler fight good
-event = 'UFC 300'
+# event = 'UFC_on_ESPN:_Kattar_vs._Ige'
+# event = 'UFC 141'
+# event = 'UFC Fight Night: Brunson vs. Holland'
+# event = 'UFC 269'
+# event = 'UFC Fight Night: Lewis vs. Daukaus' # watch prelims! Tafa, Leavitt
+# event = 'UFC 276' # lawler fight good
+# event = 'UFC 300'
 ## more of the ill follow you home and kill you - Montserrat Ruiz
 #  invicta 33, 41
 # event = 'UFC on ABC: Vettori vs. Holland' # On holtzman vs gamrot in prelims
