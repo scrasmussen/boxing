@@ -27,14 +27,15 @@ def find_table_after_header(soup, header_id):
         if header is None:
             continue
 
-        tables = div.find_next_sibling('table', class_='wikitable', style=lambda s: s and 'text-align:center' in s)
+        # tables = div.find_next_sibling('table', class_='wikitable', style=lambda s: s and 'text-align:center' in s)
+        tables = div.find_next(lambda tag: tag.name == "table" and tag.get("class") == ["wikitable"])
 
         if not None:
             return tables
 
     return None
 
-def get_record(soup, record_type, debug=False):
+def getRecord(soup, record_type, debug=False):
     if (record_type == 'boxing'):
         columns = ['No.', 'Opponent', 'Date']
         record_name = 'Professional_boxing_record'
@@ -80,12 +81,12 @@ class Fighter:
             return name[:-3] + "(boxer)"
         return name
 
-    def __init__(self, name):
+    def __init__(self, name, debug=False):
         name = self.replace_b_with_boxer(name)
         self.name = name.replace('_',' ').title()
-        req = requests.get(getUrl(name.replace(' ', '_'))).text
+        req = requests.get(getUrl(name.replace(' ', '_'), debug)).text
         soup = BeautifulSoup(req, 'lxml')
 
-        self.mma_record = get_record(soup, 'mma')
-        self.boxing_record = get_record(soup, 'boxing')
-        self.kickboxing_record = get_record(soup, 'kickboxing')
+        self.mma_record = getRecord(soup, 'mma', debug)
+        self.boxing_record = getRecord(soup, 'boxing', debug)
+        self.kickboxing_record = getRecord(soup, 'kickboxing', debug)

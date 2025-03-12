@@ -2,9 +2,13 @@ import sys
 import fighter as ft
 import fightEvent as fe
 
+debug = False
 event_bool = True
-# event_bool = False
-event = 'UFC 303'
+event_bool = False
+event = 'UFC 304'
+
+# Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
+
 
 #
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
@@ -1286,7 +1290,7 @@ if event_bool is True:
     event.print_events()
 else:
     # --- handle fighter ---
-    fighter = ft.Fighter(fighter_name)
+    fighter = ft.Fighter(fighter_name, debug=debug)
     fighter.print_name()
     fighter.print_records()
 
