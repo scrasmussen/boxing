@@ -8,23 +8,38 @@ event_bool = False
 event = 'UFC 304'
 
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
-
-
+# Tony Ferguson vs.
+# | Michael Chiesa   | UFC on ABC: Sandhagen vs. Nurmagomedov | 08.03.2024 |
+# | Paddy Pimblett   | UFC 296                                | 12.16.2023 |
 #
 # Luke grew up on Frank Bruno, Chris Eubank, Nigel Benn, Barry McGuigan, Joe
 # Calzaghe, and then Naseem Hamed
 #
 # Four Kings (USA Showtime, UK Amazon)
-#
 
 
 # --------
 # | 2025 |
 # --------
 # |--------------------------------------+------------+-----|
+# |  vs.  | 05.05.2025 | [ ] |
+# | Deontay Wilder vs. Shannon Briggs    | 07.01.2025 | [ ] |
+# | Naoya Inoue vs. Ramon Cardenas       | 05.04.2025 | [ ] | [E]
+# | Alvarez vs. William Scull            | 05.03.2025 | [ ] | [D]
+# | Ryan Garcia vs. Rolando Romero card  | 05.02.2025 | [ ] |
+# | Ben Whittaker vs. Liam Cameron       | 04.20.2025 | [ ] | [SKY]
+# | Gabriela Fundora vs. Marilyn Badillo | 04.19.2025 | [ ] | [D]
+# | Dalton Smith vs. Mathieu Germain     | 04.19.2025 | [ ] | [D]
+# | Jaron Enis vs. Eimantas Stanionis    | 04.12.2025 | [ ] | [D]
+# | Joe Joyce vs. Filip Hrgović          | 04.05.2025 | [ ] |
 # | Torrez Jr. vs. Vianello              | 04.05.2025 | [ ] | [E]
 # | Delicious Orie vs.                   | 04.05.2025 | [ ] | [D]
+# | Mikaela Mayer vs. Sandy Ryan II      | 03.28.2025 | [ ] | [E]
+# | Fundora vs. Booker                   | 03.22.2025 | [ ] | [PBC]
+# | Callum Walsh vs. Dean Sutherland     | 03.16.2025 | [ ] | [UFC]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
+# | Kenshiro Teraji vs. Seigo Yuri Akui  | 03.13.2025 | [ ] | [E]
+# | Lauren Price vs. Natash Jonas        | 03.01.2025 | [ ] | [SKY]
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [X] | [D] Belfast
 # | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [X] |
@@ -749,7 +764,20 @@ fighter = 'Mark Coleman'     # 09.20.1996 UFC 11 #  11.09.2007??
 fighter = 'Kazushi Sakuraba' # 07.14.1996
 fighter = 'Semmy Schilt'     # 05.16.1996 Pancrase: Truth 5,
                              # UFC & Pride 2001, K-1 2002, Glory 2012
-fighter = 'Mirko Cro Cop'    # Pride 11.03.2001 ufc 67 02.03.2007
+ffighter = 'Mirko Cro Cop'    # Pride 11.03.2001 ufc 67 02.03.2007
+# 2000-03-19| Hiromi Amada     | K-1 Burning 2000
+# 1999-12-05| Ernesto Hoost    | K-1 Grand Prix 1999 fina
+# 1999-12-05| Sam Greco        | K-1 Grand Prix 1999 semi-finals
+# 1999-12-05| Musashi          | K-1 Grand Prix 1999 quarter-finals
+# 1999-10-05| Mike Bernardo    | K-1 World Grand Prix '99 opening round
+# 1999-06-20| Xhavit Bajrami   | K-1 Braves '99 semi-finals
+# 1999-06-20| Ricky Nicholson  | K-1 Braves '99 quarter-finals
+# 1999-04-25| Jan Nortje       | K-1 Revenge '99
+# 1997-10   | Achille Roger    | Kickboxing Tournament
+# 1997-10   | Lee Hasdell      | Kickboxing Tournament
+# 1996-05-06| Ernesto Hoost    | K-1 Grand Prix 1996 Final Quarter Finals
+# 1996-03-10| Jérôme Le Banner | K-1 Grand Prix '96 Opening Battle
+
 #                             K-1   03.10.1996 opening battle
 fighter = 'Frank Shamrock'   # Pancrase 12.16.1994, ufc 12.21.1997
 fighter = 'Ken Shamrock'     # Pancrase and UFC until Pride in 2000
@@ -779,6 +807,7 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        UFC         : 09.20.1996  UFC 11
 #        K-1         : 1995 Five Events
 #        Pancrase    : 1995 Eyes of Beast 1-7 & Neo-Blood Tournament
+#                ----- 1995  -----
 #        Pancrase    : 12.1[6-7].1994 King of Pancrase
 #        K-1         : 12.10.1994  Legend
 #    *   Pancrase    : 10.15.1994  Road to the Championship 5
@@ -1237,7 +1266,7 @@ fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN
 fighter = 'Daniel Roman (boxer)'             #  06.16.2018 Moises Flores
 fighter = 'Chris Eubank Jr' # vs Groves      #  02.17.2018   # 09.28.2018
-fighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
+ffighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
 # Mikey Garcia vs. Adrien Broner              | 07.29.2017
 fighter = 'Lawrence Okolie'                  #  03.25.2017 | Geoffrey Cave
    # was 20 before watching the Olympics and deciding he wanted to do that
