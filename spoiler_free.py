@@ -71,12 +71,12 @@ event = 'UFC 304'
 # ------------
 # |---------+------------+-----|
 # | UFC 310 | 12.07.2024 | [ ] |
-# | UFC 309 | 11.16.2024 | [ ] |
-# | UFC 308 | 10.26.2024 | [ ] |
-# | UFC 307 | 10.05.2024 | [ ] |
-# | UFC 306 | 09.14.2024 | [ ] |
-# | UFC 305 | 08.18.2024 | [ ] |
-# | UFC 304 | 07.27.2024 | [ ] |
+# | UFC 309 | 11.16.2024 | [X] |
+# | UFC 308 | 10.26.2024 | [X] |
+# | UFC 307 | 10.05.2024 | [X] |
+# | UFC 306 | 09.14.2024 | [X] |
+# | UFC 305 | 08.18.2024 | [X] |
+# | UFC 304 | 07.27.2024 | [X] |
 # | UFC 303 | 06.29.2024 | [X] |
 # | UFC 302 | 06.01.2024 | [X] |
 # |---------+------------+-----|
@@ -833,18 +833,18 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 fighter = 'Loma Lookboonmee'
 # first thai fighter to sign with ufc, had that one match a few before
 fighter = 'Paddy Pimblett'
-fighter = 'youssef zalal'   #         02.08.2020, lfa 22 09.08.2017
-fighter = 'jimmy crute'     #         07.24.2018
-fighter = 'antonina shevchenko' #     06.26.2018
-fighter = 'ciryl gane'      #         08.02.2018
+fighter = 'Youssef Zalal'   #         02.08.2020, lfa 22 09.08.2017
+fighter = 'Jimmy Crute'     #         07.24.2018
+fighter = 'Antonina Shevchenko' #     06.26.2018
+fighter = 'Ciryl Gane'      #         08.02.2018
 # serigne ousmane dia "bombardier / b52"
 #      vs konez 05.05.2018;   vs podmore 02.20.2020
-fighter = 'liana jojua'             # 09.07.2019 ufc 242
+fighter = 'Liana Jojua'             # 09.07.2019 ufc 242
 # mariano vs vannata           ufc 234:  02.09.2019
 fighter = 'johnny walker (fighter)' # 08.11.2018
-fighter = 'sean o\'malley (fighter)'# 03.03.2018 ufc 222
-fighter = 'israel adesanya' #         02.11.2018 ufc 221
-fighter = 'ian heinisch'   #          07.31.2018 lfa 04.21.2017
+fighter = 'Sean O\'Malley (fighter)'# 03.03.2018 ufc 222
+fighter = 'Israel Adesanya' #         02.11.2018 ufc 221
+fighter = 'Ian Heinisch'   #          07.31.2018 lfa 04.21.2017
 #                        great anti-wrestling, will just stand right up
 fighter = 'zabit magomedsharipov' #   09.02.2017  acb before that
 fighter = 'trevin giles'   #          07.08.2017
@@ -1266,7 +1266,7 @@ fighter = 'Boxing career of Manny Pacquiao'  #  07.15.2018 Matthysse, ESPN
 fighter = 'Regis Prograis'                   #  07.14.2018 DAZN
 fighter = 'Daniel Roman (boxer)'             #  06.16.2018 Moises Flores
 fighter = 'Chris Eubank Jr' # vs Groves      #  02.17.2018   # 09.28.2018
-ffighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
+fighter = 'Joe Joyce (boxer)'                #  10.20.2017 Ian Lewison
 # Mikey Garcia vs. Adrien Broner              | 07.29.2017
 fighter = 'Lawrence Okolie'                  #  03.25.2017 | Geoffrey Cave
    # was 20 before watching the Olympics and deciding he wanted to do that
