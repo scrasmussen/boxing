@@ -590,12 +590,13 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 205 fight cards and 62 additional fights
+: I have seen 206 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
+| UFC 310                   | 12.06.2024 | Pantoja vs. Asakura           |
 | UFC 309                   | 11.16.2024 | Jones vs. Miocic              |
 | UFC 308                   | 10.26.2024 | Topuria vs. Holloway          |
 | UFC 307                   | 10.05.2024 | Pereira vs. Rountree Jr.      |

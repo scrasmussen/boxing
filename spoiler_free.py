@@ -4,8 +4,8 @@ import fightEvent as fe
 
 debug = False
 event_bool = True
-event_bool = False
-event = 'UFC 304'
+# event_bool = False
+event = 'UFC 310'
 
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
 # Tony Ferguson vs.
@@ -17,6 +17,12 @@ event = 'UFC 304'
 #
 # Four Kings (USA Showtime, UK Amazon)
 
+# benny leanord used to do the drop shift
+#  - jab but pull your lead foot back to half way
+# brown did it against brian battle into body shots
+# rewatch Choi Doo-ho
+# Dominick Reyes | vs.   | Anthony Smith     |
+# olive mccall vs lennox lewis and crying
 
 # --------
 # | 2025 |
@@ -64,21 +70,6 @@ event = 'UFC 304'
 # | UFC 313 | 03.08.2025 | [ ] |
 # | UFC 312 | 02.08.2025 | [ ] |
 # | UFC 311 | 01.18.2025 | [ ] |
-# |---------+------------+-----|
-
-# ------------
-# | MMA 2024 |
-# ------------
-# |---------+------------+-----|
-# | UFC 310 | 12.07.2024 | [ ] |
-# | UFC 309 | 11.16.2024 | [X] |
-# | UFC 308 | 10.26.2024 | [X] |
-# | UFC 307 | 10.05.2024 | [X] |
-# | UFC 306 | 09.14.2024 | [X] |
-# | UFC 305 | 08.18.2024 | [X] |
-# | UFC 304 | 07.27.2024 | [X] |
-# | UFC 303 | 06.29.2024 | [X] |
-# | UFC 302 | 06.01.2024 | [X] |
 # |---------+------------+-----|
 
 # ------------
