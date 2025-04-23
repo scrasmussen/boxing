@@ -5,8 +5,8 @@ import fightEvent as fe
 debug = False
 event_bool = True
 # event_bool = False
-event = 'UFC 310'
-
+event = 'UFC 313'
+ffighter = 'Jalin Turner' # vs Bobby Green
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
 # Tony Ferguson vs.
 # | Michael Chiesa   | UFC on ABC: Sandhagen vs. Nurmagomedov | 08.03.2024 |
@@ -21,8 +21,28 @@ event = 'UFC 310'
 #  - jab but pull your lead foot back to half way
 # brown did it against brian battle into body shots
 # rewatch Choi Doo-ho
-# Dominick Reyes | vs.   | Anthony Smith     |
 # olive mccall vs lennox lewis and crying
+# isreal adesanya vs imavov eye poke 02.01.2025 UFC Fight Night 250
+# Tommy Loughran advanced striking 2.0, man would practically only jab
+# Jack Slack Primo Carnerto history episode, talks about Tommy Loughran
+# wiedman vs machito II
+# Wangchannoi Sor.Palangchai, one of the best Muay Thai fighters, -
+#  - cross punch savant
+#  Anshul Jubli's first ufc fight opponent started barking
+#  UFC 313 Prelims
+#     Joshua Van      | vs.   | Rei Tsuruya      | best prospects
+# Buvaisar Saitiev, one of the greatest freestyle wrestler,
+# - had ~30-2 that should have a technical stoppage but he told the ref not to
+# his brother Adam Saitiev has the slickest inside trip
+# - attack with a trip and dive on the leg, judo can't do that, really cool
+# Mateusz Gamrot was the backup fighter, paid to be on wait and
+#   they did machocheck vs (olivera) volkonskvy instead
+# read advanced striking 2.0 Alex Pereira
+# open stance 101 in boxing, check lead hand, step to space and throw rear hand
+#  for free
+# major sin: throw read hand while lead hand is being controlled
+# *boxing instructional* Kenny Weldon's Boxing a Leftie
+
 
 # --------
 # | 2025 |
@@ -67,9 +87,6 @@ event = 'UFC 310'
 # |---------+------------+-----|
 # | UFC 315 | 05.10.2025 | [ ] |
 # | UFC 314 | 04.12.2025 | [ ] |
-# | UFC 313 | 03.08.2025 | [ ] |
-# | UFC 312 | 02.08.2025 | [ ] |
-# | UFC 311 | 01.18.2025 | [ ] |
 # |---------+------------+-----|
 
 # ------------
@@ -800,8 +817,7 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        Pancrase    : 1995 Eyes of Beast 1-7 & Neo-Blood Tournament
 #                ----- 1995  -----
 #        Pancrase    : 12.1[6-7].1994 King of Pancrase
-#        K-1         : 12.10.1994  Legend
-#    *   Pancrase    : 10.15.1994  Road to the Championship 5
+#    *   K-1         : 12.10.1994  Legend
 #
 # ----------------------------------------------------------------------
 #                         fedor emelianenko

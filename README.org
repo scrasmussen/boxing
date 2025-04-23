@@ -590,14 +590,15 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 209 fight cards and 62 additional fights
+: I have seen 211 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
 |---------------------------+------------+-------------------------------|
 | *Event*                   |     *Date* | *Notes*                       |
 |---------------------------+------------+-------------------------------|
-| UFC 312                   | 02.08.2025 | du Plessis vs. Strickland II  |
-| UFC 312: Early Prelims    | 02.08.2025 | du Plessis vs. Strickland II  |
+| UFC 313                   | 03.08.2025 | Pereira vs. Ankalaev          |
+| UFC 312                   | 02.09.2025 | du Plessis vs. Strickland II  |
+| UFC 312: Early Prelims    | 02.09.2025 | du Plessis vs. Strickland II  |
 | UFC 311                   | 01.18.2025 | Makhachev vs. Moicano         |
 | UFC 310                   | 12.06.2024 | Pantoja vs. Asakura           |
 | UFC 309                   | 11.16.2024 | Jones vs. Miocic              |
@@ -793,6 +794,7 @@ Sherrif jumps into the ring and stops the fight
 | UFC 5                     | 04.07.1995 | The Return of the Beast       |
 | UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
 | UFC 3                     | 09.09.1994 | The American Dream            |
+| Pancrase: Road to the     | 10.15.1995 | Championship 5                |
 | Pancrase: Road to the     | 05.13.1995 | Championship 4                |
 | Pancrase: Road to the     | 07.26.1994 | Championship 3                |
 | Pancrase: Road to the     | 07.06.1994 | Championship 2                |
