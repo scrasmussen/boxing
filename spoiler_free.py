@@ -6,7 +6,7 @@ debug = False
 event_bool = True
 event_bool = False
 event = 'UFC 315'
-fighter = 'Jalin Turner' # vs Bobby Green
+ffighter = 'Jalin Turner' # vs Bobby Green
 
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
@@ -94,7 +94,6 @@ fighter = 'Jalin Turner' # vs Bobby Green
 # ------------
 # |---------+------------+-----|
 # | UFC 315 | 05.10.2025 | [ ] |
-# | UFC 314 | 04.12.2025 | [ ] |
 # |---------+------------+-----|
 
 # ------------
@@ -701,7 +700,7 @@ fighter = 'Paulie Malignaggi'
 # Newer
 fighter = 'Robelis Despaigne' # vs Katuma Mulumba 06.03.2022
 
-ffighter = 'Kazuto Ioka'
+fighter = 'Kazuto Ioka'
 # Submission Underground 2016, July
 # Promotion Polaris 2015, January
 fighter = 'Henry Cejudo'    # 12.13.2014  UFC FOX
