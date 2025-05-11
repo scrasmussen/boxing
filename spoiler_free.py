@@ -4,9 +4,9 @@ import fightEvent as fe
 
 debug = False
 event_bool = True
-# event_bool = False
+event_bool = False
 event = 'UFC 315'
-ffighter = 'Jalin Turner' # vs Bobby Green
+fighter = 'Jalin Turner' # vs Bobby Green
 
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
@@ -701,7 +701,7 @@ fighter = 'Paulie Malignaggi'
 # Newer
 fighter = 'Robelis Despaigne' # vs Katuma Mulumba 06.03.2022
 
-fighter = 'Kazuto Ioka'
+ffighter = 'Kazuto Ioka'
 # Submission Underground 2016, July
 # Promotion Polaris 2015, January
 fighter = 'Henry Cejudo'    # 12.13.2014  UFC FOX
@@ -838,9 +838,7 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        Pancrase    : 04.08.1995 Eyes of Beast 3
 #        Pancrase    : 03.10.1995 Eyes of Beast 2
 #        K-1         : 03.03.1995 Grand Prix '95 Opening Battle
-#        Pancrase    : 01.26.1995 Eyes of Beast 1
-#                ----- 1995  -----
-#    *   Pancrase    : 12.1[6-7].1994 King of Pancrase
+#    *   Pancrase    : 01.26.1995 Eyes of Beast 1
 #
 #
 # ----------------------------------------------------------------------

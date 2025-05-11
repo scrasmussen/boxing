@@ -591,226 +591,228 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 212 fight cards and 62 additional fights
+: I have seen 214 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
-|---------------------------+------------+-------------------------------|
-| *Event*                   |     *Date* | *Notes*                       |
-|---------------------------+------------+-------------------------------|
-| UFC 314                   | 04.12.2025 | Volkanovski vs. Lopes         |
-| UFC 313                   | 03.08.2025 | Pereira vs. Ankalaev          |
-| UFC 312                   | 02.09.2025 | du Plessis vs. Strickland II  |
-| UFC 312: Early Prelims    | 02.09.2025 | du Plessis vs. Strickland II  |
-| UFC 311                   | 01.18.2025 | Makhachev vs. Moicano         |
-| UFC 310                   | 12.06.2024 | Pantoja vs. Asakura           |
-| UFC 309                   | 11.16.2024 | Jones vs. Miocic              |
-| UFC 308                   | 10.26.2024 | Topuria vs. Holloway          |
-| UFC 307                   | 10.05.2024 | Pereira vs. Rountree Jr.      |
-| UFC 306                   | 09.14.2024 | O'Malley vs. Dvalishvili      |
-| UFC 305                   | 08.18.2024 | du Plessis vs. Adesanya       |
-| UFC 304                   | 07.27.2024 | Edwards vs. Muhammed II       |
-| UFC 303                   | 06.29.2024 | Pereira vs. Procházka II      |
-| UFC 302                   | 06.01.2024 | Makhachev vs. Poirier         |
-| UFC 301                   | 05.04.2024 | Pantoja vs. Erceg             |
-| UFC 300                   | 04.13.2024 | Pereria vs. Hill              |
-| UFC 299                   | 03.09.2024 | O'Malley vs. Vera II          |
-| UFC 298                   | 02.17.2024 | Volkanovski vs. Topuria       |
-| UFC Fight Night 236       | 02.10.2024 | Hermansson vs. Pyfer          |
-| UFC Fight Night 236: Pre  | 02.10.2024 | Hermansson vs. Pyfer          |
-| UFC 297                   | 01.20.2024 | Strickland vs. du Plessis     |
-| UFC 296                   | 12.16.2023 | Edwards vs. Covington         |
-| UFC 295                   | 11.11.2023 | Prochazka vs. Pereira         |
-| UFC 294                   | 10.21.2023 | Makhachev vs. Volkanovski II  |
-| UFC 293                   | 09.10.2023 | Adesanya vs. Strickland       |
-| UFC 292                   | 08.19.2023 | Sterling vs. O'Malley         |
-| UFC 291                   | 07.29.2023 | Poirier vs. Gaethje II        |
-| UFC 290                   | 07.08.2023 | Volkanovski vs. Rodriguez     |
-| UFC 289                   | 06.10.2023 | Nunes vs. Aldana              |
-| UFC 288                   | 05.06.2023 | Sterling vs. Cejudo           |
-| UFC 287                   | 04.08.2023 | Pereira vs. Adesanya II       |
-| UFC 286                   | 03.18.2023 | Edwards vs. Usman III         |
-| UFC 285                   | 03.04.2023 | Jones vs. Gane                |
-| UFC 284                   | 02.12.2023 | Makhachev vs. Volkanovski     |
-| UFC 283                   | 01.21.2023 | Teixeira vs. Hill             |
-| UFC 282                   | 12.10.2022 | Blachowicz vs. Ankalaev       |
-| UFC 281                   | 11.12.2022 | Adesanya vs. Pereira          |
-| UFC 280                   | 10.22.2022 | Oliveira vs. Makhachev        |
-| UFC 279                   | 09.10.2022 | Diaz vs. Ferguson             |
-| UFC 278                   | 08.20.2022 | Usman vs. Edwards II          |
-| UFC 277                   | 07.30.2022 | Pena vs. Nunes II             |
-| UFC 276                   | 07.02.2022 | Adesanya vs. Cannonier        |
-| UFC 275                   | 06.12.2022 | Teixeria vs. Prochazka        |
-| UFC 274                   | 05.07.2022 | Oliveira vs. Gaethje          |
-| UFC 273                   | 04.09.2022 | Volkanovski vs. Korean Zombie |
-| UFC 272                   | 03.05.2022 | Covington vs. Masvidal        |
-| UFC Fight Night 201       | 02.19.2022 | Walker vs. Hill               |
-| UFC 271                   | 02.12.2022 | Adesanya vs. Whittaker II     |
-| UFC Fight Night 200       | 02.07.2022 | Hermansson vs. Strickland     |
-| UFC Fight Night 200: Pre  | 02.07.2022 |                               |
-| UFC 270                   | 01.22.2022 | Ngannou vs. Gane              |
-| UFC 270: Prelims          | 01.22.2022 |                               |
-| UFC 270: Early Prelims    | 01.22.2022 |                               |
-| UFC on ESPN 32            | 01.15.2022 | Kattar vs. Chikadze           |
-| UFC Fight Night 199       | 12.18.2021 | Lewis vs. Daukaus             |
-| UFC 269                   | 12.11.2021 | Oliveira vs. Poirier          |
-| UFC 269: Prelims          | 12.11.2021 |                               |
-| UFC 269: Early Prelims    | 12.11.2021 |                               |
-| UFC on ESPN 31            | 12.04.2021 | Font vs. Aldo                 |
-| UFC Fight Night 198       | 11.20.2021 | Vieira vs. Tate               |
-| UFC Fight Night 197       | 11.13.2021 | Holloway vs. Rodriguez        |
-| UFC 268                   | 11.06.2021 | Usman vs. Covington II        |
-| UFC 268: Prelims          | 11.06.2021 |                               |
-| UFC 267                   | 10.30.2021 | Blachowicz vs. Teixeira       |
-| UFC Fight Night 196       | 10.23.2021 | Costa vs. Vettori             |
-| UFC Fight Night 195       | 10.16.2021 | Ladd vs. Dumont               |
-| UFC Fight Night 194       | 10.09.2021 | Dern vs. Rodriguez            |
-| UFC Fight Night 193       | 10.02.2021 | Santos vs. Walker             |
-| UFC 266                   | 09.25.2021 | Volkanovski vs. Ortega        |
-| UFC Fight Night 192       | 09.18.2021 | Smith vs. Spann               |
-| UFC Fight Night 191       | 09.04.2021 | Brunson vs. Till              |
-| UFC on ESPN 30            | 08.28.2021 | Barboza vs. Chikadze          |
-| UFC on ESPN 29            | 08.21.2021 | Cannonier vs. Gastelum        |
-| UFC 265                   | 08.07.2021 | Lewis vs. Gane                |
-| UFC on ESPN 28            | 07.31.2021 | Hall vs. Strickland           |
-| UFC on ESPN 27            | 07.24.2021 | Sandhagen vs. Dillashaw       |
-| UFC on ESPN 26            | 07.17.2021 | Makhachev vs. Moises          |
-| UFC 264                   | 07.10.2021 | Poirier vs. McGregor III      |
-| UFC Fight Night 190       | 06.26.2021 | Gane vs. Volkov               |
-| UFC on ESPN 25            | 06.19.2021 | The Korean Zombie vs. Ige     |
-| UFC 263                   | 06.12.2021 | Adesanya vs. Vettori II       |
-| Phoenix Tournament        | 06.11.2021 | Invicta Atomweights           |
-| UFC Fight Night 189       | 06.05.2021 | Rozenstruik vs. Sakai         |
-| UFC Fight Night 188       | 05.22.2021 | Font vs. Garbrandt            |
-| Invicta FC                | 05.21.2021 | Rodriguez vs. Torquato        |
-| UFC 262                   | 05.15.2021 | Oliveira vs. Chandler         |
-| UFC on ESPN 24            | 05.08.2021 | Rodriguez vs. Waterson        |
-| UFC on ESPN 23            | 05.01.2021 | Reyes vs. Procházka           |
-| UFC on ESPN 23: Prelims   | 05.01.2021 |                               |
-| ONE on TNT 4              | 04.28.2021 | Nsang vs. Ridder              |
-| UFC 261                   | 04.24.2021 | Usman vs. Masvidal II         |
-| UFC 261: Early Prelims    | 04.24.2021 |                               |
-| ONE on TNT 3              | 04.21.2021 | Lineker vs. Loman             |
-| UFC on ESPN 22            | 04.17.2021 | Whittaker vs. Gastelum        |
-| ONE on TNT 2              | 04.14.2021 | Lee vs. Nastyukhin            |
-| UFC on ABC 2              | 04.10.2021 | Vettori vs. Holland           |
-| ONE on TNT                | 04.07.2021 | Rodtang vs. Williams          |
-| UFC 260                   | 03.27.2021 | Miocic vs. Ngannou II         |
-| UFC 260: Prelims          | 03.27.2021 |                               |
-| UFC 260: Early Prelims    | 03.27.2021 |                               |
-| UFC on ESPN 21            | 03.20.2021 | Brunson vs. Holland           |
-| UFC on ESPN 21: Prelims   | 03.20.2021 |                               |
-| UFC Fight Night 187       | 03.13.2021 | Edwards vs. Muhammad          |
-| UFC Fight Night 187: Pre  | 03.13.2021 |                               |
-| UFC 259                   | 03.06.2021 | Blachowicz vs. Adesanya       |
-| UFC 259: Prelims          | 03.06.2021 |                               |
-| UFC 259: Early Prelims    | 03.06.2021 |                               |
-| UFC Fight Night 186       | 02.27.2021 | Rozenstruik vs. Gane          |
-| UFC Fight Night 185       | 02.20.2021 | Blaydes vs. Lewis             |
-| UFC 258                   | 02.13.2021 | Usman vs. Burns               |
-| UFC Fight Night 184       | 02.06.2021 | Overeem vs. Volkov            |
-| UFC 257                   | 01.24.2021 | Poirier vs. McGregor II       |
-| UFC on ESPN 20            | 01.20.2021 | Chiesa vs. Magny              |
-| UFC Fight Island 7        | 01.16.2021 | Holloway vs. Kattar           |
-| UFC Fight Night 183       | 12.19.2020 | Thompson vs. Neal             |
-| UFC 256                   | 12.12.2020 | Figueiredo vs. Moreno         |
-| UFC 256: Prelims          | 12.12.2020 |                               |
-| UFC 256: Early Prelims    | 12.12.2020 |                               |
-| UFC on ESPN 19            | 12.05.2020 | Hermansson vs. Vettori        |
-| UFC on ESPN 19: Prelims   | 12.05.2020 |                               |
-| UFC on ESPN 18            | 11.28.2020 | Smith vs. Clark               |
-| UFC on ESPN 18: Prelims   | 11.28.2020 |                               |
-| UFC 255                   | 11.21.2020 | Figueiredo vs. Perez          |
-| UFC 255: Prelims          | 11.21.2020 |                               |
-| UFC Fight Night 182       | 11.14.2020 | Felder vs. dos Anjos          |
-| UFC Fight Night 182: Pre  | 11.14.2020 |                               |
-| UFC on ESPN 17            | 11.07.2020 | Santos vs. Teixeira           |
-| UFC Fight Night 181       | 10.31.2020 | Hall vs. Silva                |
-| UFC 254                   | 10.24.2020 | Khabib vs. Gaethje            |
-| UFC Fight Night 180       | 10.18.2020 | Ortega vs. Korean Zombie      |
-| UFC Fight Night 179       | 10.11.2020 | Moraes vs. Sandhagen          |
-| UFC on ESPN 16            | 10.04.2020 | Holm vs. Aldana               |
-| UFC 253                   | 09.27.2020 | Adesanya vs. Costa            |
-| UFC Fight Night 178       | 09.19.2020 | Covington vs. Woodley         |
-| UFC Fight Night 177       | 09.12.2020 | Waterson vs. Hill             |
-| UFC Fight Night 176       | 09.05.2020 | Overeem vs. Sakai             |
-| UFC Fight Night 175       | 08.29.2020 | Smith vs. Rakic               |
-| UFC on ESPN 15            | 08.22.2020 | Munhoz vs. Edgar              |
-| UFC 252                   | 08.15.2020 | Miocic vs. Cormier III        |
-| UFC Fight Island 1        | 07.16.2020 | Kattar vs. Ige                |
-| UFC 251                   | 07.12.2020 | Usman vs. Masvidal            |
-| UFC 251: Prelims          | 07.12.2020 |                               |
-| UFC 251: Early Prelims    | 07.12.2020 |                               |
-| UFC on ESPN 10            | 06.13.2020 | Eyes vs Calvillo              |
-| UFC on ESPN 10: Prelims   | 06.13.2020 |                               |
-| UFC 250                   | 06.06.2020 | Nunes vs. Spencer             |
-| UFC 250: Prelims          | 06.06.2020 |                               |
-| UFC 250: Early Prelims    | 06.06.2020 |                               |
-| UFC on ESPN 9             | 05.30.2020 | Wodley vs. Burns              |
-| UFC on ESPN 8             | 05.16.2020 | Overeem vs. Harris            |
-| UFC Fight Night 171       | 05.13.2020 | Smith vs. Teixeira            |
-| UFC 249                   | 05.09.2020 | Ferguson vs. Gaethje          |
-| UFC 248                   | 03.07.2020 | Adesanya vs. Romero           |
-| UFC 247                   | 02.08.2020 | Jones vs. Reyes               |
-| UFC 246                   | 01.18.2020 | McGregor vs. Cowboy           |
-| UFC 246: Prelims          | 01.18.2020 |                               |
-| UFC 245                   | 12.14.2019 | Usman vs. Covington           |
-| UFC on ESPN 7             | 12.07.2019 | Overeem vs. Rozenstruik       |
-| UFC 244                   | 11.02.2019 | Masvidal vs. Diaz             |
-| UFC 243                   | 10.05.2019 | Whittaker vs. Adesaynya       |
-| UFC Fight Night 158       | 09.14.2019 | Cowboy vs. Gaethje            |
-| UFC 242                   | 09.07.2019 | Khabib vs. Poirier            |
-| UFC Fight Night 157       | 08.31.2019 | Andrade vs. Zhang             |
-| UFC 241                   | 08.17.2019 | Cormier vs. Miocic II         |
-| UFC 240                   | 07.27.2019 | Holloway vs. Edgar            |
-| UFC 239                   | 07.06.2019 | Jones vs. Santos              |
-| UFC 239: Prelims          | 07.06.2019 | Perez vs. Song Yadong         |
-| UFC 238                   | 06.08.2019 | Cejudo vs. Moraes             |
-| UFC Fight Night 153       | 06.01.2019 | Gustafsson vs. Smith          |
-| UFC Fight Night 152       | 05.18.2019 | dos Anjos vs. Lee             |
-| UFC 237                   | 05.11.2019 | Namajunas vs. Andrade         |
-| UFC 236                   | 04.13.2019 | Holloway vs. Poirier II       |
-| UFC 235                   | 03.02.2019 | Jones vs. Smith               |
-| UFC 235: Prelims          | 03.02.2019 |                               |
-| UFC 234                   | 02.10.2019 | Adesanya vs. Silva            |
-| UFC 233: Canceled         | 01.26.2019 | Cejudo vs. Dillasha           |
-| UFC 232                   | 12.29.2018 | Jones vs. Gustafsson II       |
-| UFC 231                   | 12.08.2018 | Holloway vs. Ortega           |
-| UFC 229                   | 08.06.2018 | Khabib vs. McGregor           |
-| UFC 226                   | 07.07.2018 | Miocic vs. Cormier            |
-| UFC 203                   | 09.10.2016 | Miocic vs. Overeem            |
-| UFC 202                   | 08.20.2016 | Diaz vs. McGregor II          |
-| UFC 201                   | 07.30.2016 | Lawler vs. Woodley            |
-| UFC 200                   | 07.09.2016 | Tate vs. Nunes                |
-| UFC 196                   | 03.05.2016 | McGregor vs. Diaz             |
-| UFC 194                   | 12.12.2015 | Aldo vs. McGregor             |
-| UFC 193                   | 11.14.2015 | Rousey vs. Holm               |
-| UFC 184                   | 02.28.2015 | Rousey vs. Zingano            |
-| UFC 167                   | 11.16.2013 | St-Pierre vs. Hendricks       |
-| UFC 165                   | 09.21.2013 | Jones vs. Gustafsson          |
-| UFC 10                    | 07.12.1996 | The Tournament                |
-| UFC 9                     | 05.17.1996 | Shamrock vs. Severn bore!     |
-| UFC 8                     | 04.16.1996 | David vs. Goliath             |
-| UFC The Ultimate Ultimate | 12.16.1995 |                               |
-| UFC 7                     | 09.08.1995 | The Brawl in Buffalo          |
-| UFC 6                     | 07.14.1995 | Clash of the Titans           |
-| UFC 5                     | 04.07.1995 | The Return of the Beast       |
-| UFC 4                     | 12.16.1994 | Revenge of the Warriors       |
-| Pancrase: Road to the     | 10.15.1994 | Championship 5                |
-| UFC 3                     | 09.09.1994 | The American Dream            |
-| Pancrase: Road to the     | 09.01.1994 | Championship 4                |
-| Pancrase: Road to the     | 07.26.1994 | Championship 3                |
-| Pancrase: Road to the     | 07.06.1994 | Championship 2                |
-| Pancrase: Road to the     | 05.31.1994 | Championship 1                |
-| Pancrase: Pancrash! 3     | 04.21.1994 |                               |
-| Pancrase: Pancrash! 2     | 03.12.1994 |                               |
-| UFC 2                     | 03.11.1994 | No Way Out                    |
-| Pancrase: Pancrash! 1     | 01.19.1994 |                               |
-| Pancrase: Yes, We Are     | 12.08.1993 | Hybrid Wrestlers 4            |
-| UFC 1                     | 11.12.1993 | The Beginning                 |
-| Pancrase: Yes, We Are     | 11.08.1993 | Hybrid Wrestlers 3            |
-| Pancrase: Yes, We Are     | 10.14.1993 | Hybrid Wrestlers 2            |
-| Pancrase: Yes, We Are     | 09.21.1993 | Hybrid Wrestlers 1            |
-|---------------------------+------------+-------------------------------|
+|--------------------------+------------+-------------------------------|
+| *Event*                  |     *Date* | *Notes*                       |
+|--------------------------+------------+-------------------------------|
+| UFC 314                  | 04.12.2025 | Volkanovski vs. Lopes         |
+| UFC 313                  | 03.08.2025 | Pereira vs. Ankalaev          |
+| UFC 312                  | 02.09.2025 | du Plessis vs. Strickland II  |
+| UFC 312: Early Prelims   | 02.09.2025 | du Plessis vs. Strickland II  |
+| UFC 311                  | 01.18.2025 | Makhachev vs. Moicano         |
+| UFC 310                  | 12.06.2024 | Pantoja vs. Asakura           |
+| UFC 309                  | 11.16.2024 | Jones vs. Miocic              |
+| UFC 308                  | 10.26.2024 | Topuria vs. Holloway          |
+| UFC 307                  | 10.05.2024 | Pereira vs. Rountree Jr.      |
+| UFC 306                  | 09.14.2024 | O'Malley vs. Dvalishvili      |
+| UFC 305                  | 08.18.2024 | du Plessis vs. Adesanya       |
+| UFC 304                  | 07.27.2024 | Edwards vs. Muhammed II       |
+| UFC 303                  | 06.29.2024 | Pereira vs. Procházka II      |
+| UFC 302                  | 06.01.2024 | Makhachev vs. Poirier         |
+| UFC 301                  | 05.04.2024 | Pantoja vs. Erceg             |
+| UFC 300                  | 04.13.2024 | Pereria vs. Hill              |
+| UFC 299                  | 03.09.2024 | O'Malley vs. Vera II          |
+| UFC 298                  | 02.17.2024 | Volkanovski vs. Topuria       |
+| UFC Fight Night 236      | 02.10.2024 | Hermansson vs. Pyfer          |
+| UFC Fight Night 236: Pre | 02.10.2024 | Hermansson vs. Pyfer          |
+| UFC 297                  | 01.20.2024 | Strickland vs. du Plessis     |
+| UFC 296                  | 12.16.2023 | Edwards vs. Covington         |
+| UFC 295                  | 11.11.2023 | Prochazka vs. Pereira         |
+| UFC 294                  | 10.21.2023 | Makhachev vs. Volkanovski II  |
+| UFC 293                  | 09.10.2023 | Adesanya vs. Strickland       |
+| UFC 292                  | 08.19.2023 | Sterling vs. O'Malley         |
+| UFC 291                  | 07.29.2023 | Poirier vs. Gaethje II        |
+| UFC 290                  | 07.08.2023 | Volkanovski vs. Rodriguez     |
+| UFC 289                  | 06.10.2023 | Nunes vs. Aldana              |
+| UFC 288                  | 05.06.2023 | Sterling vs. Cejudo           |
+| UFC 287                  | 04.08.2023 | Pereira vs. Adesanya II       |
+| UFC 286                  | 03.18.2023 | Edwards vs. Usman III         |
+| UFC 285                  | 03.04.2023 | Jones vs. Gane                |
+| UFC 284                  | 02.12.2023 | Makhachev vs. Volkanovski     |
+| UFC 283                  | 01.21.2023 | Teixeira vs. Hill             |
+| UFC 282                  | 12.10.2022 | Blachowicz vs. Ankalaev       |
+| UFC 281                  | 11.12.2022 | Adesanya vs. Pereira          |
+| UFC 280                  | 10.22.2022 | Oliveira vs. Makhachev        |
+| UFC 279                  | 09.10.2022 | Diaz vs. Ferguson             |
+| UFC 278                  | 08.20.2022 | Usman vs. Edwards II          |
+| UFC 277                  | 07.30.2022 | Pena vs. Nunes II             |
+| UFC 276                  | 07.02.2022 | Adesanya vs. Cannonier        |
+| UFC 275                  | 06.12.2022 | Teixeria vs. Prochazka        |
+| UFC 274                  | 05.07.2022 | Oliveira vs. Gaethje          |
+| UFC 273                  | 04.09.2022 | Volkanovski vs. Korean Zombie |
+| UFC 272                  | 03.05.2022 | Covington vs. Masvidal        |
+| UFC Fight Night 201      | 02.19.2022 | Walker vs. Hill               |
+| UFC 271                  | 02.12.2022 | Adesanya vs. Whittaker II     |
+| UFC Fight Night 200      | 02.07.2022 | Hermansson vs. Strickland     |
+| UFC Fight Night 200: Pre | 02.07.2022 |                               |
+| UFC 270                  | 01.22.2022 | Ngannou vs. Gane              |
+| UFC 270: Prelims         | 01.22.2022 |                               |
+| UFC 270: Early Prelims   | 01.22.2022 |                               |
+| UFC on ESPN 32           | 01.15.2022 | Kattar vs. Chikadze           |
+| UFC Fight Night 199      | 12.18.2021 | Lewis vs. Daukaus             |
+| UFC 269                  | 12.11.2021 | Oliveira vs. Poirier          |
+| UFC 269: Prelims         | 12.11.2021 |                               |
+| UFC 269: Early Prelims   | 12.11.2021 |                               |
+| UFC on ESPN 31           | 12.04.2021 | Font vs. Aldo                 |
+| UFC Fight Night 198      | 11.20.2021 | Vieira vs. Tate               |
+| UFC Fight Night 197      | 11.13.2021 | Holloway vs. Rodriguez        |
+| UFC 268                  | 11.06.2021 | Usman vs. Covington II        |
+| UFC 268: Prelims         | 11.06.2021 |                               |
+| UFC 267                  | 10.30.2021 | Blachowicz vs. Teixeira       |
+| UFC Fight Night 196      | 10.23.2021 | Costa vs. Vettori             |
+| UFC Fight Night 195      | 10.16.2021 | Ladd vs. Dumont               |
+| UFC Fight Night 194      | 10.09.2021 | Dern vs. Rodriguez            |
+| UFC Fight Night 193      | 10.02.2021 | Santos vs. Walker             |
+| UFC 266                  | 09.25.2021 | Volkanovski vs. Ortega        |
+| UFC Fight Night 192      | 09.18.2021 | Smith vs. Spann               |
+| UFC Fight Night 191      | 09.04.2021 | Brunson vs. Till              |
+| UFC on ESPN 30           | 08.28.2021 | Barboza vs. Chikadze          |
+| UFC on ESPN 29           | 08.21.2021 | Cannonier vs. Gastelum        |
+| UFC 265                  | 08.07.2021 | Lewis vs. Gane                |
+| UFC on ESPN 28           | 07.31.2021 | Hall vs. Strickland           |
+| UFC on ESPN 27           | 07.24.2021 | Sandhagen vs. Dillashaw       |
+| UFC on ESPN 26           | 07.17.2021 | Makhachev vs. Moises          |
+| UFC 264                  | 07.10.2021 | Poirier vs. McGregor III      |
+| UFC Fight Night 190      | 06.26.2021 | Gane vs. Volkov               |
+| UFC on ESPN 25           | 06.19.2021 | The Korean Zombie vs. Ige     |
+| UFC 263                  | 06.12.2021 | Adesanya vs. Vettori II       |
+| Phoenix Tournament       | 06.11.2021 | Invicta Atomweights           |
+| UFC Fight Night 189      | 06.05.2021 | Rozenstruik vs. Sakai         |
+| UFC Fight Night 188      | 05.22.2021 | Font vs. Garbrandt            |
+| Invicta FC               | 05.21.2021 | Rodriguez vs. Torquato        |
+| UFC 262                  | 05.15.2021 | Oliveira vs. Chandler         |
+| UFC on ESPN 24           | 05.08.2021 | Rodriguez vs. Waterson        |
+| UFC on ESPN 23           | 05.01.2021 | Reyes vs. Procházka           |
+| UFC on ESPN 23: Prelims  | 05.01.2021 |                               |
+| ONE on TNT 4             | 04.28.2021 | Nsang vs. Ridder              |
+| UFC 261                  | 04.24.2021 | Usman vs. Masvidal II         |
+| UFC 261: Early Prelims   | 04.24.2021 |                               |
+| ONE on TNT 3             | 04.21.2021 | Lineker vs. Loman             |
+| UFC on ESPN 22           | 04.17.2021 | Whittaker vs. Gastelum        |
+| ONE on TNT 2             | 04.14.2021 | Lee vs. Nastyukhin            |
+| UFC on ABC 2             | 04.10.2021 | Vettori vs. Holland           |
+| ONE on TNT               | 04.07.2021 | Rodtang vs. Williams          |
+| UFC 260                  | 03.27.2021 | Miocic vs. Ngannou II         |
+| UFC 260: Prelims         | 03.27.2021 |                               |
+| UFC 260: Early Prelims   | 03.27.2021 |                               |
+| UFC on ESPN 21           | 03.20.2021 | Brunson vs. Holland           |
+| UFC on ESPN 21: Prelims  | 03.20.2021 |                               |
+| UFC Fight Night 187      | 03.13.2021 | Edwards vs. Muhammad          |
+| UFC Fight Night 187: Pre | 03.13.2021 |                               |
+| UFC 259                  | 03.06.2021 | Blachowicz vs. Adesanya       |
+| UFC 259: Prelims         | 03.06.2021 |                               |
+| UFC 259: Early Prelims   | 03.06.2021 |                               |
+| UFC Fight Night 186      | 02.27.2021 | Rozenstruik vs. Gane          |
+| UFC Fight Night 185      | 02.20.2021 | Blaydes vs. Lewis             |
+| UFC 258                  | 02.13.2021 | Usman vs. Burns               |
+| UFC Fight Night 184      | 02.06.2021 | Overeem vs. Volkov            |
+| UFC 257                  | 01.24.2021 | Poirier vs. McGregor II       |
+| UFC on ESPN 20           | 01.20.2021 | Chiesa vs. Magny              |
+| UFC Fight Island 7       | 01.16.2021 | Holloway vs. Kattar           |
+| UFC Fight Night 183      | 12.19.2020 | Thompson vs. Neal             |
+| UFC 256                  | 12.12.2020 | Figueiredo vs. Moreno         |
+| UFC 256: Prelims         | 12.12.2020 |                               |
+| UFC 256: Early Prelims   | 12.12.2020 |                               |
+| UFC on ESPN 19           | 12.05.2020 | Hermansson vs. Vettori        |
+| UFC on ESPN 19: Prelims  | 12.05.2020 |                               |
+| UFC on ESPN 18           | 11.28.2020 | Smith vs. Clark               |
+| UFC on ESPN 18: Prelims  | 11.28.2020 |                               |
+| UFC 255                  | 11.21.2020 | Figueiredo vs. Perez          |
+| UFC 255: Prelims         | 11.21.2020 |                               |
+| UFC Fight Night 182      | 11.14.2020 | Felder vs. dos Anjos          |
+| UFC Fight Night 182: Pre | 11.14.2020 |                               |
+| UFC on ESPN 17           | 11.07.2020 | Santos vs. Teixeira           |
+| UFC Fight Night 181      | 10.31.2020 | Hall vs. Silva                |
+| UFC 254                  | 10.24.2020 | Khabib vs. Gaethje            |
+| UFC Fight Night 180      | 10.18.2020 | Ortega vs. Korean Zombie      |
+| UFC Fight Night 179      | 10.11.2020 | Moraes vs. Sandhagen          |
+| UFC on ESPN 16           | 10.04.2020 | Holm vs. Aldana               |
+| UFC 253                  | 09.27.2020 | Adesanya vs. Costa            |
+| UFC Fight Night 178      | 09.19.2020 | Covington vs. Woodley         |
+| UFC Fight Night 177      | 09.12.2020 | Waterson vs. Hill             |
+| UFC Fight Night 176      | 09.05.2020 | Overeem vs. Sakai             |
+| UFC Fight Night 175      | 08.29.2020 | Smith vs. Rakic               |
+| UFC on ESPN 15           | 08.22.2020 | Munhoz vs. Edgar              |
+| UFC 252                  | 08.15.2020 | Miocic vs. Cormier III        |
+| UFC Fight Island 1       | 07.16.2020 | Kattar vs. Ige                |
+| UFC 251                  | 07.12.2020 | Usman vs. Masvidal            |
+| UFC 251: Prelims         | 07.12.2020 |                               |
+| UFC 251: Early Prelims   | 07.12.2020 |                               |
+| UFC on ESPN 10           | 06.13.2020 | Eyes vs Calvillo              |
+| UFC on ESPN 10: Prelims  | 06.13.2020 |                               |
+| UFC 250                  | 06.06.2020 | Nunes vs. Spencer             |
+| UFC 250: Prelims         | 06.06.2020 |                               |
+| UFC 250: Early Prelims   | 06.06.2020 |                               |
+| UFC on ESPN 9            | 05.30.2020 | Wodley vs. Burns              |
+| UFC on ESPN 8            | 05.16.2020 | Overeem vs. Harris            |
+| UFC Fight Night 171      | 05.13.2020 | Smith vs. Teixeira            |
+| UFC 249                  | 05.09.2020 | Ferguson vs. Gaethje          |
+| UFC 248                  | 03.07.2020 | Adesanya vs. Romero           |
+| UFC 247                  | 02.08.2020 | Jones vs. Reyes               |
+| UFC 246                  | 01.18.2020 | McGregor vs. Cowboy           |
+| UFC 246: Prelims         | 01.18.2020 |                               |
+| UFC 245                  | 12.14.2019 | Usman vs. Covington           |
+| UFC on ESPN 7            | 12.07.2019 | Overeem vs. Rozenstruik       |
+| UFC 244                  | 11.02.2019 | Masvidal vs. Diaz             |
+| UFC 243                  | 10.05.2019 | Whittaker vs. Adesaynya       |
+| UFC Fight Night 158      | 09.14.2019 | Cowboy vs. Gaethje            |
+| UFC 242                  | 09.07.2019 | Khabib vs. Poirier            |
+| UFC Fight Night 157      | 08.31.2019 | Andrade vs. Zhang             |
+| UFC 241                  | 08.17.2019 | Cormier vs. Miocic II         |
+| UFC 240                  | 07.27.2019 | Holloway vs. Edgar            |
+| UFC 239                  | 07.06.2019 | Jones vs. Santos              |
+| UFC 239: Prelims         | 07.06.2019 | Perez vs. Song Yadong         |
+| UFC 238                  | 06.08.2019 | Cejudo vs. Moraes             |
+| UFC Fight Night 153      | 06.01.2019 | Gustafsson vs. Smith          |
+| UFC Fight Night 152      | 05.18.2019 | dos Anjos vs. Lee             |
+| UFC 237                  | 05.11.2019 | Namajunas vs. Andrade         |
+| UFC 236                  | 04.13.2019 | Holloway vs. Poirier II       |
+| UFC 235                  | 03.02.2019 | Jones vs. Smith               |
+| UFC 235: Prelims         | 03.02.2019 |                               |
+| UFC 234                  | 02.10.2019 | Adesanya vs. Silva            |
+| UFC 233: Canceled        | 01.26.2019 | Cejudo vs. Dillasha           |
+| UFC 232                  | 12.29.2018 | Jones vs. Gustafsson II       |
+| UFC 231                  | 12.08.2018 | Holloway vs. Ortega           |
+| UFC 229                  | 08.06.2018 | Khabib vs. McGregor           |
+| UFC 226                  | 07.07.2018 | Miocic vs. Cormier            |
+| UFC 203                  | 09.10.2016 | Miocic vs. Overeem            |
+| UFC 202                  | 08.20.2016 | Diaz vs. McGregor II          |
+| UFC 201                  | 07.30.2016 | Lawler vs. Woodley            |
+| UFC 200                  | 07.09.2016 | Tate vs. Nunes                |
+| UFC 196                  | 03.05.2016 | McGregor vs. Diaz             |
+| UFC 194                  | 12.12.2015 | Aldo vs. McGregor             |
+| UFC 193                  | 11.14.2015 | Rousey vs. Holm               |
+| UFC 184                  | 02.28.2015 | Rousey vs. Zingano            |
+| UFC 167                  | 11.16.2013 | St-Pierre vs. Hendricks       |
+| UFC 165                  | 09.21.2013 | Jones vs. Gustafsson          |
+| UFC 10                   | 07.12.1996 | The Tournament                |
+| UFC 9                    | 05.17.1996 | Shamrock vs. Severn bore!     |
+| UFC 8                    | 04.16.1996 | David vs. Goliath             |
+| UFC                      | 12.16.1995 | The Ultimate Ultimate         |
+| UFC 7                    | 09.08.1995 | The Brawl in Buffalo          |
+| UFC 6                    | 07.14.1995 | Clash of the Titans           |
+| UFC 5                    | 04.07.1995 | The Return of the Beast       |
+| Pancrase                 | 12.17.1994 | King of Pancrase: Second      |
+| Pancrase                 | 12.16.1994 | King of Pancrase: Opening     |
+| UFC 4                    | 12.16.1994 | Revenge of the Warriors       |
+| Pancrase                 | 10.15.1994 | Road to the Championship 5    |
+| UFC 3                    | 09.09.1994 | The American Dream            |
+| Pancrase                 | 09.01.1994 | Road to the Championship 4    |
+| Pancrase                 | 07.26.1994 | Road to the Championship 3    |
+| Pancrase                 | 07.06.1994 | Road to the Championship 2    |
+| Pancrase                 | 05.31.1994 | Road to the Championship 1    |
+| Pancrase                 | 04.21.1994 | Pancrash! 3                   |
+| Pancrase                 | 03.12.1994 | Pancrash! 2                   |
+| UFC 2                    | 03.11.1994 | No Way Out                    |
+| Pancrase                 | 01.19.1994 | Pancrash! 1                   |
+| Pancrase                 | 12.08.1993 | Yes,We Are Hybrid Wrestlers 4 |
+| UFC 1                    | 11.12.1993 | The Beginning                 |
+| Pancrase                 | 11.08.1993 | Yes,We Are Hybrid Wrestlers 3 |
+| Pancrase                 | 10.14.1993 | Yes,We Are Hybrid Wrestlers 2 |
+| Pancrase                 | 09.21.1993 | Yes,We Are Hybrid Wrestlers 1 |
+|--------------------------+------------+-------------------------------|
 
 ** <<Individual Fights>>
 #+NAME:mmaFights
