@@ -7,6 +7,8 @@ event_bool = True
 # event_bool = False
 event = 'UFC 313'
 ffighter = 'Jalin Turner' # vs Bobby Green
+
+# UPDATE THE UFC FIGHT PASS INVITATIONAL
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
 # Tony Ferguson vs.
 # | Michael Chiesa   | UFC on ABC: Sandhagen vs. Nurmagomedov | 08.03.2024 |
@@ -56,7 +58,7 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # |--------------------------------------+------------+-----|
 # |  vs.  | 05.05.2025 | [ ] |
 # | Deontay Wilder vs. Shannon Briggs    | 07.01.2025 | [ ] |
-# | Naoya Inoue vs. Ramon Cardenas       | 05.04.2025 | [ ] | [E]
+# | Naoya Inoue vs. Ramon Cardenas       | 05.04.2025 | [X] |
 # | Alvarez vs. William Scull            | 05.03.2025 | [ ] | [D]
 # | Ryan Garcia vs. Rolando Romero card  | 05.02.2025 | [ ] |
 # | Ben Whittaker vs. Liam Cameron       | 04.20.2025 | [ ] | [SKY]
@@ -818,12 +820,28 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        WEC         : 06.30.2001  WEC 1: Prince of Pain
 #        ADCC        :   .  .1998
 #        Pride       : 10.11.1997  Pride 1
-#        UFC         : 09.20.1996  UFC 11
-#        K-1         : 1995 Five Events
-#        Pancrase    : 1995 Eyes of Beast 1-7 & Neo-Blood Tournament
+#        UFC         : 09.20.1996  UFC 11 + 1 more
+#        K-1         : 1996 Six Events
+#        Pancrase    : 1996 Truth 1-10 & Neo-Blood Tournament & Anniversary
 #                ----- 1995  -----
-#        Pancrase    : 12.1[6-7].1994 King of Pancrase
-#    *   K-1         : 12.10.1994  Legend
+#        Pancrase    : 12.14.1995 Eyes of Beast 7
+#        K-1         : 12.09.1995 Hercules
+#        Pancrase    : 11.04.1995 Eyes of Beast 6
+#        K-1         : 09.03.1995 Revenge II
+#        Pancrase    : 09.01.1995 Anniversary Show
+#        Pancrase    : 07.23.1995 Neo-Blood Tournament
+#        Pancrase    : 07.22.1995 Neo-Blood Tournament
+#        Pancrase    : 07.13.1995 Eyes of Beast 5
+#        K-1         : 06.10.1995 Fight Night
+#        K-1         : 05.04.1995 Grand Prix '95
+#        Pancrase    : 05.13.1995 Eyes of Beast 4
+#        Pancrase    : 04.08.1995 Eyes of Beast 3
+#        Pancrase    : 03.10.1995 Eyes of Beast 2
+#        K-1         : 03.03.1995 Grand Prix '95 Opening Battle
+#        Pancrase    : 01.26.1995 Eyes of Beast 1
+#                ----- 1995  -----
+#    *   Pancrase    : 12.1[6-7].1994 King of Pancrase
+#
 #
 # ----------------------------------------------------------------------
 #                         fedor emelianenko
