@@ -53,6 +53,9 @@ def getRecord(soup, record_type, debug=False):
         return None
 
     headers = [header.get_text(strip=True) for header in table.find_all('th')]
+    legal_headers = ['Res.', 'Result', 'Record', 'Opponent', 'Method',
+                     'Event', 'Date', 'Round', 'Time', 'Location', 'Notes']
+    headers = [header for header in headers if header in legal_headers]
 
     rows = []
     for row in table.find_all('tr')[1:]:  # Skip the header row
@@ -62,7 +65,16 @@ def getRecord(soup, record_type, debug=False):
 
     record = pd.DataFrame(rows, columns=headers)
     record = record[columns]
-    record.loc[:,'Date'] = pd.to_datetime(record['Date'], format='mixed').dt.strftime('%m.%d.%Y')
+    record.loc[:,'Date'] = pd.to_datetime(record['Date'], errors='coerce').dt.strftime('%m.%d.%Y')
+    record = record[~((record['Opponent'].isna()) &
+                      (record['Event'].isna()) &
+                      (record['Date'].isna()))]
+
+    # fix for when dates or names are over several columns
+    for i, row in record.iterrows():
+        if row['Event'] == '1' and pd.isna(row['Date']):
+            row['Event'] = record.loc[i-1, 'Event']
+            row['Date'] = record.loc[i-1, 'Date']
     return record
 
 class Fighter:
