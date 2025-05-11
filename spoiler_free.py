@@ -5,7 +5,7 @@ import fightEvent as fe
 debug = False
 event_bool = True
 # event_bool = False
-event = 'UFC 313'
+event = 'UFC 315'
 ffighter = 'Jalin Turner' # vs Bobby Green
 
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
