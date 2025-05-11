@@ -16,6 +16,12 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # Calzaghe, and then Naseem Hamed
 #
 # Four Kings (USA Showtime, UK Amazon)
+#
+# tommy laackryne advanced striking 2.0
+# primo carnerto history episode
+# wiedman vs machito II
+# Wangchannoi Sor.Palangchai, one of the best Muay Thai fighters, -
+#  - cross punch savant
 
 # benny leanord used to do the drop shift
 #  - jab but pull your lead foot back to half way

@@ -966,27 +966,28 @@ Hilarious heavyweight match, Martiis running around huge-slow Lungu
 
 * Grappling
 #+RESULTS: grappling-report
-: I have seen 13 grappling events and 1 matches
+: I have seen 14 grappling events and 1 matches
 
 ** Events
 #+NAME:grapplingEvents
-|-------------------------+------------+---------|
-| *Event*                 |     *Date* | *Notes* |
-|-------------------------+------------+---------|
-| QUINTET 4               | 09.10.2023 |         |
-| ADCC World Championship | 09.18.2022 |         |
-| QUINTET Fight Night 7   | 07.13.2021 |         |
-| QUINTET Fight Night 6   | 03.21.2021 |         |
-| QUINTET Fight Night 5   | 10.27.2020 |         |
-| QUINTET Ultra           | 12.12.2019 |         |
-| QUINTET Fight Night 4   | 11.30.2019 |         |
-| QUINTET Fight Night 3   | 04.07.2019 |         |
-| QUINTET Fight Night 2   | 02.03.2019 |         |
-| QUINTET 3               | 10.05.2018 |         |
-| QUINTET 2               | 07.16.2018 |         |
-| QUINTET Fight Night 1   | 06.09.2018 |         |
-| QUINTET 1               | 04.11.2018 |         |
-|-------------------------+------------+---------|
+|--------------------------+------------+---------|
+| *Event*                  |     *Date* | *Notes* |
+|--------------------------+------------+---------|
+| Craig Jones Invitational | 08.16.2024 |         |
+| QUINTET 4                | 09.10.2023 |         |
+| ADCC World Championship  | 09.18.2022 |         |
+| QUINTET Fight Night 7    | 07.13.2021 |         |
+| QUINTET Fight Night 6    | 03.21.2021 |         |
+| QUINTET Fight Night 5    | 10.27.2020 |         |
+| QUINTET Ultra            | 12.12.2019 |         |
+| QUINTET Fight Night 4    | 11.30.2019 |         |
+| QUINTET Fight Night 3    | 04.07.2019 |         |
+| QUINTET Fight Night 2    | 02.03.2019 |         |
+| QUINTET 3                | 10.05.2018 |         |
+| QUINTET 2                | 07.16.2018 |         |
+| QUINTET Fight Night 1    | 06.09.2018 |         |
+| QUINTET 1                | 04.11.2018 |         |
+|--------------------------+------------+---------|
 ** Matches
 #+NAME:grapplingMatches
 |----------------------------+------------+-----------|
