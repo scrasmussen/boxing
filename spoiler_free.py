@@ -836,8 +836,7 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        Pancrase    : 05.13.1995 Eyes of Beast 4
 #        Pancrase    : 04.08.1995 Eyes of Beast 3
 #        Pancrase    : 03.10.1995 Eyes of Beast 2
-#        K-1         : 03.03.1995 Grand Prix '95 Opening Battle
-#    *   Pancrase    : 01.26.1995 Eyes of Beast 1
+#    *   K-1         : 03.03.1995 Grand Prix '95 Opening Battle
 #
 #
 # ----------------------------------------------------------------------
