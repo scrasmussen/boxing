@@ -121,7 +121,7 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | Natasha Jonas vs. Lauren Price       | 03.07.2025 | [ ] |
 # | Subriel Matias vs. Gabriel Valenzuela| 03.01.2025 | [ ] | [D]
 # | Lauren Price vs. Natash Jonas        | 03.01.2025 | [ ] | [SKY]
-# | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
+# | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [X] |
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [X] | [D] Belfast
 # | Eduardo Hernandez vs. Rene Giron     | 02.28.2025 | [ ] | [D]
 # | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [X] |

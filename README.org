@@ -72,13 +72,14 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 467 boxing matches
+: I have seen 468 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Naoya Inoue vs. Ramon Cardenas    | 05.04.2025 | *Undisputed super bantam*  |
+| Gervonta Davis vs. Lamont Roach   | 03.01.2025 | WBA light                  |
 | Junto Nakatani vs. D. Cuellar     | 02.24.2025 | David WBC bantam           |
 | Artur Beterbiev vs. Dmitry Bivol  | 02.22.2025 | *Undisputed light heavy*   |
 | Joseph Parker vs. Martin Bakole   | 02.22.2025 |                            |
