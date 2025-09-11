@@ -56,11 +56,54 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | 2025 |
 # --------
 # |--------------------------------------+------------+-----|
-# |  vs.  | 05.05.2025 | [ ] |
-# | Deontay Wilder vs. Shannon Briggs    | 07.01.2025 | [ ] |
-# | Naoya Inoue vs. Ramon Cardenas       | 05.04.2025 | [X] |
+# | Sol Cudos vs. Kim Clavel             | 09.27.2025 | [ ] | [D]
+# | Tiara Brown vs. Emma Gongora         | 09.20.2025 | [ ] | [D]
+# | Oscar Collazo vs. Jayson Vayson      | 09.20.2025 | [ ] | [D]
+# | Oscar Collazo vs. Jayson Vayson      | 09.20.2025 | [ ] | [D]
+# | Liam Paro vs. David Papot            | 09.18.2025 | [ ] | [D]
+# | Naoya Inoue vs. Murodjon Akhmadaliev | 09.14.2025 | [ ] | [D]
+# | Lewis Crocker vs. Paddy Donovan II   | 09.13.2025 | [ ] | [N]
+# | Canelo Álvarez vs. Terence Crawford  | 09.13.2025 | [ ] | [N]
+# | Christian Mbilli vs. Lester Martinez | 09.13.2025 | [ ] | [N]
+# | Callum Walsh vs. Fernando Vargas Jr. | 09.13.2025 | [ ] | [N]
+# | Serhii Bohachuk vs. Brandon Adams II | 09.13.2025 | [ ] | [N]
+# | Anthony Olascuaga vs. Juan Camacho   | 09.11.2025 | [ ] | [D]
+# | Yankiel Rivera vs. Angelino Cordova  | 08.23.2025 | [ ] | [D]
+# | Jack Rafferty vs. Mark Chamberlain   | 08.23.2025 | [ ] | [D]
+# | Moses Itauma vs. Dillian Whyte       | 08.16.2025 | [ ] | [D]
+# | Regis Prograis vs. Joseph Diaz Jr.   | 08.02.2025 | [ ] | [D]
+# | Oscar Duarte vs. Kenneth Sims Jr.    | 08.02.2025 | [ ] | [D]
+# | Xander Zayas vs. Jorge Garcia        | 07.26.2025 | [ ] | [E]
+# | Claressa Shields vs. Lani Daniels    | 07.26.2025 | [ ] | [D]
+# | Manny Pacquiao vs. Mario Barrios     | 07.19.2025 | [ ] | [A]
+# | Jesse Rodriguez vs. Phumelele Cafu   | 07.19.2025 | [ ] | [D]
+# | Oleksandr Usyk vs. Daniel Dubois 2   | 07.19.2025 | [ ] | [D]
+# | Hamzah Sheeraz vs. Edgar Berlanga    | 07.12.2025 | [ ] | [D]
+# | Shakur Stevenson vs. William Zepeda  | 07.12.2025 | [ ] | [D]
+# | Katie Taylor vs. Amanda Serrano 3    | 07.03.2025 | [ ] | [N]
+# | Shakan Pitters vs. Bradley Rea       | 06.28.2025 | [ ] | [D]
+# | Gilberto Ramirez vs. Yuniel Dorticos | 06.28.2025 | [ ] | [D]
+# | Deontay Wilder vs. Tyrrell Herndon   | 06.27.2025 | [ ] | [D]
+# | Galal Yafai vs. F. Rodriguez Jr      | 06.21.2025 | [ ] | [D]
+# | R. Hitchins vs. George Kambosos Jr   | 06.14.2025 | [ ] | [D]
+# | Jai Opetaia vs. Claudio Squeo        | 06.08.2025 | [ ] | [D]
+# | Abdullah Mason vs. Jeremia Nakathila | 06.07.2025 | [ ] | [E]
+# | Beatriz Ferreira vs. Maria Ferreyra  | 06.07.2025 | [ ] | [D]
+# | Fabio Wardley vs. Justis Huni        | 06.07.2025 | [ ] | [D]
+# | Caleb Plant vs. Armando Resendiz     | 05.31.2025 | [ ] | [A]
+# | Jermall Charlo vs. Thomas LaManna    | 05.31.2025 | [ ] | [A]
+# | Josh Taylor vs. Ekow Essuman         | 05.24.2025 | [ ] | [D]
+# | Johnny Fisher vs. Dave Allen II      | 05.17.2025 | [ ] |
+# | Anthony Cacace vs. Leight Wood       | 05.10.2025 | [ ] | [D]
+# | Owen Cooper vs. Chris Kongo          | 05.10.2025 | [ ] | [D]
+# | Naoya Inoue vs. Ramon Cardenas       | 05.04.2025 | [X] | [E]
 # | Alvarez vs. William Scull            | 05.03.2025 | [ ] | [D]
-# | Ryan Garcia vs. Rolando Romero card  | 05.02.2025 | [ ] |
+# | Ryan Garcia vs. Rolando Romero card  | 05.02.2025 | [ ] | [D]
+# | Chris Eubank Jr. vs. Conor Benn      | 04.26.2025 | [ ] | [D]
+# | Chris Billam-Smith vs. B. Glanton    | 04.26.2025 | [ ] | [D]
+# | Viddal Riley vs. Cheavon Clarke      | 04.26.2025 | [ ] | [D]
+# | Liam Smith vs. Aron McKenna          | 04.26.2025 | [ ] | [D]
+# | Anthony Yarde vs. Lyndon Arthur III  | 04.26.2025 | [ ] | [D]
 # | Ben Whittaker vs. Liam Cameron       | 04.20.2025 | [ ] | [SKY]
 # | Gabriela Fundora vs. Marilyn Badillo | 04.19.2025 | [ ] | [D]
 # | Dalton Smith vs. Mathieu Germain     | 04.19.2025 | [ ] | [D]
@@ -68,14 +111,19 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | Joe Joyce vs. Filip Hrgović          | 04.05.2025 | [ ] |
 # | Torrez Jr. vs. Vianello              | 04.05.2025 | [ ] | [E]
 # | Delicious Orie vs.                   | 04.05.2025 | [ ] | [D]
+# | Tim Tszyu vs. Joey Spencer           | 04.05.2025 | [ ] | [A]
+# | William Zepeda vs. Tevin Farmer II   | 03.29.2025 | [ ] | [D]
 # | Mikaela Mayer vs. Sandy Ryan II      | 03.28.2025 | [ ] | [E]
 # | Fundora vs. Booker                   | 03.22.2025 | [ ] | [PBC]
 # | Callum Walsh vs. Dean Sutherland     | 03.16.2025 | [ ] | [UFC]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
 # | Kenshiro Teraji vs. Seigo Yuri Akui  | 03.13.2025 | [ ] | [E]
+# | Natasha Jonas vs. Lauren Price       | 03.07.2025 | [ ] |
+# | Subriel Matias vs. Gabriel Valenzuela| 03.01.2025 | [ ] | [D]
 # | Lauren Price vs. Natash Jonas        | 03.01.2025 | [ ] | [SKY]
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [ ] | [A]
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [X] | [D] Belfast
+# | Eduardo Hernandez vs. Rene Giron     | 02.28.2025 | [ ] | [D]
 # | Junto Nakatani vs. David Cuellar     | 02.24.2025 | [X] |
 # | Artur Beterbiev vs. Dmitry Bivol II  | 02.22.2025 | [X] |
 # | Denis Berinchyk vs. Keyshawn Davis   | 02.14.2025 | [X] |
@@ -1215,6 +1263,7 @@ fighter = 'Leigh Wood (boxer)' # 10.07.2023 Josh Warrington
 fighter = 'Teófimo López'                    #  11.27.2021 George Kambosos Jr.
 fighter = 'Michael Conlan (boxer)'           #
 fighter = 'Daniyar Yeleussinov'              #  09.13.2019 on DAZN vs Hicks
+fighter = 'Chris Billam-Smith'
 fighter = 'Richard Riakporhe'                #  07.20.2019 Billam-Smith
 fighter = 'Demetrius Andrade'                #  06.29.2019 Maciej Sulecki
 # Joshua vs Ruiz Jr.                         #  06.01.2019 DAZN, SFL
