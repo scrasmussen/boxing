@@ -72,14 +72,25 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 468 boxing matches
+: I have seen 479 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| C. Alvarez vs. Terence Crawford   | 09.13.2025 | Canelo *Undisputed s. mid* |
+| Callum Walsh vs. F. Vargas Jr     | 09.13.2025 | Fernando                   |
+| Christian M'billi vs. L. Martinez | 09.13.2025 | Lester, FOYC               |
+| Mohammed Alakel vs. T. Crawford   | 09.13.2025 | Travis                     |
+| Serhii Bohachuk vs. Brandon Adams | 09.13.2025 |                            |
+| Ivan Dychko vs. Jermaine Franklin | 09.13.2025 |                            |
+| Reito Tsutsumi vs. J. Martinez    | 09.13.2025 | Javier                     |
+| S. Almohammed vs. M. Caraballo    | 09.13.2025 | Sultan, Martin             |
+| Steven Nelson vs. Raiko Santana   | 09.13.2025 |                            |
 | Naoya Inoue vs. Ramon Cardenas    | 05.04.2025 | *Undisputed super bantam*  |
+| Lauren Price vs. Natasha Jonas    | 03.07.2025 | Welter unification         |
 | Gervonta Davis vs. Lamont Roach   | 03.01.2025 | WBA light                  |
+| Subriel Matias vs. G. Valenzuela  | 03.01.2025 | Gabriel                    |
 | Junto Nakatani vs. D. Cuellar     | 02.24.2025 | David WBC bantam           |
 | Artur Beterbiev vs. Dmitry Bivol  | 02.22.2025 | *Undisputed light heavy*   |
 | Joseph Parker vs. Martin Bakole   | 02.22.2025 |                            |
