@@ -603,12 +603,14 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 218 fight cards and 62 additional fights
+: I have seen 220 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
 | *Event*                  |     *Date* | *Notes*                       |
 |--------------------------+------------+-------------------------------|
+| UFC 319                  | 08.16.2025 | Plessis vs. Chimaev           |
+| UFC 318                  | 07.19.2025 | Holloway vs Poirier III       |
 | UFC 317                  | 06.28.2025 | Topuria vs. Oliveira          |
 | UFC 316                  | 06.07.2025 | Dvalishvili vs. O'Malley II   |
 | UFC 315                  | 05.10.2025 | Muhammed vs. Della Maddalena  |
