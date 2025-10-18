@@ -48,8 +48,10 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # read advanced striking 2.0 Alex Pereira
 # open stance 101 in boxing, check lead hand, step to space and throw rear hand
 #  for free
-# major sin: throw read hand while lead hand is being controlled
+# major sin: throw rear hand while lead hand is being controlled
 # *boxing instructional* Kenny Weldon's Boxing a Leftie
+#
+# Larry Holmes and Roberto Duran are Turki's favourite boxers
 
 
 # --------
@@ -79,6 +81,7 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | Jesse Rodriguez vs. Phumelele Cafu   | 07.19.2025 | [ ] | [D]
 # | Oleksandr Usyk vs. Daniel Dubois 2   | 07.19.2025 | [ ] | [D]
 # | Hamzah Sheeraz vs. Edgar Berlanga    | 07.12.2025 | [ ] | [D]
+# | Subriel Matias vs. Alberto Puello    | 07.12.2025 | [ ] |
 # | Shakur Stevenson vs. William Zepeda  | 07.12.2025 | [ ] | [D]
 # | Katie Taylor vs. Amanda Serrano 3    | 07.03.2025 | [ ] | [N]
 # | Shakan Pitters vs. Bradley Rea       | 06.28.2025 | [ ] | [D]
@@ -118,9 +121,8 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | Callum Walsh vs. Dean Sutherland     | 03.16.2025 | [ ] | [UFC]
 # | Nick Ball vs. TJ Doheny              | 03.15.2025 | [ ] | [TNT]
 # | Kenshiro Teraji vs. Seigo Yuri Akui  | 03.13.2025 | [ ] | [E]
-# | Natasha Jonas vs. Lauren Price       | 03.07.2025 | [ ] |
-# | Subriel Matias vs. Gabriel Valenzuela| 03.01.2025 | [ ] | [D]
-# | Lauren Price vs. Natash Jonas        | 03.01.2025 | [ ] | [SKY]
+# | Lauren Price vs. Natash Jonas        | 03.07.2025 | [X] |
+# | Subriel Matias vs. Gabriel Valenzuela| 03.01.2025 | [X] |
 # | Gervonta Davis vs. Lamont Roach      | 03.01.2025 | [X] |
 # | Paddy Donovan vs. Lewis Crocker      | 03.01.2025 | [X] | [D] Belfast
 # | Eduardo Hernandez vs. Rene Giron     | 02.28.2025 | [ ] | [D]
@@ -683,7 +685,7 @@ fighter = 'Paulie Malignaggi'
 #    - Masato Kobayashi
 #  - Semmy Schilt: perhaps the greatest kickboxing heaveyweight ever
 #    - 7 ft. 300+ pounds, awkward style
-#  - K-1 fell apart and fighters went to Glory
+#  - K-1 fell apart and fighters went to Glory, on DAZN!!
 #  - Cro Cop
 #  - Rico Verhoeven
 #  - Kickboxing heavyweight Greats:
