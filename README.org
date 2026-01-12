@@ -78,6 +78,7 @@ Note: -1 for the header and -1 for the canceled event
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
 | C. Alvarez vs. Terence Crawford   | 09.13.2025 | Canelo *Undisputed s. mid* |
 | Callum Walsh vs. F. Vargas Jr     | 09.13.2025 | Fernando                   |
 | Christian M'billi vs. L. Martinez | 09.13.2025 | Lester, FOYC               |
