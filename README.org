@@ -72,12 +72,14 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 480 boxing matches
+: I have seen 482 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Naoya Inoue vs. David Picasso     | 12.25.2025 | *Undisputed super bantam*  |
+| Junto Nakatani vs Sebastion Reyes | 12.25.2025 |                            |
 | Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
 | C. Alvarez vs. Terence Crawford   | 09.13.2025 | Canelo *Undisputed s. mid* |
 | Callum Walsh vs. F. Vargas Jr     | 09.13.2025 | Fernando                   |

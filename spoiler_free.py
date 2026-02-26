@@ -53,6 +53,19 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 #
 # Larry Holmes and Roberto Duran are Turki's favourite boxers
 
+# --------
+# | 2026 |
+# --------
+# |--------------------------------------+------------+-----|
+# | Shields vs. Crews-Dezurn             | 02.22.2026 | [ ] | [D]
+# | Barrios vs. Garcia                   | 02.21.2026 | [ ] | [D]
+# | Wood vs. Warrington II               | 02.22.2026 | [ ] | [D]
+# | Ball vs. Figueroa                    | 02.07.2026 | [ ] | [D]
+# | Teofimo vs. Stevenson                | 01.31.2026 | [ ] | [D]
+# | Serrano vs. Tellez                   | 01.03.2026 | [ ] | [D]
+# |--------------------------------------+------------+-----|
+
+
 
 # --------
 # | 2025 |
