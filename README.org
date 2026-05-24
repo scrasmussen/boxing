@@ -614,6 +614,7 @@ Sherrif jumps into the ring and stops the fight
 |--------------------------+------------+-------------------------------|
 | MVP MMA 1                | 05.16.2026 | Rousey vs. Carano             |
 | UFC 324                  | 01.24.2026 | Gaethje vs. Pimblett          |
+| UFC 322                  | 11.15.2025 | Della Maddalena vs. Makhachev |
 | UFC 321                  | 10.25.2025 | Aspinall vs. Game             |
 | UFC 320                  | 10.04.2025 | Ankalaev vs. Pereira II       |
 | UFC 319                  | 08.16.2025 | Plessis vs. Chimaev           |
