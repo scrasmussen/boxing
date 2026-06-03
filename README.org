@@ -3,10 +3,10 @@
 A collection of ideas and history.
 
 *History*
-- [[Boxing Matches]]
-- [[MMA Events]]
-- [[Kickboxing & Muay Thai]]
-- [[Grappling]]
+- [[https://github.com/scrasmussen/boxing#boxing-matches][Boxing Matches]]
+- [[https://github.com/scrasmussen/boxing#mma-events][MMA Events]]
+- [[https://github.com/scrasmussen/boxing#kickboxing--muay-thai][Kickboxing & Muay Thai]]
+- [[https://github.com/scrasmussen/boxing#grappling][Grappling]]
 
 ** Compute
 C-C C-v C-b
