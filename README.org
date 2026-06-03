@@ -2,6 +2,12 @@
 * Boxing and MMA
 A collection of ideas and history.
 
+*History*
+- [[Boxing Matches]]
+- [[MMA Events]]
+- [[Kickboxing & Muay Thai]]
+- [[Grappling]]
+
 ** Compute
 C-C C-v C-b
 *** Boxing Matches Seen
