@@ -15,3 +15,7 @@ card:
 m: floyd
 floyd:
 	$(lc) floyd_fights.py
+
+clean:
+	rm -f *~
+	find pages/ -type f ! -name '.gitkeep' -delete
