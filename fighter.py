@@ -2,9 +2,13 @@ from bs4 import BeautifulSoup
 from io import StringIO
 from tabulate import tabulate
 import pandas as pd
+from pathlib import Path
+from platform import system
 import requests
 import re
+import subprocess
 import sys
+import time
 
 def getUrl(fighter, debug=False):
     if (fighter == ''):
@@ -93,11 +97,42 @@ class Fighter:
             return name[:-3] + "(boxer)"
         return name
 
+    def obtain_file(self, url, url_file, system):
+        get_file = False
+        day_s = 24*60*60
+
+        # if file older than a day, redownload
+        if (not url_file.exists()):
+            get_file = True
+        elif (time.time()-url_file.stat().st_mtime > day_s):
+            get_file = True
+
+        if (get_file):
+            if (debug):
+                print(f'Downloading to ${url_file}')
+            if (system_os == 'Darwin'):
+                subprocess.run(["curl", "-L", url, "-o", url_file], check=True)
+            elif (system_os == 'Linux'):
+                subprocess.run(["wget -O", url_file, url], check=True)
+            else:
+                sys.exit(f'{system_os} is unsupport OS')
+
+
     def __init__(self, name, debug=False):
         name = self.replace_b_with_boxer(name)
         self.name = name.replace('_',' ').title()
-        req = requests.get(getUrl(name.replace(' ', '_'), debug)).text
-        soup = BeautifulSoup(req, 'lxml')
+
+        system_os = system()
+        url = getUrl(name.replace(' ', '_'), debug)
+        url_file = Path('pages/'+ url.rstrip("/").split("/")[-1])
+        if (debug):
+            print(system())
+            print(url)
+            print(url_file)
+
+        self.obtain_file(url, url_file, system)
+        with open(url_file, "r", encoding="utf-8") as f:
+            soup = BeautifulSoup(f, "html.parser")
 
         self.mma_record = getRecord(soup, 'mma', debug)
         self.boxing_record = getRecord(soup, 'boxing', debug)
