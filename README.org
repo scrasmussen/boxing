@@ -72,7 +72,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 484 boxing matches
+: I have seen 486 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -90,6 +90,8 @@ Note: -1 for the header and -1 for the canceled event
 | Reito Tsutsumi vs. J. Martinez    | 09.13.2025 | Javier                     |
 | S. Almohammed vs. M. Caraballo    | 09.13.2025 | Sultan, Martin             |
 | Steven Nelson vs. Raiko Santana   | 09.13.2025 |                            |
+| Oleksandr Usyk vs. D. Dubois II   | 07.19.2025 | Daniel *Undisputed Heavy*  |
+| Fabio Wardley vs. Justis Huni     | 06.07.2025 |                            |
 | Naoya Inoue vs. Ramon Cardenas    | 05.04.2025 | *Undisputed super bantam*  |
 | Martin Bakole vs. Efe Ajagba      | 05.03.2025 |                            |
 | Joseph Parker vs. Martin Bakole   | 04.05.2025 |                            |
