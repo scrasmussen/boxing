@@ -5,9 +5,45 @@ import fightEvent as fe
 debug = False
 event_bool = True
 event_bool = False
-event = 'UFC 315'
+event = 'UFC 11'
 ffighter = 'Jalin Turner' # vs Bobby Green
 
+# [ ] 12.02.2023 Ryan Garcia vs. Oscar Duarte
+# [ ] 05.02.2025 Ryan Garcia vs. Rolando Romero
+# [ ] 06.27.2025 Deontay Wilder vs. Tyrrell Anthony Herndon
+# [ ] 10.25.2025 Joseph Parker vs. Fabio Wardley
+# [ ] 12.12.2025 Kubrat Pulev vs. Murat Gassiev
+# [ ] 04.04.2026 Derek Chisora vs. Deontay Wilder
+# [ ] 02.21.2026 Ryan Garcia vs. Mario Barrios
+#
+# --- Future ---
+# 07.25.2026 Anthony Joshua vs. Kristian Prenga
+#
+# --- Muay Thai ---
+# | Date       | Fighter               | Opponent                |
+# | ---------- | --------------------- | ----------------------- |
+# | 05.15.2026 | Superlek Kiatmoo9     | Abdulla Dayakaev        |
+# | 04.29.2026 | Rodtang Jitmuangnon   | Takeru Segawa           |
+# | 03.20.2026 | Nong-O Hama           | Asadula Imangazaliev    |
+# | 12.19.2025 | Tawanchai PK Saenchai | Liu Mengyang            |
+# | 11.15.2025 | Superlek Kiatmoo9     | Yuki Yoza               |
+# | 11.15.2025 | Superbon              | Masaaki Noiri           |
+# | 05.02.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
+# | 03.23.2025 | Superlek Kiatmoo9     | Nabil Anane             |
+# | 03.23.2025 | Tawanchai PK Saenchai | Masaaki Noiri           |
+# | 03.23.2025 | Rodtang Jitmuangnon   | Takeru Segawa           |
+# | 02.07.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
+# | 01.24.2025 | Tawanchai PK Saenchai | Superbon                |
+# | 01.24.2025 | Superbon              | Tawanchai PK Saenchai   |
+# | 11.08.2024 | Rodtang Jitmuangnon   | Jacob Smith             |
+# | 09.27.2024 | Superbon              | Jo Nattawut             |
+# | 09.27.2024 | Nong-O Hama           | Kiamran Nabati          |
+# | 09.06.2024 | Superlek Kiatmoo9     | Jonathan Haggerty       |
+# | 06.08.2024 | Tawanchai PK Saenchai | Jo Nattawut             |
+# | 06.08.2024 | Rodtang Jitmuangnon   | Denis Purić             |
+# | 04.05.2024 | Superbon              | Marat Grigorian         |
+#
+#
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
 # Tony Ferguson vs.
