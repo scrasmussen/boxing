@@ -78,7 +78,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 486 boxing matches
+: I have seen 493 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -88,6 +88,8 @@ Note: -1 for the header and -1 for the canceled event
 | Naoya Inoue vs. David Picasso     | 12.25.2025 | *Undisputed super bantam*  |
 | Junto Nakatani vs Sebastion Reyes | 12.25.2025 |                            |
 | Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
+| Kubrat Pulev vs. Murat Gassiev    | 12.12.2025 |                            |
+| Joseph Parker vs. Fabio Wardley   | 10.25.2025 | FOYC                       |
 | C. Alvarez vs. Terence Crawford   | 09.13.2025 | Canelo *Undisputed s. mid* |
 | Callum Walsh vs. F. Vargas Jr     | 09.13.2025 | Fernando                   |
 | Christian M'billi vs. L. Martinez | 09.13.2025 | Lester, FOYC               |
@@ -99,9 +101,11 @@ Note: -1 for the header and -1 for the canceled event
 | Steven Nelson vs. Raiko Santana   | 09.13.2025 |                            |
 | Moses Itauma vs. Dillian Whyte    | 08.16.2025 |                            |
 | Oleksandr Usyk vs. D. Dubois II   | 07.19.2025 | Daniel *Undisputed Heavy*  |
+| Deontay Wilder vs. T. Herndon     | 06.27.2025 | Tyrrell                    |
 | Fabio Wardley vs. Justis Huni     | 06.07.2025 |                            |
 | Naoya Inoue vs. Ramon Cardenas    | 05.04.2025 | *Undisputed super bantam*  |
 | Martin Bakole vs. Efe Ajagba      | 05.03.2025 |                            |
+| Ryan Garcia vs. Rolando Romero    | 05.02.2025 |                            |
 | Joseph Parker vs. Martin Bakole   | 04.05.2025 |                            |
 | Lauren Price vs. Natasha Jonas    | 03.07.2025 | Welter unification         |
 | Gervonta Davis vs. Lamont Roach   | 03.01.2025 | WBA light                  |
@@ -171,6 +175,7 @@ Note: -1 for the header and -1 for the canceled event
 | Sunny Edwards vs. Jesse Rodriguez | 12.16.2023 | FOYC WBO IBF fly           |
 | Devil Haney vs. Regis Prograis    | 12.09.2023 | WBC junior welter          |
 | Robeisy Ramirez vs. R. Espinoza   | 12.09.2023 | Rafael, WBO junior light   |
+| Ryan Garcia vs. Oscar Duarte      | 12.02.2023 |                            |
 | Eduardo Hernandez vs. O. Foster   | 10.28.2023 | O'Shaquie, FOYC            |
 | Leigh Wood vs. Josh Warrington    | 10.07.2023 | WBA feather, FOYC          |
 | Caroline Dubois vs. M. Rodriguez  | 09.30.2023 | Magali, IBO light          |
@@ -975,7 +980,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 4 kickboxing events and 12 matches
+: I have seen 4 kickboxing events and 13 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -992,6 +997,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------------------+------------+------------------------------|
 | *Fighters*                     |     *Date* | *[[Notes][Notes]]*                      |
 |--------------------------------+------------+------------------------------|
+| Superbon vs. Marat Grigorian   | 04.05.2024 | ONE Friday Fights 58         |
 | Akram Hamidi vs. Jamhod        | 06.23.2023 | ONE Lumpinee 22              |
 | Thongpoon vs. Yangdam          | 06.23.2023 | ONE Lumpinee 22              |
 | Yuki Yoza vs. Taio Asahisa     | 03.12.2023 | K-1 World GP 2023            |
