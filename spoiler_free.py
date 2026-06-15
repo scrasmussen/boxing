@@ -8,11 +8,6 @@ event_bool = False
 event = 'UFC 11'
 ffighter = 'Jalin Turner' # vs Bobby Green
 
-# [ ] 12.02.2023 Ryan Garcia vs. Oscar Duarte
-# [ ] 05.02.2025 Ryan Garcia vs. Rolando Romero
-# [ ] 06.27.2025 Deontay Wilder vs. Tyrrell Anthony Herndon
-# [ ] 10.25.2025 Joseph Parker vs. Fabio Wardley
-# [ ] 12.12.2025 Kubrat Pulev vs. Murat Gassiev
 # [ ] 04.04.2026 Derek Chisora vs. Deontay Wilder
 # [ ] 02.21.2026 Ryan Garcia vs. Mario Barrios
 #
@@ -41,7 +36,6 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | 09.06.2024 | Superlek Kiatmoo9     | Jonathan Haggerty       |
 # | 06.08.2024 | Tawanchai PK Saenchai | Jo Nattawut             |
 # | 06.08.2024 | Rodtang Jitmuangnon   | Denis Purić             |
-# | 04.05.2024 | Superbon              | Marat Grigorian         |
 #
 #
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
@@ -187,21 +181,6 @@ ffighter = 'Jalin Turner' # vs Bobby Green
 # | Dalton Smith vs Walid Ouizza         | 01.25.2025 | [X] |
 # |--------------------------------------+------------+-----|
 
-
-# ------------
-# | MMA 2025 |
-# ------------
-# |---------+------------+-----|
-# | UFC 315 | 05.10.2025 | [ ] |
-# |---------+------------+-----|
-
-# ------------
-# | MMA 1996 |
-# ------------
-# |----------------------+------------+-----|
-# | Ultimate Ultimate II | 12.07.1996 | [ ] |
-# | UFC 11               | 09.20.1996 | [ ] |
-# |----------------------+------------+-----|
 
 
 # --------
