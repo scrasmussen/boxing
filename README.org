@@ -835,6 +835,9 @@ Sherrif jumps into the ring and stops the fight
 | UFC 184                  | 02.28.2015 | Rousey vs. Zingano            |
 | UFC 167                  | 11.16.2013 | St-Pierre vs. Hendricks       |
 | UFC 165                  | 09.21.2013 | Jones vs. Gustafsson          |
+| UFC 14                   | 07.27.1997 | Coleman exhaustion            |
+| UFC 13                   | 05.30.1997 | Looking modern                |
+| UFC 12                   | 02.07.1997 | Starting to look modern       |
 | UFC 11.5                 | 12.07.1996 | The Ultimate Ultimate II      |
 | UFC 11                   | 09.20.1996 | The Proving Ground            |
 | UFC 10                   | 07.12.1996 | The Tournament                |
