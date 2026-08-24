@@ -78,13 +78,15 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 493 boxing matches
+: I have seen 495 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
-| Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy                  |
+| Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
+| Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy, FOYC            |
+| Deontay Wilder vs. Derek Chisora  | 04.04.2026 | FOYC                       |
 | Naoya Inoue vs. David Picasso     | 12.25.2025 | *Undisputed super bantam*  |
 | Junto Nakatani vs Sebastion Reyes | 12.25.2025 |                            |
 | Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
@@ -623,7 +625,7 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 233 fight cards and 62 additional fights
+: I have seen 236 fight cards and 62 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
@@ -986,7 +988,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 4 kickboxing events and 13 matches
+: I have seen 4 kickboxing events and 17 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -1009,6 +1011,10 @@ look for Roy Nelson's uppercut to counter the dipping jab
 | Yuki Yoza vs. Taio Asahisa     | 03.12.2023 | K-1 World GP 2023            |
 | Badr Hari vs. Alistair Overeem | 10.08.2022 | Glory: Collision 4           |
 | Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| Badr Hari vs. Rico Verhoeven   | 12.21.2019 | Glory: Collision II          |
+| Badr Hari vs. Rico Verhoeven   | 12.10.2016 | Glory: Collision             |
+| Rico Verhoeven vs. S. Schilt   | 12.31.2012 | Glory 4: Tokyo, Semmy        |
+| R. Verhoeven vs. E. Zimmerman  | 01.28.2012 | Leeuwarden, Rico, Errol      |
 | Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
 | Ernesto Hoost vs. M. Satake    | 03.04.1994 | Masaaki, K-1 Challenge       |
 | E. Hoost vs C. Kiatsongrit     | 12.19.1993 | Ernesto, Changpuek           |
