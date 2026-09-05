@@ -630,12 +630,15 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 238 fight cards and 66 additional fights
+: I have seen 244 fight cards and 69 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
 | *Event*                  |     *Date* | *Notes*                       |
 |--------------------------+------------+-------------------------------|
+| UFC Fight Night 287      | 09.05.2026 | Hooker vs. Parnasse           |
+| UFC 330                  | 08.15.2026 | Makhachev vs. Machado Gary    |
+| UFC 329                  | 07.11.2026 | McGregor vs. Holloway II      |
 | UFC Freedom 250          | 06.14.2026 | Topuria vs. Gaethje           |
 | MVP MMA 1                | 05.16.2026 | Rousey vs. Carano             |
 | UFC 328                  | 05.09.2026 | Chimaev vs. Strickland        |
@@ -853,6 +856,8 @@ Sherrif jumps into the ring and stops the fight
 | UFC 7.5                  | 12.16.1995 | The Ultimate Ultimate         |
 | UFC 7                    | 09.08.1995 | The Brawl in Buffalo          |
 | UFC 6                    | 07.14.1995 | Clash of the Titans           |
+| Pancrase                 | 07.22.1995 | Neo-Blood Tournament: Opening |
+| Pancrase                 | 07.13.1995 | Eyes of Beast 5               |
 | Pancrase                 | 05.13.1995 | Eyes of Beast 4 [[05.13.1995][ff.]]           |
 | Pancrase                 | 04.08.1995 | Eyes of Beast 3               |
 | UFC 5                    | 04.07.1995 | The Return of the Beast       |
@@ -883,6 +888,7 @@ Sherrif jumps into the ring and stops the fight
 |--------------------------------------+------------+-------------------------|
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
+| Umar Nurmagomedov vs. Song Yadong    | 08.29.2026 | UFC Fight Night 286     |
 | Loma Lookboonmee vs. Istela Nunes    | 04.05.2025 | UFS on ESPN 65          |
 | Francis Ngannou vs. Renan Ferreira   | 10.18.2024 | PFL Super Fights        |
 | Savannah Marshall vs. Mirela Vargas  | 06.08.2024 | PFL Europe 2            |
@@ -901,6 +907,7 @@ Sherrif jumps into the ring and stops the fight
 | Stephanie Egger vs. Jess-Rose Clark  | 02.19.2022 | UFC Fight Night 201     |
 | D.S. de Andrade vs. Sergey Morzov    | 02.12.2022 | UFC 271: Early Prelims  |
 | Isaiah Gutierrez vs. Keeton Gorton   | 01.14.2022 | LFA 121                 |
+| Salahdine Parnasse vs. Daniel Torres | 12.18.2021 | KSW 65                  |
 | Claressa Shields vs. Abigail Montes  | 10.27.2021 | PFL 10                  |
 | Fedor Emelianenko vs. T. Johnson     | 10.23.2021 | Bellator 269            |
 | Claressa Shields vs. Brittney Elkin  | 06.10.2021 | PFL 4                   |
@@ -909,6 +916,7 @@ Sherrif jumps into the ring and stops the fight
 | Juan Espino vs. Alexander Romanov    | 04.17.2021 | UFC on ESPN 22          |
 | Anthony Pettis vs. Clay Collard      | 04.23.2021 | PFL 1                   |
 | Pitbull Freire vs. Emmanuel Sanchez  | 04.02.2021 | Bellator 255            |
+| Salahdine Parnasse vs. Daniel Torres | 01.30.2021 | KSW 58                  |
 | Pitbull Freire vs. Pedro Carvalho    | 11.12.2020 | Bellator 252            |
 | Loma Lookboonmee vs. Jinh Yu Frey    | 10.04.2020 | UFC Fight Island 4      |
 | Diego Sanchez vs. Jake Matthews      | 09.27.2020 | UFC 253: Prelims        |
@@ -985,7 +993,7 @@ Fastest Heavyweight K.O.
 
 **** Goodridge cross knockout <<04.16.1996>>
 **** Ken Shamrock vs. Bas Rutten   <<03.10.1995>>
-Eyes of the Beast 2
+Eyes of Beast 2
 Very cool spin to get into kneebar
 
 
@@ -1000,13 +1008,14 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 5 kickboxing events and 19 matches
+: I have seen 6 kickboxing events and 19 matches
 
 ** Events
 #+NAME:kickboxingEvents
 |--------------------+------------+-----------------------|
 | *Event*            |     *Date* | *Notes*               |
 |--------------------+------------+-----------------------|
+| K-1 Fight Night    | 06.10.1995 |                       |
 | K-1 Grand Prix '95 | 05.04.1995 |                       |
 | K-1 Legend         | 12.10.1994 |                       |
 | K-1 Revenge        | 09.18.1994 |                       |
@@ -1702,7 +1711,7 @@ Emanuel Steward
 Boxing Training
 *** add somewhere: Ken Shamrock vs. Bas Rutten cool spin
 03.10.1995
-Eyes of the Beast 2
+Eyes of Beast 2
 Very cool spin to get into kneebar
 ** Coaches
 Barry Robinson (boxer)
