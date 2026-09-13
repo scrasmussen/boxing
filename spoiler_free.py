@@ -8,35 +8,94 @@ event_bool = False
 event = 'UFC 11'
 ffighter = 'Jalin Turner' # vs Bobby Green
 
-# [ ] 04.04.2026 Derek Chisora vs. Deontay Wilder
-# [ ] 02.21.2026 Ryan Garcia vs. Mario Barrios
-#
+# | [ ] | Jaron Ennis vs. Xander Zayas         | 06.27.2026 | DAZN PPV   |
+# | [ ] | Naoya Inoue vs. Junto Nakatani       | 05.02.2026 | DAZN PPV   |
+# | [ ] | Daniel Dubois vs. Fabio Wardley      | 05.09.2026 | DAZN PPV   |
+# | [ ] | David Benavidez vs. Gilberto Ramirez | 05.02.2026 | A/DAZN     |
+# | [ ] | Moses Itauma vs. Jermaine Franklin   | 03.28.2026 | DAZN       |
+# | [ ] | Najee Lopez vs. Manuel Gallegos      | 03.13.2026 | Prime      |
+# | [ ] | Jai Opetaia vs. Brandon Glanton      | 03.08.2026 | Paramount+ |
+# | [ ] | Emanuel Navarrete vs. Eduardo Nunez  | 02.28.2026 | DAZN       |
+# | [ ] | Ryan Garcia vs. Mario Barrios        | 02.21.2026 | DAZN       |
+# | [ ] | Brandon Figueroa vs. Nick Ball       | 02.07.2026 | DAZN       |
+# | [ ] | Josh Kelly vs. Bakhram Murtazaliev   | 01.31.2026 | DAZN       |
+# | [ ] | Shakur Stevenson vs. Teofimo Lopez   | 01.31.2026 | DAZN PPV   |
+# | [ ] | Raymond Muratalla vs. Andy Cruz      | 01.24.2026 | DAZN       |
+# | [ ] | Dalton Smith vs. Subriel Matias      | 01.10.2026 | Y          |
+
+# | [ ] | Naoya Inoue vs. Junto Nakatani       | 05.02.2026 | DAZN  |
+# | [ ] | Naoya Inoue vs. Murodjon Akhmadaliev | 09.14.2025 | FB    |
+# | [ ] | Naoya Inoue vs. TJ Doheny            | 09.03.2024 | ESPN+ |
+# | [ ] | Naoya Inoue vs. Luis Nery            | 05.06.2024 | ESPN+ |
+
+# | [ ] | Rico Verhoeven vs. Gökhan Saki      | 10.12.2013 |
+# | [ ] | Rico Verhoeven vs. Peter Aerts      | 12.21.2013 |
+# | [ ] | Rico Verhoeven vs. Daniel Ghiță     | 06.21.2014 |
+# | [ ] | Rico Verhoeven vs. Errol Zimmerman  | 02.06.2015 |
+# | [ ] | Rico Verhoeven vs. Badr Hari        | 12.10.2016 |
+# | [ ] | Rico Verhoeven vs. Jamal Ben Saddik | 12.09.2017 |
+# | [ ] | Rico Verhoeven vs. Badr Hari        | 12.21.2019 |
+# | [ ] | Rico Verhoeven vs. Jamal Ben Saddik | 10.23.2021 |
+# | [ ] | Rico Verhoeven vs. Levi Rigters     | 12.07.2024 |
+# | [ ] | Rico Verhoeven vs. Artem Vakhitov   | 06.14.2025 |
+
+# | [ ] | Badr Hari vs. Stefan Leko      | 11.19.2005 |
+# | [ ] | Badr Hari vs. Peter Graham     | 03.05.2006 |
+# | [ ] | Badr Hari vs. Ruslan Karaev    | 03.04.2007 |
+# | [ ] | Badr Hari vs. Peter Graham     | 08.05.2007 |
+# | [ ] | Badr Hari vs. Remy Bonjasky    | 12.06.2008 |
+# | [ ] | Badr Hari vs. Alistair Overeem | 12.31.2008 |
+# | [ ] | Badr Hari vs. Semmy Schilt     | 05.16.2009 |
+# | [ ] | Badr Hari vs. Alistair Overeem | 12.05.2009 |
+# | [ ] | Badr Hari vs. Semmy Schilt     | 12.05.2009 |
+# | [ ] | Badr Hari vs. Hesdy Gerges     | 05.29.2010 |
+# | [ ] | Badr Hari vs. Gökhan Saki      | 01.28.2012 |
+# | [ ] | Badr Hari vs. Zabit Samedov    | 05.25.2013 |
+# | [ ] | Badr Hari vs. Rico Verhoeven   | 12.10.2016 |
+# | [ ] | Badr Hari vs. Rico Verhoeven   | 12.21.2019 |
+# | [ ] | Badr Hari vs. Alistair Overeem | 10.08.2022 |
+
+# | [X] | Alistair Overeem vs. Paul Hordijk   | 03.14.1999 | Thaiboxing Event in Veenendaal        |
+# | [X] | Alistair Overeem vs. Errol Parris   | 02.04.2001 | K-1 Holland GP 2001 in Arnhem         |
+# | [ ] | Alistair Overeem vs. Glaube Feitosa | 05.30.2004 | Kyokushin vs. K-1 2004 All Out Battle |
+# | [ ] | Alistair Overeem vs. Jürgen Dolch   | 05.20.2007 | Ultimate Glory 3: Upside Down         |
+# | [ ] | Alistair Overeem vs. Badr Hari      | 12.31.2008 | Dynamite!! 2008                       |
+# | [ ] | Alistair Overeem vs. Remy Bonjasky  | 03.28.2009 | K-1 World GP 2009 in Yokohama         |
+# | [ ] | Alistair Overeem vs. Peter Aerts    | 09.26.2009 | K-1 World Grand Prix 2009 Final 16    |
+# | [ ] | Alistair Overeem vs. E. Teixeira    | 12.05.2009 | K-1 World Grand Prix 2009 Final       |
+# | [ ] | Alistair Overeem vs. Badr Hari      | 12.05.2009 | K-1 World Grand Prix 2009 Final       |
+# | [ ] | Alistair Overeem vs. Dževad Poturak | 04.03.2010 | K-1 World Grand Prix 2010 in Yokohama |
+# | [ ] | Alistair Overeem vs. Ben Edwards    | 10.02.2010 | K-1 World Grand Prix 2010 Final 16    |
+# | [ ] | Alistair Overeem vs. Tyrone Spong   | 12.11.2010 | K-1 World Grand Prix 2010 Final       |
+# | [ ] | Alistair Overeem vs. Gökhan Saki    | 12.11.2010 | K-1 World Grand Prix 2010 Final       |
+# | [ ] | Alistair Overeem vs. Peter Aerts    | 12.11.2010 | K-1 World Grand Prix 2010 Final       |
+# | [ ] | Alistair Overeem vs. Badr Hari      | 10.08.2022 | Glory: Collision 4                    |
+
 # --- Future ---
-# 07.25.2026 Anthony Joshua vs. Kristian Prenga
-#
+# 11.21.2026 Anthony Joshua vs. Tyson Fury
+
 # --- Muay Thai ---
-# | Date       | Fighter               | Opponent                |
-# | ---------- | --------------------- | ----------------------- |
-# | 05.15.2026 | Superlek Kiatmoo9     | Abdulla Dayakaev        |
-# | 04.29.2026 | Rodtang Jitmuangnon   | Takeru Segawa           |
-# | 03.20.2026 | Nong-O Hama           | Asadula Imangazaliev    |
-# | 12.19.2025 | Tawanchai PK Saenchai | Liu Mengyang            |
-# | 11.15.2025 | Superlek Kiatmoo9     | Yuki Yoza               |
-# | 11.15.2025 | Superbon              | Masaaki Noiri           |
-# | 05.02.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
-# | 03.23.2025 | Superlek Kiatmoo9     | Nabil Anane             |
-# | 03.23.2025 | Tawanchai PK Saenchai | Masaaki Noiri           |
-# | 03.23.2025 | Rodtang Jitmuangnon   | Takeru Segawa           |
-# | 02.07.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
-# | 01.24.2025 | Tawanchai PK Saenchai | Superbon                |
-# | 01.24.2025 | Superbon              | Tawanchai PK Saenchai   |
-# | 11.08.2024 | Rodtang Jitmuangnon   | Jacob Smith             |
-# | 09.27.2024 | Superbon              | Jo Nattawut             |
-# | 09.27.2024 | Nong-O Hama           | Kiamran Nabati          |
-# | 09.06.2024 | Superlek Kiatmoo9     | Jonathan Haggerty       |
-# | 06.08.2024 | Tawanchai PK Saenchai | Jo Nattawut             |
-# | 06.08.2024 | Rodtang Jitmuangnon   | Denis Purić             |
-#
+# |     | Date       | Fighter               | Opponent                |
+# | --- | ---------- | --------------------- | ----------------------- |
+# | [ ] | 05.15.2026 | Superlek Kiatmoo9     | Abdulla Dayakaev        |
+# | [ ] | 04.29.2026 | Rodtang Jitmuangnon   | Takeru Segawa           |
+# | [ ] | 03.20.2026 | Nong-O Hama           | Asadula Imangazaliev    |
+# | [ ] | 12.19.2025 | Tawanchai PK Saenchai | Liu Mengyang            |
+# | [ ] | 11.15.2025 | Superlek Kiatmoo9     | Yuki Yoza               |
+# | [ ] | 11.15.2025 | Superbon              | Masaaki Noiri           |
+# | [ ] | 05.02.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
+# | [ ] | 03.23.2025 | Superlek Kiatmoo9     | Nabil Anane             |
+# | [ ] | 03.23.2025 | Tawanchai PK Saenchai | Masaaki Noiri           |
+# | [ ] | 03.23.2025 | Rodtang Jitmuangnon   | Takeru Segawa           |
+# | [ ] | 02.07.2025 | Nong-O Hama           | Kongthoranee Sor.Sommai |
+# | [ ] | 01.24.2025 | Tawanchai PK Saenchai | Superbon                |
+# | [ ] | 01.24.2025 | Superbon              | Tawanchai PK Saenchai   |
+# | [ ] | 11.08.2024 | Rodtang Jitmuangnon   | Jacob Smith             |
+# | [ ] | 09.27.2024 | Superbon              | Jo Nattawut             |
+# | [ ] | 09.27.2024 | Nong-O Hama           | Kiamran Nabati          |
+# | [ ] | 09.06.2024 | Superlek Kiatmoo9     | Jonathan Haggerty       |
+# | [ ] | 06.08.2024 | Tawanchai PK Saenchai | Jo Nattawut             |
+# | [ ] | 06.08.2024 | Rodtang Jitmuangnon   | Denis Purić             |
 #
 # UPDATE THE UFC FIGHT PASS INVITATIONAL
 # Cro cop vs Igor Vovchanchyn, Mark Hunt, Wanderlei Silva
@@ -886,7 +945,6 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 # mma fighter: Beneil Dariush
 # Pereira as kickboxer
 
-
 # ----------------------------------------------------------------------
 #                          CURRENT: 10.15.1994
 # ----------------------------------------------------------------------
@@ -894,27 +952,46 @@ fighter = 'Peter Aerts'      # 04.30.1994, K-1 until 2012
 #        Glory       : 05.26.2012
 #        Invicta     : 04.28.2012
 #        Strikeforce : 10.07.2006
+#        GSP         : 01.25.2002  UCC 7 + more
+#        Overeem     : 10.24.1999  It's Showtime + more
 #        WEC         : 06.30.2001  WEC 1: Prince of Pain
+#                ----- 1998  -----
 #        ADCC        :   .  .1998
+#        Pride       : 03.15.1998  Pride 2, Sakuraba!
+#                ----- 1997  -----
+#        UFC         : 12.21.1997  UFC Japan, Sakuraba!
+#        Cro Cop     : 12.13.1997  Kickboxing Tournament Prague 1997
+#        UFC         : 10.17.1997  UFC 15
 #        Pride       : 10.11.1997  Pride 1
-#        UFC         : 09.20.1996  UFC 11 + 1 more
-#        K-1         : 1996 Six Events
-#        Pancrase    : 1996 Truth 1-10 & Neo-Blood Tournament & Anniversary
+#        Mark Kerr   : 01.19.1997  World Vale Tudo 3, then all UFC & Pride
+#                ----- 1996  -----
+#        Pancrase    : 12.15.1996  Truth 10
+#        K-1         : 12.08.1996  Hercules '96
+#        Pancrase    : 11.09.1996  Truth 9
+#        Pancrase    : 10.22.1996  Truth 8
+#        K-1         : 10.18.1996  Star Wars '96
+#        Pancrase    : 10.08.1996  Truth 7
+#        Pancrase    : 09.07.1996  Anniversary Show
+#        K-1         : 09.01.1996  Revenge '96
+#        Pancrase    : 07.23.1996  Neo-Blood Round 2
+#        Pancrase    : 07.22.1996  Neo-Blood Round 1
+#        Pancrase    : 06.25.1996  Truth 6
+#        K-1         : 06.02.1996  Fight Night II
+#        Pancrase    : 05.16.1996  Truth 5
+#        K-1         : 05.06.1996  Grand Prix '96
+#        Pancrase    : 04.07.1996  Truth 4
+#        Pancrase    : 04.07.1996  Truth 3
+#        K-1         : 03.10.1996  Grand Prix '96 Opening Battle, Cro Cop!
+#        Pancrase    : 03.02.1996  Truth 2
+#        Pancrase    : 01.28.1996  Truth 1
 #                ----- 1995  -----
-#        Pancrase    : 12.14.1995 Eyes of Beast 7
-#        K-1         : 12.09.1995 Hercules
-#        Pancrase    : 11.04.1995 Eyes of Beast 6
-#        K-1         : 09.03.1995 Revenge II
-#        Pancrase    : 09.01.1995 Anniversary Show
-#        Pancrase    : 07.23.1995 Neo-Blood Tournament
-#        Pancrase    : 07.22.1995 Neo-Blood Tournament
-#        Pancrase    : 07.13.1995 Eyes of Beast 5
-#        K-1         : 06.10.1995 Fight Night
-#        K-1         : 05.04.1995 Grand Prix '95
-#        Pancrase    : 05.13.1995 Eyes of Beast 4
-#        Pancrase    : 04.08.1995 Eyes of Beast 3
-#        Pancrase    : 03.10.1995 Eyes of Beast 2
-#    *   K-1         : 03.03.1995 Grand Prix '95 Opening Battle
+#        Pancrase    : 12.14.1995  Eyes of Beast 7
+#        K-1         : 12.09.1995  Hercules
+#        Pancrase    : 11.04.1995  Eyes of Beast 6
+#        K-1         : 09.03.1995  Revenge II
+#        Pancrase    : 09.01.1995  Anniversary Show
+#    *   Pancrase    : 07.23.1995  Neo-Blood Tournament
+#    *   K-1         : 03.03.1995  Grand Prix '95 Opening Battle
 #
 #
 # ----------------------------------------------------------------------

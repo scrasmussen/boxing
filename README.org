@@ -78,15 +78,21 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 495 boxing matches
+: I have seen 501 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
+| Ryan Garcia vs. Conor Benn        | 09.13.2026 |                            |
+| Moses Itauma vs. Filip Hrgovic    | 08.29.2026 | *FOYC IBF Heavy*           |
 | Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
 | Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy, FOYC            |
 | Deontay Wilder vs. Derek Chisora  | 04.04.2026 | FOYC                       |
+| Umar Dzambekov vs. Ahmed Elbiali  | 02.15.2026 |                            |
+| Nick Ball vs. Brandon Figueroa    | 02.07.2026 | FOYC WBA feather           |
+| Raymond Muratalla vs. Andy Cruz   | 01.24.2026 |                            |
+| Subriel Matias vs. Dalton Smith   | 01.10.2026 | WBC super light            |
 | Naoya Inoue vs. David Picasso     | 12.25.2025 | *Undisputed super bantam*  |
 | Junto Nakatani vs Sebastion Reyes | 12.25.2025 |                            |
 | Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
@@ -630,7 +636,7 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 244 fight cards and 69 additional fights
+: I have seen 244 fight cards and 71 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
@@ -889,6 +895,8 @@ Sherrif jumps into the ring and stops the fight
 | *Fighters*                           |     *Date* | *Event*                 |
 |--------------------------------------+------------+-------------------------|
 | Umar Nurmagomedov vs. Song Yadong    | 08.29.2026 | UFC Fight Night 286     |
+| Loma Lookboonmee vs. JaquelineAmorim | 05.30.2026 | UFC Fight Night 277     |
+| Loma Lookboonmee vs. Alexia Thainara | 09.27.2025 | UFC Fight Night 260     |
 | Loma Lookboonmee vs. Istela Nunes    | 04.05.2025 | UFS on ESPN 65          |
 | Francis Ngannou vs. Renan Ferreira   | 10.18.2024 | PFL Super Fights        |
 | Savannah Marshall vs. Mirela Vargas  | 06.08.2024 | PFL Europe 2            |
