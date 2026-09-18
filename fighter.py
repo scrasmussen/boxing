@@ -97,7 +97,7 @@ class Fighter:
             return name[:-3] + "(boxer)"
         return name
 
-    def obtain_file(self, url, url_file, system):
+    def obtain_file(self, url, url_file, system_os, debug=False):
         get_file = False
         day_s = 24*60*60
 
@@ -113,7 +113,7 @@ class Fighter:
             if (system_os == 'Darwin'):
                 subprocess.run(["curl", "-L", url, "-o", url_file], check=True)
             elif (system_os == 'Linux'):
-                subprocess.run(["wget -O", url_file, url], check=True)
+                subprocess.run(["wget", "--no-use-server-timestamps", "-O", str(url_file), url], check=True)
             else:
                 sys.exit(f'{system_os} is unsupport OS')
 
@@ -126,11 +126,11 @@ class Fighter:
         url = getUrl(name.replace(' ', '_'), debug)
         url_file = Path('pages/'+ url.rstrip("/").split("/")[-1])
         if (debug):
-            print(system())
-            print(url)
-            print(url_file)
+            print('system   |', system())
+            print('url      |', url)
+            print('url_file |',url_file)
 
-        self.obtain_file(url, url_file, system)
+        self.obtain_file(url, url_file, system_os, debug)
         with open(url_file, "r", encoding="utf-8") as f:
             soup = BeautifulSoup(f, "html.parser")
 
