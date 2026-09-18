@@ -78,7 +78,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 501 boxing matches
+: I have seen 505 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -87,8 +87,12 @@ Note: -1 for the header and -1 for the canceled event
 | Ryan Garcia vs. Conor Benn        | 09.13.2026 |                            |
 | Moses Itauma vs. Filip Hrgovic    | 08.29.2026 | *FOYC IBF Heavy*           |
 | Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
+| Fabio Wardley vs. Daniel Dubois   | 05.09.2026 | *FOY*, WBO heavy           |
+| David Benavidez vs. Zurdo Ramirez | 05.02.2026 |                            |
+| Conah Walker vs. Sam Eggington    | 05.02.2026 | FOYC                       |
 | Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy, FOYC            |
 | Deontay Wilder vs. Derek Chisora  | 04.04.2026 | FOYC                       |
+| Najee Lopez vs. Manuel Gallegos   | 03.13.2026 |                            |
 | Umar Dzambekov vs. Ahmed Elbiali  | 02.15.2026 |                            |
 | Nick Ball vs. Brandon Figueroa    | 02.07.2026 | FOYC WBA feather           |
 | Raymond Muratalla vs. Andy Cruz   | 01.24.2026 |                            |
@@ -1016,7 +1020,7 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 6 kickboxing events and 19 matches
+: I have seen 6 kickboxing events and 20 matches
 
 ** Events
 #+NAME:kickboxingEvents
@@ -1040,13 +1044,14 @@ look for Roy Nelson's uppercut to counter the dipping jab
 | Thongpoon vs. Yangdam          | 06.23.2023 | ONE Lumpinee 22              |
 | Yuki Yoza vs. Taio Asahisa     | 03.12.2023 | K-1 World GP 2023            |
 | Badr Hari vs. Alistair Overeem | 10.08.2022 | Glory: Collision 4           |
-| Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[06.31.2021.kb][ff.]] |
+| Alexandru Lungu vs. F. Martiis | 06.31.2021 | Funny Heavyweight Match! [[Alexandru Lungu vs. Franco De Martiis 06.31.2021][ff.]] |
 | Badr Hari vs. Rico Verhoeven   | 12.21.2019 | Glory: Collision II          |
 | Badr Hari vs. Rico Verhoeven   | 12.10.2016 | Glory: Collision             |
 | Rico Verhoeven vs. S. Schilt   | 12.31.2012 | Glory 4: Tokyo, Semmy        |
 | R. Verhoeven vs. E. Zimmerman  | 01.28.2012 | Leeuwarden, Rico, Errol      |
 | Alistair Overeem vs. E. Parris | 02.04.2001 | K-1 Holland GP 2001, Errol   |
 | Alistair Overeem vs. P Hordijk | 03.14.1999 | Event in Veenendaal, Paul    |
+| S. Longinidis  vs. N. Kakuada  | 09.03.1995 | Stan, Nobuaki [[Stan Longinidis vs. Nobuaki Kakuda 09.03.1995][ff.]]            |
 | Andy Hug vs. Branko Cikatic    | 03.04.1994 | K-1 Challenge                |
 | Ernesto Hoost vs. M. Satake    | 03.04.1994 | Masaaki, K-1 Challenge       |
 | E. Hoost vs C. Kiatsongrit     | 12.19.1993 | Ernesto, Changpuek           |
@@ -1057,11 +1062,12 @@ look for Roy Nelson's uppercut to counter the dipping jab
 |--------------------------------+------------+------------------------------|
 
 *** Notes
-**** Alexandru Lungu vs. Franco De Martiis <06.31.2021.kb>
+**** Alexandru Lungu vs. Franco De Martiis 06.31.2021
 Hilarious heavyweight match, Martiis running around huge-slow Lungu
-2 minutes into round 2 Lungu falls on Martiis and his face when he gets off!
-
-
+2 minutes into round 2 Lungu falls on Martiis, his belly smothers Martiis
+Martiis' face when he gets off :D ref help him up, never seen that before!
+**** Stan Longinidis vs. Nobuaki Kakuda 09.03.1995
+leg kick ko, vicious kicks but takes pity when he goes down, hugs him
 * Grappling
 #+RESULTS: grappling-report
 : I have seen 14 grappling events and 1 matches
