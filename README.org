@@ -78,7 +78,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 505 boxing matches
+: I have seen 506 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -89,6 +89,7 @@ Note: -1 for the header and -1 for the canceled event
 | Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
 | Fabio Wardley vs. Daniel Dubois   | 05.09.2026 | *FOY*, WBO heavy           |
 | David Benavidez vs. Zurdo Ramirez | 05.02.2026 |                            |
+| Jorge Chavez vs. Jose Sanchez     | 05.02.2026 |                            |
 | Conah Walker vs. Sam Eggington    | 05.02.2026 | FOYC                       |
 | Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy, FOYC            |
 | Deontay Wilder vs. Derek Chisora  | 04.04.2026 | FOYC                       |
@@ -640,7 +641,7 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 244 fight cards and 71 additional fights
+: I have seen 245 fight cards and 71 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
@@ -866,6 +867,7 @@ Sherrif jumps into the ring and stops the fight
 | UFC 7.5                  | 12.16.1995 | The Ultimate Ultimate         |
 | UFC 7                    | 09.08.1995 | The Brawl in Buffalo          |
 | UFC 6                    | 07.14.1995 | Clash of the Titans           |
+| Pancrase                 | 07.23.1995 | Neo-Blood Tournament: Second  |
 | Pancrase                 | 07.22.1995 | Neo-Blood Tournament: Opening |
 | Pancrase                 | 07.13.1995 | Eyes of Beast 5               |
 | Pancrase                 | 05.13.1995 | Eyes of Beast 4 [[05.13.1995][ff.]]           |
