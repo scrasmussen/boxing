@@ -78,15 +78,17 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 506 boxing matches
+: I have seen 510 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
 | *Fighters*                        |     *Date* | *[[Notes][Notes]]*                    |
 |-----------------------------------+------------+----------------------------|
 | Ryan Garcia vs. Conor Benn        | 09.13.2026 |                            |
+| Dave Allen vs. Thomas Carty       | 09.05.2026 | fell out of ring           |
 | Moses Itauma vs. Filip Hrgovic    | 08.29.2026 | *FOYC IBF Heavy*           |
 | Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
+| Dave Allen vs. Filip Hrgovic      | 05.16.2026 |                            |
 | Fabio Wardley vs. Daniel Dubois   | 05.09.2026 | *FOY*, WBO heavy           |
 | David Benavidez vs. Zurdo Ramirez | 05.02.2026 |                            |
 | Jorge Chavez vs. Jose Sanchez     | 05.02.2026 |                            |
@@ -94,6 +96,7 @@ Note: -1 for the header and -1 for the canceled event
 | Oleksandr Usyk vs. Rico Verhoeven | 04.23.2026 | WBC heavy, FOYC            |
 | Deontay Wilder vs. Derek Chisora  | 04.04.2026 | FOYC                       |
 | Najee Lopez vs. Manuel Gallegos   | 03.13.2026 |                            |
+| Dave Allen vs. Karim Berredjem    | 02.21.2026 |                            |
 | Umar Dzambekov vs. Ahmed Elbiali  | 02.15.2026 |                            |
 | Nick Ball vs. Brandon Figueroa    | 02.07.2026 | FOYC WBA feather           |
 | Raymond Muratalla vs. Andy Cruz   | 01.24.2026 |                            |
@@ -103,6 +106,7 @@ Note: -1 for the header and -1 for the canceled event
 | Anthony Joshua vs. Jake Paul      | 12.19.2025 |                            |
 | Kubrat Pulev vs. Murat Gassiev    | 12.12.2025 |                            |
 | Joseph Parker vs. Fabio Wardley   | 10.25.2025 | FOYC                       |
+| Dave Allen vs. A. Makhmudov       | 10.11.2025 | Arslanbek                  |
 | C. Alvarez vs. Terence Crawford   | 09.13.2025 | Canelo *Undisputed s. mid* |
 | Callum Walsh vs. F. Vargas Jr     | 09.13.2025 | Fernando                   |
 | Christian M'billi vs. L. Martinez | 09.13.2025 | Lester, FOYC               |
