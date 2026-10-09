@@ -78,7 +78,7 @@ Note: -1 for the header and -1 for the canceled event
 
 * Boxing Matches
 #+RESULTS: boxing-matches-seen
-: I have seen 510 boxing matches
+: I have seen 511 boxing matches
 
 #+NAME:boxingMatches
 |-----------------------------------+------------+----------------------------|
@@ -567,6 +567,7 @@ Note: -1 for the header and -1 for the canceled event
 | Vitali Klitschko vs. Tony Bradham | 11.16.1996 |                            |
 | Wladimir Klitschko vs. F. Meza    | 11.16.1996 | Fabian                     |
 | Floyd Mayweather vs. R. Apodaca   | 10.11.1996 | Roberto                    |
+| James Toney vs. Roy Jones Jr.     | 11.18.1994 | IBF super-mid              |
 | Lennox Lewis vs. Oliver McCall    | 09.24.1994 |                            |
 | Oscar De La Hoya vs. P. Alexander | 01.03.1993 | Paris                      |
 | Oscar De La Hoya vs. C. Hicks     | 12.12.1992 | Clifford                   |
@@ -645,12 +646,15 @@ Sherrif jumps into the ring and stops the fight
 * MMA Events
 [[Individual Fights][Individual fights]]
 #+RESULTS: mma-events-seen
-: I have seen 245 fight cards and 71 additional fights
+: I have seen 249 fight cards and 71 additional fights
 
 #+NAME:mmaEvents
 |--------------------------+------------+-------------------------------|
 | *Event*                  |     *Date* | *Notes*                       |
 |--------------------------+------------+-------------------------------|
+| UFC 331                  | 09.19.2026 | Van vs. Pantoja II            |
+| UFC 331: Prelims         | 09.19.2026 | Van vs. Pantoja II            |
+| UFC 331: Early Prelims   | 09.19.2026 | Van vs. Pantoja II            |
 | UFC Fight Night 287      | 09.05.2026 | Hooker vs. Parnasse           |
 | UFC 330                  | 08.15.2026 | Makhachev vs. Machado Gary    |
 | UFC 329                  | 07.11.2026 | McGregor vs. Holloway II      |
@@ -870,9 +874,10 @@ Sherrif jumps into the ring and stops the fight
 | UFC 8                    | 04.16.1996 | David vs. Goliath             |
 | UFC 7.5                  | 12.16.1995 | The Ultimate Ultimate         |
 | UFC 7                    | 09.08.1995 | The Brawl in Buffalo          |
-| UFC 6                    | 07.14.1995 | Clash of the Titans           |
+| Pancrase                 | 09.01.1995 | Anniversary Show              |
 | Pancrase                 | 07.23.1995 | Neo-Blood Tournament: Second  |
 | Pancrase                 | 07.22.1995 | Neo-Blood Tournament: Opening |
+| UFC 6                    | 07.14.1995 | Clash of the Titans           |
 | Pancrase                 | 07.13.1995 | Eyes of Beast 5               |
 | Pancrase                 | 05.13.1995 | Eyes of Beast 4 [[05.13.1995][ff.]]           |
 | Pancrase                 | 04.08.1995 | Eyes of Beast 3               |
@@ -1026,13 +1031,14 @@ look for Roy Nelson's uppercut to counter the dipping jab
 
 * Kickboxing & Muay Thai
 #+RESULTS: kickboxing-report
-: I have seen 6 kickboxing events and 20 matches
+: I have seen 7 kickboxing events and 20 matches
 
 ** Events
 #+NAME:kickboxingEvents
 |--------------------+------------+-----------------------|
 | *Event*            |     *Date* | *Notes*               |
 |--------------------+------------+-----------------------|
+| K-1 Revenge II     | 09.03.1995 |                       |
 | K-1 Fight Night    | 06.10.1995 |                       |
 | K-1 Grand Prix '95 | 05.04.1995 |                       |
 | K-1 Legend         | 12.10.1994 |                       |
