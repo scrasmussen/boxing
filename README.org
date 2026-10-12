@@ -88,6 +88,7 @@ Note: -1 for the header and -1 for the canceled event
 | Dave Allen vs. Thomas Carty       | 09.05.2026 | fell out of ring           |
 | Moses Itauma vs. Filip Hrgovic    | 08.29.2026 | *FOYC IBF Heavy*           |
 | Anthony Joshua vs. K. Prenga      | 07.25.2026 | Kristian                   |
+| Murat Gassiev vs. Peter Kadiru    | 07.11.2026 |                            |
 | Dave Allen vs. Filip Hrgovic      | 05.16.2026 |                            |
 | Fabio Wardley vs. Daniel Dubois   | 05.09.2026 | *FOY*, WBO heavy           |
 | David Benavidez vs. Zurdo Ramirez | 05.02.2026 |                            |
